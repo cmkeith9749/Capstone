@@ -1,0 +1,74 @@
+date,home,away,neutral,gdf,draw,win,k,result
+2014-06-12,Brazil,Croatia,False,2,False,True,60,1.0
+2014-06-13,Chile,Australia,True,2,False,True,60,1.0
+2014-06-13,Mexico,Cameroon,True,1,False,True,60,1.0
+2014-06-13,Spain,Netherlands,True,4,False,False,60,0.0
+2014-06-14,Colombia,Greece,True,3,False,True,60,1.0
+2014-06-14,England,Italy,True,1,False,False,60,0.0
+2014-06-14,Ivory Coast,Japan,True,1,False,True,60,1.0
+2014-06-14,Uruguay,Costa Rica,True,2,False,False,60,0.0
+2014-06-15,Argentina,Bosnia-Herzegovina,True,1,False,True,60,1.0
+2014-06-15,France,Honduras,True,3,False,True,60,1.0
+2014-06-15,Switzerland,Ecuador,True,1,False,True,60,1.0
+2014-06-16,Germany,Portugal,True,4,False,True,60,1.0
+2014-06-16,Ghana,USA,True,1,False,False,60,0.0
+2014-06-16,Iran,Nigeria,True,0,True,False,60,0.5
+2014-06-17,Belgium,Algeria,True,1,False,True,60,1.0
+2014-06-17,Brazil,Mexico,False,0,True,False,60,0.5
+2014-06-17,Russia,Korea Republic,True,0,True,False,60,0.5
+2014-06-18,Australia,Netherlands,True,1,False,False,60,0.0
+2014-06-18,Cameroon,Croatia,True,4,False,False,60,0.0
+2014-06-18,China,Macedonia,False,2,False,True,20,1.0
+2014-06-18,Spain,Chile,True,2,False,False,60,0.0
+2014-06-19,Colombia,Ivory Coast,True,1,False,True,60,1.0
+2014-06-19,Japan,Greece,True,0,True,False,60,0.5
+2014-06-19,Uruguay,England,True,1,False,True,60,1.0
+2014-06-20,Honduras,Ecuador,True,1,False,False,60,0.0
+2014-06-20,Italy,Costa Rica,True,1,False,False,60,0.0
+2014-06-20,Switzerland,France,True,3,False,False,60,0.0
+2014-06-21,Argentina,Iran,True,1,False,True,60,1.0
+2014-06-21,Germany,Ghana,True,0,True,False,60,0.5
+2014-06-21,Indonesia,Pakistan,False,4,False,True,20,1.0
+2014-06-21,Nigeria,Bosnia-Herzegovina,True,1,False,True,60,1.0
+2014-06-22,Belgium,Russia,True,1,False,True,60,1.0
+2014-06-22,China,Macedonia,False,0,True,False,20,0.5
+2014-06-22,Korea Republic,Algeria,True,2,False,False,60,0.0
+2014-06-22,USA,Portugal,True,0,True,False,60,0.5
+2014-06-23,Australia,Spain,True,3,False,False,60,0.0
+2014-06-23,Brazil,Cameroon,False,3,False,True,60,1.0
+2014-06-23,Croatia,Mexico,True,2,False,False,60,0.0
+2014-06-23,Netherlands,Chile,True,2,False,True,60,1.0
+2014-06-24,Costa Rica,England,True,0,True,False,60,0.5
+2014-06-24,Greece,Ivory Coast,True,1,False,True,60,1.0
+2014-06-24,Italy,Uruguay,True,1,False,False,60,0.0
+2014-06-24,Japan,Colombia,True,3,False,False,60,0.0
+2014-06-25,Bosnia-Herzegovina,Iran,True,2,False,True,60,1.0
+2014-06-25,Ecuador,France,True,0,True,False,60,0.5
+2014-06-25,Honduras,Switzerland,True,3,False,False,60,0.0
+2014-06-25,Indonesia,Nepal,False,2,False,True,20,1.0
+2014-06-25,Nigeria,Argentina,True,1,False,False,60,0.0
+2014-06-26,Algeria,Russia,True,0,True,False,60,0.5
+2014-06-26,Korea Republic,Belgium,True,1,False,False,60,0.0
+2014-06-26,Portugal,Ghana,True,1,False,True,60,1.0
+2014-06-26,USA,Germany,True,1,False,False,60,0.0
+2014-06-28,Brazil,Chile,False,0,True,False,60,0.5
+2014-06-28,Colombia,Uruguay,True,2,False,True,60,1.0
+2014-06-29,China,Mali,False,2,False,False,20,0.0
+2014-06-29,Costa Rica,Greece,True,0,True,False,60,0.5
+2014-06-29,Netherlands,Mexico,True,1,False,True,60,1.0
+2014-06-30,France,Nigeria,True,2,False,True,60,1.0
+2014-06-30,Germany,Algeria,True,1,False,True,60,1.0
+2014-07-01,Argentina,Switzerland,True,1,False,True,60,1.0
+2014-07-01,Belgium,USA,True,1,False,True,60,1.0
+2014-07-02,Vietnam,Burma,False,6,False,True,20,1.0
+2014-07-04,Brazil,Colombia,False,1,False,True,60,1.0
+2014-07-04,France,Germany,True,1,False,False,60,0.0
+2014-07-05,Argentina,Belgium,True,1,False,True,60,1.0
+2014-07-05,Netherlands,Costa Rica,True,0,True,False,60,0.5
+2014-07-06,Malawi,Mozambique,False,0,True,False,20,0.5
+2014-07-08,Brazil,Germany,False,6,False,False,60,0.0
+2014-07-09,Netherlands,Argentina,True,0,True,False,60,0.5
+2014-07-11,Uganda,Seychelles,False,1,False,True,20,1.0
+2014-07-12,Brazil,Netherlands,False,3,False,False,60,0.0
+2014-07-12,Rwanda,Gabon,False,1,False,True,20,1.0
+2014-07-13,Germany,Argentina,True,1,False,True,60,1.0

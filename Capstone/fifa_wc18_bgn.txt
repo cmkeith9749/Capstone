@@ -1,0 +1,33 @@
+Brazil,1431
+Germany,1558
+Spain,1126
+France,1198
+Argentina,1241
+Portugal,1274
+England,1051
+Belgium,1298
+Colombia,986
+Peru,1125
+Uruguay,1018
+Switzerland,1199
+Denmark,1051
+Croatia,945
+Mexico,989
+Poland,1183
+Sweden,880
+Iran,708
+Serbia,751
+Iceland,908
+Senegal, 838
+Costa Rica,884
+Australia,718
+Morocco,686
+South Korea,544
+Japan,521
+Nigeria,618
+Russia,457
+Panama, 571
+Tunisia,910
+Egypt,649
+Saudi Arabia,465
+

@@ -1,0 +1,63 @@
+date,home,away,neutral,gdf,draw,win,k,result
+1982-06-13,Argentina,Belgium,True,1,False,False,60,0.0
+1982-06-13,Bahrain,India,True,0,True,False,30,0.5
+1982-06-13,Zimbabwe,Uganda,False,0,True,False,20,0.5
+1982-06-14,Brazil,Russia,True,1,False,True,60,1.0
+1982-06-14,Italy,Poland,True,0,True,False,60,0.5
+1982-06-15,Hungary,El Salvador,True,9,False,True,60,1.0
+1982-06-15,Norway,Denmark,False,1,False,True,30,1.0
+1982-06-15,Peru,Cameroon,True,0,True,False,60,0.5
+1982-06-15,Scotland,New Zealand,True,3,False,True,60,1.0
+1982-06-16,England,France,True,2,False,True,60,1.0
+1982-06-16,Germany,Algeria,True,1,False,False,60,0.0
+1982-06-16,Spain,Honduras,False,0,True,False,60,0.5
+1982-06-17,Chile,Austria,True,1,False,False,60,0.0
+1982-06-17,Czechoslovakia,Kuwait,True,0,True,False,60,0.5
+1982-06-17,Yugoslavia,Northern Ireland,True,0,True,False,60,0.5
+1982-06-18,Argentina,Hungary,True,3,False,True,60,1.0
+1982-06-18,Brazil,Scotland,True,3,False,True,60,1.0
+1982-06-18,Italy,Peru,True,0,True,False,60,0.5
+1982-06-19,Belgium,El Salvador,True,1,False,True,60,1.0
+1982-06-19,Poland,Cameroon,True,0,True,False,60,0.5
+1982-06-19,Russia,New Zealand,True,3,False,True,60,1.0
+1982-06-20,England,Czechoslovakia,True,2,False,True,60,1.0
+1982-06-20,Germany,Chile,True,3,False,True,60,1.0
+1982-06-20,Spain,Yugoslavia,False,1,False,True,60,1.0
+1982-06-21,Algeria,Austria,True,2,False,False,60,0.0
+1982-06-21,France,Kuwait,True,3,False,True,60,1.0
+1982-06-21,Honduras,Northern Ireland,True,0,True,False,60,0.5
+1982-06-22,Belgium,Hungary,True,0,True,False,60,0.5
+1982-06-22,Poland,Peru,True,4,False,True,60,1.0
+1982-06-22,Russia,Scotland,True,0,True,False,60,0.5
+1982-06-22,Tunisia,China,False,1,False,True,20,1.0
+1982-06-23,Argentina,El Salvador,True,2,False,True,60,1.0
+1982-06-23,Brazil,New Zealand,True,4,False,True,60,1.0
+1982-06-23,Italy,Cameroon,True,0,True,False,60,0.5
+1982-06-24,Algeria,Chile,True,1,False,True,60,1.0
+1982-06-24,France,Czechoslovakia,True,0,True,False,60,0.5
+1982-06-24,Honduras,Yugoslavia,True,1,False,False,60,0.0
+1982-06-25,England,Kuwait,True,1,False,True,60,1.0
+1982-06-25,Germany,Austria,True,1,False,True,60,1.0
+1982-06-25,Spain,Northern Ireland,False,1,False,False,60,0.0
+1982-06-26,Tunisia,China,False,1,False,False,20,0.0
+1982-06-27,Mozambique,Zimbabwe,False,0,True,False,20,0.5
+1982-06-27,Trinidad and Tobago,Suriname,False,1,False,False,20,0.0
+1982-06-28,Austria,France,True,1,False,False,60,0.0
+1982-06-28,Poland,Belgium,True,3,False,True,60,1.0
+1982-06-29,Germany,England,True,0,True,False,60,0.5
+1982-06-29,Italy,Argentina,True,1,False,True,60,1.0
+1982-07-01,Austria,Northern Ireland,True,0,True,False,60,0.5
+1982-07-01,Belgium,Russia,True,1,False,False,60,0.0
+1982-07-02,Argentina,Brazil,True,2,False,False,60,0.0
+1982-07-02,Spain,Germany,False,1,False,False,60,0.0
+1982-07-04,France,Northern Ireland,True,3,False,True,60,1.0
+1982-07-04,Poland,Russia,True,0,True,False,60,0.5
+1982-07-05,Italy,Brazil,True,1,False,True,60,1.0
+1982-07-05,Spain,England,False,0,True,False,60,0.5
+1982-07-06,Malawi,Tanzania,False,1,False,False,20,0.0
+1982-07-08,Germany,France,True,0,True,False,60,0.5
+1982-07-08,Malawi,Tanzania,False,2,False,True,20,1.0
+1982-07-08,Poland,Italy,True,2,False,False,60,0.0
+1982-07-10,Poland,France,True,1,False,True,60,1.0
+1982-07-11,Finland,Iceland,False,1,False,True,20,1.0
+1982-07-11,Italy,Germany,True,2,False,True,60,1.0

@@ -1,0 +1,44 @@
+date,home,away,neutral,gdf,draw,win,k,result
+1974-06-13,Brazil,Yugoslavia,True,0,True,False,60,0.5
+1974-06-14,Congo DR,Scotland,True,2,False,False,60,0.0
+1974-06-14,German DR,Australia,True,2,False,True,60,1.0
+1974-06-14,Germany,Chile,False,1,False,True,60,1.0
+1974-06-15,Italy,Haiti,True,2,False,True,60,1.0
+1974-06-15,Poland,Argentina,True,1,False,True,60,1.0
+1974-06-15,Sweden,Bulgaria,True,0,True,False,60,0.5
+1974-06-15,Uruguay,Netherlands,True,2,False,False,60,0.0
+1974-06-18,Chile,German DR,True,0,True,False,60,0.5
+1974-06-18,Germany,Australia,False,3,False,True,60,1.0
+1974-06-18,Scotland,Brazil,True,0,True,False,60,0.5
+1974-06-18,Yugoslavia,Congo DR,True,9,False,True,60,1.0
+1974-06-19,Argentina,Italy,True,0,True,False,60,0.5
+1974-06-19,Bulgaria,Uruguay,True,0,True,False,60,0.5
+1974-06-19,Haiti,Poland,True,7,False,False,60,0.0
+1974-06-19,Netherlands,Sweden,True,0,True,False,60,0.5
+1974-06-22,Australia,Chile,True,0,True,False,60,0.5
+1974-06-22,Congo DR,Brazil,True,3,False,False,60,0.0
+1974-06-22,Germany,German DR,False,1,False,False,60,0.0
+1974-06-22,Scotland,Yugoslavia,True,0,True,False,60,0.5
+1974-06-23,Argentina,Haiti,True,3,False,True,60,1.0
+1974-06-23,Bulgaria,Netherlands,True,3,False,False,60,0.0
+1974-06-23,Poland,Italy,True,1,False,True,60,1.0
+1974-06-23,Sweden,Uruguay,True,3,False,True,60,1.0
+1974-06-26,Brazil,German DR,True,1,False,True,60,1.0
+1974-06-26,Germany,Yugoslavia,False,2,False,True,60,1.0
+1974-06-26,Mali,Congo,False,0,True,False,20,0.5
+1974-06-26,Netherlands,Argentina,True,4,False,True,60,1.0
+1974-06-26,Sweden,Poland,True,1,False,False,60,0.0
+1974-06-30,Argentina,Brazil,True,1,False,False,60,0.0
+1974-06-30,German DR,Netherlands,True,2,False,False,60,0.0
+1974-06-30,Germany,Sweden,False,2,False,True,60,1.0
+1974-06-30,Poland,Yugoslavia,True,1,False,True,60,1.0
+1974-07-03,Argentina,German DR,True,0,True,False,60,0.5
+1974-07-03,Faroe Islands,Iceland,False,1,False,False,20,0.0
+1974-07-03,Germany,Poland,False,1,False,True,60,1.0
+1974-07-03,Netherlands,Brazil,True,2,False,True,60,1.0
+1974-07-03,Sweden,Yugoslavia,True,1,False,True,60,1.0
+1974-07-04,China,Togo,False,2,False,True,20,1.0
+1974-07-06,Brazil,Poland,True,1,False,False,60,0.0
+1974-07-06,Malawi,Ivory Coast,False,4,False,True,20,1.0
+1974-07-07,Germany,Netherlands,False,1,False,True,60,1.0
+1974-07-07,Malawi,Tanzania,False,1,False,True,20,1.0

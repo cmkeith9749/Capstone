@@ -1,0 +1,40 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+1970-05-31,Mexico,Russia,0,0,FIFA World Cup,Mexico City,Mexico,False
+1970-06-02,Bulgaria,Peru,2,3,FIFA World Cup,León,Mexico,True
+1970-06-02,England,Romania,1,0,FIFA World Cup,Guadalajara,Mexico,True
+1970-06-02,Israel,Uruguay,0,2,FIFA World Cup,Puebla,Mexico,True
+1970-06-03,Belgium,El Salvador,3,0,FIFA World Cup,Mexico City,Mexico,True
+1970-06-03,Brazil,Czechoslovakia,4,1,FIFA World Cup,Guadalajara,Mexico,True
+1970-06-03,Finland,Denmark,1,1,Nordic Championship,Helsinki,Finland,False
+1970-06-03,Germany,Morocco,2,1,FIFA World Cup,León,Mexico,True
+1970-06-03,Italy,Sweden,1,0,FIFA World Cup,Toluca,Mexico,True
+1970-06-06,Belgium,Russia,1,4,FIFA World Cup,Mexico City,Mexico,True
+1970-06-06,Czechoslovakia,Romania,1,2,FIFA World Cup,Guadalajara,Mexico,True
+1970-06-06,Italy,Uruguay,0,0,FIFA World Cup,Puebla,Mexico,True
+1970-06-06,Morocco,Peru,0,3,FIFA World Cup,León,Mexico,True
+1970-06-06,Uganda,Tanzania,1,1,Friendly,Kampala,Uganda,False
+1970-06-07,Brazil,England,1,0,FIFA World Cup,Guadalajara,Mexico,True
+1970-06-07,Bulgaria,Germany,2,5,FIFA World Cup,León,Mexico,True
+1970-06-07,Israel,Sweden,1,1,FIFA World Cup,Toluca,Mexico,True
+1970-06-07,Mexico,El Salvador,4,0,FIFA World Cup,Mexico City,Mexico,False
+1970-06-10,Brazil,Romania,3,2,FIFA World Cup,Guadalajara,Mexico,True
+1970-06-10,El Salvador,Russia,0,2,FIFA World Cup,Mexico City,Mexico,True
+1970-06-10,Germany,Peru,3,1,FIFA World Cup,León,Mexico,True
+1970-06-10,Sweden,Uruguay,1,0,FIFA World Cup,Puebla,Mexico,True
+1970-06-11,Bulgaria,Morocco,1,1,FIFA World Cup,León,Mexico,True
+1970-06-11,Czechoslovakia,England,0,1,FIFA World Cup,Guadalajara,Mexico,True
+1970-06-11,Israel,Italy,0,0,FIFA World Cup,Toluca,Mexico,True
+1970-06-11,Mexico,Belgium,1,0,FIFA World Cup,Mexico City,Mexico,False
+1970-06-13,Honduras,Panama,1,0,Friendly,El Progreso,Honduras,False
+1970-06-14,Brazil,Peru,4,2,FIFA World Cup,Guadalajara,Mexico,True
+1970-06-14,England,Germany,2,3,FIFA World Cup,León,Mexico,True
+1970-06-14,Mexico,Italy,1,4,FIFA World Cup,Toluca,Mexico,False
+1970-06-14,Russia,Uruguay,0,1,FIFA World Cup,Mexico City,Mexico,True
+1970-06-17,Brazil,Uruguay,3,1,FIFA World Cup,Guadalajara,Mexico,True
+1970-06-17,Germany,Italy,3,4,FIFA World Cup,Mexico City,Mexico,True
+1970-06-17,Norway,Finland,2,0,Nordic Championship,Bergen,Norway,False
+1970-06-20,Germany,Uruguay,1,0,FIFA World Cup,Mexico City,Mexico,True
+1970-06-20,Malaysia,Singapore,5,0,Indonesia Tournament,Jakarta,Indonesia,True
+1970-06-21,Brazil,Italy,4,1,FIFA World Cup,Mexico City,Mexico,True
+1970-06-21,Indonesia,Hong Kong,2,1,Indonesia Tournament,Jakarta,Indonesia,False
+1970-06-21,Korea Republic,Singapore,8,0,Indonesia Tournament,Jakarta,Indonesia,True

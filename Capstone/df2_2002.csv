@@ -1,0 +1,3481 @@
+date,home,away,neutral,gdf,draw,win,k,result
+2002-07-03,Estonia,Azerbaijan,False,0,True,False,20,0.5
+2002-07-05,New Zealand,Tahiti,False,4,False,True,30,1.0
+2002-07-05,Papua New Guinea,Solomon Islands,True,0,True,False,30,0.5
+2002-07-06,Australia,Vanuatu,True,2,False,True,30,1.0
+2002-07-06,British Virgin Islands,Anguilla,False,1,False,True,20,1.0
+2002-07-06,Fiji,New Caledonia,True,1,False,True,30,1.0
+2002-07-06,Grenada,St. Martin,False,5,False,True,40,1.0
+2002-07-06,Latvia,Azerbaijan,False,0,True,False,20,0.5
+2002-07-06,Zambia,Mozambique,False,3,False,True,30,1.0
+2002-07-07,Guadeloupe,Puerto Rico,False,4,False,True,40,1.0
+2002-07-07,Kazakhstan,Estonia,False,0,True,False,20,0.5
+2002-07-07,Malawi,Zimbabwe,False,1,False,True,20,1.0
+2002-07-07,New Zealand,Papua New Guinea,False,8,False,True,30,1.0
+2002-07-07,Solomon Islands,Tahiti,True,1,False,False,30,0.0
+2002-07-08,Australia,New Caledonia,True,11,False,True,30,1.0
+2002-07-08,Fiji,Vanuatu,True,1,False,False,30,0.0
+2002-07-08,Malawi,Zimbabwe,False,0,True,False,20,0.5
+2002-07-09,New Zealand,Solomon Islands,False,5,False,True,30,1.0
+2002-07-09,Papua New Guinea,Tahiti,True,2,False,False,30,0.0
+2002-07-10,Australia,Fiji,True,8,False,True,30,1.0
+2002-07-10,New Caledonia,Vanuatu,True,1,False,False,30,0.0
+2002-07-12,Australia,Tahiti,True,1,False,True,30,1.0
+2002-07-12,New Zealand,Vanuatu,False,3,False,True,30,1.0
+2002-07-14,British Virgin Islands,St. Lucia,False,2,False,False,40,0.0
+2002-07-14,New Zealand,Australia,False,1,False,True,30,1.0
+2002-07-14,Tahiti,Vanuatu,True,1,False,True,30,1.0
+2002-07-16,Malaysia,Singapore,False,1,False,False,20,0.0
+2002-07-19,Iraq,Syria,False,2,False,True,20,1.0
+2002-07-21,Puerto Rico,Guadeloupe,False,2,False,False,40,0.0
+2002-07-21,South Africa,Madagascar,False,0,True,False,30,0.5
+2002-07-22,Iraq,Syria,False,1,False,True,20,1.0
+2002-07-25,Barbados,Trinidad and Tobago,True,0,True,False,30,0.5
+2002-07-25,St. Kitts and Nevis,Taiwan,False,3,False,True,30,1.0
+2002-07-26,Ethiopia,Uganda,True,0,True,False,20,0.5
+2002-07-26,Sudan,Chad,False,2,False,True,20,1.0
+2002-07-27,St. Kitts and Nevis,Barbados,False,3,False,True,30,1.0
+2002-07-28,Aruba,Suriname,False,2,False,False,40,0.0
+2002-07-28,Chad,Ethiopia,True,1,False,True,20,1.0
+2002-07-28,Guyana,Curaçao,False,1,False,True,40,1.0
+2002-07-28,St. Kitts and Nevis,Trinidad and Tobago,False,1,False,True,30,1.0
+2002-07-28,St. Lucia,British Virgin Islands,False,7,False,True,40,1.0
+2002-07-28,Sudan,Uganda,False,1,False,True,20,1.0
+2002-07-30,Chad,Uganda,True,2,False,False,20,0.0
+2002-07-30,Grenada,Taiwan,False,3,False,True,20,1.0
+2002-07-30,Sudan,Ethiopia,False,3,False,True,20,1.0
+2002-08-01,Swaziland,Mauritius,False,1,False,False,20,0.0
+2002-08-02,Grenada,Jamaica,False,1,False,False,20,0.0
+2002-08-03,Kenya,Uganda,False,0,True,False,20,0.5
+2002-08-03,Swaziland,Mauritius,False,0,True,False,20,0.5
+2002-08-04,St. Martin,Grenada,False,6,False,False,40,0.0
+2002-08-08,Egypt,Ethiopia,False,3,False,True,20,1.0
+2002-08-10,Malawi,Zambia,False,1,False,True,30,1.0
+2002-08-11,Curaçao,Guyana,False,1,False,True,40,1.0
+2002-08-11,St. Lucia,Jamaica,False,2,False,False,20,0.0
+2002-08-11,Suriname,Aruba,False,6,False,True,40,1.0
+2002-08-16,Dominican Republic,Virgin Islands,False,5,False,True,40,1.0
+2002-08-17,Jordan,Kenya,False,0,True,False,20,0.5
+2002-08-18,Dominican Republic,Virgin Islands,False,4,False,True,40,1.0
+2002-08-19,Jordan,Sudan,False,0,True,False,20,0.5
+2002-08-20,Algeria,Congo DR,False,0,True,False,20,0.5
+2002-08-20,Egypt,Uganda,False,2,False,True,20,1.0
+2002-08-21,Azerbaijan,Uzbekistan,False,2,False,True,20,1.0
+2002-08-21,Bosnia-Herzegovina,Serbia,False,2,False,False,20,0.0
+2002-08-21,Brazil,Paraguay,False,1,False,False,20,0.0
+2002-08-21,Bulgaria,Germany,False,0,True,False,20,0.5
+2002-08-21,Croatia,Wales,False,0,True,False,20,0.5
+2002-08-21,Czech Republic,Slovakia,False,3,False,True,20,1.0
+2002-08-21,Estonia,Moldova,False,1,False,True,20,1.0
+2002-08-21,Faroe Islands,Liechtenstein,False,2,False,True,20,1.0
+2002-08-21,Finland,Ireland,False,3,False,False,20,0.0
+2002-08-21,Hungary,Spain,False,0,True,False,20,0.5
+2002-08-21,Iceland,Andorra,False,3,False,True,20,1.0
+2002-08-21,Italy,Slovenia,False,1,False,False,20,0.0
+2002-08-21,Latvia,Belarus,False,2,False,False,20,0.0
+2002-08-21,Lithuania,Israel,False,2,False,False,20,0.0
+2002-08-21,Luxembourg,Morocco,False,2,False,False,20,0.0
+2002-08-21,Macedonia,Malta,False,5,False,True,20,1.0
+2002-08-21,Mauritius,Réunion,False,0,True,False,20,0.5
+2002-08-21,Northern Ireland,Cyprus,False,0,True,False,20,0.5
+2002-08-21,Norway,Netherlands,False,1,False,False,20,0.0
+2002-08-21,Poland,Belgium,False,0,True,False,20,0.5
+2002-08-21,Romania,Greece,False,1,False,False,20,0.0
+2002-08-21,Russia,Sweden,False,0,True,False,20,0.5
+2002-08-21,Scotland,Denmark,False,1,False,False,20,0.0
+2002-08-21,Switzerland,Austria,False,1,False,True,20,1.0
+2002-08-21,Tunisia,France,False,0,True,False,20,0.5
+2002-08-21,Turkey,Georgia,False,3,False,True,20,1.0
+2002-08-21,Ukraine,Iran,False,1,False,False,20,0.0
+2002-08-21,Venezuela,Bolivia,False,2,False,True,20,1.0
+2002-08-23,Egypt,Sudan,False,3,False,True,20,1.0
+2002-08-24,Rwanda,Kenya,False,0,True,False,20,0.5
+2002-08-24,South Africa,Swaziland,False,3,False,True,30,1.0
+2002-08-25,Angola,Gabon,False,1,False,True,20,1.0
+2002-08-25,Gambia,Sierra Leone,False,1,False,True,20,1.0
+2002-08-26,Botswana,Lesotho,False,1,False,False,20,0.0
+2002-08-26,Congo,Congo DR,False,2,False,False,20,0.0
+2002-08-27,Egypt,Libya,False,1,False,False,20,0.0
+2002-08-29,India,Jamaica,True,3,False,False,20,0.0
+2002-08-30,Jordan,Iran,True,1,False,True,30,1.0
+2002-08-30,Syria,Palestine,False,1,False,True,30,1.0
+2002-08-30,Zimbabwe,Lesotho,False,2,False,True,20,1.0
+2002-08-31,Uganda,Zambia,False,0,True,False,20,0.5
+2002-09-01,Congo,Gabon,False,0,True,False,20,0.5
+2002-09-01,Gambia,Guinea,False,1,False,True,20,1.0
+2002-09-01,India,Jamaica,True,0,True,False,20,0.5
+2002-09-01,Lebanon,Jordan,True,1,False,False,30,0.0
+2002-09-01,Palestine,Iraq,True,2,False,False,30,0.0
+2002-09-02,Libya,Togo,False,4,False,True,20,1.0
+2002-09-02,Tanzania,Zanzibar,False,0,True,False,20,0.5
+2002-09-03,Iran,Lebanon,True,2,False,True,30,1.0
+2002-09-03,Syria,Iraq,False,1,False,False,30,0.0
+2002-09-05,Iraq,Iran,True,0,True,False,30,0.5
+2002-09-05,Luxembourg,Israel,False,5,False,False,20,0.0
+2002-09-05,Syria,Jordan,False,1,False,False,30,0.0
+2002-09-06,Czech Republic,Serbia,False,5,False,True,20,1.0
+2002-09-06,Mauritania,Cape Verde,False,2,False,False,40,0.0
+2002-09-07,Armenia,Ukraine,False,0,True,False,40,0.5
+2002-09-07,Austria,Moldova,False,2,False,True,40,1.0
+2002-09-07,Azerbaijan,Italy,False,2,False,False,40,0.0
+2002-09-07,Belgium,Bulgaria,False,2,False,False,40,0.0
+2002-09-07,Bosnia-Herzegovina,Romania,False,3,False,False,40,0.0
+2002-09-07,Botswana,Swaziland,False,0,True,False,40,0.5
+2002-09-07,Croatia,Estonia,False,0,True,False,40,0.5
+2002-09-07,Cyprus,France,False,1,False,False,40,0.0
+2002-09-07,England,Portugal,False,0,True,False,20,0.5
+2002-09-07,Faroe Islands,Scotland,False,0,True,False,40,0.5
+2002-09-07,Finland,Wales,False,2,False,False,40,0.0
+2002-09-07,Gabon,Morocco,False,1,False,False,40,0.0
+2002-09-07,Greece,Spain,False,2,False,False,40,0.0
+2002-09-07,Iceland,Hungary,False,2,False,False,20,0.0
+2002-09-07,Jordan,Iraq,True,1,False,False,30,0.0
+2002-09-07,Kenya,Togo,False,3,False,True,40,1.0
+2002-09-07,Korea Republic,Korea DPR,False,0,True,False,20,0.5
+2002-09-07,Latvia,Sweden,False,0,True,False,40,0.5
+2002-09-07,Lithuania,Germany,False,2,False,False,40,0.0
+2002-09-07,Namibia,Algeria,False,1,False,False,40,0.0
+2002-09-07,Netherlands,Belarus,False,3,False,True,40,1.0
+2002-09-07,Niger,Ethiopia,False,2,False,True,40,1.0
+2002-09-07,Norway,Denmark,False,0,True,False,40,0.5
+2002-09-07,Russia,Ireland,False,2,False,True,40,1.0
+2002-09-07,San Marino,Poland,False,2,False,False,40,0.0
+2002-09-07,Slovenia,Malta,False,3,False,True,40,1.0
+2002-09-07,Syria,Iran,False,0,True,False,30,0.5
+2002-09-07,Turkey,Slovakia,False,3,False,True,40,1.0
+2002-09-07,Uganda,Ghana,False,1,False,True,40,1.0
+2002-09-08,Angola,Nigeria,False,0,True,False,40,0.5
+2002-09-08,Benin,Tanzania,False,4,False,True,40,1.0
+2002-09-08,Congo,Burkina Faso,False,0,True,False,40,0.5
+2002-09-08,Equatorial Guinea,Sierra Leone,False,2,False,False,40,0.0
+2002-09-08,Guinea,Liberia,False,3,False,True,40,1.0
+2002-09-08,Ivory Coast,South Africa,False,0,True,False,40,0.5
+2002-09-08,Lesotho,Senegal,False,1,False,False,40,0.0
+2002-09-08,Libya,Congo DR,False,1,False,True,40,1.0
+2002-09-08,Liechtenstein,Macedonia,False,0,True,False,40,0.5
+2002-09-08,Seychelles,Eritrea,False,1,False,True,40,1.0
+2002-09-08,Sudan,Zambia,False,1,False,False,40,0.0
+2002-09-08,Switzerland,Georgia,False,3,False,True,40,1.0
+2002-09-08,Zimbabwe,Mali,False,1,False,True,40,1.0
+2002-09-09,Central African Republic,Mozambique,False,0,True,False,40,0.5
+2002-09-17,Iran,Morocco,False,0,True,False,20,0.5
+2002-09-18,Ivory Coast,Gambia,False,5,False,True,20,1.0
+2002-09-19,Iran,Paraguay,False,0,True,False,20,0.5
+2002-09-21,Malawi,South Africa,False,2,False,False,30,0.0
+2002-09-24,Algeria,Uganda,False,0,True,False,20,0.5
+2002-09-25,Oman,United Arab Emirates,False,1,False,True,20,1.0
+2002-09-26,Mauritius,Seychelles,False,1,False,True,20,1.0
+2002-09-28,South Africa,Malawi,False,1,False,True,30,1.0
+2002-09-28,Zimbabwe,Zambia,False,0,True,False,20,0.5
+2002-10-02,Mali,Mauritania,False,1,False,True,20,1.0
+2002-10-03,Morocco,Niger,False,5,False,True,20,1.0
+2002-10-05,Mali,Mauritania,False,2,False,True,20,1.0
+2002-10-06,Barbados,St. Lucia,False,1,False,True,20,1.0
+2002-10-06,Swaziland,Lesotho,False,0,True,False,20,0.5
+2002-10-08,Ghana,Lesotho,False,1,False,True,20,1.0
+2002-10-09,Martinique,St. Lucia,False,4,False,True,20,1.0
+2002-10-11,Algeria,Chad,False,3,False,True,40,1.0
+2002-10-11,Bosnia-Herzegovina,Germany,False,0,True,False,20,0.5
+2002-10-12,Albania,Switzerland,False,0,True,False,40,0.5
+2002-10-12,Andorra,Belgium,False,1,False,False,40,0.0
+2002-10-12,Belarus,Austria,False,2,False,False,40,0.0
+2002-10-12,Bulgaria,Croatia,False,2,False,True,40,1.0
+2002-10-12,Denmark,Luxembourg,False,2,False,True,40,1.0
+2002-10-12,Eritrea,Zimbabwe,False,1,False,False,40,0.0
+2002-10-12,Finland,Azerbaijan,False,3,False,True,40,1.0
+2002-10-12,France,Slovenia,False,5,False,True,40,1.0
+2002-10-12,Iceland,Scotland,False,2,False,False,40,0.0
+2002-10-12,Italy,Serbia,False,0,True,False,40,0.5
+2002-10-12,Lithuania,Faroe Islands,False,2,False,True,40,1.0
+2002-10-12,Macedonia,Turkey,False,1,False,False,40,0.0
+2002-10-12,Malawi,Angola,False,1,False,True,40,1.0
+2002-10-12,Malta,Israel,False,2,False,False,40,0.0
+2002-10-12,Mauritius,Madagascar,False,1,False,False,40,0.0
+2002-10-12,Moldova,Czech Republic,False,2,False,False,40,0.0
+2002-10-12,Poland,Latvia,False,1,False,False,40,0.0
+2002-10-12,Portugal,Tunisia,False,0,True,False,20,0.5
+2002-10-12,Romania,Norway,False,1,False,False,40,0.0
+2002-10-12,Senegal,Nigeria,False,0,True,False,20,0.5
+2002-10-12,Sierra Leone,Gabon,False,2,False,True,40,1.0
+2002-10-12,Slovakia,England,False,1,False,False,40,0.0
+2002-10-12,Spain,Northern Ireland,False,3,False,True,40,1.0
+2002-10-12,Sweden,Hungary,False,0,True,False,40,0.5
+2002-10-12,Tanzania,Sudan,False,1,False,False,40,0.0
+2002-10-12,Ukraine,Greece,False,2,False,True,40,1.0
+2002-10-12,Zambia,Benin,False,0,True,False,40,0.5
+2002-10-13,Congo DR,Botswana,False,2,False,True,40,1.0
+2002-10-13,Estonia,New Zealand,False,1,False,True,20,1.0
+2002-10-13,Ethiopia,Guinea,False,1,False,True,40,1.0
+2002-10-13,Ghana,Rwanda,False,2,False,True,40,1.0
+2002-10-13,Mali,Seychelles,False,3,False,True,40,1.0
+2002-10-13,Morocco,Equatorial Guinea,False,5,False,True,40,1.0
+2002-10-13,Mozambique,Congo,False,3,False,False,40,0.0
+2002-10-13,Swaziland,Libya,False,1,False,True,40,1.0
+2002-10-15,Scotland,Canada,False,2,False,True,20,1.0
+2002-10-16,Austria,Netherlands,False,3,False,False,40,0.0
+2002-10-16,Bulgaria,Andorra,False,1,False,True,40,1.0
+2002-10-16,Costa Rica,Ecuador,False,0,True,False,20,0.5
+2002-10-16,Czech Republic,Belarus,False,2,False,True,40,1.0
+2002-10-16,England,Macedonia,False,0,True,False,40,0.5
+2002-10-16,Estonia,Belgium,False,1,False,False,40,0.0
+2002-10-16,Germany,Faroe Islands,False,1,False,True,40,1.0
+2002-10-16,Greece,Armenia,False,2,False,True,40,1.0
+2002-10-16,Hungary,San Marino,False,3,False,True,40,1.0
+2002-10-16,Iceland,Lithuania,False,3,False,True,40,1.0
+2002-10-16,Ireland,Switzerland,False,1,False,False,40,0.0
+2002-10-16,Japan,Jamaica,False,0,True,False,20,0.5
+2002-10-16,Luxembourg,Romania,False,7,False,False,40,0.0
+2002-10-16,Malta,France,False,4,False,False,40,0.0
+2002-10-16,Northern Ireland,Ukraine,False,0,True,False,40,0.5
+2002-10-16,Norway,Bosnia-Herzegovina,False,2,False,True,40,1.0
+2002-10-16,Poland,New Zealand,False,2,False,True,20,1.0
+2002-10-16,Russia,Albania,False,3,False,True,40,1.0
+2002-10-16,Serbia,Finland,False,2,False,True,40,1.0
+2002-10-16,Spain,Paraguay,False,0,True,False,20,0.5
+2002-10-16,Sweden,Portugal,False,1,False,False,20,0.0
+2002-10-16,Turkey,Liechtenstein,False,5,False,True,40,1.0
+2002-10-16,Wales,Italy,False,1,False,True,40,1.0
+2002-10-17,French Guyana,Suriname,False,0,True,False,20,0.5
+2002-10-19,French Guyana,Suriname,False,1,False,False,20,0.0
+2002-10-19,Sierra Leone,Ghana,False,1,False,True,20,1.0
+2002-10-20,Venezuela,Ecuador,False,2,False,True,20,1.0
+2002-10-23,Kenya,South Africa,True,0,True,False,20,0.5
+2002-10-23,Tanzania,Uganda,False,2,False,False,20,0.0
+2002-10-26,Kenya,Uganda,True,0,True,False,20,0.5
+2002-10-26,Tanzania,South Africa,False,0,True,False,20,0.5
+2002-11-03,Martinique,St. Kitts and Nevis,False,1,False,True,20,1.0
+2002-11-06,St. Lucia,Martinique,False,2,False,False,20,0.0
+2002-11-08,St. Lucia,Antigua and Barbuda,False,1,False,True,20,1.0
+2002-11-09,Barbados,Jamaica,True,0,True,False,40,0.5
+2002-11-09,Grenada,Guadeloupe,False,1,False,False,40,0.0
+2002-11-10,Singapore,Indonesia,False,0,True,False,20,0.5
+2002-11-11,Grenada,Barbados,False,2,False,False,40,0.0
+2002-11-11,Jamaica,Guadeloupe,True,2,False,True,40,1.0
+2002-11-13,Barbados,Guadeloupe,True,1,False,False,40,0.0
+2002-11-13,Grenada,Jamaica,False,3,False,False,40,0.0
+2002-11-13,St. Kitts and Nevis,St. Lucia,True,1,False,True,40,1.0
+2002-11-15,Trinidad and Tobago,St. Kitts and Nevis,False,2,False,True,40,1.0
+2002-11-17,Cayman Islands,Nicaragua,False,1,False,False,20,0.0
+2002-11-17,Trinidad and Tobago,St. Lucia,False,1,False,False,40,0.0
+2002-11-17,USA,El Salvador,False,2,False,True,20,1.0
+2002-11-18,Haiti,Antigua and Barbuda,False,1,False,True,40,1.0
+2002-11-19,South Africa,Senegal,False,0,True,False,20,0.5
+2002-11-20,Antigua and Barbuda,Curaçao,True,0,True,False,40,0.5
+2002-11-20,Austria,Norway,False,1,False,False,20,0.0
+2002-11-20,Azerbaijan,Wales,False,2,False,False,40,0.0
+2002-11-20,Cyprus,Malta,False,1,False,True,40,1.0
+2002-11-20,Czech Republic,Sweden,False,0,True,False,20,0.5
+2002-11-20,Denmark,Poland,False,2,False,True,20,1.0
+2002-11-20,Ecuador,Costa Rica,False,0,True,False,20,0.5
+2002-11-20,Estonia,Iceland,False,2,False,True,20,1.0
+2002-11-20,France,Serbia,False,3,False,True,20,1.0
+2002-11-20,Germany,Netherlands,False,2,False,False,20,0.0
+2002-11-20,Greece,Ireland,False,0,True,False,20,0.5
+2002-11-20,Honduras,Colombia,False,1,False,True,20,1.0
+2002-11-20,Hungary,Moldova,False,0,True,False,20,0.5
+2002-11-20,Italy,Turkey,False,0,True,False,20,0.5
+2002-11-20,Japan,Argentina,False,2,False,False,20,0.0
+2002-11-20,Korea Republic,Brazil,False,1,False,False,20,0.0
+2002-11-20,Luxembourg,Cape Verde,False,0,True,False,20,0.5
+2002-11-20,Macedonia,Israel,False,1,False,False,20,0.0
+2002-11-20,Morocco,Mali,False,2,False,False,20,0.0
+2002-11-20,Nigeria,Jamaica,False,0,True,False,20,0.5
+2002-11-20,Portugal,Scotland,False,2,False,True,20,1.0
+2002-11-20,Qatar,Iraq,False,1,False,True,20,1.0
+2002-11-20,Romania,Croatia,False,1,False,False,20,0.0
+2002-11-20,San Marino,Latvia,False,1,False,False,40,0.0
+2002-11-20,Slovakia,Ukraine,False,0,True,False,20,0.5
+2002-11-20,Spain,Bulgaria,False,1,False,True,20,1.0
+2002-11-20,Tunisia,Egypt,False,0,True,False,20,0.5
+2002-11-20,Venezuela,Uruguay,False,1,False,True,20,1.0
+2002-11-22,Haiti,Curaçao,False,3,False,True,40,1.0
+2002-11-23,Bahrain,Iraq,True,0,True,False,20,0.5
+2002-11-23,Monaco,Vatican,True,0,True,False,20,0.5
+2002-11-25,Nigeria,Egypt,False,0,True,False,20,0.5
+2002-11-27,Cayman Islands,Cuba,False,5,False,False,40,0.0
+2002-11-27,Martinique,Dominican Republic,True,4,False,True,40,1.0
+2002-11-27,Sri Lanka,Vietnam,False,1,False,False,20,0.0
+2002-11-29,Cayman Islands,Dominican Republic,False,1,False,True,40,1.0
+2002-11-29,Jordan,Malaysia,True,1,False,True,20,1.0
+2002-11-29,Martinique,Cuba,True,1,False,False,40,0.0
+2002-11-29,Sri Lanka,Vietnam,False,0,True,False,20,0.5
+2002-11-30,Jordan,Singapore,True,2,False,True,20,1.0
+2002-11-30,Rwanda,Zanzibar,True,1,False,True,30,1.0
+2002-11-30,Tanzania,Kenya,False,1,False,True,30,1.0
+2002-12-01,Burundi,Eritrea,True,0,True,False,30,0.5
+2002-12-01,Cayman Islands,Martinique,False,3,False,False,40,0.0
+2002-12-01,Dominican Republic,Cuba,True,1,False,False,40,0.0
+2002-12-01,Somalia,Uganda,True,2,False,False,30,0.0
+2002-12-01,Sri Lanka,Vietnam,False,0,True,False,20,0.5
+2002-12-02,Ethiopia,Zanzibar,True,0,True,False,30,0.5
+2002-12-02,Tanzania,Sudan,False,0,True,False,30,0.5
+2002-12-03,Kenya,Burundi,True,0,True,False,30,0.5
+2002-12-03,Somalia,Rwanda,True,1,False,False,30,0.0
+2002-12-04,Eritrea,Sudan,True,1,False,True,30,1.0
+2002-12-04,Uganda,Ethiopia,True,3,False,True,30,1.0
+2002-12-05,Tanzania,Burundi,False,2,False,True,30,1.0
+2002-12-05,Zanzibar,Somalia,True,1,False,True,30,1.0
+2002-12-06,Kenya,Eritrea,True,3,False,True,30,1.0
+2002-12-06,Uganda,Rwanda,True,1,False,True,30,1.0
+2002-12-07,Bahrain,Jordan,False,3,False,False,30,0.0
+2002-12-07,China,Syria,True,2,False,True,30,1.0
+2002-12-07,Ethiopia,Somalia,True,1,False,False,30,0.0
+2002-12-07,Sudan,Burundi,True,1,False,True,30,1.0
+2002-12-08,Tanzania,Eritrea,False,0,True,False,30,0.5
+2002-12-08,Thailand,Vietnam,False,1,False,True,20,1.0
+2002-12-08,Zanzibar,Uganda,True,2,False,False,30,0.0
+2002-12-09,Bahrain,Syria,False,1,False,False,30,0.0
+2002-12-09,China,Jordan,True,0,True,False,30,0.5
+2002-12-09,Rwanda,Ethiopia,True,1,False,True,30,1.0
+2002-12-09,Sudan,Kenya,True,1,False,False,30,0.0
+2002-12-10,Chile,Palestine,False,2,False,True,20,1.0
+2002-12-11,Malaysia,Cambodia,False,5,False,True,20,1.0
+2002-12-11,Singapore,Philippines,False,2,False,True,20,1.0
+2002-12-11,Tanzania,Rwanda,False,3,False,True,30,1.0
+2002-12-12,Bahrain,China,False,0,True,False,30,0.5
+2002-12-12,Jordan,Syria,True,3,False,True,30,1.0
+2002-12-12,Uganda,Kenya,True,2,False,False,30,0.0
+2002-12-13,Saudi Arabia,Lebanon,False,0,True,False,20,0.5
+2002-12-14,Botswana,Zambia,False,1,False,True,20,1.0
+2002-12-14,Rwanda,Uganda,True,1,False,True,30,1.0
+2002-12-14,Tanzania,Kenya,False,1,False,False,30,0.0
+2002-12-15,Ghana,Nigeria,False,1,False,False,20,0.0
+2002-12-15,Indonesia,Burma,False,0,True,False,30,0.5
+2002-12-15,Vietnam,Cambodia,True,7,False,True,30,1.0
+2002-12-16,Palestine,Jordan,True,0,True,False,30,0.5
+2002-12-16,United Arab Emirates,Egypt,False,1,False,False,20,0.0
+2002-12-17,Indonesia,Cambodia,False,2,False,True,30,1.0
+2002-12-17,Philippines,Burma,True,5,False,False,30,0.0
+2002-12-17,Saudi Arabia,Bahrain,True,1,False,True,30,1.0
+2002-12-17,Yemen,Syria,True,4,False,False,30,0.0
+2002-12-18,Kuwait,Sudan,False,1,False,True,30,1.0
+2002-12-18,Singapore,Malaysia,False,4,False,False,30,0.0
+2002-12-18,Thailand,Laos,True,4,False,True,30,1.0
+2002-12-19,Bahrain,Syria,True,2,False,True,30,1.0
+2002-12-19,Burma,Cambodia,True,5,False,True,30,1.0
+2002-12-19,Saudi Arabia,Lebanon,True,1,False,True,30,1.0
+2002-12-19,Vietnam,Philippines,True,3,False,True,30,1.0
+2002-12-20,Jordan,Sudan,True,1,False,True,30,1.0
+2002-12-20,Singapore,Laos,False,1,False,True,30,1.0
+2002-12-20,Thailand,Malaysia,True,2,False,False,30,0.0
+2002-12-21,Bahrain,Yemen,True,2,False,True,30,1.0
+2002-12-21,Cambodia,Philippines,True,1,False,True,30,1.0
+2002-12-21,Indonesia,Vietnam,False,0,True,False,30,0.5
+2002-12-21,Syria,Lebanon,True,3,False,True,30,1.0
+2002-12-22,Egypt,Ghana,False,0,True,False,20,0.5
+2002-12-22,Malaysia,Laos,True,0,True,False,30,0.5
+2002-12-22,Singapore,Thailand,False,0,True,False,30,0.5
+2002-12-23,Burma,Vietnam,True,2,False,False,30,0.0
+2002-12-23,Indonesia,Philippines,False,12,False,True,30,1.0
+2002-12-23,Kuwait,Jordan,False,1,False,False,30,0.0
+2002-12-23,Sudan,Palestine,True,0,True,False,30,0.5
+2002-12-24,Lebanon,Yemen,True,2,False,True,30,1.0
+2002-12-24,Syria,Saudi Arabia,True,3,False,False,30,0.0
+2002-12-25,Kuwait,Palestine,False,0,True,False,30,0.5
+2002-12-26,Lebanon,Bahrain,True,0,True,False,30,0.5
+2002-12-26,Yemen,Saudi Arabia,True,0,True,False,30,0.5
+2002-12-27,Indonesia,Malaysia,False,1,False,True,30,1.0
+2002-12-27,Niger,Burkina Faso,False,0,True,False,20,0.5
+2002-12-27,Vietnam,Thailand,True,4,False,False,30,0.0
+2002-12-28,Jordan,Bahrain,True,1,False,False,30,0.0
+2002-12-29,Indonesia,Thailand,False,0,True,False,30,0.5
+2002-12-29,Niger,Mali,False,0,True,False,20,0.5
+2002-12-29,Vietnam,Malaysia,True,1,False,True,30,1.0
+2002-12-30,Saudi Arabia,Bahrain,True,1,False,True,30,1.0
+2003-01-10,India,Pakistan,True,1,False,False,30,0.0
+2003-01-10,Sri Lanka,Afghanistan,True,1,False,True,30,1.0
+2003-01-11,Bangladesh,Nepal,False,1,False,True,30,1.0
+2003-01-11,Maldives,Bhutan,True,6,False,True,30,1.0
+2003-01-12,Afghanistan,India,True,4,False,False,30,0.0
+2003-01-12,Barbados,Jamaica,False,1,False,True,20,1.0
+2003-01-12,Pakistan,Sri Lanka,True,1,False,True,30,1.0
+2003-01-13,Bangladesh,Maldives,False,1,False,True,30,1.0
+2003-01-13,Nepal,Bhutan,True,2,False,True,30,1.0
+2003-01-14,Afghanistan,Pakistan,True,1,False,False,30,0.0
+2003-01-14,India,Sri Lanka,True,0,True,False,30,0.5
+2003-01-15,Bangladesh,Bhutan,False,3,False,True,30,1.0
+2003-01-15,Nepal,Maldives,True,1,False,False,30,0.0
+2003-01-17,El Salvador,Guatemala,True,0,True,False,20,0.5
+2003-01-18,Bangladesh,India,False,1,False,True,30,1.0
+2003-01-18,Pakistan,Maldives,True,1,False,False,30,0.0
+2003-01-18,USA,Canada,False,4,False,True,20,1.0
+2003-01-19,El Salvador,Guatemala,True,0,True,False,20,0.5
+2003-01-20,Bangladesh,Maldives,False,0,True,False,30,0.5
+2003-01-20,Pakistan,India,True,1,False,False,30,0.0
+2003-01-25,Uganda,Algeria,False,1,False,False,20,0.0
+2003-01-26,Barbados,Finland,False,0,True,False,20,0.5
+2003-01-26,Ghana,Benin,False,3,False,True,20,1.0
+2003-01-26,United Arab Emirates,Norway,False,0,True,False,20,0.5
+2003-01-28,Oman,Norway,False,1,False,False,20,0.0
+2003-01-29,Cyprus,Greece,False,1,False,False,20,0.0
+2003-01-29,Trinidad and Tobago,Finland,False,1,False,False,20,0.0
+2003-01-31,Honduras,Argentina,False,2,False,False,20,0.0
+2003-02-04,Mexico,Argentina,True,1,False,False,20,0.0
+2003-02-04,Uruguay,Iran,True,0,True,False,30,0.5
+2003-02-08,USA,Argentina,False,1,False,False,20,0.0
+2003-02-09,Croatia,Macedonia,False,0,True,False,20,0.5
+2003-02-09,Ecuador,Estonia,False,1,False,True,20,1.0
+2003-02-09,Panama,El Salvador,False,1,False,False,30,0.0
+2003-02-11,Cameroon,Ivory Coast,True,3,False,False,20,0.0
+2003-02-11,Costa Rica,El Salvador,True,1,False,True,30,1.0
+2003-02-11,Honduras,Nicaragua,True,2,False,True,30,1.0
+2003-02-12,Albania,Vietnam,True,5,False,True,20,1.0
+2003-02-12,Algeria,Belgium,False,2,False,False,20,0.0
+2003-02-12,Barbados,Martinique,False,0,True,False,20,0.5
+2003-02-12,Bulgaria,Hungary,True,1,False,True,20,1.0
+2003-02-12,China,Brazil,False,0,True,False,20,0.5
+2003-02-12,Croatia,Poland,False,0,True,False,20,0.5
+2003-02-12,Cyprus,Russia,False,1,False,False,30,0.0
+2003-02-12,Ecuador,Estonia,False,1,False,True,20,1.0
+2003-02-12,Egypt,Denmark,False,3,False,False,20,0.0
+2003-02-12,England,Australia,False,2,False,False,20,0.0
+2003-02-12,France,Czech Republic,False,2,False,False,20,0.0
+2003-02-12,Georgia,Moldova,False,0,True,False,20,0.5
+2003-02-12,Greece,Norway,False,1,False,True,20,1.0
+2003-02-12,Guinea,Mali,True,1,False,False,20,0.0
+2003-02-12,Israel,Armenia,False,2,False,True,20,1.0
+2003-02-12,Italy,Portugal,False,1,False,True,20,1.0
+2003-02-12,Jamaica,USA,False,1,False,False,20,0.0
+2003-02-12,Latvia,Lithuania,True,1,False,True,20,1.0
+2003-02-12,Libya,Canada,False,2,False,False,20,0.0
+2003-02-12,Malta,Kazakhstan,False,0,True,False,20,0.5
+2003-02-12,Mexico,Colombia,True,0,True,False,20,0.5
+2003-02-12,Morocco,Senegal,True,1,False,True,20,1.0
+2003-02-12,Netherlands,Argentina,False,1,False,True,20,1.0
+2003-02-12,Northern Ireland,Finland,False,1,False,False,20,0.0
+2003-02-12,Romania,Slovakia,True,1,False,True,30,1.0
+2003-02-12,Scotland,Ireland,False,2,False,False,20,0.0
+2003-02-12,Serbia,Azerbaijan,True,0,True,False,40,0.5
+2003-02-12,Slovenia,Switzerland,False,4,False,False,20,0.0
+2003-02-12,Spain,Germany,False,2,False,True,20,1.0
+2003-02-12,Tunisia,Sweden,False,1,False,True,20,1.0
+2003-02-12,Turkey,Ukraine,False,0,True,False,20,0.5
+2003-02-12,Wales,Bosnia-Herzegovina,False,0,True,False,20,0.5
+2003-02-13,Costa Rica,Guatemala,True,0,True,False,30,0.5
+2003-02-13,Cyprus,Slovakia,False,2,False,False,30,0.0
+2003-02-13,El Salvador,Nicaragua,True,3,False,True,30,1.0
+2003-02-14,Macedonia,Poland,True,3,False,False,20,0.0
+2003-02-15,Benin,Ghana,False,1,False,True,20,1.0
+2003-02-15,Costa Rica,Nicaragua,True,1,False,True,30,1.0
+2003-02-15,Honduras,El Salvador,True,1,False,False,30,0.0
+2003-02-16,China,Estonia,False,1,False,True,20,1.0
+2003-02-16,Gambia,Nigeria,False,1,False,False,20,0.0
+2003-02-16,Panama,Guatemala,False,2,False,True,30,1.0
+2003-02-16,Qatar,Sweden,True,1,False,False,30,0.0
+2003-02-16,Thailand,Korea DPR,False,0,True,False,30,0.5
+2003-02-18,Guatemala,Nicaragua,True,5,False,True,30,1.0
+2003-02-18,Korea DPR,Sweden,True,0,True,False,30,0.5
+2003-02-18,Panama,Honduras,False,0,True,False,30,0.5
+2003-02-18,Thailand,Qatar,False,0,True,False,30,0.5
+2003-02-20,Costa Rica,Honduras,True,1,False,True,30,1.0
+2003-02-20,El Salvador,Guatemala,True,2,False,False,30,0.0
+2003-02-20,Korea DPR,Qatar,True,0,True,False,30,0.5
+2003-02-20,Thailand,Sweden,False,3,False,False,30,0.0
+2003-02-21,Panama,Nicaragua,False,1,False,False,30,0.0
+2003-02-22,Hong Kong,Taiwan,False,2,False,True,30,1.0
+2003-02-22,Korea DPR,Sweden,True,4,False,False,30,0.0
+2003-02-22,Macau,Mongolia,True,2,False,True,30,1.0
+2003-02-22,Madagascar,Mauritius,False,1,False,True,30,1.0
+2003-02-22,Malawi,Congo DR,False,0,True,False,20,0.5
+2003-02-22,Thailand,Qatar,False,2,False,True,30,1.0
+2003-02-23,Guatemala,Honduras,True,1,False,True,30,1.0
+2003-02-23,Malawi,Congo DR,False,1,False,False,20,0.0
+2003-02-23,Panama,Costa Rica,False,1,False,False,30,0.0
+2003-02-23,Peru,Haiti,False,4,False,True,20,1.0
+2003-02-24,Hong Kong,Macau,False,3,False,True,30,1.0
+2003-02-24,Mongolia,Guam,True,2,False,True,30,1.0
+2003-02-26,Guam,Macau,True,2,False,False,30,0.0
+2003-02-28,Guam,Taiwan,True,7,False,False,30,0.0
+2003-02-28,Hong Kong,Mongolia,False,10,False,True,30,1.0
+2003-03-02,Hong Kong,Guam,False,11,False,True,30,1.0
+2003-03-02,Macau,Taiwan,True,1,False,False,30,0.0
+2003-03-04,Singapore,Maldives,False,3,False,True,20,1.0
+2003-03-04,Sudan,Congo DR,False,2,False,False,20,0.0
+2003-03-05,Israel,Moldova,False,0,True,False,20,0.5
+2003-03-07,Benin,Niger,False,0,True,False,20,0.5
+2003-03-09,Botswana,Lesotho,False,1,False,False,20,0.0
+2003-03-09,Congo DR,Congo,False,3,False,True,20,1.0
+2003-03-11,Cuba,Jamaica,False,0,True,False,20,0.5
+2003-03-12,Tanzania,Uganda,False,0,True,False,20,0.5
+2003-03-13,Cuba,Jamaica,False,1,False,True,20,1.0
+2003-03-14,Martinique,French Guyana,False,1,False,True,20,1.0
+2003-03-15,Guadeloupe,French Guyana,True,0,True,False,20,0.5
+2003-03-15,Kenya,Uganda,False,0,True,False,20,0.5
+2003-03-15,Rwanda,Burundi,False,2,False,True,20,1.0
+2003-03-16,Kyrgyzstan,Afghanistan,True,1,False,False,40,0.0
+2003-03-16,Lesotho,Congo DR,False,0,True,False,20,0.5
+2003-03-16,Zimbabwe,Malawi,False,0,True,False,20,0.5
+2003-03-18,Nepal,Afghanistan,False,4,False,True,40,1.0
+2003-03-19,Egypt,Qatar,False,6,False,True,20,1.0
+2003-03-19,Mexico,Bolivia,True,2,False,True,20,1.0
+2003-03-19,Swaziland,Lesotho,False,1,False,True,20,1.0
+2003-03-20,Nepal,Kyrgyzstan,False,2,False,False,40,0.0
+2003-03-21,Macau,Pakistan,True,3,False,False,40,0.0
+2003-03-21,Maldives,Brunei,False,0,True,False,40,0.5
+2003-03-21,Sri Lanka,East Timor,False,1,False,True,40,1.0
+2003-03-22,Mozambique,Lesotho,False,0,True,False,30,0.5
+2003-03-22,Rwanda,Zambia,False,0,True,False,20,0.5
+2003-03-23,Benin,Equatorial Guinea,False,1,False,True,20,1.0
+2003-03-23,Burma,Brunei,True,5,False,True,40,1.0
+2003-03-23,Jamaica,Barbados,False,1,False,True,20,1.0
+2003-03-23,Kenya,Tanzania,False,4,False,True,20,1.0
+2003-03-23,Singapore,Macau,False,2,False,True,40,1.0
+2003-03-24,Korea DPR,India,False,2,False,True,40,1.0
+2003-03-24,Rwanda,Zambia,False,3,False,False,20,0.0
+2003-03-25,Hong Kong,Laos,False,4,False,True,40,1.0
+2003-03-25,Maldives,Burma,False,2,False,False,40,0.0
+2003-03-25,Singapore,Pakistan,False,3,False,True,40,1.0
+2003-03-25,Sri Lanka,Taiwan,False,1,False,True,40,1.0
+2003-03-26,Austria,Greece,False,0,True,False,20,0.5
+2003-03-26,Burundi,Burkina Faso,False,0,True,False,20,0.5
+2003-03-26,Guadeloupe,Cuba,True,1,False,False,40,0.0
+2003-03-26,Haiti,Martinique,True,1,False,True,40,1.0
+2003-03-26,Jamaica,St. Lucia,False,5,False,True,40,1.0
+2003-03-26,Mexico,Paraguay,True,0,True,False,20,0.5
+2003-03-26,Trinidad and Tobago,Antigua and Barbuda,False,2,False,True,40,1.0
+2003-03-27,Cameroon,Madagascar,True,2,False,True,20,1.0
+2003-03-27,Laos,Bangladesh,True,1,False,True,40,1.0
+2003-03-27,Serbia,Bulgaria,False,1,False,False,20,0.0
+2003-03-27,Tunisia,Ghana,False,0,True,False,20,0.5
+2003-03-28,Cuba,Antigua and Barbuda,True,2,False,True,40,1.0
+2003-03-28,Jamaica,Martinique,False,0,True,False,40,0.5
+2003-03-28,Japan,Uruguay,False,0,True,False,20,0.5
+2003-03-28,St. Lucia,Haiti,True,1,False,True,40,1.0
+2003-03-28,Trinidad and Tobago,Guadeloupe,False,1,False,True,40,1.0
+2003-03-29,Albania,Russia,False,2,False,True,40,1.0
+2003-03-29,Angola,Algeria,False,0,True,False,20,0.5
+2003-03-29,Armenia,Northern Ireland,False,1,False,True,40,1.0
+2003-03-29,Belarus,Moldova,False,1,False,True,40,1.0
+2003-03-29,Bosnia-Herzegovina,Luxembourg,False,2,False,True,40,1.0
+2003-03-29,Cape Verde,Togo,False,1,False,True,40,1.0
+2003-03-29,Costa Rica,Paraguay,False,1,False,True,20,1.0
+2003-03-29,Croatia,Belgium,False,4,False,True,40,1.0
+2003-03-29,Cyprus,Israel,False,0,True,False,40,0.5
+2003-03-29,Estonia,Canada,False,1,False,True,20,1.0
+2003-03-29,France,Malta,False,6,False,True,40,1.0
+2003-03-29,Gabon,Equatorial Guinea,False,4,False,True,40,1.0
+2003-03-29,Georgia,Ireland,False,1,False,False,40,0.0
+2003-03-29,Germany,Lithuania,False,0,True,False,40,0.5
+2003-03-29,Italy,Finland,False,2,False,True,40,1.0
+2003-03-29,Kenya,Mauritania,False,4,False,True,40,1.0
+2003-03-29,Korea Republic,Colombia,False,0,True,False,20,0.5
+2003-03-29,Liechtenstein,England,False,2,False,False,40,0.0
+2003-03-29,Macedonia,Slovakia,False,2,False,False,40,0.0
+2003-03-29,Malawi,Nigeria,False,1,False,False,40,0.0
+2003-03-29,Mauritius,Egypt,False,1,False,False,40,0.0
+2003-03-29,Netherlands,Czech Republic,False,0,True,False,40,0.5
+2003-03-29,Poland,Hungary,False,0,True,False,40,0.5
+2003-03-29,Portugal,Brazil,False,1,False,True,20,1.0
+2003-03-29,Romania,Denmark,False,3,False,False,40,0.0
+2003-03-29,Rwanda,Uganda,False,0,True,False,40,0.5
+2003-03-29,Scotland,Iceland,False,1,False,True,40,1.0
+2003-03-29,Sierra Leone,Morocco,False,0,True,False,40,0.5
+2003-03-29,South Africa,Madagascar,False,2,False,True,20,1.0
+2003-03-29,Sudan,Benin,False,3,False,True,40,1.0
+2003-03-29,Tanzania,Zambia,False,1,False,False,40,0.0
+2003-03-29,Ukraine,Spain,False,0,True,False,40,0.5
+2003-03-29,USA,Venezuela,False,2,False,True,20,1.0
+2003-03-29,Wales,Azerbaijan,False,4,False,True,40,1.0
+2003-03-30,Burundi,Ivory Coast,False,1,False,False,40,0.0
+2003-03-30,Chad,Namibia,False,2,False,True,40,1.0
+2003-03-30,Chile,Peru,False,2,False,True,20,1.0
+2003-03-30,Eritrea,Mali,False,2,False,False,40,0.0
+2003-03-30,Ethiopia,Liberia,False,1,False,True,40,1.0
+2003-03-30,Gambia,Senegal,False,0,True,False,40,0.5
+2003-03-30,Ghana,Madagascar,True,0,True,False,20,0.5
+2003-03-30,Guadeloupe,Antigua and Barbuda,True,2,False,True,40,1.0
+2003-03-30,Guinea,Niger,False,2,False,True,40,1.0
+2003-03-30,Hong Kong,Bangladesh,False,0,True,False,40,0.5
+2003-03-30,India,Korea DPR,False,0,True,False,40,0.5
+2003-03-30,Jamaica,Haiti,False,3,False,True,40,1.0
+2003-03-30,Libya,Botswana,False,0,True,False,40,0.5
+2003-03-30,Mozambique,Burkina Faso,False,1,False,True,40,1.0
+2003-03-30,St. Lucia,Martinique,True,1,False,False,40,0.0
+2003-03-30,Swaziland,Congo DR,False,0,True,False,40,0.5
+2003-03-30,Trinidad and Tobago,Cuba,False,2,False,False,40,0.0
+2003-03-30,Tunisia,Cameroon,False,1,False,True,20,1.0
+2003-03-30,Zimbabwe,Seychelles,False,2,False,True,40,1.0
+2003-04-02,Albania,Ireland,False,0,True,False,40,0.5
+2003-04-02,Belarus,Uzbekistan,False,0,True,False,20,0.5
+2003-04-02,Croatia,Andorra,False,2,False,True,40,1.0
+2003-04-02,Czech Republic,Austria,False,4,False,True,40,1.0
+2003-04-02,Denmark,Bosnia-Herzegovina,False,2,False,False,40,0.0
+2003-04-02,England,Turkey,False,2,False,True,40,1.0
+2003-04-02,Estonia,Bulgaria,False,0,True,False,40,0.5
+2003-04-02,Georgia,Switzerland,False,0,True,False,40,0.5
+2003-04-02,Honduras,Paraguay,False,0,True,False,20,0.5
+2003-04-02,Hungary,Sweden,False,1,False,False,40,0.0
+2003-04-02,Israel,France,True,1,False,False,40,0.0
+2003-04-02,Lithuania,Scotland,False,1,False,True,40,1.0
+2003-04-02,Luxembourg,Norway,False,2,False,False,40,0.0
+2003-04-02,Macedonia,Portugal,True,1,False,False,20,0.0
+2003-04-02,Moldova,Netherlands,False,1,False,False,40,0.0
+2003-04-02,Northern Ireland,Greece,False,2,False,False,40,0.0
+2003-04-02,Peru,Chile,False,3,False,True,20,1.0
+2003-04-02,Poland,San Marino,False,5,False,True,40,1.0
+2003-04-02,Slovakia,Liechtenstein,False,4,False,True,40,1.0
+2003-04-02,Slovenia,Cyprus,False,3,False,True,40,1.0
+2003-04-02,Spain,Armenia,False,3,False,True,40,1.0
+2003-04-02,Ukraine,Latvia,False,1,False,True,20,1.0
+2003-04-02,Venezuela,Jamaica,False,2,False,True,20,1.0
+2003-04-16,Korea Republic,Japan,False,1,False,False,20,0.0
+2003-04-20,Zimbabwe,Angola,False,1,False,True,30,1.0
+2003-04-23,Bhutan,Guam,False,6,False,True,40,1.0
+2003-04-23,Martinique,Trinidad and Tobago,False,1,False,True,40,1.0
+2003-04-24,Algeria,Madagascar,True,2,False,True,20,1.0
+2003-04-25,Guam,Mongolia,True,5,False,False,40,0.0
+2003-04-25,Trinidad and Tobago,Honduras,True,2,False,False,40,0.0
+2003-04-27,Bhutan,Mongolia,False,0,True,False,40,0.5
+2003-04-27,Faroe Islands,Kazakhstan,False,1,False,True,20,1.0
+2003-04-27,Madagascar,Mali,True,2,False,False,20,0.0
+2003-04-27,Martinique,Honduras,False,2,False,False,40,0.0
+2003-04-29,Faroe Islands,Kazakhstan,False,1,False,True,20,1.0
+2003-04-30,Andorra,Estonia,False,2,False,False,40,0.0
+2003-04-30,Belgium,Poland,False,2,False,True,20,1.0
+2003-04-30,Bulgaria,Albania,False,2,False,True,20,1.0
+2003-04-30,Chile,Costa Rica,False,1,False,True,20,1.0
+2003-04-30,Czech Republic,Turkey,False,4,False,True,20,1.0
+2003-04-30,Denmark,Ukraine,False,1,False,True,20,1.0
+2003-04-30,Finland,Iceland,False,3,False,True,20,1.0
+2003-04-30,France,Egypt,False,5,False,True,20,1.0
+2003-04-30,Georgia,Russia,False,1,False,True,40,1.0
+2003-04-30,Germany,Serbia,False,1,False,True,20,1.0
+2003-04-30,Honduras,Colombia,True,0,True,False,20,0.5
+2003-04-30,Hungary,Luxembourg,False,4,False,True,20,1.0
+2003-04-30,Ireland,Norway,False,1,False,True,20,1.0
+2003-04-30,Israel,Cyprus,True,2,False,True,40,1.0
+2003-04-30,Latvia,San Marino,False,3,False,True,40,1.0
+2003-04-30,Libya,Argentina,False,2,False,False,20,0.0
+2003-04-30,Liechtenstein,Saudi Arabia,False,1,False,True,20,1.0
+2003-04-30,Lithuania,Romania,False,1,False,False,20,0.0
+2003-04-30,Malta,Slovenia,False,2,False,False,40,0.0
+2003-04-30,Mexico,Brazil,False,0,True,False,20,0.5
+2003-04-30,Morocco,Ivory Coast,False,1,False,False,20,0.0
+2003-04-30,Netherlands,Portugal,False,0,True,False,20,0.5
+2003-04-30,Peru,Paraguay,False,1,False,False,20,0.0
+2003-04-30,Scotland,Austria,False,2,False,False,20,0.0
+2003-04-30,Slovakia,Greece,False,0,True,False,20,0.5
+2003-04-30,South Africa,Jamaica,False,0,True,False,20,0.5
+2003-04-30,Spain,Ecuador,False,4,False,True,20,1.0
+2003-04-30,Sweden,Croatia,False,1,False,False,20,0.0
+2003-04-30,Switzerland,Italy,False,1,False,False,20,0.0
+2003-04-30,Tunisia,Senegal,False,1,False,True,20,1.0
+2003-04-30,Uzbekistan,Belarus,False,1,False,False,20,0.0
+2003-04-30,Venezuela,Trinidad and Tobago,False,3,False,True,20,1.0
+2003-05-01,Fiji,Tuvalu,False,9,False,True,20,1.0
+2003-05-04,Congo,Central African Republic,False,1,False,True,40,1.0
+2003-05-05,Guernsey,Jersey,False,0,True,False,20,0.5
+2003-05-08,USA,Mexico,False,0,True,False,20,0.5
+2003-05-16,Lesotho,Botswana,False,1,False,False,20,0.0
+2003-05-17,Malawi,Zambia,False,1,False,False,20,0.0
+2003-05-18,Jersey,Guernsey,False,1,False,True,20,1.0
+2003-05-21,Lesotho,Malawi,False,0,True,False,20,0.5
+2003-05-21,Uganda,Sudan,False,0,True,False,20,0.5
+2003-05-22,Norway,Finland,False,2,False,True,20,1.0
+2003-05-22,South Africa,England,False,1,False,False,20,0.0
+2003-05-24,Botswana,Malawi,False,0,True,False,30,0.5
+2003-05-24,Sudan,Kenya,False,0,True,False,20,0.5
+2003-05-25,Jamaica,Nigeria,False,1,False,True,20,1.0
+2003-05-25,Lesotho,Swaziland,False,1,False,True,20,1.0
+2003-05-25,Togo,Benin,False,2,False,True,20,1.0
+2003-05-26,USA,Wales,False,2,False,True,20,1.0
+2003-05-27,Scotland,New Zealand,False,0,True,False,20,0.5
+2003-05-29,Algeria,Burkina Faso,True,1,False,False,20,0.0
+2003-05-30,Nigeria,Ghana,False,2,False,True,20,1.0
+2003-05-31,Gabon,Angola,False,0,True,False,20,0.5
+2003-05-31,Gambia,Mauritania,False,3,False,True,20,1.0
+2003-05-31,Japan,Korea Republic,False,1,False,False,20,0.0
+2003-05-31,Kenya,Trinidad and Tobago,False,0,True,False,20,0.5
+2003-05-31,Senegal,Cape Verde,False,1,False,True,20,1.0
+2003-05-31,Uganda,Tanzania,False,1,False,True,20,1.0
+2003-06-01,Germany,Canada,False,3,False,True,20,1.0
+2003-06-03,England,Serbia,False,1,False,True,20,1.0
+2003-06-03,Guadeloupe,French Guyana,True,1,False,True,20,1.0
+2003-06-03,Italy,Northern Ireland,False,2,False,True,20,1.0
+2003-06-03,Uganda,Libya,False,1,False,True,20,1.0
+2003-06-06,Mauritania,Kenya,False,0,True,False,40,0.5
+2003-06-06,Poland,Kazakhstan,False,3,False,True,20,1.0
+2003-06-06,Portugal,Paraguay,False,0,True,False,20,0.5
+2003-06-07,Belarus,Netherlands,False,2,False,False,40,0.0
+2003-06-07,Botswana,Libya,False,1,False,False,40,0.0
+2003-06-07,Bulgaria,Belgium,False,0,True,False,40,0.5
+2003-06-07,Burkina Faso,Mozambique,False,4,False,True,40,1.0
+2003-06-07,Denmark,Norway,False,1,False,True,40,1.0
+2003-06-07,Estonia,Andorra,False,2,False,True,40,1.0
+2003-06-07,Finland,Serbia,False,3,False,True,40,1.0
+2003-06-07,Hungary,Latvia,False,2,False,True,40,1.0
+2003-06-07,Iceland,Faroe Islands,False,1,False,True,40,1.0
+2003-06-07,Ireland,Albania,False,1,False,True,40,1.0
+2003-06-07,Israel,Slovenia,True,0,True,False,40,0.5
+2003-06-07,Macedonia,Liechtenstein,False,2,False,True,40,1.0
+2003-06-07,Mali,Eritrea,False,1,False,True,40,1.0
+2003-06-07,Malta,Cyprus,False,1,False,False,40,0.0
+2003-06-07,Moldova,Austria,False,1,False,True,40,1.0
+2003-06-07,Namibia,Chad,False,1,False,True,40,1.0
+2003-06-07,Niger,Guinea,False,1,False,True,40,1.0
+2003-06-07,Nigeria,Malawi,False,3,False,True,40,1.0
+2003-06-07,Romania,Bosnia-Herzegovina,False,2,False,True,40,1.0
+2003-06-07,San Marino,Sweden,False,6,False,False,40,0.0
+2003-06-07,Scotland,Germany,False,0,True,False,40,0.5
+2003-06-07,Senegal,Gambia,False,2,False,True,40,1.0
+2003-06-07,Seychelles,Zimbabwe,False,1,False,True,40,1.0
+2003-06-07,Slovakia,Turkey,False,1,False,False,40,0.0
+2003-06-07,Spain,Greece,False,1,False,False,40,0.0
+2003-06-07,Switzerland,Russia,False,0,True,False,40,0.5
+2003-06-07,Uganda,Rwanda,False,1,False,False,40,0.0
+2003-06-07,Ukraine,Armenia,False,1,False,True,40,1.0
+2003-06-07,Venezuela,Honduras,True,1,False,True,20,1.0
+2003-06-07,Zambia,Tanzania,False,2,False,True,40,1.0
+2003-06-08,Benin,Sudan,False,3,False,True,40,1.0
+2003-06-08,Central African Republic,Congo,False,0,True,False,40,0.5
+2003-06-08,Colombia,Ecuador,True,0,True,False,20,0.5
+2003-06-08,Congo DR,Swaziland,False,2,False,True,40,1.0
+2003-06-08,Costa Rica,Chile,False,1,False,True,20,1.0
+2003-06-08,Egypt,Mauritius,False,7,False,True,40,1.0
+2003-06-08,Equatorial Guinea,Gabon,False,1,False,True,40,1.0
+2003-06-08,Ivory Coast,Burundi,False,5,False,True,40,1.0
+2003-06-08,Japan,Argentina,False,3,False,False,30,0.0
+2003-06-08,Korea Republic,Uruguay,False,2,False,False,20,0.0
+2003-06-08,Liberia,Ethiopia,False,1,False,True,40,1.0
+2003-06-08,Morocco,Sierra Leone,False,1,False,True,40,1.0
+2003-06-08,Togo,Cape Verde,False,3,False,True,40,1.0
+2003-06-08,USA,New Zealand,False,1,False,True,20,1.0
+2003-06-10,Botswana,Trinidad and Tobago,False,0,True,False,20,0.5
+2003-06-10,Portugal,Bolivia,False,4,False,True,20,1.0
+2003-06-11,Austria,Belarus,False,5,False,True,40,1.0
+2003-06-11,Azerbaijan,Serbia,False,1,False,True,40,1.0
+2003-06-11,Belgium,Andorra,False,3,False,True,40,1.0
+2003-06-11,Czech Republic,Moldova,False,5,False,True,40,1.0
+2003-06-11,Ecuador,Peru,True,0,True,False,20,0.5
+2003-06-11,England,Slovakia,False,1,False,True,40,1.0
+2003-06-11,Estonia,Croatia,False,1,False,False,40,0.0
+2003-06-11,Faroe Islands,Germany,False,2,False,False,40,0.0
+2003-06-11,Finland,Italy,False,2,False,False,40,0.0
+2003-06-11,Greece,Ukraine,False,1,False,True,40,1.0
+2003-06-11,Honduras,Chile,False,1,False,False,20,0.0
+2003-06-11,Ireland,Georgia,False,2,False,True,40,1.0
+2003-06-11,Japan,Paraguay,False,0,True,False,30,0.5
+2003-06-11,Korea Republic,Argentina,False,1,False,False,20,0.0
+2003-06-11,Lithuania,Iceland,False,3,False,False,40,0.0
+2003-06-11,Luxembourg,Denmark,False,2,False,False,40,0.0
+2003-06-11,Nigeria,Brazil,False,3,False,False,20,0.0
+2003-06-11,Northern Ireland,Spain,False,0,True,False,40,0.5
+2003-06-11,Norway,Romania,False,0,True,False,40,0.5
+2003-06-11,San Marino,Hungary,False,5,False,False,40,0.0
+2003-06-11,Sweden,Poland,False,3,False,True,40,1.0
+2003-06-11,Switzerland,Albania,False,1,False,True,40,1.0
+2003-06-11,Turkey,Macedonia,False,1,False,True,40,1.0
+2003-06-13,Andorra,Gabon,False,2,False,False,20,0.0
+2003-06-13,Ghana,Kenya,False,2,False,False,20,0.0
+2003-06-14,Papua New Guinea,Solomon Islands,False,2,False,False,20,0.0
+2003-06-14,Senegal,Lesotho,False,3,False,True,40,1.0
+2003-06-14,South Africa,Trinidad and Tobago,False,1,False,True,20,1.0
+2003-06-18,France,Colombia,False,1,False,True,30,1.0
+2003-06-18,New Zealand,Japan,True,3,False,False,30,0.0
+2003-06-19,Brazil,Cameroon,True,1,False,False,30,0.0
+2003-06-19,Turkey,USA,True,1,False,True,30,1.0
+2003-06-20,Algeria,Namibia,False,1,False,True,40,1.0
+2003-06-20,Colombia,New Zealand,True,2,False,True,30,1.0
+2003-06-20,Egypt,Madagascar,False,6,False,True,40,1.0
+2003-06-20,France,Japan,False,1,False,True,30,1.0
+2003-06-20,Morocco,Gabon,False,2,False,True,40,1.0
+2003-06-21,Brazil,USA,True,1,False,True,30,1.0
+2003-06-21,Burkina Faso,Congo,False,3,False,True,40,1.0
+2003-06-21,Cameroon,Turkey,True,1,False,True,30,1.0
+2003-06-21,Cape Verde,Mauritania,False,3,False,True,40,1.0
+2003-06-21,Eritrea,Seychelles,False,1,False,True,40,1.0
+2003-06-21,Liberia,Guinea,True,1,False,False,40,0.0
+2003-06-21,Nigeria,Angola,False,0,True,False,40,0.5
+2003-06-21,Zambia,Sudan,False,0,True,False,40,0.5
+2003-06-22,Congo DR,Libya,False,1,False,True,40,1.0
+2003-06-22,Ethiopia,Niger,False,2,False,True,40,1.0
+2003-06-22,France,New Zealand,False,5,False,True,30,1.0
+2003-06-22,Ghana,Uganda,False,0,True,False,40,0.5
+2003-06-22,Guatemala,Honduras,True,1,False,False,20,0.0
+2003-06-22,Japan,Colombia,True,1,False,False,30,0.0
+2003-06-22,Mali,Zimbabwe,False,0,True,False,40,0.5
+2003-06-22,Mozambique,Central African Republic,False,1,False,True,40,1.0
+2003-06-22,Sierra Leone,Equatorial Guinea,False,2,False,True,40,1.0
+2003-06-22,South Africa,Ivory Coast,False,1,False,True,40,1.0
+2003-06-22,Swaziland,Botswana,False,1,False,True,40,1.0
+2003-06-22,Tanzania,Benin,False,1,False,False,40,0.0
+2003-06-22,Togo,Kenya,False,2,False,True,40,1.0
+2003-06-23,Brazil,Turkey,True,0,True,False,30,0.5
+2003-06-23,USA,Cameroon,True,0,True,False,30,0.5
+2003-06-26,Cameroon,Colombia,True,1,False,True,30,1.0
+2003-06-26,France,Turkey,False,1,False,True,30,1.0
+2003-06-26,Peru,Venezuela,True,1,False,True,20,1.0
+2003-06-27,Panama,Cuba,False,2,False,True,20,1.0
+2003-06-28,Colombia,Turkey,True,1,False,False,30,0.0
+2003-06-29,France,Cameroon,False,1,False,True,30,1.0
+2003-06-29,Honduras,El Salvador,False,0,True,False,20,0.5
+2003-06-29,Panama,Cuba,False,1,False,True,20,1.0
+2003-06-29,Saare County,Ynys Môn,True,2,False,False,30,0.0
+2003-06-29,Frøya,Jersey,True,4,False,False,30,0.0
+2003-06-29,Shetland,Gotland,True,0,True,False,30,0.5
+2003-06-29,Guersney,Alderney,False,6,False,True,30,1.0
+2003-06-29,Gibraltar,Sark,True,19,False,True,30,1.0
+2003-06-29,Isle of Wight,Greenland,True,1,False,False,30,0.0
+2003-06-30,Fiji,Vanuatu,False,0,True,False,30,0.5
+2003-06-30,Papua New Guinea,New Caledonia,True,2,False,False,30,0.0
+2003-06-30,Tahiti,Micronesia FS,True,17,False,True,30,1.0
+2003-06-30,Tuvalu,Kiribati,True,1,False,True,30,1.0
+2003-06-30,Isle of Man,Saare County,True,4,False,True,30,1.0
+2003-06-30,Gotland,Frøya,True,0,True,False,30,0.5
+2003-06-30,Jersey,Shetland,True,5,False,True,30,1.0
+2003-06-30,Guersney,Orkney,False,10,False,True,30,1.0
+2003-06-30,Sark,Isle of Wight,True,20,False,False,30,0.0
+2003-06-30,Gibraltar,Greenland,True,2,False,True,30,1.0
+2003-07-01,Fiji,Tuvalu,False,4,False,True,30,1.0
+2003-07-01,Micronesia FS,New Caledonia,True,18,False,False,30,0.0
+2003-07-01,Papua New Guinea,Tonga,True,0,True,False,30,0.5
+2003-07-01,Solomon Islands,Vanuatu,True,0,True,False,30,0.5
+2003-07-01,Ynys Môn,Isle of Man,True,1,False,False,30,0.0
+2003-07-01,Shetland,Frøya,True,2,False,True,30,1.0
+2003-07-01,Jersey,Gotland,True,0,True,False,30,0.5
+2003-07-01,Orkney,Alderney,True,2,False,True,30,1.0
+2003-07-01,Isle of Wight,Gibraltar,True,1,False,True,30,1.0
+2003-07-01,Greenland,Sark,True,16,False,True,30,1.0
+2003-07-02,El Salvador,Paraguay,True,1,False,False,20,0.0
+2003-07-02,Guatemala,Peru,True,1,False,False,20,0.0
+2003-07-03,Estonia,Lithuania,False,4,False,False,30,0.0
+2003-07-03,Solomon Islands,Kiribati,True,7,False,True,30,1.0
+2003-07-03,Tahiti,Papua New Guinea,True,3,False,True,30,1.0
+2003-07-03,Tonga,New Caledonia,True,4,False,False,30,0.0
+2003-07-03,Trinidad and Tobago,Venezuela,False,0,True,False,20,0.5
+2003-07-03,Tuvalu,Vanuatu,True,1,False,False,30,0.0
+2003-07-03,Frøya,Sark,True,15,False,True,30,1.0
+2003-07-03,Alderney,Greenland,True,3,False,False,30,0.0
+2003-07-03,Gotland,Saare County,True,3,False,True,30,1.0
+2003-07-03,Orkney,Gibraltar,True,6,False,False,30,0.0
+2003-07-03,Isle of Man,Jersey,True,1,False,True,30,1.0
+2003-07-03,Guersney,Isle of Wight,False,2,False,True,30,1.0
+2003-07-04,Latvia,Lithuania,True,1,False,True,30,1.0
+2003-07-04,Saare County,Alderney,True,1,False,False,30,0.0
+2003-07-04,Gotland,Greenland,True,1,False,True,30,1.0
+2003-07-04,Orkney,Shetland,True,6,False,False,30,0.0
+2003-07-04,Gibraltar,Ynys Môn,True,2,False,False,30,0.0
+2003-07-04,Jersey,Isle of Wight,True,3,False,True,30,1.0
+2003-07-04,Guersney,Isle of Man,False,2,False,True,30,1.0
+2003-07-05,Botswana,Congo DR,False,0,True,False,40,0.5
+2003-07-05,Estonia,Latvia,False,0,True,False,30,0.5
+2003-07-05,Fiji,Kiribati,False,12,False,True,30,1.0
+2003-07-05,Kenya,Cape Verde,False,1,False,True,40,1.0
+2003-07-05,Libya,Swaziland,False,4,False,True,40,1.0
+2003-07-05,Mauritania,Togo,False,0,True,False,40,0.5
+2003-07-05,Niger,Liberia,False,1,False,True,40,1.0
+2003-07-05,Seychelles,Mali,False,2,False,False,40,0.0
+2003-07-05,Tahiti,New Caledonia,True,4,False,False,30,0.0
+2003-07-05,Tonga,Micronesia FS,True,7,False,True,30,1.0
+2003-07-05,Tuvalu,Solomon Islands,True,4,False,False,30,0.0
+2003-07-05,Zimbabwe,Eritrea,False,2,False,True,40,1.0
+2003-07-06,Angola,Malawi,False,4,False,True,40,1.0
+2003-07-06,Benin,Zambia,False,3,False,True,40,1.0
+2003-07-06,Burundi,South Africa,False,2,False,False,40,0.0
+2003-07-06,Central African Republic,Burkina Faso,False,3,False,False,40,0.0
+2003-07-06,Chad,Algeria,False,0,True,False,40,0.5
+2003-07-06,Congo,Mozambique,False,0,True,False,40,0.5
+2003-07-06,El Salvador,Mexico,True,1,False,True,20,1.0
+2003-07-06,Equatorial Guinea,Morocco,False,1,False,False,40,0.0
+2003-07-06,Gabon,Sierra Leone,False,2,False,True,40,1.0
+2003-07-06,Guinea,Ethiopia,False,3,False,True,40,1.0
+2003-07-06,Jamaica,Cuba,False,1,False,False,20,0.0
+2003-07-06,Lesotho,Gambia,False,1,False,True,40,1.0
+2003-07-06,Madagascar,Mauritius,False,2,False,False,40,0.0
+2003-07-06,Rwanda,Ghana,False,1,False,True,40,1.0
+2003-07-06,USA,Paraguay,False,2,False,True,20,1.0
+2003-07-07,Fiji,Solomon Islands,False,1,False,True,30,1.0
+2003-07-07,Kiribati,Vanuatu,True,18,False,False,30,0.0
+2003-07-07,Papua New Guinea,Micronesia FS,True,10,False,True,30,1.0
+2003-07-07,Tahiti,Tonga,True,4,False,True,30,1.0
+2003-07-08,El Salvador,Guatemala,True,1,False,False,20,0.0
+2003-07-09,Fiji,Tahiti,False,1,False,True,30,1.0
+2003-07-09,Jamaica,Paraguay,False,2,False,True,20,1.0
+2003-07-09,New Caledonia,Vanuatu,True,0,True,False,30,0.5
+2003-07-11,Fiji,New Caledonia,False,2,False,True,30,1.0
+2003-07-11,Tahiti,Vanuatu,True,1,False,False,30,0.0
+2003-07-12,Costa Rica,Canada,True,1,False,False,50,0.0
+2003-07-12,USA,El Salvador,False,2,False,True,50,1.0
+2003-07-13,Jamaica,Colombia,True,1,False,False,50,0.0
+2003-07-13,Mexico,Brazil,False,1,False,True,50,1.0
+2003-07-13,Swaziland,Madagascar,False,2,False,True,30,1.0
+2003-07-14,Canada,Cuba,True,2,False,False,50,0.0
+2003-07-14,USA,Martinique,False,2,False,True,50,1.0
+2003-07-15,Brazil,Honduras,True,1,False,True,50,1.0
+2003-07-15,Guatemala,Jamaica,True,2,False,False,50,0.0
+2003-07-16,Argentina,Uruguay,False,0,True,False,20,0.5
+2003-07-16,Cuba,Costa Rica,True,3,False,False,50,0.0
+2003-07-16,El Salvador,Martinique,True,1,False,True,50,1.0
+2003-07-17,Colombia,Guatemala,True,0,True,False,50,0.5
+2003-07-17,Mexico,Honduras,False,0,True,False,50,0.5
+2003-07-19,Colombia,Brazil,True,2,False,False,50,0.0
+2003-07-19,Costa Rica,El Salvador,True,3,False,True,50,1.0
+2003-07-19,South Africa,Zimbabwe,False,1,False,False,30,0.0
+2003-07-19,USA,Cuba,False,5,False,True,50,1.0
+2003-07-20,Mexico,Jamaica,False,5,False,True,50,1.0
+2003-07-23,USA,Brazil,False,1,False,False,50,0.0
+2003-07-24,Mexico,Costa Rica,False,2,False,True,50,1.0
+2003-07-24,Peru,Uruguay,False,1,False,False,20,0.0
+2003-07-26,Nigeria,Venezuela,True,1,False,True,20,1.0
+2003-07-26,USA,Costa Rica,False,1,False,True,50,1.0
+2003-07-27,Mexico,Brazil,False,1,False,True,50,1.0
+2003-07-29,St. Kitts and Nevis,Haiti,False,1,False,True,30,1.0
+2003-07-30,Uruguay,Peru,False,1,False,True,20,1.0
+2003-07-31,Haiti,Trinidad and Tobago,True,2,False,True,30,1.0
+2003-08-02,St. Kitts and Nevis,Trinidad and Tobago,False,1,False,False,30,0.0
+2003-08-04,Singapore,Hong Kong,False,3,False,True,20,1.0
+2003-08-13,Iran,Iraq,False,1,False,False,20,0.0
+2003-08-15,Iraq,Uruguay,True,3,False,False,20,0.0
+2003-08-16,Malawi,Zambia,False,0,True,False,30,0.5
+2003-08-16,Mayotte,Réunion,False,0,True,False,20,0.5
+2003-08-19,Ireland,Australia,False,1,False,True,20,1.0
+2003-08-19,Luxembourg,Malta,False,0,True,False,20,0.5
+2003-08-20,Angola,Congo DR,False,2,False,False,20,0.0
+2003-08-20,Argentina,Uruguay,True,1,False,True,20,1.0
+2003-08-20,Austria,Costa Rica,False,2,False,True,20,1.0
+2003-08-20,Belarus,Iran,False,1,False,True,20,1.0
+2003-08-20,Belgium,Netherlands,False,0,True,False,20,0.5
+2003-08-20,Bulgaria,Lithuania,False,3,False,True,20,1.0
+2003-08-20,China,Chile,False,0,True,False,20,0.5
+2003-08-20,Colombia,Slovakia,True,0,True,False,20,0.5
+2003-08-20,Denmark,Finland,False,0,True,False,20,0.5
+2003-08-20,Ecuador,Guatemala,False,2,False,True,20,1.0
+2003-08-20,England,Croatia,False,2,False,True,20,1.0
+2003-08-20,Estonia,Poland,False,1,False,False,20,0.0
+2003-08-20,Faroe Islands,Iceland,False,1,False,False,40,0.0
+2003-08-20,Germany,Italy,False,1,False,False,20,0.0
+2003-08-20,Japan,Nigeria,False,3,False,True,20,1.0
+2003-08-20,Latvia,Uzbekistan,False,3,False,False,20,0.0
+2003-08-20,Liechtenstein,San Marino,False,0,True,False,20,0.5
+2003-08-20,Macedonia,Albania,False,2,False,True,20,1.0
+2003-08-20,Mexico,Peru,True,2,False,False,20,0.0
+2003-08-20,Norway,Scotland,False,0,True,False,20,0.5
+2003-08-20,Panama,Paraguay,False,1,False,False,20,0.0
+2003-08-20,Portugal,Kazakhstan,False,1,False,True,20,1.0
+2003-08-20,Russia,Israel,False,1,False,False,20,0.0
+2003-08-20,Serbia,Wales,False,1,False,True,40,1.0
+2003-08-20,Slovenia,Hungary,False,1,False,True,20,1.0
+2003-08-20,Sweden,Greece,False,1,False,False,20,0.0
+2003-08-20,Switzerland,France,False,2,False,False,20,0.0
+2003-08-20,Tunisia,Guinea,False,0,True,False,20,0.5
+2003-08-20,Turkey,Moldova,False,2,False,True,20,1.0
+2003-08-20,Ukraine,Romania,False,2,False,False,20,0.0
+2003-08-20,Venezuela,Haiti,False,1,False,True,20,1.0
+2003-08-22,Lebanon,Syria,False,1,False,True,20,1.0
+2003-08-26,Jordan,Iraq,False,1,False,True,20,1.0
+2003-08-27,Peru,Guatemala,False,0,True,False,20,0.5
+2003-08-31,Bolivia,Panama,False,3,False,True,20,1.0
+2003-08-31,Haiti,China,True,1,False,True,20,1.0
+2003-08-31,Zimbabwe,Swaziland,False,2,False,True,30,1.0
+2003-09-04,Algeria,Qatar,True,1,False,True,20,1.0
+2003-09-04,Korea DPR,Lebanon,False,1,False,False,40,0.0
+2003-09-04,Singapore,Kuwait,False,2,False,False,40,0.0
+2003-09-05,Iran,Jordan,False,3,False,True,40,1.0
+2003-09-06,Andorra,Croatia,False,3,False,False,40,0.0
+2003-09-06,Argentina,Chile,False,0,True,False,40,0.5
+2003-09-06,Armenia,Greece,False,1,False,False,40,0.0
+2003-09-06,Azerbaijan,Finland,False,1,False,False,40,0.0
+2003-09-06,Belarus,Czech Republic,False,2,False,False,40,0.0
+2003-09-06,Bosnia-Herzegovina,Norway,False,1,False,True,40,1.0
+2003-09-06,Bulgaria,Estonia,False,2,False,True,40,1.0
+2003-09-06,Ecuador,Venezuela,False,2,False,True,40,1.0
+2003-09-06,France,Cyprus,False,5,False,True,40,1.0
+2003-09-06,Georgia,Albania,False,3,False,True,40,1.0
+2003-09-06,Iceland,Germany,False,0,True,False,40,0.5
+2003-09-06,Ireland,Russia,False,0,True,False,40,0.5
+2003-09-06,Italy,Wales,False,4,False,True,40,1.0
+2003-09-06,Latvia,Poland,False,2,False,False,40,0.0
+2003-09-06,Liechtenstein,Turkey,False,3,False,False,40,0.0
+2003-09-06,Macedonia,England,False,1,False,False,40,0.0
+2003-09-06,Netherlands,Austria,False,2,False,True,40,1.0
+2003-09-06,Peru,Paraguay,False,3,False,True,40,1.0
+2003-09-06,Portugal,Spain,False,3,False,False,20,0.0
+2003-09-06,Romania,Luxembourg,False,4,False,True,40,1.0
+2003-09-06,Scotland,Faroe Islands,False,2,False,True,40,1.0
+2003-09-06,Slovenia,Israel,False,2,False,True,40,1.0
+2003-09-06,Swaziland,Botswana,False,3,False,False,20,0.0
+2003-09-06,Sweden,San Marino,False,5,False,True,40,1.0
+2003-09-06,Ukraine,Northern Ireland,False,0,True,False,40,0.5
+2003-09-07,Angola,Namibia,False,2,False,True,20,1.0
+2003-09-07,Australia,Jamaica,True,1,False,True,20,1.0
+2003-09-07,Colombia,Brazil,False,1,False,False,40,0.0
+2003-09-07,Costa Rica,China,True,2,False,True,20,1.0
+2003-09-07,Uruguay,Bolivia,False,5,False,True,40,1.0
+2003-09-09,Chile,Peru,False,1,False,True,40,1.0
+2003-09-09,Ireland,Turkey,False,0,True,False,20,0.5
+2003-09-09,Venezuela,Argentina,False,3,False,False,40,0.0
+2003-09-10,Albania,Georgia,False,2,False,True,40,1.0
+2003-09-10,Andorra,Bulgaria,False,3,False,False,40,0.0
+2003-09-10,Belgium,Croatia,False,1,False,True,40,1.0
+2003-09-10,Bolivia,Colombia,False,4,False,True,40,1.0
+2003-09-10,Brazil,Ecuador,False,1,False,True,40,1.0
+2003-09-10,Czech Republic,Netherlands,False,2,False,True,40,1.0
+2003-09-10,Denmark,Romania,False,0,True,False,40,0.5
+2003-09-10,England,Liechtenstein,False,2,False,True,40,1.0
+2003-09-10,Faroe Islands,Lithuania,False,2,False,False,40,0.0
+2003-09-10,Germany,Scotland,False,1,False,True,40,1.0
+2003-09-10,Israel,Malta,True,0,True,False,40,0.5
+2003-09-10,Japan,Senegal,False,1,False,False,20,0.0
+2003-09-10,Latvia,Hungary,False,2,False,True,40,1.0
+2003-09-10,Luxembourg,Bosnia-Herzegovina,False,1,False,False,40,0.0
+2003-09-10,Moldova,Belarus,False,1,False,True,40,1.0
+2003-09-10,Morocco,Trinidad and Tobago,False,2,False,True,20,1.0
+2003-09-10,Northern Ireland,Armenia,False,1,False,False,40,0.0
+2003-09-10,Norway,Portugal,False,1,False,False,20,0.0
+2003-09-10,Oman,Bahrain,False,1,False,True,20,1.0
+2003-09-10,Paraguay,Uruguay,False,3,False,True,40,1.0
+2003-09-10,Poland,Sweden,False,2,False,False,40,0.0
+2003-09-10,Russia,Switzerland,False,3,False,True,40,1.0
+2003-09-10,Serbia,Italy,False,0,True,False,40,0.5
+2003-09-10,Slovakia,Macedonia,False,0,True,False,40,0.5
+2003-09-10,Slovenia,France,False,2,False,False,40,0.0
+2003-09-10,Spain,Ukraine,False,1,False,True,40,1.0
+2003-09-10,Tunisia,Ivory Coast,False,1,False,True,20,1.0
+2003-09-10,Wales,Finland,False,0,True,False,40,0.5
+2003-09-14,Kuwait,Qatar,False,1,False,True,40,1.0
+2003-09-14,Rwanda,Kenya,False,1,False,False,20,0.0
+2003-09-16,Singapore,Oman,False,2,False,False,20,0.0
+2003-09-17,Yemen,Sudan,False,1,False,True,20,1.0
+2003-09-19,Bahrain,Lebanon,False,1,False,True,20,1.0
+2003-09-19,Jordan,Syria,False,0,True,False,20,0.5
+2003-09-19,Yemen,Sudan,False,1,False,False,20,0.0
+2003-09-20,Namibia,Angola,False,2,False,False,20,0.0
+2003-09-20,Qatar,Kuwait,False,0,True,False,40,0.5
+2003-09-24,Algeria,Gabon,False,0,True,False,20,0.5
+2003-09-24,Benin,Burkina Faso,True,1,False,False,20,0.0
+2003-09-24,Qatar,Palestine,False,0,True,False,40,0.5
+2003-09-25,Korea Republic,Vietnam,False,5,False,True,40,1.0
+2003-09-25,Nepal,Oman,True,7,False,False,40,0.0
+2003-09-26,Algeria,Burkina Faso,False,0,True,False,20,0.5
+2003-09-26,Benin,Gabon,True,4,False,False,20,0.0
+2003-09-26,Jordan,Iran,False,1,False,True,40,1.0
+2003-09-26,Malaysia,Indonesia,False,0,True,False,20,0.5
+2003-09-27,Korea Republic,Oman,False,1,False,True,40,1.0
+2003-09-27,Kuwait,Singapore,False,4,False,True,40,1.0
+2003-09-27,Malawi,Zimbabwe,False,1,False,False,30,0.0
+2003-09-27,Qatar,Palestine,False,1,False,True,40,1.0
+2003-09-27,Syria,Yemen,True,6,False,True,20,1.0
+2003-09-27,Vietnam,Nepal,True,5,False,True,40,1.0
+2003-09-29,Korea Republic,Nepal,False,16,False,True,40,1.0
+2003-09-29,Vietnam,Oman,True,6,False,False,40,0.0
+2003-09-30,Saudi Arabia,Syria,False,0,True,False,20,0.5
+2003-10-04,Lesotho,Swaziland,False,3,False,True,20,1.0
+2003-10-05,Kuwait,Palestine,False,1,False,True,40,1.0
+2003-10-05,Zimbabwe,Malawi,False,2,False,True,30,1.0
+2003-10-06,Indonesia,Bhutan,True,2,False,True,40,1.0
+2003-10-06,Saudi Arabia,Yemen,False,7,False,True,40,1.0
+2003-10-08,Iraq,Bahrain,True,4,False,True,40,1.0
+2003-10-08,Kuwait,Palestine,False,4,False,True,40,1.0
+2003-10-08,Lesotho,South Africa,False,3,False,False,20,0.0
+2003-10-08,Malaysia,Burma,False,4,False,True,40,1.0
+2003-10-08,Oman,Jordan,False,1,False,True,20,1.0
+2003-10-08,Saudi Arabia,Bhutan,False,6,False,True,40,1.0
+2003-10-08,Tunisia,Japan,False,1,False,False,20,0.0
+2003-10-08,Yemen,Indonesia,True,3,False,False,40,0.0
+2003-10-10,Bhutan,Yemen,True,8,False,False,40,0.0
+2003-10-10,Burma,Bahrain,True,2,False,False,40,0.0
+2003-10-10,Egypt,Senegal,False,1,False,True,20,1.0
+2003-10-10,Guinea-Bissau,Mali,False,1,False,False,40,0.0
+2003-10-10,Malaysia,Iraq,False,0,True,False,40,0.5
+2003-10-10,Saudi Arabia,Indonesia,False,5,False,True,40,1.0
+2003-10-11,Armenia,Spain,False,4,False,False,40,0.0
+2003-10-11,Austria,Czech Republic,False,1,False,False,40,0.0
+2003-10-11,Belgium,Estonia,False,2,False,True,40,1.0
+2003-10-11,Bolivia,Honduras,True,1,False,True,20,1.0
+2003-10-11,Bosnia-Herzegovina,Denmark,False,0,True,False,40,0.5
+2003-10-11,Botswana,Lesotho,False,3,False,True,40,1.0
+2003-10-11,Croatia,Bulgaria,False,1,False,True,40,1.0
+2003-10-11,Cyprus,Slovenia,False,0,True,False,40,0.5
+2003-10-11,Equatorial Guinea,Togo,False,1,False,True,40,1.0
+2003-10-11,Finland,Canada,False,1,False,True,20,1.0
+2003-10-11,France,Israel,False,3,False,True,40,1.0
+2003-10-11,Germany,Iceland,False,3,False,True,40,1.0
+2003-10-11,Greece,Northern Ireland,False,1,False,True,40,1.0
+2003-10-11,Hungary,Poland,False,1,False,False,40,0.0
+2003-10-11,Italy,Azerbaijan,False,4,False,True,40,1.0
+2003-10-11,Liechtenstein,Slovakia,False,2,False,False,40,0.0
+2003-10-11,Madagascar,Benin,False,0,True,False,40,0.5
+2003-10-11,Netherlands,Moldova,False,5,False,True,40,1.0
+2003-10-11,Niger,Algeria,False,1,False,False,40,0.0
+2003-10-11,Norway,Luxembourg,False,1,False,True,40,1.0
+2003-10-11,Portugal,Albania,False,2,False,True,20,1.0
+2003-10-11,Romania,Japan,False,0,True,False,20,0.5
+2003-10-11,Russia,Georgia,False,2,False,True,40,1.0
+2003-10-11,São Tomé and Príncipe,Libya,False,1,False,False,40,0.0
+2003-10-11,Scotland,Lithuania,False,1,False,True,40,1.0
+2003-10-11,Seychelles,Zambia,False,4,False,False,40,0.0
+2003-10-11,South Africa,Costa Rica,False,1,False,True,20,1.0
+2003-10-11,Sweden,Latvia,False,1,False,False,40,0.0
+2003-10-11,Switzerland,Ireland,False,2,False,True,40,1.0
+2003-10-11,Tanzania,Kenya,False,0,True,False,40,0.5
+2003-10-11,Tunisia,Morocco,False,0,True,False,20,0.5
+2003-10-11,Turkey,England,False,0,True,False,40,0.5
+2003-10-11,Uganda,Mauritius,False,3,False,True,40,1.0
+2003-10-11,Ukraine,Macedonia,False,0,True,False,20,0.5
+2003-10-11,United Arab Emirates,Uzbekistan,False,0,True,False,20,0.5
+2003-10-11,Wales,Serbia,False,1,False,False,40,0.0
+2003-10-12,Brazil,Jamaica,True,1,False,True,20,1.0
+2003-10-12,Burundi,Gabon,False,0,True,False,40,0.5
+2003-10-12,Chad,Angola,False,2,False,True,40,1.0
+2003-10-12,Congo,Sierra Leone,False,1,False,True,40,1.0
+2003-10-12,Ethiopia,Malawi,False,2,False,False,40,0.0
+2003-10-12,Gambia,Liberia,False,2,False,True,40,1.0
+2003-10-12,Guinea,Mozambique,False,1,False,True,40,1.0
+2003-10-12,Iran,New Zealand,False,3,False,True,20,1.0
+2003-10-12,Iraq,Burma,True,3,False,True,40,1.0
+2003-10-12,Malaysia,Bahrain,False,0,True,False,40,0.5
+2003-10-12,Rwanda,Namibia,False,3,False,True,40,1.0
+2003-10-12,Sudan,Eritrea,False,3,False,True,40,1.0
+2003-10-12,Swaziland,Cape Verde,False,0,True,False,40,0.5
+2003-10-12,Zimbabwe,Mauritania,False,3,False,True,40,1.0
+2003-10-13,Bhutan,Indonesia,True,2,False,False,40,0.0
+2003-10-13,Saudi Arabia,Yemen,False,2,False,True,40,1.0
+2003-10-15,Indonesia,Yemen,True,0,True,False,40,0.5
+2003-10-15,Mexico,Uruguay,True,2,False,False,20,0.0
+2003-10-15,Saudi Arabia,Bhutan,False,4,False,True,40,1.0
+2003-10-15,Syria,Sri Lanka,False,5,False,True,40,1.0
+2003-10-16,Thailand,India,False,2,False,True,20,1.0
+2003-10-17,Jordan,Lebanon,False,1,False,True,40,1.0
+2003-10-17,Saudi Arabia,Indonesia,False,6,False,True,40,1.0
+2003-10-17,Yemen,Bhutan,True,4,False,True,40,1.0
+2003-10-18,Syria,Sri Lanka,False,8,False,True,40,1.0
+2003-10-19,Oman,Nepal,False,6,False,True,40,1.0
+2003-10-19,Singapore,Palestine,False,2,False,True,40,1.0
+2003-10-19,Turkmenistan,United Arab Emirates,False,1,False,True,40,1.0
+2003-10-19,Vietnam,Korea Republic,True,1,False,True,40,1.0
+2003-10-20,Bahrain,Burma,False,4,False,True,40,1.0
+2003-10-20,Iraq,Malaysia,True,4,False,True,40,1.0
+2003-10-21,Nepal,Vietnam,True,2,False,False,40,0.0
+2003-10-21,Oman,Korea Republic,False,2,False,True,40,1.0
+2003-10-22,Bahrain,Malaysia,False,2,False,True,40,1.0
+2003-10-22,Burma,Iraq,True,2,False,False,40,0.0
+2003-10-22,India,Rwanda,False,2,False,True,20,1.0
+2003-10-22,Singapore,Palestine,False,0,True,False,40,0.5
+2003-10-23,Burkina Faso,Zimbabwe,True,3,False,False,20,0.0
+2003-10-24,Bahrain,Iraq,False,1,False,True,40,1.0
+2003-10-24,Burma,Malaysia,True,1,False,True,40,1.0
+2003-10-24,Nepal,Korea Republic,True,7,False,False,40,0.0
+2003-10-24,Oman,Vietnam,False,2,False,True,40,1.0
+2003-10-27,Korea DPR,Iran,False,2,False,False,40,0.0
+2003-10-29,India,Zimbabwe,False,2,False,True,20,1.0
+2003-10-30,United Arab Emirates,Turkmenistan,False,0,True,False,40,0.5
+2003-10-31,Rwanda,Zimbabwe,True,0,True,False,20,0.5
+2003-11-03,Lebanon,Korea DPR,False,0,True,False,40,0.5
+2003-11-06,Thailand,Tajikistan,True,1,False,False,40,0.0
+2003-11-06,Uzbekistan,Hong Kong,False,3,False,True,40,1.0
+2003-11-07,Syria,United Arab Emirates,False,2,False,False,40,0.0
+2003-11-08,Gabon,Burkina Faso,False,0,True,False,20,0.5
+2003-11-08,Hong Kong,Tajikistan,True,0,True,False,40,0.5
+2003-11-08,Uzbekistan,Thailand,False,3,False,True,40,1.0
+2003-11-09,Mozambique,Swaziland,False,2,False,True,20,1.0
+2003-11-09,Turkmenistan,Sri Lanka,False,1,False,True,40,1.0
+2003-11-10,Hong Kong,Thailand,True,1,False,True,40,1.0
+2003-11-10,Uzbekistan,Tajikistan,False,0,True,False,40,0.5
+2003-11-11,Uganda,Tanzania,False,1,False,True,20,1.0
+2003-11-12,Equatorial Guinea,São Tomé and Príncipe,False,2,False,True,20,1.0
+2003-11-12,Iran,Korea DPR,False,3,False,True,40,1.0
+2003-11-12,Lebanon,Jordan,False,2,False,False,40,0.0
+2003-11-12,Poland,Italy,False,2,False,True,20,1.0
+2003-11-12,Turkmenistan,Sri Lanka,False,3,False,True,40,1.0
+2003-11-14,Algeria,Niger,False,6,False,True,40,1.0
+2003-11-14,Mali,Guinea-Bissau,False,2,False,True,40,1.0
+2003-11-14,Mauritania,Zimbabwe,False,1,False,True,40,1.0
+2003-11-14,United Arab Emirates,Syria,False,2,False,True,40,1.0
+2003-11-15,Albania,Estonia,False,2,False,True,20,1.0
+2003-11-15,Argentina,Bolivia,False,3,False,True,40,1.0
+2003-11-15,Colombia,Venezuela,False,1,False,False,40,0.0
+2003-11-15,Croatia,Slovenia,False,0,True,False,40,0.5
+2003-11-15,Czech Republic,Canada,False,4,False,True,20,1.0
+2003-11-15,Egypt,South Africa,False,1,False,True,20,1.0
+2003-11-15,Gabon,Burundi,False,3,False,True,40,1.0
+2003-11-15,Germany,France,False,3,False,False,20,0.0
+2003-11-15,Kenya,Tanzania,False,3,False,True,40,1.0
+2003-11-15,Latvia,Turkey,False,1,False,True,40,1.0
+2003-11-15,Malawi,Ethiopia,False,0,True,False,40,0.5
+2003-11-15,Morocco,Burkina Faso,False,1,False,True,20,1.0
+2003-11-15,Namibia,Rwanda,False,0,True,False,40,0.5
+2003-11-15,Paraguay,Ecuador,False,1,False,True,40,1.0
+2003-11-15,Portugal,Greece,False,0,True,False,20,0.5
+2003-11-15,Russia,Wales,False,0,True,False,40,0.5
+2003-11-15,Scotland,Netherlands,False,1,False,True,40,1.0
+2003-11-15,Senegal,Ivory Coast,False,1,False,True,20,1.0
+2003-11-15,Spain,Norway,False,1,False,True,40,1.0
+2003-11-15,Uruguay,Chile,False,1,False,True,40,1.0
+2003-11-15,Zambia,Seychelles,False,0,True,False,40,0.5
+2003-11-16,Angola,Chad,False,2,False,True,40,1.0
+2003-11-16,Benin,Madagascar,False,1,False,True,40,1.0
+2003-11-16,Cape Verde,Swaziland,False,3,False,True,40,1.0
+2003-11-16,England,Denmark,False,1,False,False,20,0.0
+2003-11-16,Eritrea,Sudan,False,0,True,False,40,0.5
+2003-11-16,Ghana,Somalia,False,5,False,True,40,1.0
+2003-11-16,Honduras,Finland,True,1,False,False,20,0.0
+2003-11-16,Italy,Romania,False,1,False,True,20,1.0
+2003-11-16,Jamaica,El Salvador,False,3,False,True,20,1.0
+2003-11-16,Lesotho,Botswana,False,0,True,False,40,0.5
+2003-11-16,Liberia,Gambia,False,3,False,True,40,1.0
+2003-11-16,Libya,São Tomé and Príncipe,False,8,False,True,40,1.0
+2003-11-16,Mauritius,Uganda,False,2,False,True,40,1.0
+2003-11-16,Mozambique,Guinea,False,1,False,False,40,0.0
+2003-11-16,Peru,Brazil,False,0,True,False,40,0.5
+2003-11-16,Poland,Serbia,False,1,False,True,20,1.0
+2003-11-16,Sierra Leone,Congo,False,0,True,False,40,0.5
+2003-11-16,Togo,Equatorial Guinea,False,2,False,True,40,1.0
+2003-11-17,Tajikistan,Uzbekistan,True,3,False,False,40,0.0
+2003-11-17,Thailand,Hong Kong,False,4,False,True,40,1.0
+2003-11-18,Chile,Paraguay,False,1,False,False,40,0.0
+2003-11-18,Egypt,Sweden,False,1,False,True,20,1.0
+2003-11-18,Ireland,Canada,False,3,False,True,20,1.0
+2003-11-18,Jordan,Korea DPR,False,3,False,True,40,1.0
+2003-11-18,Korea Republic,Bulgaria,False,1,False,False,20,0.0
+2003-11-18,United Arab Emirates,Sri Lanka,False,2,False,True,40,1.0
+2003-11-18,Venezuela,Bolivia,False,1,False,True,40,1.0
+2003-11-19,Brazil,Uruguay,False,0,True,False,40,0.5
+2003-11-19,Colombia,Argentina,False,0,True,False,40,0.5
+2003-11-19,Costa Rica,Finland,False,1,False,True,20,1.0
+2003-11-19,Ecuador,Peru,False,0,True,False,40,0.5
+2003-11-19,Ghana,Somalia,False,2,False,True,40,1.0
+2003-11-19,Hong Kong,Uzbekistan,True,1,False,False,40,0.0
+2003-11-19,Hungary,Estonia,False,1,False,False,20,0.0
+2003-11-19,Japan,Cameroon,False,0,True,False,20,0.5
+2003-11-19,Lebanon,Iran,False,3,False,False,40,0.0
+2003-11-19,Mexico,Iceland,True,0,True,False,20,0.5
+2003-11-19,Morocco,Mali,False,1,False,False,20,0.0
+2003-11-19,Netherlands,Scotland,False,6,False,True,40,1.0
+2003-11-19,Norway,Spain,False,3,False,False,40,0.0
+2003-11-19,Portugal,Kuwait,False,8,False,True,20,1.0
+2003-11-19,Qatar,Singapore,False,2,False,True,40,1.0
+2003-11-19,Slovenia,Croatia,False,1,False,False,40,0.0
+2003-11-19,Thailand,Tajikistan,False,1,False,True,40,1.0
+2003-11-19,Trinidad and Tobago,Cuba,False,1,False,True,20,1.0
+2003-11-19,Tunisia,South Africa,False,2,False,True,20,1.0
+2003-11-19,Turkey,Latvia,False,0,True,False,40,0.5
+2003-11-19,Turkmenistan,Afghanistan,False,11,False,True,40,1.0
+2003-11-19,Wales,Russia,False,1,False,False,40,0.0
+2003-11-20,Luxembourg,Moldova,False,1,False,False,20,0.0
+2003-11-21,Tajikistan,Hong Kong,True,1,False,True,40,1.0
+2003-11-21,Thailand,Uzbekistan,False,3,False,True,40,1.0
+2003-11-22,United Arab Emirates,Sri Lanka,False,3,False,True,40,1.0
+2003-11-23,Afghanistan,Turkmenistan,False,2,False,False,40,0.0
+2003-11-26,Bangladesh,Tajikistan,False,2,False,False,40,0.0
+2003-11-28,Iran,Lebanon,False,1,False,True,40,1.0
+2003-11-28,Syria,Turkmenistan,False,0,True,False,40,0.5
+2003-11-29,Laos,Sri Lanka,False,0,True,False,40,0.5
+2003-11-29,Macau,Taiwan,False,2,False,False,40,0.0
+2003-11-29,Mongolia,Maldives,False,1,False,False,40,0.0
+2003-11-29,Pakistan,Kyrgyzstan,False,2,False,False,40,0.0
+2003-11-29,Singapore,Qatar,False,2,False,False,20,0.0
+2003-11-30,Sudan,Zanzibar,False,4,False,True,30,1.0
+2003-11-30,Tajikistan,Bangladesh,False,2,False,True,40,1.0
+2003-11-30,Uganda,Eritrea,True,1,False,True,30,1.0
+2003-12-02,Kenya,Eritrea,True,1,False,True,30,1.0
+2003-12-02,Rwanda,Zanzibar,True,0,True,False,30,0.5
+2003-12-03,Kyrgyzstan,Pakistan,False,4,False,True,40,1.0
+2003-12-03,Maldives,Mongolia,False,12,False,True,40,1.0
+2003-12-03,Sri Lanka,Laos,False,3,False,True,40,1.0
+2003-12-04,Hong Kong,Korea Republic,True,2,False,False,30,0.0
+2003-12-04,Japan,China,False,2,False,True,30,1.0
+2003-12-04,Sudan,Rwanda,False,3,False,True,30,1.0
+2003-12-04,Uganda,Kenya,True,0,True,False,30,0.5
+2003-12-05,Congo,Gabon,False,1,False,True,20,1.0
+2003-12-07,Korea Republic,China,True,1,False,True,30,1.0
+2003-12-08,Kenya,Rwanda,True,0,True,False,30,0.5
+2003-12-08,Sudan,Uganda,False,0,True,False,30,0.5
+2003-12-09,Congo,Gabon,False,0,True,False,20,0.5
+2003-12-10,China,Hong Kong,True,2,False,True,30,1.0
+2003-12-10,Japan,Korea Republic,False,0,True,False,30,0.5
+2003-12-10,Sudan,Kenya,False,1,False,False,30,0.0
+2003-12-10,Uganda,Rwanda,True,2,False,True,30,1.0
+2003-12-11,Central African Republic,Gabon,True,2,False,True,20,1.0
+2003-12-11,Malta,Poland,False,4,False,False,20,0.0
+2003-12-12,Bahrain,Iraq,False,0,True,False,30,0.5
+2003-12-12,Kenya,Egypt,True,1,False,False,30,0.0
+2003-12-13,Botswana,Zimbabwe,False,2,False,False,20,0.0
+2003-12-13,Congo,Gabon,False,1,False,True,20,1.0
+2003-12-14,Lithuania,Poland,True,2,False,False,20,0.0
+2003-12-14,United Arab Emirates,Azerbaijan,False,0,True,False,20,0.5
+2003-12-15,Bahrain,Egypt,False,1,False,False,30,0.0
+2003-12-15,Iraq,Kenya,True,2,False,True,30,1.0
+2003-12-16,Kuwait,Lebanon,True,2,False,True,20,1.0
+2003-12-18,Bahrain,Kenya,False,1,False,True,30,1.0
+2003-12-18,Egypt,Iraq,True,2,False,True,30,1.0
+2003-12-18,Kuwait,Lebanon,True,0,True,False,20,0.5
+2003-12-20,Latvia,Kuwait,True,2,False,False,20,0.0
+2003-12-20,Oman,Estonia,False,2,False,True,20,1.0
+2003-12-20,Saudi Arabia,Azerbaijan,False,1,False,True,20,1.0
+2003-12-21,Qatar,Iraq,False,0,True,False,20,0.5
+2003-12-21,United Arab Emirates,Kenya,False,0,True,False,20,0.5
+2003-12-26,Bermuda,Barbados,False,1,False,False,20,0.0
+2003-12-26,Kuwait,Oman,False,0,True,False,30,0.5
+2003-12-26,United Arab Emirates,Saudi Arabia,True,2,False,False,30,0.0
+2003-12-27,Bahamas,Haiti,True,6,False,False,20,0.0
+2003-12-27,Bahrain,Qatar,True,0,True,False,30,0.5
+2003-12-28,Yemen,Oman,True,0,True,False,30,0.5
+2003-12-29,Kuwait,United Arab Emirates,False,2,False,False,30,0.0
+2003-12-29,Saudi Arabia,Qatar,True,0,True,False,30,0.5
+2003-12-30,Bahrain,Yemen,True,4,False,True,30,1.0
+2003-12-31,Oman,United Arab Emirates,True,2,False,True,30,1.0
+2004-01-01,Bahrain,Saudi Arabia,True,1,False,False,30,0.0
+2004-01-01,Bermuda,Barbados,False,4,False,False,20,0.0
+2004-01-01,Kuwait,Yemen,False,4,False,True,30,1.0
+2004-01-03,Oman,Bahrain,True,1,False,False,30,0.0
+2004-01-03,United Arab Emirates,Qatar,True,0,True,False,30,0.5
+2004-01-04,Kuwait,Saudi Arabia,False,0,True,False,30,0.5
+2004-01-05,Qatar,Yemen,True,3,False,True,30,1.0
+2004-01-06,Oman,Saudi Arabia,True,1,False,False,30,0.0
+2004-01-07,United Arab Emirates,Bahrain,True,2,False,False,30,0.0
+2004-01-08,Cuba,Martinique,False,0,True,False,20,0.5
+2004-01-08,Egypt,Rwanda,False,4,False,True,20,1.0
+2004-01-08,Kuwait,Qatar,False,1,False,False,30,0.0
+2004-01-08,Yemen,Saudi Arabia,True,2,False,False,30,0.0
+2004-01-10,Kuwait,Bahrain,False,4,False,False,30,0.0
+2004-01-10,Mauritius,South Africa,False,2,False,True,30,1.0
+2004-01-10,Suriname,Curaçao,False,0,True,False,20,0.5
+2004-01-11,Barbados,Grenada,False,2,False,True,20,1.0
+2004-01-11,Oman,Qatar,True,2,False,True,30,1.0
+2004-01-11,Yemen,United Arab Emirates,True,3,False,False,30,0.0
+2004-01-14,Egypt,Congo DR,False,0,True,False,20,0.5
+2004-01-14,Tunisia,Benin,False,2,False,True,20,1.0
+2004-01-15,Algeria,Mali,False,2,False,False,20,0.0
+2004-01-16,Libya,Kenya,False,2,False,True,20,1.0
+2004-01-17,Curaçao,Suriname,False,2,False,True,20,1.0
+2004-01-17,Egypt,Burkina Faso,False,0,True,False,20,0.5
+2004-01-17,Tunisia,Benin,False,1,False,True,20,1.0
+2004-01-18,Barbados,Canada,False,1,False,False,20,0.0
+2004-01-18,Guadeloupe,St. Lucia,False,2,False,True,20,1.0
+2004-01-18,Senegal,South Africa,False,1,False,True,20,1.0
+2004-01-19,Libya,Kenya,False,2,False,True,20,1.0
+2004-01-20,Guinea,Burkina Faso,True,1,False,True,20,1.0
+2004-01-22,Sweden,Norway,True,3,False,False,30,0.0
+2004-01-24,Tunisia,Rwanda,False,1,False,True,50,1.0
+2004-01-25,Cameroon,Algeria,True,0,True,False,50,0.5
+2004-01-25,Congo DR,Guinea,True,1,False,False,50,0.0
+2004-01-25,Norway,Honduras,True,2,False,True,30,1.0
+2004-01-25,Zimbabwe,Egypt,True,1,False,False,50,0.0
+2004-01-26,Kenya,Mali,True,2,False,False,50,0.0
+2004-01-26,Senegal,Burkina Faso,True,0,True,False,50,0.5
+2004-01-27,China,Macedonia,False,0,True,False,20,0.5
+2004-01-27,Nigeria,Morocco,True,1,False,False,50,0.0
+2004-01-27,South Africa,Benin,True,2,False,True,50,1.0
+2004-01-28,British Virgin Islands,Dominica,False,1,False,False,20,0.0
+2004-01-28,Curaçao,Aruba,False,5,False,True,20,1.0
+2004-01-28,El Salvador,Panama,False,0,True,False,20,0.5
+2004-01-28,Rwanda,Guinea,True,0,True,False,50,0.5
+2004-01-28,Singapore,Norway,False,3,False,False,20,0.0
+2004-01-28,Tunisia,Congo DR,False,3,False,True,50,1.0
+2004-01-29,Algeria,Egypt,True,1,False,True,50,1.0
+2004-01-29,Cameroon,Zimbabwe,True,2,False,True,50,1.0
+2004-01-29,China,Macedonia,False,1,False,True,20,1.0
+2004-01-30,British Virgin Islands,Virgin Islands,False,5,False,True,20,1.0
+2004-01-30,Burkina Faso,Mali,True,2,False,False,50,0.0
+2004-01-30,Senegal,Kenya,True,3,False,True,50,1.0
+2004-01-31,Dominica,Virgin Islands,True,5,False,True,20,1.0
+2004-01-31,Grenada,Barbados,False,1,False,False,20,0.0
+2004-01-31,Haiti,Nicaragua,True,0,True,False,20,0.5
+2004-01-31,Morocco,Benin,True,4,False,True,50,1.0
+2004-01-31,Nigeria,South Africa,True,4,False,True,50,1.0
+2004-02-01,British Virgin Islands,Dominica,False,1,False,False,20,0.0
+2004-02-01,Rwanda,Congo DR,True,1,False,True,50,1.0
+2004-02-01,Tunisia,Guinea,False,0,True,False,50,0.5
+2004-02-02,Burkina Faso,Kenya,True,3,False,False,50,0.0
+2004-02-02,Senegal,Mali,True,0,True,False,50,0.5
+2004-02-03,Algeria,Zimbabwe,True,1,False,False,50,0.0
+2004-02-03,Cameroon,Egypt,True,0,True,False,50,0.5
+2004-02-03,China,Finland,False,1,False,True,20,1.0
+2004-02-04,Morocco,South Africa,True,0,True,False,50,0.5
+2004-02-04,Nigeria,Benin,True,1,False,True,50,1.0
+2004-02-07,China,Finland,False,1,False,True,20,1.0
+2004-02-07,Japan,Malaysia,False,4,False,True,20,1.0
+2004-02-07,Mali,Guinea,True,1,False,True,50,1.0
+2004-02-07,Tunisia,Senegal,False,1,False,True,50,1.0
+2004-02-08,Cameroon,Nigeria,True,1,False,False,50,0.0
+2004-02-08,Lebanon,Bahrain,False,1,False,True,20,1.0
+2004-02-08,Morocco,Algeria,True,2,False,True,50,1.0
+2004-02-08,St. Lucia,St. Vincent and the Grenadines,False,1,False,False,20,0.0
+2004-02-10,Bermuda,Trinidad and Tobago,False,1,False,False,20,0.0
+2004-02-11,Morocco,Mali,True,4,False,True,50,1.0
+2004-02-11,Tunisia,Nigeria,False,0,True,False,50,0.5
+2004-02-12,Bermuda,Trinidad and Tobago,False,0,True,False,20,0.5
+2004-02-12,Japan,Iraq,False,2,False,True,20,1.0
+2004-02-12,Jordan,Indonesia,False,1,False,True,20,1.0
+2004-02-13,Nigeria,Mali,True,1,False,True,50,1.0
+2004-02-13,Qatar,Bahrain,False,2,False,True,20,1.0
+2004-02-14,Korea Republic,Oman,False,5,False,True,20,1.0
+2004-02-14,Malta,Moldova,False,0,True,False,30,0.5
+2004-02-14,Tunisia,Morocco,False,1,False,True,50,1.0
+2004-02-15,Barbados,Guyana,False,2,False,False,20,0.0
+2004-02-16,Malta,Estonia,False,3,False,True,30,1.0
+2004-02-18,Albania,Sweden,False,1,False,True,20,1.0
+2004-02-18,Antigua and Barbuda,Curaçao,False,2,False,True,40,1.0
+2004-02-18,Bahrain,Syria,False,1,False,True,40,1.0
+2004-02-18,Belgium,France,False,2,False,False,20,0.0
+2004-02-18,China,Kuwait,False,1,False,True,40,1.0
+2004-02-18,Croatia,Germany,False,1,False,False,20,0.0
+2004-02-18,Cyprus,Belarus,False,2,False,False,30,0.0
+2004-02-18,Estonia,Moldova,True,1,False,True,30,1.0
+2004-02-18,Greece,Bulgaria,False,2,False,True,20,1.0
+2004-02-18,Haiti,Turks and Caicos Islands,True,5,False,True,40,1.0
+2004-02-18,Honduras,Colombia,False,0,True,False,20,0.5
+2004-02-18,Hungary,Armenia,True,2,False,True,30,1.0
+2004-02-18,India,Singapore,False,1,False,True,40,1.0
+2004-02-18,Iran,Qatar,False,2,False,True,40,1.0
+2004-02-18,Ireland,Brazil,False,0,True,False,20,0.5
+2004-02-18,Italy,Czech Republic,False,0,True,False,20,0.5
+2004-02-18,Jamaica,Uruguay,False,2,False,True,20,1.0
+2004-02-18,Japan,Oman,False,1,False,True,40,1.0
+2004-02-18,Jordan,Laos,False,5,False,True,40,1.0
+2004-02-18,Korea Republic,Lebanon,False,2,False,True,40,1.0
+2004-02-18,Kyrgyzstan,Tajikistan,False,1,False,False,40,0.0
+2004-02-18,Latvia,Kazakhstan,True,2,False,True,30,1.0
+2004-02-18,Libya,Ukraine,False,0,True,False,20,0.5
+2004-02-18,Macedonia,Bosnia-Herzegovina,False,1,False,True,20,1.0
+2004-02-18,Malaysia,Hong Kong,False,2,False,False,40,0.0
+2004-02-18,Mexico,Chile,True,0,True,False,20,0.5
+2004-02-18,Morocco,Switzerland,False,1,False,True,20,1.0
+2004-02-18,Netherlands,USA,False,1,False,True,20,1.0
+2004-02-18,Northern Ireland,Norway,False,3,False,False,20,0.0
+2004-02-18,Palestine,Taiwan,True,8,False,True,40,1.0
+2004-02-18,Poland,Slovenia,True,2,False,True,20,1.0
+2004-02-18,Portugal,England,False,0,True,False,20,0.5
+2004-02-18,Romania,Georgia,True,3,False,True,30,1.0
+2004-02-18,Saudi Arabia,Indonesia,False,3,False,True,40,1.0
+2004-02-18,Spain,Peru,False,1,False,True,20,1.0
+2004-02-18,Turkmenistan,Sri Lanka,False,2,False,True,40,1.0
+2004-02-18,United Arab Emirates,Thailand,False,1,False,True,40,1.0
+2004-02-18,Uzbekistan,Iraq,False,0,True,False,40,0.5
+2004-02-18,Venezuela,Australia,False,0,True,False,20,0.5
+2004-02-18,Vietnam,Maldives,False,4,False,True,40,1.0
+2004-02-18,Virgin Islands,St. Kitts and Nevis,False,4,False,False,40,0.0
+2004-02-18,Wales,Scotland,False,4,False,True,20,1.0
+2004-02-18,Yemen,Korea DPR,False,0,True,False,40,0.5
+2004-02-19,Cyprus,Georgia,False,2,False,True,30,1.0
+2004-02-19,Kazakhstan,Armenia,True,0,True,False,30,0.5
+2004-02-19,Latvia,Hungary,True,1,False,False,30,0.0
+2004-02-21,Belarus,Latvia,True,3,False,True,30,1.0
+2004-02-21,Cyprus,Kazakhstan,False,1,False,True,30,1.0
+2004-02-21,Georgia,Armenia,True,2,False,False,30,0.0
+2004-02-21,Poland,Faroe Islands,True,6,False,True,20,1.0
+2004-02-21,Turks and Caicos Islands,Haiti,True,2,False,False,40,0.0
+2004-02-22,British Virgin Islands,St. Lucia,False,1,False,False,40,0.0
+2004-02-22,Cayman Islands,Cuba,False,1,False,False,40,0.0
+2004-02-24,Faroe Islands,Luxembourg,True,2,False,True,20,1.0
+2004-02-28,Aruba,Suriname,False,1,False,False,40,0.0
+2004-02-28,Grenada,Guyana,False,5,False,True,40,1.0
+2004-02-28,Lesotho,Botswana,False,0,True,False,30,0.5
+2004-02-29,Bermuda,Montserrat,False,13,False,True,40,1.0
+2004-02-29,Nicaragua,Haiti,False,0,True,False,20,0.5
+2004-03-02,Trinidad and Tobago,Guyana,False,1,False,True,20,1.0
+2004-03-10,Mexico,Ecuador,False,1,False,True,20,1.0
+2004-03-10,Venezuela,Honduras,False,1,False,True,20,1.0
+2004-03-12,Barbados,Dominica,False,1,False,True,20,1.0
+2004-03-13,USA,Haiti,False,0,True,False,20,0.5
+2004-03-14,Guyana,Grenada,False,2,False,False,40,0.0
+2004-03-16,Cuba,Panama,False,0,True,False,20,0.5
+2004-03-17,China,Burma,False,2,False,True,20,1.0
+2004-03-17,Malaysia,Indonesia,False,0,True,False,20,0.5
+2004-03-17,Yemen,Turkmenistan,False,1,False,False,20,0.0
+2004-03-18,Cuba,Panama,False,3,False,True,20,1.0
+2004-03-19,Dominican Republic,Anguilla,False,0,True,False,40,0.5
+2004-03-20,St. Kitts and Nevis,British Virgin Islands,False,4,False,True,20,1.0
+2004-03-21,Bahrain,Jordan,False,0,True,False,20,0.5
+2004-03-21,Dominican Republic,Anguilla,False,6,False,True,40,1.0
+2004-03-21,Montserrat,Bermuda,False,7,False,False,40,0.0
+2004-03-21,St. Kitts and Nevis,Antigua and Barbuda,False,1,False,False,20,0.0
+2004-03-21,St. Vincent and the Grenadines,St. Lucia,False,0,True,False,20,0.5
+2004-03-23,Bahrain,Jordan,False,2,False,False,20,0.0
+2004-03-23,Lebanon,Syria,False,1,False,False,20,0.0
+2004-03-26,Bahamas,Dominica,False,0,True,False,40,0.5
+2004-03-26,Libya,Qatar,True,1,False,True,20,1.0
+2004-03-26,Syria,Palestine,False,0,True,False,20,0.5
+2004-03-27,Cuba,Cayman Islands,False,3,False,True,40,1.0
+2004-03-27,Suriname,Aruba,False,7,False,True,40,1.0
+2004-03-28,Bahamas,Dominica,False,2,False,False,40,0.0
+2004-03-28,St. Lucia,British Virgin Islands,False,9,False,True,40,1.0
+2004-03-30,Argentina,Ecuador,False,1,False,True,40,1.0
+2004-03-30,Australia,South Africa,True,1,False,True,20,1.0
+2004-03-30,Bolivia,Chile,False,2,False,False,40,0.0
+2004-03-30,Israel,Lithuania,False,1,False,True,20,1.0
+2004-03-31,Albania,Iceland,False,1,False,True,20,1.0
+2004-03-31,Bermuda,Nicaragua,False,3,False,True,20,1.0
+2004-03-31,Bulgaria,Russia,False,0,True,False,20,0.5
+2004-03-31,Croatia,Turkey,False,0,True,False,20,0.5
+2004-03-31,Curaçao,Antigua and Barbuda,True,3,False,True,40,1.0
+2004-03-31,Egypt,Trinidad and Tobago,False,1,False,True,20,1.0
+2004-03-31,El Salvador,Guatemala,False,3,False,False,20,0.0
+2004-03-31,Germany,Belgium,False,3,False,True,20,1.0
+2004-03-31,Greece,Switzerland,False,1,False,True,20,1.0
+2004-03-31,Hong Kong,China,False,1,False,False,40,0.0
+2004-03-31,India,Oman,False,4,False,False,40,0.0
+2004-03-31,Ireland,Czech Republic,False,1,False,True,20,1.0
+2004-03-31,Jamaica,Honduras,False,0,True,False,20,0.5
+2004-03-31,Jordan,Qatar,False,1,False,True,40,1.0
+2004-03-31,Korea DPR,United Arab Emirates,False,0,True,False,40,0.5
+2004-03-31,Kyrgyzstan,Syria,False,0,True,False,40,0.5
+2004-03-31,Laos,Iran,False,7,False,False,40,0.0
+2004-03-31,Luxembourg,Bosnia-Herzegovina,False,1,False,False,20,0.0
+2004-03-31,Macedonia,Ukraine,False,1,False,True,20,1.0
+2004-03-31,Malaysia,Kuwait,False,2,False,False,40,0.0
+2004-03-31,Maldives,Korea Republic,False,0,True,False,40,0.5
+2004-03-31,Malta,Finland,False,1,False,False,20,0.0
+2004-03-31,Mexico,Costa Rica,True,2,False,True,20,1.0
+2004-03-31,Moldova,Azerbaijan,False,1,False,True,20,1.0
+2004-03-31,Morocco,Angola,False,2,False,True,20,1.0
+2004-03-31,Netherlands,France,False,0,True,False,20,0.5
+2004-03-31,Palestine,Iraq,True,0,True,False,40,0.5
+2004-03-31,Paraguay,Brazil,False,0,True,False,40,0.5
+2004-03-31,Peru,Colombia,False,2,False,False,40,0.0
+2004-03-31,Poland,USA,False,1,False,False,20,0.0
+2004-03-31,Portugal,Italy,False,1,False,False,20,0.0
+2004-03-31,Scotland,Romania,False,1,False,False,20,0.0
+2004-03-31,Serbia,Norway,False,1,False,False,20,0.0
+2004-03-31,Singapore,Japan,False,1,False,False,40,0.0
+2004-03-31,Slovakia,Austria,False,0,True,False,20,0.5
+2004-03-31,Slovenia,Latvia,False,1,False,False,20,0.0
+2004-03-31,Spain,Denmark,False,2,False,True,20,1.0
+2004-03-31,Sri Lanka,Saudi Arabia,False,1,False,False,40,0.0
+2004-03-31,St. Kitts and Nevis,Virgin Islands,False,7,False,True,40,1.0
+2004-03-31,Sweden,England,False,1,False,True,20,1.0
+2004-03-31,Tajikistan,Bahrain,False,0,True,False,40,0.5
+2004-03-31,Tunisia,Ivory Coast,False,2,False,False,20,0.0
+2004-03-31,Turkmenistan,Indonesia,False,2,False,True,40,1.0
+2004-03-31,Uruguay,Venezuela,False,3,False,False,40,0.0
+2004-03-31,Vietnam,Lebanon,False,2,False,False,40,0.0
+2004-03-31,Yemen,Thailand,False,3,False,False,40,0.0
+2004-04-02,Bermuda,Nicaragua,False,1,False,True,20,1.0
+2004-04-03,Vanuatu,Solomon Islands,False,1,False,False,20,0.0
+2004-04-06,Vanuatu,Solomon Islands,False,1,False,False,20,0.0
+2004-04-07,Honduras,Panama,False,0,True,False,20,0.5
+2004-04-11,Mozambique,Swaziland,False,2,False,True,20,1.0
+2004-04-14,Andorra,China,True,0,True,False,20,0.5
+2004-04-18,Mozambique,Madagascar,False,2,False,True,30,1.0
+2004-04-19,Sudan,Syria,False,1,False,False,20,0.0
+2004-04-21,Sudan,Syria,False,0,True,False,20,0.5
+2004-04-25,Hungary,Japan,False,1,False,True,20,1.0
+2004-04-27,Curaçao,Dominican Republic,False,2,False,True,20,1.0
+2004-04-28,Algeria,China,True,1,False,False,20,0.0
+2004-04-28,Armenia,Turkmenistan,False,1,False,True,20,1.0
+2004-04-28,Austria,Luxembourg,False,3,False,True,20,1.0
+2004-04-28,Belarus,Lithuania,False,1,False,True,20,1.0
+2004-04-28,Belgium,Turkey,False,1,False,False,20,0.0
+2004-04-28,Bosnia-Herzegovina,Finland,False,1,False,True,20,1.0
+2004-04-28,Bulgaria,Cameroon,False,3,False,True,20,1.0
+2004-04-28,Chile,Peru,False,0,True,False,20,0.5
+2004-04-28,Czech Republic,Japan,False,1,False,False,20,0.0
+2004-04-28,Denmark,Scotland,False,1,False,True,20,1.0
+2004-04-28,El Salvador,Colombia,True,2,False,False,20,0.0
+2004-04-28,Estonia,Albania,False,0,True,False,20,0.5
+2004-04-28,Ghana,Angola,False,0,True,False,20,0.5
+2004-04-28,Honduras,Ecuador,True,0,True,False,20,0.5
+2004-04-28,Hungary,Brazil,False,3,False,False,20,0.0
+2004-04-28,Israel,Moldova,False,0,True,False,20,0.5
+2004-04-28,Italy,Spain,False,0,True,False,20,0.5
+2004-04-28,Ivory Coast,Guinea,True,2,False,True,20,1.0
+2004-04-28,Jamaica,Venezuela,False,1,False,True,20,1.0
+2004-04-28,Kazakhstan,Azerbaijan,False,1,False,False,20,0.0
+2004-04-28,Korea Republic,Paraguay,False,0,True,False,20,0.5
+2004-04-28,Latvia,Iceland,False,0,True,False,20,0.5
+2004-04-28,Macedonia,Croatia,False,1,False,False,20,0.0
+2004-04-28,Morocco,Argentina,False,1,False,False,20,0.0
+2004-04-28,Namibia,Botswana,False,0,True,False,20,0.5
+2004-04-28,Netherlands,Greece,False,4,False,True,20,1.0
+2004-04-28,Northern Ireland,Serbia,False,0,True,False,20,0.5
+2004-04-28,Norway,Russia,False,1,False,True,20,1.0
+2004-04-28,Panama,Bermuda,False,3,False,True,20,1.0
+2004-04-28,Poland,Ireland,False,0,True,False,20,0.5
+2004-04-28,Portugal,Sweden,False,0,True,False,20,0.5
+2004-04-28,Romania,Germany,False,4,False,True,20,1.0
+2004-04-28,San Marino,Liechtenstein,False,1,False,True,20,1.0
+2004-04-28,Switzerland,Slovenia,False,1,False,True,20,1.0
+2004-04-28,Tunisia,Mali,False,1,False,True,20,1.0
+2004-04-28,Ukraine,Slovakia,False,0,True,False,20,0.5
+2004-04-28,USA,Mexico,False,1,False,True,20,1.0
+2004-04-30,Libya,Jordan,True,1,False,True,20,1.0
+2004-04-30,Nicaragua,Bermuda,False,2,False,True,20,1.0
+2004-05-01,Guatemala,Panama,False,1,False,False,20,0.0
+2004-05-01,Zambia,Zimbabwe,False,0,True,False,20,0.5
+2004-05-02,Nicaragua,Bermuda,False,2,False,True,20,1.0
+2004-05-03,Jersey,Guernsey,False,3,False,True,20,1.0
+2004-05-05,Cook Islands,Samoa,True,0,True,False,20,0.5
+2004-05-05,Guatemala,Haiti,False,1,False,True,20,1.0
+2004-05-08,Grenada,St. Vincent and the Grenadines,False,0,True,False,20,0.5
+2004-05-09,Angola,Namibia,False,1,False,True,30,1.0
+2004-05-10,Papua New Guinea,Vanuatu,True,0,True,False,40,0.5
+2004-05-10,Samoa,American Samoa,False,4,False,True,40,1.0
+2004-05-10,Solomon Islands,Tonga,False,6,False,True,40,1.0
+2004-05-10,Tahiti,Cook Islands,True,2,False,True,40,1.0
+2004-05-12,American Samoa,Vanuatu,True,8,False,False,40,0.0
+2004-05-12,El Salvador,Haiti,True,0,True,False,20,0.5
+2004-05-12,Fiji,Papua New Guinea,True,2,False,True,40,1.0
+2004-05-12,Solomon Islands,Cook Islands,False,5,False,True,40,1.0
+2004-05-12,Tahiti,New Caledonia,True,0,True,False,40,0.5
+2004-05-15,Fiji,American Samoa,True,11,False,True,40,1.0
+2004-05-15,Samoa,Vanuatu,False,3,False,False,40,0.0
+2004-05-15,Solomon Islands,New Caledonia,False,2,False,True,40,1.0
+2004-05-15,Tonga,Cook Islands,True,1,False,True,40,1.0
+2004-05-16,Zimbabwe,Zambia,False,0,True,False,20,0.5
+2004-05-17,American Samoa,Papua New Guinea,True,10,False,False,40,0.0
+2004-05-17,New Caledonia,Cook Islands,True,8,False,True,40,1.0
+2004-05-17,Samoa,Fiji,False,4,False,False,40,0.0
+2004-05-17,Tahiti,Tonga,True,2,False,True,40,1.0
+2004-05-19,Cyprus,Jordan,False,0,True,False,20,0.5
+2004-05-19,Fiji,Vanuatu,True,3,False,False,40,0.0
+2004-05-19,New Caledonia,Tonga,True,8,False,True,40,1.0
+2004-05-19,Samoa,Papua New Guinea,False,3,False,False,40,0.0
+2004-05-19,Solomon Islands,Tahiti,False,0,True,False,40,0.5
+2004-05-20,Benin,Togo,False,1,False,False,20,0.0
+2004-05-20,Cuba,Grenada,False,0,True,False,20,0.5
+2004-05-20,France,Brazil,False,0,True,False,20,0.5
+2004-05-21,Australia,Turkey,False,2,False,False,20,0.0
+2004-05-22,Sudan,Uganda,False,1,False,True,20,1.0
+2004-05-22,Zambia,Malawi,False,2,False,False,20,0.0
+2004-05-23,Congo DR,Angola,False,2,False,False,20,0.0
+2004-05-23,St. Kitts and Nevis,St. Vincent and the Grenadines,False,1,False,True,20,1.0
+2004-05-23,Togo,Benin,False,0,True,False,20,0.5
+2004-05-23,Trinidad and Tobago,Iraq,True,2,False,True,20,1.0
+2004-05-24,Australia,Turkey,False,1,False,False,20,0.0
+2004-05-24,Egypt,Zimbabwe,False,2,False,True,20,1.0
+2004-05-25,Austria,Russia,False,0,True,False,20,0.5
+2004-05-25,Sudan,Zambia,False,2,False,False,20,0.0
+2004-05-26,Benin,Burkina Faso,False,1,False,True,20,1.0
+2004-05-26,Lebanon,Bahrain,False,0,True,False,20,0.5
+2004-05-26,Mozambique,Botswana,False,0,True,False,20,0.5
+2004-05-27,Estonia,Scotland,False,1,False,False,20,0.0
+2004-05-27,Georgia,Israel,False,1,False,False,20,0.0
+2004-05-27,Germany,Malta,False,7,False,True,20,1.0
+2004-05-27,Ireland,Romania,False,1,False,True,20,1.0
+2004-05-27,Norway,Wales,False,0,True,False,20,0.5
+2004-05-28,Azerbaijan,Uzbekistan,False,2,False,True,20,1.0
+2004-05-28,Finland,Sweden,False,2,False,False,20,0.0
+2004-05-28,France,Andorra,False,4,False,True,20,1.0
+2004-05-28,Mali,Morocco,False,0,True,False,20,0.5
+2004-05-28,Rwanda,Uganda,False,0,True,False,20,0.5
+2004-05-29,Australia,New Zealand,False,1,False,True,40,1.0
+2004-05-29,Croatia,Slovakia,False,1,False,True,20,1.0
+2004-05-29,Egypt,Gabon,False,2,False,True,20,1.0
+2004-05-29,Ireland,Nigeria,True,3,False,False,20,0.0
+2004-05-29,Netherlands,Belgium,False,1,False,False,20,0.0
+2004-05-29,Poland,Greece,False,1,False,True,20,1.0
+2004-05-29,Portugal,Luxembourg,False,3,False,True,20,1.0
+2004-05-29,Senegal,Guinea,True,0,True,False,20,0.5
+2004-05-29,Tahiti,Fiji,True,0,True,False,40,0.5
+2004-05-29,Vanuatu,Solomon Islands,True,1,False,False,40,0.0
+2004-05-30,Algeria,Jordan,False,0,True,False,20,0.5
+2004-05-30,Barbados,Northern Ireland,False,0,True,False,20,0.5
+2004-05-30,Burkina Faso,Libya,False,1,False,True,20,1.0
+2004-05-30,Estonia,Denmark,False,0,True,False,20,0.5
+2004-05-30,Iceland,Japan,True,1,False,False,20,0.0
+2004-05-30,Scotland,Trinidad and Tobago,False,3,False,True,20,1.0
+2004-05-30,St. Vincent and the Grenadines,Martinique,False,2,False,True,20,1.0
+2004-05-30,Tunisia,Italy,False,4,False,False,20,0.0
+2004-05-30,Wales,Canada,False,1,False,True,20,1.0
+2004-05-31,Australia,Tahiti,False,9,False,True,40,1.0
+2004-05-31,Fiji,Vanuatu,True,1,False,True,40,1.0
+2004-05-31,Mozambique,Swaziland,False,0,True,False,20,0.5
+2004-05-31,New Zealand,Solomon Islands,True,3,False,True,40,1.0
+2004-05-31,Nigeria,Jamaica,True,2,False,True,20,1.0
+2004-05-31,Oman,Maldives,False,3,False,True,20,1.0
+2004-05-31,Qatar,Turkmenistan,False,5,False,True,20,1.0
+2004-05-31,United Arab Emirates,Bahrain,False,1,False,False,20,0.0
+2004-06-01,Bolivia,Paraguay,False,1,False,True,40,1.0
+2004-06-01,China,Hungary,False,1,False,True,20,1.0
+2004-06-01,England,Japan,False,0,True,False,20,0.5
+2004-06-01,Kuwait,Syria,False,1,False,False,20,0.0
+2004-06-01,Netherlands,Faroe Islands,True,3,False,True,20,1.0
+2004-06-01,Uruguay,Peru,False,2,False,False,40,0.0
+2004-06-01,Venezuela,Chile,False,1,False,False,40,0.0
+2004-06-02,Australia,Fiji,False,5,False,True,40,1.0
+2004-06-02,Brazil,Argentina,False,2,False,True,40,1.0
+2004-06-02,Czech Republic,Bulgaria,False,2,False,True,20,1.0
+2004-06-02,Ecuador,Colombia,False,1,False,True,40,1.0
+2004-06-02,Grenada,St. Lucia,False,2,False,True,20,1.0
+2004-06-02,Ireland,Jamaica,True,1,False,True,20,1.0
+2004-06-02,Korea Republic,Turkey,False,1,False,False,20,0.0
+2004-06-02,New Zealand,Vanuatu,True,2,False,False,40,0.0
+2004-06-02,St. Kitts and Nevis,Northern Ireland,False,2,False,False,20,0.0
+2004-06-02,Switzerland,Germany,False,2,False,False,20,0.0
+2004-06-02,Tahiti,Solomon Islands,True,4,False,False,40,0.0
+2004-06-02,USA,Honduras,False,4,False,True,20,1.0
+2004-06-03,Indonesia,India,False,0,True,False,20,0.5
+2004-06-03,Kuwait,Syria,False,1,False,False,20,0.0
+2004-06-03,Liechtenstein,Greece,False,2,False,False,20,0.0
+2004-06-03,Oman,Maldives,False,3,False,True,20,1.0
+2004-06-04,Australia,Vanuatu,False,3,False,True,40,1.0
+2004-06-04,Costa Rica,Nicaragua,False,4,False,True,20,1.0
+2004-06-04,Fiji,Solomon Islands,True,1,False,False,40,0.0
+2004-06-04,New Zealand,Tahiti,True,10,False,True,40,1.0
+2004-06-05,Algeria,Angola,False,0,True,False,40,0.5
+2004-06-05,Burkina Faso,Ghana,False,1,False,True,40,1.0
+2004-06-05,Denmark,Croatia,False,1,False,False,20,0.0
+2004-06-05,Ecuador,Bolivia,False,1,False,True,40,1.0
+2004-06-05,England,Iceland,False,5,False,True,20,1.0
+2004-06-05,Gabon,Zimbabwe,False,0,True,False,40,0.5
+2004-06-05,Korea Republic,Turkey,False,1,False,True,20,1.0
+2004-06-05,Malawi,Morocco,False,0,True,False,40,0.5
+2004-06-05,Netherlands,Ireland,False,1,False,False,20,0.0
+2004-06-05,Nigeria,Rwanda,False,2,False,True,40,1.0
+2004-06-05,Portugal,Lithuania,False,3,False,True,20,1.0
+2004-06-05,Qatar,Kyrgyzstan,False,0,True,False,20,0.5
+2004-06-05,Senegal,Congo,False,2,False,True,40,1.0
+2004-06-05,South Africa,Cape Verde,False,1,False,True,40,1.0
+2004-06-05,Spain,Andorra,False,4,False,True,20,1.0
+2004-06-05,Sweden,Poland,False,2,False,True,20,1.0
+2004-06-05,Tunisia,Botswana,False,3,False,True,40,1.0
+2004-06-05,Zambia,Togo,False,1,False,True,40,1.0
+2004-06-06,Argentina,Paraguay,False,0,True,False,40,0.5
+2004-06-06,Australia,Solomon Islands,False,0,True,False,40,0.5
+2004-06-06,Cameroon,Benin,False,1,False,True,40,1.0
+2004-06-06,Chile,Brazil,False,0,True,False,40,0.5
+2004-06-06,Colombia,Uruguay,False,5,False,True,40,1.0
+2004-06-06,Czech Republic,Estonia,False,2,False,True,20,1.0
+2004-06-06,Fiji,New Zealand,True,2,False,False,40,0.0
+2004-06-06,France,Ukraine,False,1,False,True,20,1.0
+2004-06-06,Germany,Hungary,False,2,False,False,20,0.0
+2004-06-06,Ivory Coast,Libya,False,2,False,True,40,1.0
+2004-06-06,Latvia,Azerbaijan,False,0,True,False,20,0.5
+2004-06-06,Liberia,Mali,False,1,False,True,40,1.0
+2004-06-06,Peru,Venezuela,False,0,True,False,40,0.5
+2004-06-06,Sudan,Egypt,False,3,False,False,40,0.0
+2004-06-06,Switzerland,Liechtenstein,False,1,False,True,20,1.0
+2004-06-06,Tahiti,Vanuatu,True,1,False,True,40,1.0
+2004-06-06,Trinidad and Tobago,Northern Ireland,False,3,False,False,20,0.0
+2004-06-06,Uganda,Congo DR,False,1,False,True,40,1.0
+2004-06-09,Bahrain,Kyrgyzstan,False,5,False,True,40,1.0
+2004-06-09,China,Malaysia,False,4,False,True,40,1.0
+2004-06-09,Indonesia,Sri Lanka,False,1,False,True,40,1.0
+2004-06-09,Iran,Jordan,False,1,False,False,40,0.0
+2004-06-09,Iraq,Taiwan,True,5,False,True,40,1.0
+2004-06-09,Japan,India,False,7,False,True,40,1.0
+2004-06-09,Korea Republic,Vietnam,False,2,False,True,40,1.0
+2004-06-09,Kuwait,Hong Kong,False,4,False,True,40,1.0
+2004-06-09,Lebanon,Maldives,False,3,False,True,40,1.0
+2004-06-09,Oman,Singapore,False,7,False,True,40,1.0
+2004-06-09,Qatar,Laos,False,5,False,True,40,1.0
+2004-06-09,Saudi Arabia,Turkmenistan,False,3,False,True,40,1.0
+2004-06-09,Thailand,Korea DPR,False,3,False,False,40,0.0
+2004-06-09,United Arab Emirates,Yemen,False,3,False,True,40,1.0
+2004-06-09,Uzbekistan,Palestine,False,3,False,True,40,1.0
+2004-06-10,Syria,Tajikistan,False,1,False,True,40,1.0
+2004-06-11,Estonia,Macedonia,False,2,False,False,20,0.0
+2004-06-12,Cuba,Costa Rica,False,0,True,False,40,0.5
+2004-06-12,Curaçao,Honduras,True,1,False,False,40,0.0
+2004-06-12,Haiti,Jamaica,True,0,True,False,40,0.5
+2004-06-12,Portugal,Greece,False,1,False,False,50,0.0
+2004-06-12,Spain,Russia,True,1,False,True,50,1.0
+2004-06-12,Suriname,Guatemala,False,0,True,False,40,0.5
+2004-06-13,Barbados,St. Kitts and Nevis,False,2,False,False,40,0.0
+2004-06-13,Burkina Faso,Benin,False,2,False,True,20,1.0
+2004-06-13,Canada,Belize,False,4,False,True,40,1.0
+2004-06-13,Cape Verde,Senegal,False,2,False,False,20,0.0
+2004-06-13,Dominican Republic,Trinidad and Tobago,False,2,False,False,40,0.0
+2004-06-13,El Salvador,Bermuda,False,1,False,True,40,1.0
+2004-06-13,France,England,True,1,False,True,50,1.0
+2004-06-13,Mozambique,Malawi,False,2,False,True,30,1.0
+2004-06-13,Panama,St. Lucia,False,4,False,True,40,1.0
+2004-06-13,Switzerland,Croatia,True,0,True,False,50,0.5
+2004-06-13,USA,Grenada,False,3,False,True,40,1.0
+2004-06-14,Denmark,Italy,True,0,True,False,50,0.5
+2004-06-14,Ghana,Togo,False,0,True,False,20,0.5
+2004-06-14,Sweden,Bulgaria,True,5,False,True,50,1.0
+2004-06-15,Czech Republic,Latvia,True,1,False,True,50,1.0
+2004-06-15,Germany,Netherlands,True,0,True,False,50,0.5
+2004-06-16,Canada,Belize,False,4,False,True,40,1.0
+2004-06-16,Greece,Spain,True,0,True,False,50,0.5
+2004-06-16,Portugal,Russia,False,2,False,True,50,1.0
+2004-06-17,Croatia,France,True,0,True,False,50,0.5
+2004-06-17,England,Switzerland,True,3,False,True,50,1.0
+2004-06-17,Iran,Lebanon,False,4,False,True,30,1.0
+2004-06-17,Palestine,Jordan,True,0,True,False,30,0.5
+2004-06-18,Bulgaria,Denmark,True,2,False,False,50,0.0
+2004-06-18,Italy,Sweden,True,0,True,False,50,0.5
+2004-06-18,Libya,Cameroon,False,0,True,False,40,0.5
+2004-06-19,Botswana,Malawi,False,2,False,True,40,1.0
+2004-06-19,Cape Verde,Uganda,False,1,False,True,40,1.0
+2004-06-19,Dominica,Mexico,True,10,False,False,40,0.0
+2004-06-19,Honduras,Curaçao,False,4,False,True,40,1.0
+2004-06-19,Iraq,Palestine,True,1,False,True,30,1.0
+2004-06-19,Latvia,Germany,True,0,True,False,50,0.5
+2004-06-19,Mali,Zambia,False,0,True,False,40,0.5
+2004-06-19,Netherlands,Czech Republic,True,1,False,False,50,0.0
+2004-06-19,Rwanda,Gabon,False,2,False,True,40,1.0
+2004-06-19,St. Kitts and Nevis,Barbados,False,1,False,True,40,1.0
+2004-06-19,Syria,Lebanon,True,2,False,True,30,1.0
+2004-06-20,Angola,Nigeria,False,1,False,True,40,1.0
+2004-06-20,Benin,Sudan,False,0,True,False,40,0.5
+2004-06-20,Bermuda,El Salvador,False,0,True,False,40,0.5
+2004-06-20,Congo,Liberia,False,3,False,True,40,1.0
+2004-06-20,Congo DR,Burkina Faso,False,1,False,True,40,1.0
+2004-06-20,Costa Rica,Cuba,False,0,True,False,40,0.5
+2004-06-20,Egypt,Ivory Coast,False,1,False,False,40,0.0
+2004-06-20,Ghana,South Africa,False,3,False,True,40,1.0
+2004-06-20,Grenada,USA,False,1,False,False,40,0.0
+2004-06-20,Guatemala,Suriname,False,2,False,True,40,1.0
+2004-06-20,Guinea,Tunisia,False,1,False,True,40,1.0
+2004-06-20,Jamaica,Haiti,False,3,False,True,40,1.0
+2004-06-20,Portugal,Spain,False,1,False,True,50,1.0
+2004-06-20,Russia,Greece,True,1,False,True,50,1.0
+2004-06-20,St. Lucia,Panama,False,3,False,False,40,0.0
+2004-06-20,Togo,Senegal,False,2,False,True,40,1.0
+2004-06-20,Trinidad and Tobago,Dominican Republic,False,4,False,True,40,1.0
+2004-06-20,Zimbabwe,Algeria,False,0,True,False,40,0.5
+2004-06-21,Croatia,England,True,2,False,False,50,0.0
+2004-06-21,Iran,Syria,False,6,False,True,30,1.0
+2004-06-21,Jordan,Iraq,True,2,False,True,30,1.0
+2004-06-21,Switzerland,France,True,2,False,False,50,0.0
+2004-06-22,Denmark,Sweden,True,0,True,False,50,0.5
+2004-06-22,Italy,Bulgaria,True,1,False,True,50,1.0
+2004-06-23,Germany,Czech Republic,True,1,False,False,50,0.0
+2004-06-23,Iran,Iraq,False,1,False,True,30,1.0
+2004-06-23,Jordan,Syria,True,0,True,False,30,0.5
+2004-06-23,Netherlands,Latvia,True,3,False,True,50,1.0
+2004-06-24,Portugal,England,False,0,True,False,50,0.5
+2004-06-25,France,Greece,True,1,False,False,50,0.0
+2004-06-25,Iran,Syria,False,3,False,True,30,1.0
+2004-06-25,Iraq,Jordan,True,2,False,False,30,0.0
+2004-06-26,Sweden,Netherlands,True,0,True,False,50,0.5
+2004-06-27,Argentina,Colombia,True,2,False,False,20,0.0
+2004-06-27,Czech Republic,Denmark,True,3,False,True,50,1.0
+2004-06-27,Mexico,Dominica,False,8,False,True,40,1.0
+2004-06-27,Swaziland,Zimbabwe,False,5,False,False,30,0.0
+2004-06-30,Argentina,Peru,True,1,False,True,20,1.0
+2004-06-30,Portugal,Netherlands,False,1,False,True,50,1.0
+2004-07-01,Greece,Czech Republic,True,1,False,True,50,1.0
+2004-07-03,Botswana,Morocco,False,1,False,False,40,0.0
+2004-07-03,Cape Verde,Congo DR,False,0,True,False,40,0.5
+2004-07-03,China,Lebanon,False,6,False,True,20,1.0
+2004-07-03,Gabon,Angola,False,0,True,False,40,0.5
+2004-07-03,Malawi,Guinea,False,0,True,False,40,0.5
+2004-07-03,Nigeria,Algeria,False,1,False,True,40,1.0
+2004-07-03,Rwanda,Zimbabwe,False,2,False,False,40,0.0
+2004-07-03,Senegal,Zambia,False,1,False,True,40,1.0
+2004-07-03,South Africa,Burkina Faso,False,2,False,True,40,1.0
+2004-07-03,Sudan,Libya,False,1,False,False,40,0.0
+2004-07-03,Uganda,Ghana,False,0,True,False,40,0.5
+2004-07-04,Benin,Egypt,False,0,True,False,40,0.5
+2004-07-04,Cameroon,Ivory Coast,False,2,False,True,40,1.0
+2004-07-04,Liberia,Togo,False,0,True,False,40,0.5
+2004-07-04,Portugal,Greece,False,1,False,False,50,0.0
+2004-07-05,Thailand,Bahrain,False,2,False,False,20,0.0
+2004-07-06,Malawi,Swaziland,False,1,False,False,20,0.0
+2004-07-06,Peru,Bolivia,False,0,True,False,50,0.5
+2004-07-06,Venezuela,Colombia,True,1,False,False,50,0.0
+2004-07-07,Argentina,Ecuador,True,5,False,True,50,1.0
+2004-07-07,Mexico,Uruguay,True,0,True,False,50,0.5
+2004-07-08,Brazil,Chile,True,1,False,True,50,1.0
+2004-07-08,Costa Rica,Paraguay,True,1,False,False,50,0.0
+2004-07-08,Malawi,Swaziland,False,0,True,False,20,0.5
+2004-07-08,Thailand,Jordan,False,0,True,False,20,0.5
+2004-07-09,Colombia,Bolivia,True,1,False,True,50,1.0
+2004-07-09,Japan,Slovakia,False,2,False,True,30,1.0
+2004-07-09,Peru,Venezuela,False,2,False,True,50,1.0
+2004-07-10,Argentina,Mexico,True,1,False,False,50,0.0
+2004-07-10,China,United Arab Emirates,False,0,True,False,20,0.5
+2004-07-10,Korea Republic,Bahrain,False,2,False,True,20,1.0
+2004-07-10,Thailand,Trinidad and Tobago,False,1,False,True,20,1.0
+2004-07-10,Uruguay,Ecuador,True,1,False,True,50,1.0
+2004-07-11,Brazil,Costa Rica,True,3,False,True,50,1.0
+2004-07-11,Paraguay,Chile,True,0,True,False,50,0.5
+2004-07-11,Serbia,Slovakia,True,2,False,True,30,1.0
+2004-07-11,USA,Poland,False,0,True,False,20,0.5
+2004-07-12,Malaysia,Singapore,False,2,False,True,20,1.0
+2004-07-12,Peru,Colombia,False,0,True,False,50,0.5
+2004-07-12,Venezuela,Bolivia,True,0,True,False,50,0.5
+2004-07-13,Argentina,Uruguay,True,2,False,True,50,1.0
+2004-07-13,Japan,Serbia,False,1,False,True,30,1.0
+2004-07-13,Mexico,Ecuador,True,1,False,True,50,1.0
+2004-07-14,Brazil,Paraguay,True,1,False,False,50,0.0
+2004-07-14,Costa Rica,Chile,True,1,False,True,50,1.0
+2004-07-14,Korea Republic,Trinidad and Tobago,False,0,True,False,20,0.5
+2004-07-17,China,Bahrain,False,0,True,False,50,0.5
+2004-07-17,Colombia,Costa Rica,True,2,False,True,50,1.0
+2004-07-17,Peru,Argentina,False,1,False,False,50,0.0
+2004-07-18,Angola,Botswana,False,0,True,False,30,0.5
+2004-07-18,El Salvador,Guatemala,True,1,False,False,20,0.0
+2004-07-18,Iraq,Uzbekistan,True,1,False,False,50,0.0
+2004-07-18,Mexico,Brazil,True,4,False,False,50,0.0
+2004-07-18,Paraguay,Uruguay,True,2,False,False,50,0.0
+2004-07-18,Qatar,Indonesia,True,1,False,False,50,0.0
+2004-07-18,Saudi Arabia,Turkmenistan,True,0,True,False,50,0.5
+2004-07-19,Korea Republic,Jordan,True,0,True,False,50,0.5
+2004-07-19,Kuwait,United Arab Emirates,True,2,False,True,50,1.0
+2004-07-20,Argentina,Colombia,True,3,False,True,50,1.0
+2004-07-20,Iran,Thailand,True,3,False,True,50,1.0
+2004-07-20,Japan,Oman,True,1,False,True,50,1.0
+2004-07-21,Bahrain,Qatar,True,0,True,False,50,0.5
+2004-07-21,China,Indonesia,False,5,False,True,50,1.0
+2004-07-21,Uruguay,Brazil,True,0,True,False,50,0.5
+2004-07-22,Turkmenistan,Iraq,True,1,False,False,50,0.0
+2004-07-22,Uzbekistan,Saudi Arabia,True,1,False,True,50,1.0
+2004-07-23,Jordan,Kuwait,True,2,False,True,50,1.0
+2004-07-23,Panama,Guatemala,False,0,True,False,20,0.5
+2004-07-23,United Arab Emirates,Korea Republic,True,2,False,False,50,0.0
+2004-07-24,Colombia,Uruguay,True,1,False,False,50,0.0
+2004-07-24,Oman,Iran,True,0,True,False,50,0.5
+2004-07-24,Thailand,Japan,True,3,False,False,50,0.0
+2004-07-25,Argentina,Brazil,True,0,True,False,50,0.5
+2004-07-25,Bahrain,Indonesia,True,2,False,True,50,1.0
+2004-07-25,China,Qatar,False,1,False,True,50,1.0
+2004-07-26,Saudi Arabia,Iraq,True,1,False,False,50,0.0
+2004-07-26,Turkmenistan,Uzbekistan,True,1,False,False,50,0.0
+2004-07-27,Jordan,United Arab Emirates,True,0,True,False,50,0.5
+2004-07-27,Korea Republic,Kuwait,True,4,False,True,50,1.0
+2004-07-28,Honduras,Panama,False,0,True,False,20,0.5
+2004-07-28,Japan,Iran,True,0,True,False,50,0.5
+2004-07-28,Oman,Thailand,True,2,False,True,50,1.0
+2004-07-30,China,Iraq,False,3,False,True,50,1.0
+2004-07-30,Uzbekistan,Bahrain,True,0,True,False,50,0.5
+2004-07-31,Japan,Jordan,True,0,True,False,50,0.5
+2004-07-31,Korea Republic,Iran,True,1,False,False,50,0.0
+2004-07-31,Zambia,Mauritius,False,2,False,True,30,1.0
+2004-08-03,Bahrain,Japan,True,1,False,False,50,0.0
+2004-08-03,China,Iran,False,0,True,False,50,0.5
+2004-08-03,El Salvador,Honduras,False,4,False,False,20,0.0
+2004-08-06,El Salvador,Guatemala,True,2,False,False,20,0.0
+2004-08-06,Iran,Bahrain,True,2,False,True,50,1.0
+2004-08-07,China,Japan,False,2,False,False,50,0.0
+2004-08-07,Uganda,Kenya,False,0,True,False,20,0.5
+2004-08-11,Guatemala,Trinidad and Tobago,False,3,False,True,20,1.0
+2004-08-14,Uganda,Rwanda,False,1,False,False,20,0.0
+2004-08-17,Algeria,Burkina Faso,False,0,True,False,20,0.5
+2004-08-18,Austria,Germany,False,2,False,False,20,0.0
+2004-08-18,Canada,Guatemala,False,2,False,False,40,0.0
+2004-08-18,Congo DR,Mali,True,3,False,False,20,0.0
+2004-08-18,Costa Rica,Honduras,False,3,False,False,40,0.0
+2004-08-18,Croatia,Israel,False,1,False,True,20,1.0
+2004-08-18,Cyprus,Albania,False,1,False,True,20,1.0
+2004-08-18,Czech Republic,Greece,False,0,True,False,20,0.5
+2004-08-18,El Salvador,Panama,False,1,False,True,40,1.0
+2004-08-18,England,Ukraine,False,3,False,True,20,1.0
+2004-08-18,Faroe Islands,Malta,False,1,False,True,20,1.0
+2004-08-18,France,Bosnia-Herzegovina,False,0,True,False,20,0.5
+2004-08-18,Haiti,Brazil,False,6,False,False,20,0.0
+2004-08-18,Iceland,Italy,False,2,False,True,20,1.0
+2004-08-18,Ireland,Bulgaria,False,0,True,False,20,0.5
+2004-08-18,Jamaica,USA,False,0,True,False,40,0.5
+2004-08-18,Japan,Argentina,False,1,False,False,20,0.0
+2004-08-18,Jordan,Azerbaijan,False,0,True,False,20,0.5
+2004-08-18,Kenya,Uganda,False,3,False,True,20,1.0
+2004-08-18,Latvia,Wales,False,2,False,False,20,0.0
+2004-08-18,Liechtenstein,Estonia,False,1,False,False,40,0.0
+2004-08-18,Moldova,Georgia,False,1,False,True,20,1.0
+2004-08-18,Norway,Belgium,False,0,True,False,20,0.5
+2004-08-18,Poland,Denmark,False,4,False,False,20,0.0
+2004-08-18,Romania,Finland,False,1,False,True,40,1.0
+2004-08-18,Russia,Lithuania,False,1,False,True,20,1.0
+2004-08-18,Scotland,Hungary,False,3,False,False,20,0.0
+2004-08-18,Senegal,Ivory Coast,True,1,False,False,20,0.0
+2004-08-18,Slovakia,Luxembourg,False,2,False,True,40,1.0
+2004-08-18,Slovenia,Serbia,False,0,True,False,20,0.5
+2004-08-18,Spain,Venezuela,False,1,False,True,20,1.0
+2004-08-18,Sweden,Netherlands,False,0,True,False,20,0.5
+2004-08-18,Switzerland,Northern Ireland,False,0,True,False,20,0.5
+2004-08-18,Tunisia,South Africa,False,2,False,False,20,0.0
+2004-08-18,Turkey,Belarus,False,1,False,False,20,0.0
+2004-08-18,Zimbabwe,Botswana,False,2,False,True,20,1.0
+2004-08-19,Thailand,Malaysia,False,1,False,False,20,0.0
+2004-08-20,Vietnam,Burma,False,5,False,True,20,1.0
+2004-08-22,India,Burma,True,1,False,True,20,1.0
+2004-08-22,Zimbabwe,Uganda,False,2,False,True,20,1.0
+2004-08-24,Vietnam,India,False,1,False,True,20,1.0
+2004-08-26,Bahrain,Kuwait,False,0,True,False,20,0.5
+2004-08-26,Yemen,Syria,False,1,False,False,20,0.0
+2004-08-28,Yemen,Syria,False,1,False,True,20,1.0
+2004-08-28,Zambia,Rwanda,False,1,False,True,20,1.0
+2004-08-31,Jordan,Lebanon,False,0,True,False,20,0.5
+2004-08-31,Maldives,Oman,False,1,False,False,20,0.0
+2004-09-01,Saudi Arabia,Kuwait,False,0,True,False,20,0.5
+2004-09-02,Bahrain,Palestine,False,1,False,True,20,1.0
+2004-09-03,Libya,Benin,False,3,False,True,40,1.0
+2004-09-03,Maldives,Oman,False,1,False,False,20,0.0
+2004-09-03,Netherlands,Liechtenstein,False,3,False,True,20,1.0
+2004-09-03,Spain,Scotland,False,0,True,False,20,0.5
+2004-09-04,Albania,Greece,False,1,False,True,40,1.0
+2004-09-04,Austria,England,False,0,True,False,40,0.5
+2004-09-04,Azerbaijan,Wales,False,0,True,False,40,0.5
+2004-09-04,Belgium,Lithuania,False,0,True,False,40,0.5
+2004-09-04,Burkina Faso,Uganda,False,2,False,True,40,1.0
+2004-09-04,Canada,Honduras,False,0,True,False,40,0.5
+2004-09-04,Croatia,Hungary,False,3,False,True,40,1.0
+2004-09-04,Denmark,Ukraine,False,0,True,False,40,0.5
+2004-09-04,Estonia,Luxembourg,False,4,False,True,40,1.0
+2004-09-04,Finland,Andorra,False,3,False,True,40,1.0
+2004-09-04,France,Israel,False,0,True,False,40,0.5
+2004-09-04,Iceland,Bulgaria,False,2,False,False,40,0.0
+2004-09-04,Ireland,Cyprus,False,3,False,True,40,1.0
+2004-09-04,Italy,Norway,False,1,False,True,40,1.0
+2004-09-04,Jamaica,Panama,False,1,False,False,40,0.0
+2004-09-04,Kenya,Malawi,False,1,False,True,40,1.0
+2004-09-04,Latvia,Portugal,False,2,False,False,40,0.0
+2004-09-04,Malta,Sweden,False,7,False,False,40,0.0
+2004-09-04,Morocco,Tunisia,False,0,True,False,40,0.5
+2004-09-04,Northern Ireland,Poland,False,3,False,False,40,0.0
+2004-09-04,Peru,Argentina,False,2,False,False,40,0.0
+2004-09-04,Romania,Macedonia,False,1,False,True,40,1.0
+2004-09-04,Russia,Slovakia,False,0,True,False,40,0.5
+2004-09-04,San Marino,Serbia,False,3,False,False,40,0.0
+2004-09-04,Singapore,Indonesia,False,2,False,True,20,1.0
+2004-09-04,Slovenia,Moldova,False,3,False,True,40,1.0
+2004-09-04,St. Kitts and Nevis,Trinidad and Tobago,False,1,False,False,40,0.0
+2004-09-04,Switzerland,Faroe Islands,False,6,False,True,40,1.0
+2004-09-04,Turkey,Georgia,False,0,True,False,40,0.5
+2004-09-04,USA,El Salvador,False,2,False,True,40,1.0
+2004-09-04,Zambia,Liberia,False,1,False,True,40,1.0
+2004-09-05,Algeria,Gabon,False,3,False,False,40,0.0
+2004-09-05,Angola,Rwanda,False,1,False,True,40,1.0
+2004-09-05,Brazil,Bolivia,False,2,False,True,40,1.0
+2004-09-05,Chile,Colombia,False,0,True,False,40,0.5
+2004-09-05,Congo DR,South Africa,False,1,False,True,40,1.0
+2004-09-05,Egypt,Cameroon,False,1,False,True,40,1.0
+2004-09-05,Ghana,Cape Verde,False,2,False,True,40,1.0
+2004-09-05,Guatemala,Costa Rica,False,1,False,True,40,1.0
+2004-09-05,Guinea,Botswana,False,4,False,True,40,1.0
+2004-09-05,Ivory Coast,Sudan,False,5,False,True,40,1.0
+2004-09-05,Mali,Senegal,False,0,True,False,40,0.5
+2004-09-05,Paraguay,Venezuela,False,1,False,True,40,1.0
+2004-09-05,Togo,Congo,False,2,False,True,40,1.0
+2004-09-05,Uruguay,Ecuador,False,1,False,True,40,1.0
+2004-09-05,Zimbabwe,Nigeria,False,3,False,False,40,0.0
+2004-09-08,Andorra,Romania,False,4,False,False,40,0.0
+2004-09-08,Armenia,Finland,False,2,False,False,40,0.0
+2004-09-08,Austria,Azerbaijan,False,2,False,True,40,1.0
+2004-09-08,Bosnia-Herzegovina,Spain,False,0,True,False,40,0.5
+2004-09-08,Costa Rica,Canada,False,1,False,True,40,1.0
+2004-09-08,El Salvador,Jamaica,False,3,False,False,40,0.0
+2004-09-08,Faroe Islands,France,False,2,False,False,40,0.0
+2004-09-08,Georgia,Albania,False,2,False,True,40,1.0
+2004-09-08,Germany,Brazil,False,0,True,False,20,0.5
+2004-09-08,Greece,Turkey,False,0,True,False,40,0.5
+2004-09-08,Honduras,Guatemala,False,0,True,False,40,0.5
+2004-09-08,Hong Kong,Kuwait,False,2,False,False,40,0.0
+2004-09-08,Hungary,Iceland,False,1,False,True,40,1.0
+2004-09-08,India,Japan,False,4,False,False,40,0.0
+2004-09-08,Israel,Cyprus,False,1,False,True,40,1.0
+2004-09-08,Jordan,Iran,False,2,False,False,40,0.0
+2004-09-08,Kazakhstan,Ukraine,False,1,False,False,40,0.0
+2004-09-08,Korea DPR,Thailand,False,3,False,True,40,1.0
+2004-09-08,Kyrgyzstan,Bahrain,False,1,False,False,40,0.0
+2004-09-08,Laos,Qatar,False,5,False,False,40,0.0
+2004-09-08,Lithuania,San Marino,False,4,False,True,40,1.0
+2004-09-08,Luxembourg,Latvia,False,1,False,False,40,0.0
+2004-09-08,Malaysia,China,False,1,False,False,40,0.0
+2004-09-08,Maldives,Lebanon,False,3,False,False,40,0.0
+2004-09-08,Moldova,Italy,False,1,False,False,40,0.0
+2004-09-08,Netherlands,Czech Republic,False,2,False,True,40,1.0
+2004-09-08,Norway,Belarus,False,0,True,False,40,0.5
+2004-09-08,Palestine,Uzbekistan,True,3,False,False,40,0.0
+2004-09-08,Panama,USA,False,0,True,False,40,0.5
+2004-09-08,Poland,England,False,1,False,False,40,0.0
+2004-09-08,Portugal,Estonia,False,4,False,True,40,1.0
+2004-09-08,Scotland,Slovenia,False,0,True,False,40,0.5
+2004-09-08,Singapore,Oman,False,2,False,False,40,0.0
+2004-09-08,Slovakia,Liechtenstein,False,7,False,True,40,1.0
+2004-09-08,Sri Lanka,Indonesia,False,0,True,False,40,0.5
+2004-09-08,Sweden,Croatia,False,1,False,False,40,0.0
+2004-09-08,Switzerland,Ireland,False,0,True,False,40,0.5
+2004-09-08,Tajikistan,Syria,False,1,False,False,40,0.0
+2004-09-08,Trinidad and Tobago,Mexico,False,2,False,False,40,0.0
+2004-09-08,Turkmenistan,Saudi Arabia,False,1,False,False,40,0.0
+2004-09-08,Vietnam,Korea Republic,False,1,False,False,40,0.0
+2004-09-08,Wales,Northern Ireland,False,0,True,False,40,0.5
+2004-09-08,Yemen,United Arab Emirates,False,2,False,True,40,1.0
+2004-09-10,St. Vincent and the Grenadines,St. Kitts and Nevis,False,1,False,True,40,1.0
+2004-09-19,Mozambique,Angola,False,1,False,False,30,0.0
+2004-09-25,British Virgin Islands,Virgin Islands,False,1,False,True,20,1.0
+2004-09-29,Kuwait,Syria,True,0,True,False,20,0.5
+2004-09-30,Botswana,Zambia,False,1,False,True,20,1.0
+2004-10-02,Jamaica,Guatemala,True,0,True,False,20,0.5
+2004-10-03,Gabon,Benin,False,2,False,True,20,1.0
+2004-10-03,Lebanon,Kuwait,False,2,False,False,20,0.0
+2004-10-06,Lebanon,Kuwait,False,0,True,False,20,0.5
+2004-10-06,Saudi Arabia,Syria,False,0,True,False,20,0.5
+2004-10-07,Oman,Iraq,False,1,False,True,20,1.0
+2004-10-08,Libya,Egypt,False,1,False,True,40,1.0
+2004-10-08,Qatar,Syria,False,1,False,False,20,0.0
+2004-10-08,Singapore,United Arab Emirates,False,1,False,False,20,0.0
+2004-10-08,Thailand,Jordan,False,1,False,False,20,0.0
+2004-10-09,Albania,Denmark,False,2,False,False,40,0.0
+2004-10-09,Argentina,Uruguay,False,2,False,True,40,1.0
+2004-10-09,Austria,Poland,False,2,False,False,40,0.0
+2004-10-09,Azerbaijan,Northern Ireland,False,0,True,False,40,0.5
+2004-10-09,Belarus,Moldova,False,4,False,True,40,1.0
+2004-10-09,Bolivia,Peru,False,1,False,True,40,1.0
+2004-10-09,Bosnia-Herzegovina,Serbia,False,0,True,False,40,0.5
+2004-10-09,Botswana,Kenya,False,1,False,True,40,1.0
+2004-10-09,Cape Verde,Burkina Faso,False,1,False,True,40,1.0
+2004-10-09,Colombia,Paraguay,False,0,True,False,40,0.5
+2004-10-09,Costa Rica,Guatemala,False,5,False,True,40,1.0
+2004-10-09,Croatia,Bulgaria,False,0,True,False,40,0.5
+2004-10-09,Cyprus,Faroe Islands,False,0,True,False,40,0.5
+2004-10-09,Czech Republic,Romania,False,1,False,True,40,1.0
+2004-10-09,El Salvador,USA,False,2,False,False,40,0.0
+2004-10-09,England,Wales,False,2,False,True,40,1.0
+2004-10-09,Finland,Armenia,False,2,False,True,40,1.0
+2004-10-09,France,Ireland,False,0,True,False,40,0.5
+2004-10-09,Gabon,Nigeria,False,0,True,False,40,0.5
+2004-10-09,Honduras,Canada,False,0,True,False,40,0.5
+2004-10-09,Iran,Germany,False,2,False,False,20,0.0
+2004-10-09,Israel,Switzerland,False,0,True,False,40,0.5
+2004-10-09,Liechtenstein,Portugal,False,0,True,False,40,0.5
+2004-10-09,Luxembourg,Russia,False,4,False,False,40,0.0
+2004-10-09,Macedonia,Netherlands,False,0,True,False,40,0.5
+2004-10-09,Malawi,Tunisia,False,0,True,False,40,0.5
+2004-10-09,Malta,Iceland,False,0,True,False,40,0.5
+2004-10-09,Panama,Jamaica,False,0,True,False,40,0.5
+2004-10-09,Rwanda,Algeria,False,0,True,False,40,0.5
+2004-10-09,Scotland,Norway,False,1,False,False,40,0.0
+2004-10-09,Slovakia,Latvia,False,3,False,True,40,1.0
+2004-10-09,Slovenia,Italy,False,1,False,True,40,1.0
+2004-10-09,Solomon Islands,Australia,False,4,False,False,30,0.0
+2004-10-09,Spain,Belgium,False,2,False,True,40,1.0
+2004-10-09,Sri Lanka,Turkmenistan,False,0,True,False,40,0.5
+2004-10-09,Sudan,Cameroon,False,0,True,False,40,0.5
+2004-10-09,Sweden,Hungary,False,3,False,True,40,1.0
+2004-10-09,Turkey,Kazakhstan,False,4,False,True,40,1.0
+2004-10-09,Ukraine,Greece,False,0,True,False,40,0.5
+2004-10-09,Venezuela,Brazil,False,3,False,False,40,0.0
+2004-10-10,Angola,Zimbabwe,False,1,False,True,40,1.0
+2004-10-10,Benin,Ivory Coast,False,1,False,False,40,0.0
+2004-10-10,Congo,Zambia,False,1,False,False,40,0.0
+2004-10-10,Ecuador,Chile,False,2,False,True,40,1.0
+2004-10-10,Ghana,Congo DR,False,0,True,False,40,0.5
+2004-10-10,Guinea,Morocco,False,0,True,False,40,0.5
+2004-10-10,Liberia,Senegal,False,3,False,False,40,0.0
+2004-10-10,Togo,Mali,False,1,False,True,40,1.0
+2004-10-10,Trinidad and Tobago,St. Kitts and Nevis,False,4,False,True,40,1.0
+2004-10-10,Uganda,South Africa,False,1,False,False,40,0.0
+2004-10-12,Australia,Solomon Islands,False,6,False,True,30,1.0
+2004-10-12,Bolivia,Uruguay,False,0,True,False,40,0.5
+2004-10-12,Indonesia,Saudi Arabia,False,2,False,False,40,0.0
+2004-10-13,Andorra,Macedonia,False,1,False,True,40,1.0
+2004-10-13,Armenia,Czech Republic,False,3,False,False,40,0.0
+2004-10-13,Azerbaijan,England,False,1,False,False,40,0.0
+2004-10-13,Brazil,Colombia,False,0,True,False,40,0.5
+2004-10-13,Bulgaria,Malta,False,3,False,True,40,1.0
+2004-10-13,Canada,Costa Rica,False,2,False,False,40,0.0
+2004-10-13,Chile,Argentina,False,0,True,False,40,0.5
+2004-10-13,Cyprus,France,False,2,False,False,40,0.0
+2004-10-13,Denmark,Turkey,False,0,True,False,40,0.5
+2004-10-13,Guatemala,Honduras,False,1,False,True,40,1.0
+2004-10-13,Hong Kong,Malaysia,False,2,False,True,40,1.0
+2004-10-13,Iceland,Sweden,False,3,False,False,40,0.0
+2004-10-13,Iraq,Uzbekistan,True,1,False,False,40,0.0
+2004-10-13,Ireland,Faroe Islands,False,2,False,True,40,1.0
+2004-10-13,Italy,Belarus,False,1,False,True,40,1.0
+2004-10-13,Jamaica,El Salvador,False,0,True,False,40,0.5
+2004-10-13,Kazakhstan,Albania,False,1,False,False,40,0.0
+2004-10-13,Korea DPR,Yemen,False,1,False,True,40,1.0
+2004-10-13,Kuwait,China,False,1,False,True,40,1.0
+2004-10-13,Laos,Jordan,False,1,False,False,40,0.0
+2004-10-13,Latvia,Estonia,False,0,True,False,40,0.5
+2004-10-13,Lebanon,Korea Republic,False,0,True,False,40,0.5
+2004-10-13,Lithuania,Spain,False,0,True,False,40,0.5
+2004-10-13,Luxembourg,Liechtenstein,False,4,False,False,40,0.0
+2004-10-13,Maldives,Vietnam,False,3,False,True,40,1.0
+2004-10-13,Mexico,Trinidad and Tobago,False,3,False,True,40,1.0
+2004-10-13,Moldova,Scotland,False,0,True,False,40,0.5
+2004-10-13,Netherlands,Finland,False,2,False,True,40,1.0
+2004-10-13,Northern Ireland,Austria,False,0,True,False,40,0.5
+2004-10-13,Norway,Slovenia,False,3,False,True,40,1.0
+2004-10-13,Oman,Japan,False,1,False,False,40,0.0
+2004-10-13,Paraguay,Peru,False,0,True,False,40,0.5
+2004-10-13,Portugal,Russia,False,6,False,True,40,1.0
+2004-10-13,Qatar,Iran,False,1,False,False,40,0.0
+2004-10-13,Serbia,San Marino,True,5,False,True,40,1.0
+2004-10-13,Singapore,India,False,2,False,True,40,1.0
+2004-10-13,St. Kitts and Nevis,St. Vincent and the Grenadines,False,3,False,False,40,0.0
+2004-10-13,Syria,Bahrain,False,0,True,False,40,0.5
+2004-10-13,Tajikistan,Kyrgyzstan,False,1,False,True,40,1.0
+2004-10-13,Thailand,United Arab Emirates,False,3,False,True,40,1.0
+2004-10-13,Ukraine,Georgia,False,2,False,True,40,1.0
+2004-10-13,USA,Panama,False,6,False,True,40,1.0
+2004-10-13,Wales,Poland,False,1,False,False,40,0.0
+2004-10-14,Venezuela,Ecuador,False,2,False,True,40,1.0
+2004-10-17,St. Lucia,Grenada,False,2,False,True,20,1.0
+2004-10-19,Suriname,French Guyana,False,1,False,False,20,0.0
+2004-10-20,Ecuador,Jordan,True,3,False,False,20,0.0
+2004-10-22,Libya,Jordan,False,1,False,True,20,1.0
+2004-10-22,Nigeria,Ecuador,True,0,True,False,20,0.5
+2004-10-24,Zimbabwe,Zambia,False,0,True,False,30,0.5
+2004-10-27,Mexico,Ecuador,True,1,False,True,20,1.0
+2004-10-31,St. Kitts and Nevis,Montserrat,False,5,False,True,30,1.0
+2004-11-01,Yemen,Zambia,True,0,True,False,20,0.5
+2004-11-02,Montserrat,Antigua and Barbuda,True,1,False,False,30,0.0
+2004-11-02,St. Kitts and Nevis,St. Lucia,False,0,True,False,30,0.5
+2004-11-04,St. Kitts and Nevis,Antigua and Barbuda,False,2,False,True,30,1.0
+2004-11-05,Kuwait,India,False,1,False,False,20,0.0
+2004-11-06,Antigua and Barbuda,St. Lucia,True,1,False,False,30,0.0
+2004-11-10,Guadeloupe,French Guyana,True,1,False,False,30,0.0
+2004-11-10,Kuwait,Kyrgyzstan,False,3,False,True,20,1.0
+2004-11-10,Martinique,Dominica,False,4,False,True,30,1.0
+2004-11-10,Mexico,Guatemala,True,2,False,True,20,1.0
+2004-11-11,United Arab Emirates,Jordan,False,4,False,True,20,1.0
+2004-11-12,Guadeloupe,Dominica,True,7,False,True,30,1.0
+2004-11-12,Martinique,French Guyana,False,0,True,False,30,0.5
+2004-11-13,Guatemala,Bolivia,True,1,False,True,20,1.0
+2004-11-13,St. Kitts and Nevis,Mexico,True,5,False,False,40,0.0
+2004-11-14,Dominica,French Guyana,True,4,False,False,30,0.0
+2004-11-14,Martinique,Guadeloupe,False,0,True,False,30,0.5
+2004-11-16,Australia,Norway,True,0,True,False,20,0.5
+2004-11-16,Iraq,Palestine,True,3,False,True,40,1.0
+2004-11-16,Ireland,Croatia,False,1,False,True,20,1.0
+2004-11-17,Algeria,Senegal,True,1,False,False,20,0.0
+2004-11-17,Andorra,Netherlands,True,3,False,False,40,0.0
+2004-11-17,Argentina,Venezuela,False,1,False,True,40,1.0
+2004-11-17,Armenia,Romania,False,0,True,False,40,0.5
+2004-11-17,Azerbaijan,Bulgaria,False,0,True,False,20,0.5
+2004-11-17,Bahrain,Tajikistan,False,4,False,True,40,1.0
+2004-11-17,Belgium,Serbia,False,2,False,False,40,0.0
+2004-11-17,China,Hong Kong,False,7,False,True,40,1.0
+2004-11-17,Colombia,Bolivia,False,1,False,True,40,1.0
+2004-11-17,Cyprus,Israel,False,1,False,False,40,0.0
+2004-11-17,Ecuador,Brazil,False,1,False,True,40,1.0
+2004-11-17,France,Poland,False,0,True,False,20,0.5
+2004-11-17,Georgia,Denmark,False,0,True,False,40,0.5
+2004-11-17,Germany,Cameroon,False,3,False,True,20,1.0
+2004-11-17,Greece,Kazakhstan,False,2,False,True,40,1.0
+2004-11-17,Guatemala,Canada,False,1,False,False,40,0.0
+2004-11-17,Honduras,Costa Rica,False,0,True,False,40,0.5
+2004-11-17,Indonesia,Turkmenistan,False,2,False,True,40,1.0
+2004-11-17,Iran,Laos,False,7,False,True,40,1.0
+2004-11-17,Italy,Finland,False,1,False,True,20,1.0
+2004-11-17,Japan,Singapore,False,1,False,True,40,1.0
+2004-11-17,Kenya,Guinea,False,1,False,True,40,1.0
+2004-11-17,Korea Republic,Maldives,False,2,False,True,40,1.0
+2004-11-17,Kuwait,Malaysia,False,5,False,True,40,1.0
+2004-11-17,Lebanon,Vietnam,False,0,True,False,40,0.5
+2004-11-17,Liechtenstein,Latvia,False,2,False,False,40,0.0
+2004-11-17,Luxembourg,Portugal,False,5,False,False,40,0.0
+2004-11-17,Macedonia,Czech Republic,False,2,False,False,40,0.0
+2004-11-17,Malta,Hungary,False,2,False,False,40,0.0
+2004-11-17,Mexico,St. Kitts and Nevis,False,8,False,True,40,1.0
+2004-11-17,Morocco,Burkina Faso,False,4,False,True,20,1.0
+2004-11-17,Oman,India,False,0,True,False,40,0.5
+2004-11-17,Panama,El Salvador,False,3,False,True,40,1.0
+2004-11-17,Peru,Chile,False,1,False,True,40,1.0
+2004-11-17,Qatar,Jordan,False,2,False,True,40,1.0
+2004-11-17,Russia,Estonia,False,4,False,True,40,1.0
+2004-11-17,San Marino,Lithuania,False,1,False,False,40,0.0
+2004-11-17,Saudi Arabia,Sri Lanka,False,3,False,True,40,1.0
+2004-11-17,Scotland,Sweden,False,3,False,False,20,0.0
+2004-11-17,Slovakia,Slovenia,False,0,True,False,20,0.5
+2004-11-17,South Africa,Nigeria,False,1,False,True,20,1.0
+2004-11-17,Spain,England,False,1,False,True,20,1.0
+2004-11-17,Syria,Kyrgyzstan,False,1,False,False,40,0.0
+2004-11-17,Thailand,Yemen,False,0,True,False,40,0.5
+2004-11-17,Turkey,Ukraine,False,3,False,False,40,0.0
+2004-11-17,United Arab Emirates,Korea DPR,False,1,False,True,40,1.0
+2004-11-17,Uruguay,Paraguay,False,1,False,True,40,1.0
+2004-11-17,USA,Jamaica,False,0,True,False,40,0.5
+2004-11-17,Uzbekistan,Taiwan,False,5,False,True,40,1.0
+2004-11-20,Zambia,Angola,False,0,True,False,30,0.5
+2004-11-22,United Arab Emirates,Belarus,False,1,False,False,20,0.0
+2004-11-24,Cayman Islands,Bermuda,True,1,False,False,30,0.0
+2004-11-24,Grenada,Suriname,True,0,True,False,30,0.5
+2004-11-24,Haiti,Virgin Islands,True,11,False,True,30,1.0
+2004-11-24,Jamaica,St. Martin,False,12,False,True,30,1.0
+2004-11-24,Trinidad and Tobago,Puerto Rico,False,5,False,True,30,1.0
+2004-11-26,British Virgin Islands,Cayman Islands,True,1,False,False,30,0.0
+2004-11-26,Jamaica,Virgin Islands,False,10,False,True,30,1.0
+2004-11-26,Puerto Rico,Suriname,True,0,True,False,30,0.5
+2004-11-26,St. Martin,Haiti,True,2,False,False,30,0.0
+2004-11-26,Trinidad and Tobago,Grenada,False,2,False,True,30,1.0
+2004-11-27,United Arab Emirates,Kuwait,False,1,False,False,20,0.0
+2004-11-28,Bermuda,British Virgin Islands,True,2,False,False,30,0.0
+2004-11-28,Grenada,Puerto Rico,True,3,False,True,30,1.0
+2004-11-28,Jamaica,Haiti,False,2,False,True,30,1.0
+2004-11-28,Singapore,Burma,False,1,False,True,20,1.0
+2004-11-28,Trinidad and Tobago,Suriname,False,1,False,True,30,1.0
+2004-11-28,Virgin Islands,St. Martin,True,0,True,False,30,0.5
+2004-11-29,Egypt,Bulgaria,False,0,True,False,20,0.5
+2004-11-30,Hungary,Slovakia,True,1,False,False,30,0.0
+2004-11-30,Singapore,Hong Kong,False,0,True,False,20,0.5
+2004-11-30,Thailand,Estonia,False,0,True,False,30,0.5
+2004-12-01,Bahrain,Finland,False,1,False,False,30,0.0
+2004-12-01,Latvia,Oman,True,1,False,False,30,0.0
+2004-12-01,Qatar,Lebanon,False,3,False,True,20,1.0
+2004-12-02,Hong Kong,Burma,True,0,True,False,20,0.5
+2004-12-02,Hungary,Estonia,True,5,False,True,30,1.0
+2004-12-02,Thailand,Slovakia,False,0,True,False,30,0.5
+2004-12-03,Bahrain,Latvia,False,0,True,False,30,0.5
+2004-12-03,Finland,Oman,True,0,True,False,30,0.5
+2004-12-03,Iraq,Yemen,True,2,False,True,20,1.0
+2004-12-03,United Arab Emirates,Kuwait,False,0,True,False,20,0.5
+2004-12-05,Qatar,Yemen,False,3,False,True,20,1.0
+2004-12-06,Kuwait,Tajikistan,False,3,False,True,20,1.0
+2004-12-07,Laos,Indonesia,True,6,False,False,30,0.0
+2004-12-07,Vietnam,Singapore,False,0,True,False,30,0.5
+2004-12-08,Malaysia,East Timor,False,5,False,True,30,1.0
+2004-12-08,Philippines,Burma,True,1,False,False,30,0.0
+2004-12-09,Indonesia,Singapore,True,0,True,False,30,0.5
+2004-12-09,Vietnam,Cambodia,False,8,False,True,30,1.0
+2004-12-10,Iraq,Oman,True,2,False,False,30,0.0
+2004-12-10,Malaysia,Philippines,False,3,False,True,30,1.0
+2004-12-10,Qatar,United Arab Emirates,False,0,True,False,30,0.5
+2004-12-10,Thailand,Burma,True,0,True,False,30,0.5
+2004-12-11,Bahrain,Yemen,True,0,True,False,30,0.5
+2004-12-11,Ethiopia,Burundi,False,1,False,True,30,1.0
+2004-12-11,Laos,Cambodia,True,1,False,True,30,1.0
+2004-12-11,Rwanda,Zanzibar,True,2,False,True,30,1.0
+2004-12-11,Saudi Arabia,Kuwait,True,1,False,False,30,0.0
+2004-12-11,Vietnam,Indonesia,False,3,False,False,30,0.0
+2004-12-12,British Virgin Islands,Trinidad and Tobago,False,4,False,False,30,0.0
+2004-12-12,Cuba,Martinique,False,2,False,True,30,1.0
+2004-12-12,East Timor,Thailand,True,8,False,False,30,0.0
+2004-12-12,Haiti,St. Kitts and Nevis,True,1,False,True,30,1.0
+2004-12-12,Kenya,Sudan,True,0,True,False,30,0.5
+2004-12-12,Malaysia,Burma,False,1,False,False,30,0.0
+2004-12-12,St. Lucia,Jamaica,False,0,True,False,30,0.5
+2004-12-12,Uganda,Somalia,True,2,False,True,30,1.0
+2004-12-13,Burundi,Rwanda,True,2,False,True,30,1.0
+2004-12-13,Indonesia,Cambodia,True,8,False,True,30,1.0
+2004-12-13,Oman,United Arab Emirates,True,1,False,True,30,1.0
+2004-12-13,Qatar,Iraq,False,0,True,False,30,0.5
+2004-12-13,Singapore,Laos,True,4,False,True,30,1.0
+2004-12-13,Zanzibar,Tanzania,True,2,False,True,30,1.0
+2004-12-14,Kuwait,Bahrain,True,0,True,False,30,0.5
+2004-12-14,Malaysia,Thailand,False,1,False,True,30,1.0
+2004-12-14,Philippines,East Timor,True,1,False,True,30,1.0
+2004-12-14,Saudi Arabia,Yemen,True,2,False,True,30,1.0
+2004-12-14,Somalia,Kenya,True,1,False,False,30,0.0
+2004-12-14,Sudan,Uganda,True,1,False,True,30,1.0
+2004-12-15,Cambodia,Singapore,True,3,False,False,30,0.0
+2004-12-15,Ethiopia,Rwanda,False,0,True,False,30,0.5
+2004-12-15,Lesotho,Botswana,False,0,True,False,20,0.5
+2004-12-15,St. Kitts and Nevis,Haiti,False,2,False,False,30,0.0
+2004-12-15,Tanzania,Burundi,True,2,False,False,30,0.0
+2004-12-15,Vietnam,Laos,False,3,False,True,30,1.0
+2004-12-16,Burma,East Timor,True,2,False,True,30,1.0
+2004-12-16,Iraq,United Arab Emirates,True,0,True,False,30,0.5
+2004-12-16,Japan,Germany,False,3,False,False,20,0.0
+2004-12-16,Qatar,Oman,False,1,False,True,30,1.0
+2004-12-16,Thailand,Philippines,True,2,False,True,30,1.0
+2004-12-17,Bahrain,Saudi Arabia,True,3,False,True,30,1.0
+2004-12-17,Burundi,Zanzibar,True,1,False,True,30,1.0
+2004-12-17,Ethiopia,Tanzania,False,2,False,True,30,1.0
+2004-12-17,Kuwait,Yemen,True,3,False,True,30,1.0
+2004-12-18,Iran,Panama,False,1,False,True,20,1.0
+2004-12-18,Kenya,Uganda,True,0,True,False,30,0.5
+2004-12-18,Maldives,Sri Lanka,False,0,True,False,20,0.5
+2004-12-18,Sudan,Somalia,True,4,False,True,30,1.0
+2004-12-19,Ethiopia,Zanzibar,False,3,False,True,30,1.0
+2004-12-19,Jamaica,St. Lucia,False,1,False,True,30,1.0
+2004-12-19,Korea Republic,Germany,False,2,False,True,20,1.0
+2004-12-19,Tanzania,Rwanda,True,4,False,False,30,0.0
+2004-12-19,Trinidad and Tobago,British Virgin Islands,False,2,False,True,30,1.0
+2004-12-20,Oman,Bahrain,True,1,False,True,30,1.0
+2004-12-20,Qatar,Kuwait,False,2,False,True,30,1.0
+2004-12-21,Martinique,Cuba,False,2,False,False,30,0.0
+2004-12-21,Thailand,Germany,False,4,False,False,20,0.0
+2004-12-21,Venezuela,Guatemala,False,1,False,False,20,0.0
+2004-12-22,Ethiopia,Kenya,False,0,True,False,30,0.5
+2004-12-22,Sudan,Burundi,True,1,False,False,30,0.0
+2004-12-23,Bahrain,Kuwait,True,2,False,True,30,1.0
+2004-12-24,Qatar,Oman,False,0,True,False,30,0.5
+2004-12-25,Ethiopia,Burundi,False,3,False,True,30,1.0
+2004-12-25,Kenya,Sudan,True,1,False,False,30,0.0
+2004-12-28,Indonesia,Malaysia,False,1,False,False,30,0.0
+2004-12-29,Burma,Singapore,True,1,False,False,30,0.0
+2005-01-02,Singapore,Burma,False,2,False,True,30,1.0
+2005-01-03,Malaysia,Indonesia,False,3,False,False,30,0.0
+2005-01-08,Egypt,Uganda,False,3,False,True,20,1.0
+2005-01-08,Indonesia,Singapore,False,2,False,False,30,0.0
+2005-01-08,Jamaica,French Guyana,False,5,False,True,30,1.0
+2005-01-09,Haiti,Cuba,False,1,False,False,30,0.0
+2005-01-12,Antigua and Barbuda,Trinidad and Tobago,False,1,False,True,20,1.0
+2005-01-12,Costa Rica,Haiti,False,0,True,False,20,0.5
+2005-01-15,Colombia,Korea Republic,True,1,False,True,20,1.0
+2005-01-15,French Guyana,Jamaica,False,0,True,False,30,0.5
+2005-01-15,Malaysia,Burma,True,1,False,True,30,1.0
+2005-01-16,Cuba,Haiti,False,0,True,False,30,0.5
+2005-01-16,Singapore,Indonesia,False,1,False,True,30,1.0
+2005-01-17,Guatemala,Colombia,True,0,True,False,20,0.5
+2005-01-19,Paraguay,Korea Republic,True,0,True,False,20,0.5
+2005-01-21,Trinidad and Tobago,Azerbaijan,False,1,False,True,20,1.0
+2005-01-22,Kuwait,Norway,False,0,True,False,20,0.5
+2005-01-22,Sweden,Korea Republic,True,0,True,False,20,0.5
+2005-01-23,Barbados,Grenada,False,3,False,True,20,1.0
+2005-01-23,Guatemala,Paraguay,True,1,False,False,20,0.0
+2005-01-23,Trinidad and Tobago,Azerbaijan,False,2,False,True,20,1.0
+2005-01-25,Bahrain,Norway,False,1,False,False,20,0.0
+2005-01-25,Saudi Arabia,Tajikistan,False,3,False,True,20,1.0
+2005-01-26,Ecuador,Panama,False,2,False,True,20,1.0
+2005-01-26,Kuwait,Syria,False,1,False,True,20,1.0
+2005-01-26,Mexico,Sweden,True,0,True,False,20,0.5
+2005-01-28,Jordan,Norway,False,0,True,False,20,0.5
+2005-01-29,Ecuador,Panama,False,2,False,True,20,1.0
+2005-01-29,Japan,Kazakhstan,False,4,False,True,20,1.0
+2005-01-29,Saudi Arabia,Turkmenistan,False,1,False,True,20,1.0
+2005-02-01,Trinidad and Tobago,Haiti,False,1,False,True,20,1.0
+2005-02-02,Bahrain,Lebanon,True,1,False,True,20,1.0
+2005-02-02,Hungary,Saudi Arabia,True,0,True,False,20,0.5
+2005-02-02,Iran,Bosnia-Herzegovina,False,1,False,True,20,1.0
+2005-02-02,Japan,Syria,False,3,False,True,20,1.0
+2005-02-02,Korea DPR,Kuwait,True,0,True,False,20,0.5
+2005-02-03,Gabon,Central African Republic,False,4,False,True,20,1.0
+2005-02-03,Trinidad and Tobago,Haiti,False,1,False,True,20,1.0
+2005-02-04,Korea Republic,Egypt,False,1,False,False,20,0.0
+2005-02-05,Central African Republic,Congo,True,1,False,False,20,0.0
+2005-02-06,Barbados,Antigua and Barbuda,False,1,False,True,20,1.0
+2005-02-06,Trinidad and Tobago,Haiti,False,1,False,False,20,0.0
+2005-02-08,Cyprus,Austria,False,0,True,False,30,0.5
+2005-02-08,Gabon,Congo,False,1,False,True,20,1.0
+2005-02-08,Ivory Coast,Congo DR,True,0,True,False,20,0.5
+2005-02-08,Latvia,Finland,True,1,False,False,30,0.0
+2005-02-09,Albania,Ukraine,False,2,False,False,40,0.0
+2005-02-09,Algeria,Burkina Faso,False,3,False,True,20,1.0
+2005-02-09,Austria,Latvia,True,0,True,False,30,0.5
+2005-02-09,Azerbaijan,Moldova,False,0,True,False,20,0.5
+2005-02-09,Bahrain,Iran,False,0,True,False,40,0.5
+2005-02-09,Bulgaria,Serbia,False,0,True,False,20,0.5
+2005-02-09,Cameroon,Senegal,True,1,False,True,20,1.0
+2005-02-09,Chile,Ecuador,False,3,False,True,20,1.0
+2005-02-09,Costa Rica,Mexico,False,1,False,False,40,0.0
+2005-02-09,Cyprus,Finland,False,1,False,False,30,0.0
+2005-02-09,Egypt,Belgium,False,4,False,True,20,1.0
+2005-02-09,England,Netherlands,False,0,True,False,20,0.5
+2005-02-09,France,Sweden,False,0,True,False,20,0.5
+2005-02-09,Georgia,Lithuania,False,1,False,True,20,1.0
+2005-02-09,Germany,Argentina,False,0,True,False,20,0.5
+2005-02-09,Greece,Denmark,False,1,False,True,40,1.0
+2005-02-09,Guinea,Mali,True,0,True,False,20,0.5
+2005-02-09,Hong Kong,Brazil,False,6,False,False,30,0.0
+2005-02-09,Ireland,Portugal,False,1,False,True,20,1.0
+2005-02-09,Israel,Croatia,False,0,True,False,20,0.5
+2005-02-09,Italy,Russia,False,2,False,True,20,1.0
+2005-02-09,Japan,Korea DPR,False,1,False,True,40,1.0
+2005-02-09,Korea Republic,Kuwait,False,2,False,True,40,1.0
+2005-02-09,Macedonia,Andorra,False,0,True,False,40,0.5
+2005-02-09,Malta,Norway,False,3,False,False,20,0.0
+2005-02-09,Morocco,Kenya,False,4,False,True,40,1.0
+2005-02-09,Northern Ireland,Canada,False,1,False,False,20,0.0
+2005-02-09,Panama,Guatemala,False,0,True,False,40,0.5
+2005-02-09,Poland,Belarus,False,2,False,False,20,0.0
+2005-02-09,Romania,Slovakia,True,0,True,False,20,0.5
+2005-02-09,Slovenia,Czech Republic,False,3,False,False,20,0.0
+2005-02-09,South Africa,Australia,False,0,True,False,20,0.5
+2005-02-09,Spain,San Marino,False,5,False,True,40,1.0
+2005-02-09,Trinidad and Tobago,USA,False,1,False,False,40,0.0
+2005-02-09,United Arab Emirates,Switzerland,False,1,False,False,20,0.0
+2005-02-09,Uzbekistan,Saudi Arabia,False,0,True,False,40,0.5
+2005-02-09,Venezuela,Estonia,False,3,False,True,20,1.0
+2005-02-09,Wales,Hungary,False,2,False,True,20,1.0
+2005-02-10,Gabon,Chad,False,1,False,False,20,0.0
+2005-02-12,Gabon,Congo,False,1,False,True,20,1.0
+2005-02-13,Barbados,Guyana,False,0,True,False,20,0.5
+2005-02-13,Guatemala,Haiti,True,1,False,True,20,1.0
+2005-02-16,Costa Rica,Ecuador,False,1,False,False,20,0.0
+2005-02-19,El Salvador,Panama,True,1,False,False,30,0.0
+2005-02-19,Guatemala,Belize,False,2,False,True,30,1.0
+2005-02-19,Honduras,Nicaragua,True,4,False,True,30,1.0
+2005-02-20,Barbados,Cuba,False,3,False,False,30,0.0
+2005-02-20,Jamaica,Trinidad and Tobago,True,1,False,True,30,1.0
+2005-02-21,Belize,Honduras,True,4,False,False,30,0.0
+2005-02-21,Costa Rica,El Salvador,True,1,False,True,30,1.0
+2005-02-21,Guatemala,Nicaragua,False,4,False,True,30,1.0
+2005-02-22,Barbados,Jamaica,False,1,False,False,30,0.0
+2005-02-22,Congo,Angola,False,2,False,False,20,0.0
+2005-02-22,Trinidad and Tobago,Cuba,True,1,False,False,30,0.0
+2005-02-23,Guatemala,Honduras,False,0,True,False,30,0.5
+2005-02-23,Mexico,Colombia,False,0,True,False,20,0.5
+2005-02-23,Nicaragua,Belize,True,1,False,True,30,1.0
+2005-02-23,Panama,Costa Rica,True,1,False,False,30,0.0
+2005-02-24,Barbados,Trinidad and Tobago,False,1,False,False,30,0.0
+2005-02-24,Cuba,Jamaica,True,1,False,False,30,0.0
+2005-02-25,Guatemala,Costa Rica,False,4,False,False,30,0.0
+2005-02-25,Honduras,Panama,True,1,False,True,30,1.0
+2005-02-26,Botswana,Zambia,False,0,True,False,20,0.5
+2005-02-26,Mauritius,Madagascar,False,2,False,True,30,1.0
+2005-02-26,Seychelles,South Africa,True,3,False,False,30,0.0
+2005-02-27,Costa Rica,Honduras,True,0,True,False,30,0.5
+2005-02-27,Guatemala,Panama,False,3,False,True,30,1.0
+2005-02-27,Malawi,Zimbabwe,False,1,False,True,20,1.0
+2005-02-27,Mauritius,South Africa,False,1,False,False,30,0.0
+2005-03-05,Hong Kong,Mongolia,True,6,False,True,30,1.0
+2005-03-07,Guam,Hong Kong,True,15,False,False,30,0.0
+2005-03-07,Korea DPR,Mongolia,True,6,False,True,30,1.0
+2005-03-09,Mexico,Argentina,True,0,True,False,20,0.5
+2005-03-09,Mongolia,Guam,True,3,False,True,30,1.0
+2005-03-09,USA,Colombia,False,3,False,True,20,1.0
+2005-03-11,Guam,Korea DPR,True,21,False,False,30,0.0
+2005-03-12,Kenya,Rwanda,False,0,True,False,20,0.5
+2005-03-12,Kuwait,Finland,False,1,False,False,20,0.0
+2005-03-12,Sudan,Ethiopia,False,2,False,True,20,1.0
+2005-03-13,Hong Kong,Korea DPR,True,2,False,False,30,0.0
+2005-03-14,Saudi Arabia,Egypt,False,1,False,False,20,0.0
+2005-03-16,Zimbabwe,Botswana,False,0,True,False,20,0.5
+2005-03-18,Kuwait,Armenia,True,2,False,True,20,1.0
+2005-03-18,Saudi Arabia,Finland,False,3,False,False,20,0.0
+2005-03-19,Gabon,Congo,False,0,True,False,20,0.5
+2005-03-19,Lesotho,Namibia,False,1,False,False,20,0.0
+2005-03-19,USA,Honduras,False,1,False,True,20,1.0
+2005-03-20,Korea Republic,Burkina Faso,True,1,False,True,20,1.0
+2005-03-23,Kenya,Ghana,False,0,True,False,20,0.5
+2005-03-25,Iran,Japan,False,1,False,True,40,1.0
+2005-03-25,Korea DPR,Bahrain,False,1,False,False,40,0.0
+2005-03-25,Kuwait,Uzbekistan,False,1,False,True,40,1.0
+2005-03-25,Saudi Arabia,Korea Republic,False,2,False,True,40,1.0
+2005-03-26,Armenia,Andorra,False,1,False,True,40,1.0
+2005-03-26,Australia,Iraq,False,1,False,True,20,1.0
+2005-03-26,Belgium,Bosnia-Herzegovina,False,3,False,True,40,1.0
+2005-03-26,Bolivia,Argentina,False,1,False,False,40,0.0
+2005-03-26,Bulgaria,Sweden,False,3,False,False,40,0.0
+2005-03-26,Burkina Faso,Cape Verde,False,1,False,False,40,0.0
+2005-03-26,Chile,Uruguay,False,0,True,False,40,0.5
+2005-03-26,Costa Rica,Panama,False,1,False,True,40,1.0
+2005-03-26,Croatia,Iceland,False,4,False,True,40,1.0
+2005-03-26,Cyprus,Jordan,False,1,False,True,20,1.0
+2005-03-26,Czech Republic,Finland,False,1,False,True,40,1.0
+2005-03-26,Denmark,Kazakhstan,False,3,False,True,40,1.0
+2005-03-26,England,Northern Ireland,False,4,False,True,40,1.0
+2005-03-26,Estonia,Slovakia,False,1,False,False,40,0.0
+2005-03-26,France,Switzerland,False,0,True,False,40,0.5
+2005-03-26,Georgia,Greece,False,2,False,False,40,0.0
+2005-03-26,Guatemala,Trinidad and Tobago,False,4,False,True,40,1.0
+2005-03-26,Israel,Ireland,False,0,True,False,40,0.5
+2005-03-26,Italy,Scotland,False,2,False,True,40,1.0
+2005-03-26,Kenya,Botswana,False,1,False,True,40,1.0
+2005-03-26,Liechtenstein,Russia,False,1,False,False,40,0.0
+2005-03-26,Morocco,Guinea,False,1,False,True,40,1.0
+2005-03-26,Nigeria,Gabon,False,2,False,True,40,1.0
+2005-03-26,Poland,Azerbaijan,False,8,False,True,40,1.0
+2005-03-26,Portugal,Canada,False,3,False,True,20,1.0
+2005-03-26,Romania,Netherlands,False,2,False,False,40,0.0
+2005-03-26,Senegal,Liberia,False,5,False,True,40,1.0
+2005-03-26,Slovenia,Germany,False,1,False,False,20,0.0
+2005-03-26,South Africa,Uganda,False,1,False,True,40,1.0
+2005-03-26,Spain,China,False,3,False,True,20,1.0
+2005-03-26,Tunisia,Malawi,False,7,False,True,40,1.0
+2005-03-26,Turkey,Albania,False,2,False,True,40,1.0
+2005-03-26,Venezuela,Colombia,False,0,True,False,40,0.5
+2005-03-26,Wales,Austria,False,2,False,False,40,0.0
+2005-03-26,Zambia,Congo,False,2,False,True,40,1.0
+2005-03-27,Algeria,Rwanda,False,1,False,True,40,1.0
+2005-03-27,Brazil,Peru,False,1,False,True,40,1.0
+2005-03-27,Cameroon,Sudan,False,1,False,True,40,1.0
+2005-03-27,Congo DR,Ghana,False,0,True,False,40,0.5
+2005-03-27,Ecuador,Paraguay,False,3,False,True,40,1.0
+2005-03-27,Egypt,Libya,False,3,False,True,40,1.0
+2005-03-27,Ivory Coast,Benin,False,3,False,True,40,1.0
+2005-03-27,Mali,Togo,False,1,False,False,40,0.0
+2005-03-27,Mexico,USA,False,1,False,True,40,1.0
+2005-03-27,Zimbabwe,Angola,False,2,False,True,40,1.0
+2005-03-29,Australia,Indonesia,False,3,False,True,20,1.0
+2005-03-29,Bolivia,Venezuela,False,2,False,True,40,1.0
+2005-03-29,Ireland,China,False,1,False,True,20,1.0
+2005-03-30,Andorra,Czech Republic,False,4,False,False,40,0.0
+2005-03-30,Argentina,Colombia,False,1,False,True,40,1.0
+2005-03-30,Austria,Wales,False,1,False,True,40,1.0
+2005-03-30,Bosnia-Herzegovina,Lithuania,False,0,True,False,40,0.5
+2005-03-30,Croatia,Malta,False,3,False,True,40,1.0
+2005-03-30,England,Azerbaijan,False,2,False,True,40,1.0
+2005-03-30,Estonia,Russia,False,0,True,False,40,0.5
+2005-03-30,Georgia,Turkey,False,3,False,False,40,0.0
+2005-03-30,Greece,Albania,False,2,False,True,40,1.0
+2005-03-30,Hungary,Bulgaria,False,0,True,False,40,0.5
+2005-03-30,Israel,France,False,0,True,False,40,0.5
+2005-03-30,Italy,Iceland,False,0,True,False,20,0.5
+2005-03-30,Japan,Bahrain,False,1,False,True,40,1.0
+2005-03-30,Korea DPR,Iran,False,2,False,False,40,0.0
+2005-03-30,Korea Republic,Uzbekistan,False,1,False,True,40,1.0
+2005-03-30,Kuwait,Saudi Arabia,False,0,True,False,40,0.5
+2005-03-30,Latvia,Luxembourg,False,4,False,True,40,1.0
+2005-03-30,Macedonia,Romania,False,1,False,False,40,0.0
+2005-03-30,Moldova,Norway,False,0,True,False,40,0.5
+2005-03-30,Netherlands,Armenia,False,2,False,True,40,1.0
+2005-03-30,Panama,Mexico,False,0,True,False,40,0.5
+2005-03-30,Paraguay,Chile,False,1,False,True,40,1.0
+2005-03-30,Peru,Ecuador,False,0,True,False,40,0.5
+2005-03-30,Poland,Northern Ireland,False,1,False,True,40,1.0
+2005-03-30,San Marino,Belgium,False,1,False,False,40,0.0
+2005-03-30,Serbia,Spain,True,0,True,False,40,0.5
+2005-03-30,Slovakia,Portugal,False,0,True,False,40,0.5
+2005-03-30,Slovenia,Belarus,False,0,True,False,40,0.5
+2005-03-30,Switzerland,Cyprus,False,1,False,True,40,1.0
+2005-03-30,Trinidad and Tobago,Costa Rica,False,0,True,False,40,0.5
+2005-03-30,Ukraine,Denmark,False,1,False,True,40,1.0
+2005-03-30,Uruguay,Brazil,False,0,True,False,40,0.5
+2005-03-30,USA,Guatemala,False,2,False,True,40,1.0
+2005-04-16,Mozambique,Zimbabwe,True,3,False,False,30,0.0
+2005-04-16,Namibia,Botswana,False,0,True,False,30,0.5
+2005-04-17,Botswana,Zimbabwe,True,2,False,False,30,0.0
+2005-04-20,Estonia,Norway,False,1,False,False,20,0.0
+2005-04-20,Guatemala,Jamaica,True,1,False,False,20,0.0
+2005-04-27,Brazil,Guatemala,False,3,False,True,20,1.0
+2005-04-27,Mexico,Poland,True,0,True,False,20,0.5
+2005-05-02,Guernsey,Jersey,False,0,True,False,20,0.5
+2005-05-04,Ecuador,Paraguay,True,1,False,True,20,1.0
+2005-05-15,Jersey,Guernsey,False,0,True,False,20,0.5
+2005-05-21,Lithuania,Latvia,False,2,False,True,30,1.0
+2005-05-22,Japan,Peru,False,1,False,False,30,0.0
+2005-05-22,Sudan,Chad,False,3,False,True,20,1.0
+2005-05-24,Norway,Costa Rica,False,1,False,True,20,1.0
+2005-05-24,Peru,United Arab Emirates,True,0,True,False,30,0.5
+2005-05-25,Trinidad and Tobago,Bermuda,False,4,False,True,20,1.0
+2005-05-25,Venezuela,Panama,False,0,True,False,20,0.5
+2005-05-27,Gibraltar,Monaco,False,4,False,True,20,1.0
+2005-05-27,Japan,United Arab Emirates,False,1,False,False,30,0.0
+2005-05-27,Kuwait,Egypt,False,1,False,False,20,0.0
+2005-05-27,Libya,Malawi,False,0,True,False,20,0.5
+2005-05-27,Saudi Arabia,Bahrain,False,0,True,False,20,0.5
+2005-05-27,Sudan,Chad,False,0,True,False,20,0.5
+2005-05-27,Trinidad and Tobago,Bermuda,False,1,False,True,20,1.0
+2005-05-27,Tunisia,Angola,False,3,False,True,20,1.0
+2005-05-28,USA,England,False,1,False,False,20,0.0
+2005-05-29,Hong Kong,Macau,False,7,False,True,20,1.0
+2005-05-29,Iran,Azerbaijan,False,1,False,True,20,1.0
+2005-05-29,Poland,Albania,False,1,False,True,20,1.0
+2005-05-29,Togo,Burkina Faso,False,1,False,True,20,1.0
+2005-05-31,Colombia,England,True,1,False,False,20,0.0
+2005-05-31,France,Hungary,False,1,False,True,20,1.0
+2005-06-01,Gabon,Zambia,True,1,False,False,20,0.0
+2005-06-01,Lesotho,Swaziland,False,1,False,False,20,0.0
+2005-06-02,Finland,Denmark,False,1,False,False,20,0.0
+2005-06-03,Bahrain,Japan,False,1,False,False,40,0.0
+2005-06-03,Iran,Korea DPR,False,1,False,True,40,1.0
+2005-06-03,Libya,Ivory Coast,False,0,True,False,40,0.5
+2005-06-03,Saudi Arabia,Kuwait,False,3,False,True,40,1.0
+2005-06-03,Uzbekistan,Korea Republic,False,0,True,False,40,0.5
+2005-06-04,Albania,Georgia,False,1,False,True,40,1.0
+2005-06-04,Armenia,Macedonia,False,1,False,False,40,0.0
+2005-06-04,Azerbaijan,Poland,False,3,False,False,40,0.0
+2005-06-04,Belarus,Slovenia,False,0,True,False,40,0.5
+2005-06-04,Benin,Cameroon,False,3,False,False,40,0.0
+2005-06-04,Botswana,Tunisia,False,2,False,False,40,0.0
+2005-06-04,Bulgaria,Croatia,False,2,False,False,40,0.0
+2005-06-04,Cape Verde,South Africa,False,1,False,False,40,0.0
+2005-06-04,Chile,Bolivia,False,2,False,True,40,1.0
+2005-06-04,Colombia,Peru,False,5,False,True,40,1.0
+2005-06-04,Czech Republic,Andorra,False,7,False,True,40,1.0
+2005-06-04,Ecuador,Argentina,False,2,False,True,40,1.0
+2005-06-04,Estonia,Liechtenstein,False,2,False,True,40,1.0
+2005-06-04,Faroe Islands,Switzerland,False,2,False,False,40,0.0
+2005-06-04,Guatemala,Mexico,False,2,False,False,40,0.0
+2005-06-04,Iceland,Hungary,False,1,False,False,40,0.0
+2005-06-04,Ireland,Israel,False,0,True,False,40,0.5
+2005-06-04,Jamaica,Honduras,True,0,True,False,20,0.5
+2005-06-04,Morocco,Malawi,False,3,False,True,40,1.0
+2005-06-04,Netherlands,Romania,False,2,False,True,40,1.0
+2005-06-04,Northern Ireland,Germany,False,3,False,False,20,0.0
+2005-06-04,Norway,Italy,False,0,True,False,40,0.5
+2005-06-04,Portugal,Slovakia,False,2,False,True,40,1.0
+2005-06-04,Russia,Latvia,False,2,False,True,40,1.0
+2005-06-04,San Marino,Bosnia-Herzegovina,False,2,False,False,40,0.0
+2005-06-04,Scotland,Moldova,False,2,False,True,40,1.0
+2005-06-04,Serbia,Belgium,True,0,True,False,40,0.5
+2005-06-04,Singapore,Malaysia,False,2,False,True,20,1.0
+2005-06-04,Spain,Lithuania,False,1,False,True,40,1.0
+2005-06-04,Sweden,Malta,False,6,False,True,40,1.0
+2005-06-04,Trinidad and Tobago,Panama,False,2,False,True,40,1.0
+2005-06-04,Turkey,Greece,False,0,True,False,40,0.5
+2005-06-04,Ukraine,Kazakhstan,False,2,False,True,40,1.0
+2005-06-04,USA,Costa Rica,False,3,False,True,40,1.0
+2005-06-04,Venezuela,Uruguay,False,0,True,False,40,0.5
+2005-06-05,Angola,Algeria,False,1,False,True,40,1.0
+2005-06-05,Brazil,Paraguay,False,3,False,True,40,1.0
+2005-06-05,Congo,Senegal,False,0,True,False,40,0.5
+2005-06-05,Congo DR,Uganda,False,4,False,True,40,1.0
+2005-06-05,Egypt,Sudan,False,5,False,True,40,1.0
+2005-06-05,Ghana,Burkina Faso,False,1,False,True,40,1.0
+2005-06-05,Guinea,Kenya,False,1,False,True,40,1.0
+2005-06-05,Mali,Liberia,False,3,False,True,40,1.0
+2005-06-05,Rwanda,Nigeria,False,0,True,False,40,0.5
+2005-06-05,Togo,Zambia,False,3,False,True,40,1.0
+2005-06-05,Zimbabwe,Gabon,False,1,False,True,40,1.0
+2005-06-07,Peru,Uruguay,False,0,True,False,40,0.5
+2005-06-08,Argentina,Brazil,False,2,False,True,40,1.0
+2005-06-08,Belarus,Scotland,False,0,True,False,40,0.5
+2005-06-08,Chile,Venezuela,False,1,False,True,40,1.0
+2005-06-08,Colombia,Ecuador,False,3,False,True,40,1.0
+2005-06-08,Costa Rica,Guatemala,False,1,False,True,40,1.0
+2005-06-08,Czech Republic,Macedonia,False,5,False,True,40,1.0
+2005-06-08,Denmark,Albania,False,2,False,True,40,1.0
+2005-06-08,Estonia,Portugal,False,1,False,False,40,0.0
+2005-06-08,Faroe Islands,Ireland,False,2,False,False,40,0.0
+2005-06-08,Finland,Netherlands,False,4,False,False,40,0.0
+2005-06-08,Germany,Russia,False,0,True,False,20,0.5
+2005-06-08,Greece,Ukraine,False,1,False,False,40,0.0
+2005-06-08,Iceland,Malta,False,3,False,True,40,1.0
+2005-06-08,Iran,Bahrain,False,1,False,True,40,1.0
+2005-06-08,Italy,Serbia,True,0,True,False,20,0.5
+2005-06-08,Jordan,Iraq,False,1,False,False,20,0.0
+2005-06-08,Kazakhstan,Turkey,False,6,False,False,40,0.0
+2005-06-08,Korea DPR,Japan,True,2,False,False,40,0.0
+2005-06-08,Kuwait,Korea Republic,False,4,False,False,40,0.0
+2005-06-08,Latvia,Liechtenstein,False,1,False,True,40,1.0
+2005-06-08,Luxembourg,Slovakia,False,4,False,False,40,0.0
+2005-06-08,Malaysia,Singapore,False,1,False,False,20,0.0
+2005-06-08,Mexico,Trinidad and Tobago,False,2,False,True,40,1.0
+2005-06-08,Panama,USA,False,3,False,False,40,0.0
+2005-06-08,Paraguay,Bolivia,False,3,False,True,40,1.0
+2005-06-08,Romania,Armenia,False,3,False,True,40,1.0
+2005-06-08,Saudi Arabia,Uzbekistan,False,3,False,True,40,1.0
+2005-06-08,Spain,Bosnia-Herzegovina,False,0,True,False,40,0.5
+2005-06-08,Sweden,Norway,False,1,False,False,20,0.0
+2005-06-09,Australia,New Zealand,True,1,False,True,20,1.0
+2005-06-10,Gambia,Guinea,True,1,False,False,20,0.0
+2005-06-10,Sierra Leone,Liberia,False,2,False,True,20,1.0
+2005-06-11,Ecuador,Italy,True,0,True,False,20,0.5
+2005-06-11,Lesotho,Malawi,True,1,False,False,30,0.0
+2005-06-11,Tunisia,Guinea,False,2,False,True,40,1.0
+2005-06-11,Zambia,Swaziland,False,3,False,True,30,1.0
+2005-06-12,Algeria,Mali,True,3,False,False,20,0.0
+2005-06-12,Pakistan,India,False,0,True,False,20,0.5
+2005-06-12,Sierra Leone,Gambia,False,1,False,True,20,1.0
+2005-06-12,Zambia,Malawi,False,1,False,True,30,1.0
+2005-06-14,Sierra Leone,Guinea,False,2,False,True,20,1.0
+2005-06-15,Argentina,Tunisia,True,1,False,True,30,1.0
+2005-06-15,Germany,Australia,False,1,False,True,30,1.0
+2005-06-16,Brazil,Greece,True,3,False,True,30,1.0
+2005-06-16,Japan,Mexico,True,1,False,False,30,0.0
+2005-06-16,Pakistan,India,False,1,False,False,20,0.0
+2005-06-18,Australia,Argentina,True,2,False,False,30,0.0
+2005-06-18,Burkina Faso,Congo DR,False,2,False,True,40,1.0
+2005-06-18,Gabon,Rwanda,False,3,False,True,40,1.0
+2005-06-18,Germany,Tunisia,False,3,False,True,30,1.0
+2005-06-18,Kenya,Morocco,False,0,True,False,40,0.5
+2005-06-18,Malawi,Botswana,False,2,False,False,40,0.0
+2005-06-18,Nigeria,Angola,False,0,True,False,40,0.5
+2005-06-18,Pakistan,India,False,3,False,True,20,1.0
+2005-06-18,Senegal,Togo,False,0,True,False,40,0.5
+2005-06-18,South Africa,Ghana,False,2,False,False,40,0.0
+2005-06-18,Uganda,Cape Verde,False,1,False,True,40,1.0
+2005-06-18,Zambia,Mali,False,1,False,True,40,1.0
+2005-06-19,Algeria,Zimbabwe,False,0,True,False,40,0.5
+2005-06-19,Cameroon,Libya,False,1,False,True,40,1.0
+2005-06-19,China,Costa Rica,False,0,True,False,20,0.5
+2005-06-19,Greece,Japan,True,1,False,False,30,0.0
+2005-06-19,Ivory Coast,Egypt,False,2,False,True,40,1.0
+2005-06-19,Liberia,Congo,False,2,False,False,40,0.0
+2005-06-19,Mexico,Brazil,True,1,False,True,30,1.0
+2005-06-21,Australia,Tunisia,True,2,False,False,30,0.0
+2005-06-21,Germany,Argentina,False,0,True,False,30,0.5
+2005-06-22,China,Costa Rica,False,2,False,True,20,1.0
+2005-06-22,Greece,Mexico,True,0,True,False,30,0.5
+2005-06-22,Japan,Brazil,True,0,True,False,30,0.5
+2005-06-25,Germany,Brazil,False,1,False,False,30,0.0
+2005-06-26,Mexico,Argentina,True,0,True,False,30,0.5
+2005-06-26,Mozambique,Lesotho,False,1,False,True,20,1.0
+2005-06-29,Brazil,Argentina,True,3,False,True,30,1.0
+2005-06-29,Germany,Mexico,False,1,False,True,30,1.0
+2005-07-01,Botswana,Congo DR,False,0,True,False,20,0.5
+2005-07-02,Canada,Honduras,False,1,False,False,20,0.0
+2005-07-04,Congo,Mali,False,1,False,True,40,1.0
+2005-07-06,Colombia,Panama,True,1,False,False,50,0.0
+2005-07-06,Trinidad and Tobago,Honduras,True,0,True,False,50,0.5
+2005-07-07,Canada,Costa Rica,True,1,False,False,50,0.0
+2005-07-07,USA,Cuba,False,3,False,True,50,1.0
+2005-07-08,Guatemala,Jamaica,True,1,False,False,50,0.0
+2005-07-08,South Africa,Mexico,True,1,False,True,50,1.0
+2005-07-09,Costa Rica,Cuba,True,2,False,True,50,1.0
+2005-07-09,USA,Canada,False,2,False,True,50,1.0
+2005-07-10,Honduras,Colombia,True,1,False,True,50,1.0
+2005-07-10,Jamaica,South Africa,True,0,True,False,50,0.5
+2005-07-10,Mexico,Guatemala,True,4,False,True,50,1.0
+2005-07-10,Panama,Trinidad and Tobago,True,0,True,False,50,0.5
+2005-07-10,Saare County,Åland Islands,True,1,False,True,30,1.0
+2005-07-10,Shetland,Falkland Islands,False,4,False,True,30,1.0
+2005-07-10,Guersney,Orkney,True,3,False,True,30,1.0
+2005-07-10,Greenland,Ynys Môn,True,0,True,False,30,0.5
+2005-07-11,Shetland,Åland Islands,False,2,False,True,30,1.0
+2005-07-11,Isle of Man,Saare County,True,0,True,False,30,0.5
+2005-07-11,Orkney,Greenland,True,1,False,False,30,0.0
+2005-07-11,Guersney,Western Isles,True,1,False,True,30,1.0
+2005-07-12,Canada,Cuba,True,1,False,True,50,1.0
+2005-07-12,Colombia,Trinidad and Tobago,True,2,False,True,50,1.0
+2005-07-12,Honduras,Panama,True,1,False,True,50,1.0
+2005-07-12,USA,Costa Rica,False,0,True,False,50,0.5
+2005-07-12,Saare County,Falkland Islands,True,1,False,False,30,0.0
+2005-07-12,Åland Islands,Isle of Man,True,1,False,False,30,0.0
+2005-07-12,Orkney,Ynys Môn,True,2,False,False,30,0.0
+2005-07-12,Western Isles,Greenland,True,0,True,False,30,0.5
+2005-07-13,Guatemala,South Africa,True,0,True,False,50,0.5
+2005-07-13,Mexico,Jamaica,True,1,False,True,50,1.0
+2005-07-13,Shetland,Saare County,False,0,True,False,30,0.5
+2005-07-13,Falkland Islands,Isle of Man,True,9,False,False,30,0.0
+2005-07-13,Ynys Môn,Western Isles,True,0,True,False,30,0.5
+2005-07-13,Greenland,Guersney,True,6,False,False,30,0.0
+2005-07-14,Shetland,Isle of Man,False,1,False,False,30,0.0
+2005-07-14,Åland Islands,Falkland Islands,True,1,False,True,30,1.0
+2005-07-14,Guersney,Ynys Môn,True,3,False,True,30,1.0
+2005-07-14,Western Isles,Orkney,True,1,False,True,30,1.0
+2005-07-15,Orkney,Falkland Islands,True,2,False,True,30,1.0
+2005-07-15,Åland Islands,Greenland,True,1,False,True,30,1.0
+2005-07-15,Ynys Môn,Saare County,True,1,False,True,30,1.0
+2005-07-15,Western Isles,Isle of Man,True,4,False,True,30,1.0
+2005-07-15,Shetland,Guersney,False,2,False,True,30,1.0
+2005-07-16,Honduras,Costa Rica,True,1,False,True,50,1.0
+2005-07-16,USA,Jamaica,False,2,False,True,50,1.0
+2005-07-17,Mexico,Colombia,True,1,False,False,50,0.0
+2005-07-17,South Africa,Panama,True,0,True,False,50,0.5
+2005-07-21,Colombia,Panama,True,1,False,False,50,0.0
+2005-07-21,USA,Honduras,False,1,False,True,50,1.0
+2005-07-24,USA,Panama,False,0,True,False,50,0.5
+2005-07-28,Kuwait,United Arab Emirates,True,0,True,False,20,0.5
+2005-07-30,Egypt,United Arab Emirates,True,0,True,False,20,0.5
+2005-07-31,Korea DPR,Japan,True,1,False,True,30,1.0
+2005-07-31,Korea Republic,China,False,0,True,False,30,0.5
+2005-08-03,Bahrain,Turkmenistan,False,5,False,True,20,1.0
+2005-08-03,Japan,China,True,0,True,False,30,0.5
+2005-08-04,Korea Republic,Korea DPR,False,0,True,False,30,0.5
+2005-08-07,Bahrain,Iraq,False,0,True,False,20,0.5
+2005-08-07,China,Korea DPR,True,2,False,True,30,1.0
+2005-08-07,Korea Republic,Japan,False,1,False,False,30,0.0
+2005-08-09,Botswana,Angola,True,0,True,False,20,0.5
+2005-08-10,Angola,Botswana,True,0,True,False,20,0.5
+2005-08-12,Fiji,India,False,1,False,True,20,1.0
+2005-08-13,Angola,Zimbabwe,True,1,False,False,30,0.0
+2005-08-13,Cyprus,Iraq,False,1,False,True,20,1.0
+2005-08-13,South Africa,Zambia,False,0,True,False,30,0.5
+2005-08-14,Fiji,India,False,1,False,True,20,1.0
+2005-08-14,Korea Republic,Korea DPR,False,3,False,True,20,1.0
+2005-08-14,Zambia,Zimbabwe,True,1,False,False,30,0.0
+2005-08-15,Poland,Serbia,True,1,False,True,20,1.0
+2005-08-15,Ukraine,Israel,False,0,True,False,20,0.5
+2005-08-16,Congo DR,Guinea,True,2,False,True,20,1.0
+2005-08-17,Albania,Azerbaijan,False,1,False,True,20,1.0
+2005-08-17,Angola,Cape Verde,True,1,False,True,20,1.0
+2005-08-17,Austria,Scotland,False,0,True,False,20,0.5
+2005-08-17,Bahrain,Korea DPR,False,1,False,False,40,0.0
+2005-08-17,Belgium,Greece,False,2,False,True,20,1.0
+2005-08-17,Bulgaria,Turkey,False,2,False,True,20,1.0
+2005-08-17,Croatia,Brazil,False,0,True,False,20,0.5
+2005-08-17,Denmark,England,False,3,False,True,20,1.0
+2005-08-17,Ecuador,Venezuela,False,2,False,True,20,1.0
+2005-08-17,Estonia,Bosnia-Herzegovina,False,1,False,True,20,1.0
+2005-08-17,Faroe Islands,Cyprus,False,3,False,False,40,0.0
+2005-08-17,France,Ivory Coast,False,3,False,True,20,1.0
+2005-08-17,Guatemala,Panama,False,1,False,True,40,1.0
+2005-08-17,Hungary,Argentina,False,1,False,False,20,0.0
+2005-08-17,Iceland,South Africa,False,3,False,True,20,1.0
+2005-08-17,Ireland,Italy,False,1,False,False,20,0.0
+2005-08-17,Japan,Iran,False,1,False,True,40,1.0
+2005-08-17,Jordan,Armenia,False,0,True,False,20,0.5
+2005-08-17,Kazakhstan,Georgia,False,1,False,False,40,0.0
+2005-08-17,Korea Republic,Saudi Arabia,False,1,False,False,40,0.0
+2005-08-17,Latvia,Russia,False,0,True,False,40,0.5
+2005-08-17,Libya,Nigeria,False,1,False,False,20,0.0
+2005-08-17,Liechtenstein,Slovakia,False,0,True,False,40,0.5
+2005-08-17,Lithuania,Belarus,False,1,False,True,20,1.0
+2005-08-17,Macedonia,Finland,False,3,False,False,40,0.0
+2005-08-17,Malta,Northern Ireland,False,0,True,False,20,0.5
+2005-08-17,Mexico,Costa Rica,False,2,False,True,40,1.0
+2005-08-17,Morocco,Togo,True,1,False,False,20,0.0
+2005-08-17,Netherlands,Germany,False,0,True,False,20,0.5
+2005-08-17,Norway,Switzerland,False,2,False,False,20,0.0
+2005-08-17,Paraguay,El Salvador,False,3,False,True,20,1.0
+2005-08-17,Peru,Chile,False,2,False,True,20,1.0
+2005-08-17,Poland,Israel,True,1,False,True,20,1.0
+2005-08-17,Portugal,Egypt,False,2,False,True,20,1.0
+2005-08-17,Romania,Andorra,False,2,False,True,40,1.0
+2005-08-17,Senegal,Ghana,True,0,True,False,20,0.5
+2005-08-17,Spain,Uruguay,False,2,False,True,20,1.0
+2005-08-17,Sudan,Benin,False,1,False,True,40,1.0
+2005-08-17,Sweden,Czech Republic,False,1,False,True,20,1.0
+2005-08-17,Tunisia,Kenya,False,1,False,True,40,1.0
+2005-08-17,Ukraine,Serbia,False,1,False,True,20,1.0
+2005-08-17,USA,Trinidad and Tobago,False,1,False,True,40,1.0
+2005-08-17,Uzbekistan,Kuwait,False,1,False,True,40,1.0
+2005-08-17,Wales,Slovenia,False,0,True,False,20,0.5
+2005-08-24,Iran,Libya,False,4,False,True,20,1.0
+2005-08-28,Zimbabwe,Mozambique,False,0,True,False,20,0.5
+2005-09-02,Libya,Sudan,False,0,True,False,40,0.5
+2005-09-03,Albania,Kazakhstan,False,1,False,True,40,1.0
+2005-09-03,Andorra,Finland,False,0,True,False,40,0.5
+2005-09-03,Armenia,Netherlands,False,1,False,False,40,0.0
+2005-09-03,Australia,Solomon Islands,False,7,False,True,40,1.0
+2005-09-03,Bolivia,Ecuador,False,1,False,False,40,0.0
+2005-09-03,Bosnia-Herzegovina,Belgium,False,1,False,True,40,1.0
+2005-09-03,Burkina Faso,South Africa,False,2,False,True,40,1.0
+2005-09-03,Estonia,Latvia,False,1,False,True,40,1.0
+2005-09-03,France,Faroe Islands,False,3,False,True,40,1.0
+2005-09-03,Georgia,Ukraine,False,0,True,False,40,0.5
+2005-09-03,Hungary,Malta,False,4,False,True,40,1.0
+2005-09-03,Iceland,Croatia,False,2,False,False,40,0.0
+2005-09-03,Kenya,Tunisia,False,2,False,False,40,0.0
+2005-09-03,Mali,Congo,False,2,False,True,40,1.0
+2005-09-03,Moldova,Belarus,False,2,False,True,40,1.0
+2005-09-03,Morocco,Botswana,False,1,False,True,40,1.0
+2005-09-03,Northern Ireland,Azerbaijan,False,2,False,True,40,1.0
+2005-09-03,Panama,Costa Rica,False,2,False,False,40,0.0
+2005-09-03,Paraguay,Argentina,False,1,False,True,40,1.0
+2005-09-03,Poland,Austria,False,1,False,True,40,1.0
+2005-09-03,Portugal,Luxembourg,False,6,False,True,40,1.0
+2005-09-03,Romania,Czech Republic,False,2,False,True,40,1.0
+2005-09-03,Russia,Liechtenstein,False,2,False,True,40,1.0
+2005-09-03,Scotland,Italy,False,0,True,False,40,0.5
+2005-09-03,Serbia,Lithuania,True,2,False,True,40,1.0
+2005-09-03,Slovakia,Germany,False,2,False,True,20,1.0
+2005-09-03,Slovenia,Norway,False,1,False,False,40,0.0
+2005-09-03,Spain,Canada,False,1,False,True,20,1.0
+2005-09-03,Sweden,Bulgaria,False,3,False,True,40,1.0
+2005-09-03,Switzerland,Israel,False,0,True,False,40,0.5
+2005-09-03,Trinidad and Tobago,Guatemala,False,1,False,True,40,1.0
+2005-09-03,Turkey,Denmark,False,0,True,False,40,0.5
+2005-09-03,USA,Mexico,False,2,False,True,40,1.0
+2005-09-03,Venezuela,Peru,False,3,False,True,40,1.0
+2005-09-03,Wales,England,False,1,False,False,40,0.0
+2005-09-03,Zambia,Senegal,False,1,False,False,40,0.0
+2005-09-04,Algeria,Nigeria,False,3,False,False,40,0.0
+2005-09-04,Angola,Gabon,False,3,False,True,40,1.0
+2005-09-04,Brazil,Chile,False,5,False,True,40,1.0
+2005-09-04,Congo DR,Cape Verde,False,1,False,True,40,1.0
+2005-09-04,Egypt,Benin,False,3,False,True,40,1.0
+2005-09-04,Ghana,Uganda,False,2,False,True,40,1.0
+2005-09-04,Guinea,Malawi,False,2,False,True,40,1.0
+2005-09-04,Ivory Coast,Cameroon,False,1,False,False,40,0.0
+2005-09-04,Togo,Liberia,False,3,False,True,40,1.0
+2005-09-04,Uruguay,Colombia,False,1,False,True,40,1.0
+2005-09-04,Zimbabwe,Rwanda,False,2,False,True,40,1.0
+2005-09-06,Solomon Islands,Australia,False,1,False,False,40,0.0
+2005-09-07,Azerbaijan,Austria,False,0,True,False,40,0.5
+2005-09-07,Belarus,Italy,False,3,False,False,40,0.0
+2005-09-07,Belgium,San Marino,False,8,False,True,40,1.0
+2005-09-07,Bulgaria,Iceland,False,1,False,True,40,1.0
+2005-09-07,Costa Rica,Trinidad and Tobago,False,2,False,True,40,1.0
+2005-09-07,Cyprus,Switzerland,False,2,False,False,40,0.0
+2005-09-07,Czech Republic,Armenia,False,3,False,True,40,1.0
+2005-09-07,Denmark,Georgia,False,5,False,True,40,1.0
+2005-09-07,Faroe Islands,Israel,False,2,False,False,40,0.0
+2005-09-07,Finland,Macedonia,False,4,False,True,40,1.0
+2005-09-07,Germany,South Africa,False,2,False,True,20,1.0
+2005-09-07,Guatemala,USA,False,0,True,False,40,0.5
+2005-09-07,Hungary,Sweden,False,1,False,False,40,0.0
+2005-09-07,Ireland,France,False,1,False,False,40,0.0
+2005-09-07,Japan,Honduras,False,1,False,True,20,1.0
+2005-09-07,Kazakhstan,Greece,False,1,False,False,40,0.0
+2005-09-07,Latvia,Slovakia,False,0,True,False,40,0.5
+2005-09-07,Liechtenstein,Luxembourg,False,3,False,True,40,1.0
+2005-09-07,Lithuania,Bosnia-Herzegovina,False,1,False,False,40,0.0
+2005-09-07,Malta,Croatia,False,0,True,False,40,0.5
+2005-09-07,Mexico,Panama,False,5,False,True,40,1.0
+2005-09-07,Moldova,Slovenia,False,1,False,False,40,0.0
+2005-09-07,Netherlands,Andorra,False,4,False,True,40,1.0
+2005-09-07,Northern Ireland,England,False,1,False,True,40,1.0
+2005-09-07,Norway,Scotland,False,1,False,False,40,0.0
+2005-09-07,Poland,Wales,False,1,False,True,40,1.0
+2005-09-07,Russia,Portugal,False,0,True,False,40,0.5
+2005-09-07,Spain,Serbia,False,0,True,False,40,0.5
+2005-09-07,Ukraine,Turkey,False,1,False,False,40,0.0
+2005-09-23,United Arab Emirates,Benin,False,0,True,False,20,0.5
+2005-09-24,Malawi,Zimbabwe,True,2,False,True,20,1.0
+2005-09-25,Mozambique,Zimbabwe,False,1,False,True,20,1.0
+2005-09-25,Zambia,Congo DR,False,0,True,False,20,0.5
+2005-09-27,Congo DR,Zambia,False,0,True,False,20,0.5
+2005-09-30,Guyana,Dominica,False,3,False,True,20,1.0
+2005-10-01,Guatemala,Jamaica,True,1,False,False,20,0.0
+2005-10-01,Liberia,Zambia,False,5,False,False,40,0.0
+2005-10-02,Guyana,Dominica,False,3,False,True,20,1.0
+2005-10-07,Poland,Iceland,False,1,False,True,20,1.0
+2005-10-08,Belgium,Spain,False,2,False,False,40,0.0
+2005-10-08,Bosnia-Herzegovina,San Marino,False,3,False,True,40,1.0
+2005-10-08,Botswana,Guinea,False,1,False,False,40,0.0
+2005-10-08,Bulgaria,Hungary,False,2,False,True,40,1.0
+2005-10-08,Cameroon,Egypt,False,0,True,False,40,0.5
+2005-10-08,Cape Verde,Ghana,False,4,False,False,40,0.0
+2005-10-08,Colombia,Chile,False,0,True,False,40,0.5
+2005-10-08,Congo,Togo,False,1,False,False,40,0.0
+2005-10-08,Costa Rica,USA,False,3,False,True,40,1.0
+2005-10-08,Croatia,Sweden,False,1,False,True,40,1.0
+2005-10-08,Cyprus,Ireland,False,1,False,False,40,0.0
+2005-10-08,Czech Republic,Netherlands,False,2,False,False,40,0.0
+2005-10-08,Denmark,Greece,False,1,False,True,40,1.0
+2005-10-08,Ecuador,Uruguay,False,0,True,False,40,0.5
+2005-10-08,England,Austria,False,1,False,True,40,1.0
+2005-10-08,Finland,Romania,False,1,False,False,40,0.0
+2005-10-08,Gabon,Algeria,False,0,True,False,40,0.5
+2005-10-08,Georgia,Kazakhstan,False,0,True,False,40,0.5
+2005-10-08,Israel,Faroe Islands,False,1,False,True,40,1.0
+2005-10-08,Italy,Slovenia,False,1,False,True,40,1.0
+2005-10-08,Latvia,Japan,False,0,True,False,20,0.5
+2005-10-08,Lithuania,Serbia,False,2,False,False,40,0.0
+2005-10-08,Malawi,Kenya,False,3,False,True,40,1.0
+2005-10-08,Mexico,Guatemala,False,3,False,True,40,1.0
+2005-10-08,Nigeria,Zimbabwe,False,4,False,True,40,1.0
+2005-10-08,Northern Ireland,Wales,False,1,False,False,40,0.0
+2005-10-08,Norway,Moldova,False,1,False,True,40,1.0
+2005-10-08,Panama,Trinidad and Tobago,False,1,False,False,40,0.0
+2005-10-08,Portugal,Liechtenstein,False,1,False,True,40,1.0
+2005-10-08,Russia,Luxembourg,False,4,False,True,40,1.0
+2005-10-08,Rwanda,Angola,False,1,False,False,40,0.0
+2005-10-08,Scotland,Belarus,False,1,False,False,40,0.0
+2005-10-08,Senegal,Mali,False,3,False,True,40,1.0
+2005-10-08,Slovakia,Estonia,False,1,False,True,40,1.0
+2005-10-08,South Africa,Congo DR,False,0,True,False,40,0.5
+2005-10-08,Sudan,Ivory Coast,False,2,False,False,40,0.0
+2005-10-08,Switzerland,France,False,0,True,False,40,0.5
+2005-10-08,Tunisia,Morocco,False,0,True,False,40,0.5
+2005-10-08,Turkey,Germany,False,1,False,True,20,1.0
+2005-10-08,Uganda,Burkina Faso,False,0,True,False,40,0.5
+2005-10-08,Ukraine,Albania,False,0,True,False,40,0.5
+2005-10-08,Uzbekistan,Bahrain,False,0,True,False,40,0.5
+2005-10-08,Venezuela,Paraguay,False,1,False,False,40,0.0
+2005-10-09,Argentina,Peru,False,2,False,True,40,1.0
+2005-10-09,Australia,Jamaica,True,5,False,True,20,1.0
+2005-10-09,Benin,Libya,False,1,False,True,40,1.0
+2005-10-09,Bolivia,Brazil,False,0,True,False,40,0.5
+2005-10-11,Cambodia,Singapore,False,2,False,False,20,0.0
+2005-10-11,Qatar,Iraq,False,0,True,False,20,0.5
+2005-10-11,United Arab Emirates,Oman,False,0,True,False,20,0.5
+2005-10-12,Albania,Turkey,False,1,False,False,40,0.0
+2005-10-12,Andorra,Armenia,False,3,False,False,40,0.0
+2005-10-12,Austria,Northern Ireland,False,2,False,True,40,1.0
+2005-10-12,Bahrain,Uzbekistan,False,0,True,False,40,0.5
+2005-10-12,Belarus,Norway,False,1,False,False,40,0.0
+2005-10-12,Brazil,Venezuela,False,3,False,True,40,1.0
+2005-10-12,Chile,Ecuador,False,0,True,False,40,0.5
+2005-10-12,England,Poland,False,1,False,True,40,1.0
+2005-10-12,Finland,Czech Republic,False,3,False,False,40,0.0
+2005-10-12,France,Cyprus,False,4,False,True,40,1.0
+2005-10-12,Germany,China,False,1,False,True,20,1.0
+2005-10-12,Greece,Georgia,False,1,False,True,40,1.0
+2005-10-12,Guatemala,Costa Rica,False,2,False,True,40,1.0
+2005-10-12,Hungary,Croatia,False,0,True,False,40,0.5
+2005-10-12,Ireland,Switzerland,False,0,True,False,40,0.5
+2005-10-12,Italy,Moldova,False,1,False,True,40,1.0
+2005-10-12,Kazakhstan,Denmark,False,1,False,False,40,0.0
+2005-10-12,Korea Republic,Iran,False,2,False,True,20,1.0
+2005-10-12,Lithuania,Belgium,False,0,True,False,40,0.5
+2005-10-12,Luxembourg,Estonia,False,2,False,False,40,0.0
+2005-10-12,Malta,Bulgaria,False,0,True,False,40,0.5
+2005-10-12,Netherlands,Macedonia,False,0,True,False,40,0.5
+2005-10-12,Paraguay,Colombia,False,1,False,False,40,0.0
+2005-10-12,Peru,Bolivia,False,3,False,True,40,1.0
+2005-10-12,Portugal,Latvia,False,3,False,True,40,1.0
+2005-10-12,San Marino,Spain,False,6,False,False,40,0.0
+2005-10-12,Serbia,Bosnia-Herzegovina,True,1,False,True,40,1.0
+2005-10-12,Slovakia,Russia,False,0,True,False,40,0.5
+2005-10-12,Slovenia,Scotland,False,3,False,False,40,0.0
+2005-10-12,Sweden,Iceland,False,2,False,True,40,1.0
+2005-10-12,Trinidad and Tobago,Mexico,False,1,False,True,40,1.0
+2005-10-12,Ukraine,Japan,False,1,False,True,20,1.0
+2005-10-12,Uruguay,Argentina,False,1,False,True,40,1.0
+2005-10-12,USA,Panama,False,2,False,True,40,1.0
+2005-10-12,Wales,Azerbaijan,False,2,False,True,40,1.0
+2005-10-23,Madagascar,Mauritius,False,2,False,True,20,1.0
+2005-10-25,Oman,Syria,False,0,True,False,20,0.5
+2005-10-26,Mexico,Uruguay,False,2,False,True,20,1.0
+2005-10-27,Bahrain,Panama,False,5,False,True,20,1.0
+2005-10-30,Puerto Rico,Guadeloupe,False,2,False,False,20,0.0
+2005-11-06,Zanzibar,Tanzania,False,1,False,False,20,0.0
+2005-11-09,France,Costa Rica,True,1,False,True,20,1.0
+2005-11-09,Tajikistan,Afghanistan,False,4,False,True,20,1.0
+2005-11-09,Tanzania,Zanzibar,False,1,False,True,20,1.0
+2005-11-11,Congo DR,Tunisia,True,0,True,False,20,0.5
+2005-11-11,Paraguay,Togo,True,2,False,True,20,1.0
+2005-11-12,Belarus,Latvia,False,2,False,True,20,1.0
+2005-11-12,Bulgaria,Georgia,False,4,False,True,20,1.0
+2005-11-12,England,Argentina,True,1,False,True,20,1.0
+2005-11-12,Finland,Estonia,False,0,True,False,20,0.5
+2005-11-12,France,Germany,False,0,True,False,20,0.5
+2005-11-12,Korea Republic,Sweden,False,0,True,False,20,0.5
+2005-11-12,Liechtenstein,Macedonia,False,1,False,False,20,0.0
+2005-11-12,Netherlands,Italy,False,2,False,False,20,0.0
+2005-11-12,Norway,Czech Republic,False,1,False,False,40,0.0
+2005-11-12,Portugal,Croatia,False,2,False,True,20,1.0
+2005-11-12,Romania,Ivory Coast,True,1,False,False,20,0.0
+2005-11-12,Scotland,USA,False,0,True,False,20,0.5
+2005-11-12,South Africa,Senegal,False,1,False,False,20,0.0
+2005-11-12,Spain,Slovakia,False,4,False,True,40,1.0
+2005-11-12,Switzerland,Turkey,False,2,False,True,40,1.0
+2005-11-12,Trinidad and Tobago,Bahrain,False,0,True,False,40,0.5
+2005-11-12,United Arab Emirates,Brazil,False,8,False,False,20,0.0
+2005-11-12,Uruguay,Australia,False,1,False,True,40,1.0
+2005-11-13,China,Serbia,False,2,False,False,20,0.0
+2005-11-13,Ecuador,Poland,True,3,False,False,20,0.0
+2005-11-13,Iran,Togo,False,2,False,True,20,1.0
+2005-11-14,Saudi Arabia,Ghana,False,2,False,False,20,0.0
+2005-11-15,Morocco,Cameroon,True,0,True,False,20,0.5
+2005-11-15,Northern Ireland,Portugal,False,0,True,False,20,0.5
+2005-11-16,Australia,Uruguay,False,1,False,True,40,1.0
+2005-11-16,Bahrain,Trinidad and Tobago,False,1,False,False,40,0.0
+2005-11-16,Cyprus,Wales,False,1,False,True,20,1.0
+2005-11-16,Czech Republic,Norway,False,1,False,True,40,1.0
+2005-11-16,Egypt,Tunisia,False,1,False,False,20,0.0
+2005-11-16,Georgia,Jordan,False,1,False,True,20,1.0
+2005-11-16,Greece,Hungary,False,1,False,True,20,1.0
+2005-11-16,Ivory Coast,Italy,True,0,True,False,20,0.5
+2005-11-16,Japan,Angola,False,1,False,True,20,1.0
+2005-11-16,Korea Republic,Serbia,False,2,False,True,20,1.0
+2005-11-16,Libya,Congo DR,True,1,False,True,20,1.0
+2005-11-16,Luxembourg,Canada,False,1,False,False,20,0.0
+2005-11-16,Mexico,Bulgaria,True,3,False,False,20,0.0
+2005-11-16,Poland,Estonia,False,2,False,True,20,1.0
+2005-11-16,Qatar,Argentina,False,3,False,False,20,0.0
+2005-11-16,Romania,Nigeria,False,3,False,True,20,1.0
+2005-11-16,Slovakia,Spain,False,0,True,False,40,0.5
+2005-11-16,Syria,United Arab Emirates,False,3,False,False,20,0.0
+2005-11-16,Turkey,Switzerland,False,2,False,True,40,1.0
+2005-11-18,Guinea,Guinea-Bissau,False,0,True,False,30,0.5
+2005-11-20,Guinea-Bissau,Sierra Leone,True,0,True,False,30,0.5
+2005-11-22,Guinea,Sierra Leone,False,1,False,True,30,1.0
+2005-11-24,Sudan,Ethiopia,False,4,False,False,20,0.0
+2005-11-26,Kuwait,Iraq,False,0,True,False,20,0.5
+2005-11-26,Rwanda,Zanzibar,False,1,False,False,30,0.0
+2005-11-27,Djibouti,Somalia,True,1,False,False,30,0.0
+2005-11-27,Ethiopia,Uganda,True,0,True,False,30,0.5
+2005-11-28,Burundi,Tanzania,True,1,False,False,30,0.0
+2005-11-28,Eritrea,Zanzibar,True,3,False,False,30,0.0
+2005-11-29,Somalia,Sudan,True,3,False,False,30,0.0
+2005-11-30,Burundi,Zanzibar,True,1,False,False,30,0.0
+2005-11-30,Djibouti,Uganda,True,5,False,False,30,0.0
+2005-11-30,Rwanda,Eritrea,False,1,False,True,30,1.0
+2005-12-01,Ethiopia,Sudan,True,2,False,True,30,1.0
+2005-12-01,Iraq,Palestine,True,4,False,True,20,1.0
+2005-12-01,Somalia,Uganda,True,7,False,False,30,0.0
+2005-12-02,Burundi,Eritrea,True,0,True,False,30,0.5
+2005-12-02,Tanzania,Zanzibar,True,0,True,False,30,0.5
+2005-12-02,United Arab Emirates,Libya,False,0,True,False,20,0.5
+2005-12-03,Djibouti,Ethiopia,True,6,False,False,30,0.0
+2005-12-03,Oman,Syria,True,2,False,False,20,0.0
+2005-12-03,Saudi Arabia,Palestine,True,2,False,True,20,1.0
+2005-12-03,Sudan,Uganda,True,3,False,False,30,0.0
+2005-12-04,Bahrain,Syria,True,0,True,False,20,0.5
+2005-12-04,Eritrea,Tanzania,True,1,False,False,30,0.0
+2005-12-04,Rwanda,Burundi,False,2,False,True,30,1.0
+2005-12-05,Djibouti,Sudan,True,4,False,False,30,0.0
+2005-12-05,Ethiopia,Somalia,True,2,False,True,30,1.0
+2005-12-05,Iraq,Saudi Arabia,True,4,False,True,20,1.0
+2005-12-06,Bahrain,Oman,True,0,True,False,20,0.5
+2005-12-06,Rwanda,Tanzania,False,2,False,True,30,1.0
+2005-12-07,Maldives,Afghanistan,True,8,False,True,30,1.0
+2005-12-07,Pakistan,Sri Lanka,False,1,False,True,30,1.0
+2005-12-08,Bangladesh,Bhutan,True,3,False,True,30,1.0
+2005-12-08,India,Nepal,True,1,False,True,30,1.0
+2005-12-08,Iraq,Saudi Arabia,True,2,False,True,20,1.0
+2005-12-08,Rwanda,Uganda,False,1,False,True,30,1.0
+2005-12-08,Zanzibar,Ethiopia,True,4,False,False,30,0.0
+2005-12-09,Maldives,Sri Lanka,True,2,False,True,30,1.0
+2005-12-09,Pakistan,Afghanistan,False,1,False,True,30,1.0
+2005-12-10,Bangladesh,Nepal,True,2,False,True,30,1.0
+2005-12-10,India,Bhutan,True,3,False,True,30,1.0
+2005-12-10,Rwanda,Ethiopia,False,1,False,False,30,0.0
+2005-12-10,Syria,Iraq,True,0,True,False,20,0.5
+2005-12-10,Zanzibar,Uganda,True,0,True,False,30,0.5
+2005-12-11,Congo DR,Zambia,False,0,True,False,20,0.5
+2005-12-11,Pakistan,Maldives,False,0,True,False,30,0.5
+2005-12-11,Sri Lanka,Afghanistan,True,1,False,False,30,0.0
+2005-12-12,Bangladesh,India,True,0,True,False,30,0.5
+2005-12-12,Nepal,Bhutan,True,2,False,True,30,1.0
+2005-12-14,Maldives,India,True,1,False,False,30,0.0
+2005-12-14,Mexico,Hungary,True,2,False,True,20,1.0
+2005-12-14,Pakistan,Bangladesh,False,1,False,False,30,0.0
+2005-12-14,Zambia,Congo DR,False,3,False,True,20,1.0
+2005-12-16,Mauritius,Réunion,False,0,True,False,20,0.5
+2005-12-17,Bangladesh,India,True,2,False,False,30,0.0
+2005-12-18,Antigua and Barbuda,Hungary,True,3,False,False,20,0.0
+2005-12-18,Réunion,Mauritius,False,1,False,False,20,0.0
+2005-12-22,Bangladesh,Pakistan,False,0,True,False,40,0.5
+2005-12-24,Thailand,Latvia,False,0,True,False,30,0.5
+2005-12-26,Korea DPR,Latvia,True,0,True,False,30,0.5
+2005-12-26,Pakistan,Bangladesh,False,1,False,False,40,0.0
+2005-12-27,Ecuador,Senegal,True,1,False,False,20,0.0
+2005-12-27,Egypt,Uganda,False,2,False,True,20,1.0
+2005-12-28,Thailand,Korea DPR,False,2,False,False,30,0.0
+2005-12-29,Ecuador,Uganda,True,1,False,False,20,0.0
+2005-12-29,Egypt,Senegal,False,2,False,True,20,1.0
+2005-12-30,Latvia,Korea DPR,True,1,False,True,30,1.0
+2006-01-02,Qatar,Libya,False,2,False,True,20,1.0
+2006-01-05,Egypt,Zimbabwe,False,2,False,True,20,1.0
+2006-01-07,Guinea,Togo,True,1,False,True,20,1.0
+2006-01-09,Morocco,Congo DR,False,3,False,True,20,1.0
+2006-01-11,Ghana,Togo,True,1,False,False,20,0.0
+2006-01-12,Tunisia,Libya,False,1,False,True,20,1.0
+2006-01-14,Egypt,South Africa,False,1,False,False,20,0.0
+2006-01-14,Morocco,Zimbabwe,False,1,False,True,20,1.0
+2006-01-14,Senegal,Congo DR,False,0,True,False,20,0.5
+2006-01-15,Tunisia,Ghana,False,2,False,True,20,1.0
+2006-01-17,Ivory Coast,Jordan,True,2,False,True,20,1.0
+2006-01-17,Morocco,Angola,False,0,True,False,20,0.5
+2006-01-18,Saudi Arabia,Sweden,False,0,True,False,20,0.5
+2006-01-18,United Arab Emirates,Korea Republic,False,1,False,True,20,1.0
+2006-01-20,Egypt,Libya,False,3,False,True,50,1.0
+2006-01-21,Cameroon,Angola,True,2,False,True,50,1.0
+2006-01-21,Greece,Korea Republic,True,0,True,False,20,0.5
+2006-01-21,Morocco,Ivory Coast,True,1,False,False,50,0.0
+2006-01-21,Saudi Arabia,Finland,False,0,True,False,20,0.5
+2006-01-21,Togo,Congo DR,True,2,False,False,50,0.0
+2006-01-22,South Africa,Guinea,True,2,False,False,50,0.0
+2006-01-22,Tunisia,Zambia,True,3,False,True,50,1.0
+2006-01-22,USA,Canada,False,0,True,False,20,0.5
+2006-01-23,Jordan,Sweden,True,0,True,False,20,0.5
+2006-01-23,Nigeria,Ghana,True,1,False,True,50,1.0
+2006-01-23,Zimbabwe,Senegal,True,2,False,False,50,0.0
+2006-01-24,Egypt,Morocco,False,0,True,False,50,0.5
+2006-01-24,Libya,Ivory Coast,True,1,False,False,50,0.0
+2006-01-25,Angola,Congo DR,True,0,True,False,50,0.5
+2006-01-25,Cameroon,Togo,True,2,False,True,50,1.0
+2006-01-25,Ecuador,Honduras,False,1,False,True,20,1.0
+2006-01-25,Finland,Korea Republic,True,1,False,False,20,0.0
+2006-01-25,Mexico,Norway,True,1,False,True,20,1.0
+2006-01-25,Saudi Arabia,Greece,False,0,True,False,20,0.5
+2006-01-26,Tunisia,South Africa,True,2,False,True,50,1.0
+2006-01-26,Zambia,Guinea,True,1,False,False,50,0.0
+2006-01-27,Ghana,Senegal,True,1,False,True,50,1.0
+2006-01-27,Nigeria,Zimbabwe,True,2,False,True,50,1.0
+2006-01-27,Northern Cyprus,Kyrgyzstan,False,1,False,True,20,1.0
+2006-01-27,Saudi Arabia,Lebanon,False,1,False,False,20,0.0
+2006-01-28,Egypt,Ivory Coast,False,2,False,True,50,1.0
+2006-01-28,Libya,Morocco,True,0,True,False,50,0.5
+2006-01-29,Angola,Togo,True,1,False,True,50,1.0
+2006-01-29,Cameroon,Congo DR,True,2,False,True,50,1.0
+2006-01-29,Korea Republic,Croatia,True,2,False,True,30,1.0
+2006-01-29,USA,Norway,False,5,False,True,20,1.0
+2006-01-30,Bahrain,Syria,False,0,True,False,20,0.5
+2006-01-30,Tunisia,Guinea,True,3,False,False,50,0.0
+2006-01-30,Zambia,South Africa,True,1,False,True,50,1.0
+2006-01-31,Ghana,Zimbabwe,True,1,False,False,50,0.0
+2006-01-31,Nigeria,Senegal,True,1,False,True,50,1.0
+2006-02-01,Hong Kong,Croatia,False,4,False,False,30,0.0
+2006-02-01,Thailand,Jordan,False,0,True,False,20,0.5
+2006-02-03,Egypt,Congo DR,False,3,False,True,50,1.0
+2006-02-03,Guinea,Senegal,True,1,False,False,50,0.0
+2006-02-04,Cameroon,Ivory Coast,True,0,True,False,50,0.5
+2006-02-04,Nigeria,Tunisia,True,0,True,False,50,0.5
+2006-02-06,Oman,Singapore,True,1,False,True,20,1.0
+2006-02-07,Egypt,Senegal,False,1,False,True,50,1.0
+2006-02-07,Kuwait,Jordan,False,1,False,True,20,1.0
+2006-02-07,Nigeria,Ivory Coast,True,1,False,False,50,0.0
+2006-02-07,Syria,Palestine,False,3,False,True,20,1.0
+2006-02-09,Senegal,Nigeria,True,1,False,False,50,0.0
+2006-02-10,Egypt,Ivory Coast,False,0,True,False,50,0.5
+2006-02-10,USA,Japan,False,1,False,True,20,1.0
+2006-02-11,Costa Rica,Korea Republic,True,1,False,True,20,1.0
+2006-02-12,China,Honduras,False,1,False,False,20,0.0
+2006-02-13,Oman,Iraq,False,1,False,True,20,1.0
+2006-02-14,Jordan,Kazakhstan,False,2,False,True,20,1.0
+2006-02-14,Qatar,Tajikistan,False,2,False,True,20,1.0
+2006-02-14,Saudi Arabia,Syria,False,0,True,False,20,0.5
+2006-02-15,Hong Kong,Singapore,False,0,True,False,20,0.5
+2006-02-15,Mexico,Korea Republic,True,1,False,False,20,0.0
+2006-02-16,Bahrain,Palestine,False,2,False,False,20,0.0
+2006-02-16,Thailand,Iraq,False,1,False,True,20,1.0
+2006-02-18,Hong Kong,India,False,0,True,False,20,0.5
+2006-02-18,Japan,Finland,False,2,False,True,20,1.0
+2006-02-18,Pakistan,Palestine,True,3,False,False,20,0.0
+2006-02-19,New Zealand,Malaysia,False,1,False,True,20,1.0
+2006-02-19,USA,Guatemala,False,4,False,True,20,1.0
+2006-02-22,Bahrain,Australia,False,2,False,False,40,0.0
+2006-02-22,China,Palestine,False,2,False,True,40,1.0
+2006-02-22,Hong Kong,Qatar,False,3,False,False,40,0.0
+2006-02-22,Iran,Taiwan,False,4,False,True,40,1.0
+2006-02-22,Japan,India,False,6,False,True,40,1.0
+2006-02-22,Jordan,Pakistan,False,3,False,True,40,1.0
+2006-02-22,Lebanon,Kuwait,False,0,True,False,40,0.5
+2006-02-22,Singapore,Iraq,False,2,False,True,40,1.0
+2006-02-22,Syria,Korea Republic,False,1,False,False,40,0.0
+2006-02-22,United Arab Emirates,Oman,False,1,False,True,40,1.0
+2006-02-22,Uzbekistan,Bangladesh,False,5,False,True,40,1.0
+2006-02-22,Yemen,Saudi Arabia,False,4,False,False,40,0.0
+2006-02-23,New Zealand,Malaysia,False,1,False,True,20,1.0
+2006-02-24,Guyana,Antigua and Barbuda,False,1,False,True,20,1.0
+2006-02-24,Kazakhstan,Korea DPR,True,0,True,False,20,0.5
+2006-02-25,St. Kitts and Nevis,St. Martin,False,5,False,True,20,1.0
+2006-02-26,Guyana,Antigua and Barbuda,False,3,False,True,20,1.0
+2006-02-28,Algeria,Burkina Faso,True,0,True,False,20,0.5
+2006-02-28,Azerbaijan,Ukraine,False,0,True,False,20,0.5
+2006-02-28,Bosnia-Herzegovina,Japan,True,0,True,False,20,0.5
+2006-02-28,Cyprus,Slovenia,False,1,False,False,30,0.0
+2006-02-28,Finland,Kazakhstan,True,0,True,False,30,0.5
+2006-02-28,Greece,Belarus,True,1,False,True,30,1.0
+2006-02-28,Iceland,Trinidad and Tobago,True,2,False,False,20,0.0
+2006-02-28,Romania,Armenia,True,2,False,True,30,1.0
+2006-03-01,Albania,Lithuania,False,1,False,False,20,0.0
+2006-03-01,Argentina,Croatia,True,1,False,False,20,0.0
+2006-03-01,Austria,Canada,False,2,False,False,20,0.0
+2006-03-01,Bangladesh,Hong Kong,False,1,False,False,40,0.0
+2006-03-01,Cyprus,Armenia,False,2,False,True,30,1.0
+2006-03-01,England,Uruguay,False,1,False,True,20,1.0
+2006-03-01,Finland,Belarus,True,0,True,False,30,0.5
+2006-03-01,France,Slovakia,False,1,False,False,20,0.0
+2006-03-01,India,Yemen,False,3,False,False,40,0.0
+2006-03-01,Iran,Costa Rica,False,1,False,True,20,1.0
+2006-03-01,Iraq,China,True,1,False,True,40,1.0
+2006-03-01,Ireland,Sweden,False,3,False,True,20,1.0
+2006-03-01,Israel,Denmark,False,2,False,False,20,0.0
+2006-03-01,Italy,Germany,False,3,False,True,20,1.0
+2006-03-01,Kazakhstan,Greece,True,2,False,False,30,0.0
+2006-03-01,Korea Republic,Angola,False,1,False,True,20,1.0
+2006-03-01,Kuwait,Bahrain,False,0,True,False,40,0.5
+2006-03-01,Luxembourg,Belgium,False,2,False,False,20,0.0
+2006-03-01,Macedonia,Bulgaria,False,1,False,False,20,0.0
+2006-03-01,Malta,Georgia,False,2,False,False,30,0.0
+2006-03-01,Mexico,Ghana,True,1,False,True,20,1.0
+2006-03-01,Netherlands,Ecuador,False,1,False,True,20,1.0
+2006-03-01,Northern Ireland,Estonia,False,1,False,True,20,1.0
+2006-03-01,Oman,Jordan,False,3,False,True,40,1.0
+2006-03-01,Pakistan,United Arab Emirates,False,3,False,False,40,0.0
+2006-03-01,Palestine,Singapore,True,1,False,True,40,1.0
+2006-03-01,Poland,USA,True,1,False,False,20,0.0
+2006-03-01,Qatar,Uzbekistan,False,1,False,True,40,1.0
+2006-03-01,Russia,Brazil,False,1,False,False,20,0.0
+2006-03-01,Saudi Arabia,Portugal,True,3,False,False,20,0.0
+2006-03-01,Scotland,Switzerland,False,2,False,False,20,0.0
+2006-03-01,Senegal,Norway,False,1,False,True,20,1.0
+2006-03-01,Slovenia,Romania,True,2,False,False,30,0.0
+2006-03-01,Spain,Ivory Coast,False,1,False,True,20,1.0
+2006-03-01,Tunisia,Serbia,False,1,False,False,20,0.0
+2006-03-01,Turkey,Czech Republic,False,0,True,False,20,0.5
+2006-03-01,Venezuela,Colombia,False,0,True,False,20,0.5
+2006-03-01,Wales,Paraguay,False,0,True,False,20,0.5
+2006-03-04,Equatorial Guinea,Congo,False,1,False,True,20,1.0
+2006-03-06,Equatorial Guinea,Chad,False,0,True,False,20,0.5
+2006-03-08,Central African Republic,Gabon,True,0,True,False,20,0.5
+2006-03-08,Chad,Congo,True,0,True,False,20,0.5
+2006-03-11,Equatorial Guinea,Gabon,False,0,True,False,20,0.5
+2006-03-14,Chad,Gabon,True,0,True,False,20,0.5
+2006-03-15,Saudi Arabia,Iraq,False,0,True,False,20,0.5
+2006-03-22,Albania,Georgia,False,0,True,False,20,0.5
+2006-03-22,Germany,USA,False,3,False,True,20,1.0
+2006-03-26,Thailand,Philippines,False,5,False,True,20,1.0
+2006-03-28,Saudi Arabia,Poland,False,1,False,False,20,0.0
+2006-03-29,Equatorial Guinea,Benin,False,2,False,True,20,1.0
+2006-03-29,Mexico,Paraguay,True,1,False,True,20,1.0
+2006-03-30,Japan,Ecuador,False,1,False,True,20,1.0
+2006-04-01,Bangladesh,Cambodia,False,1,False,True,30,1.0
+2006-04-01,Palestine,Guam,True,11,False,True,30,1.0
+2006-04-01,Tanzania,Zanzibar,False,0,True,False,20,0.5
+2006-04-02,Kyrgyzstan,Pakistan,True,1,False,False,30,0.0
+2006-04-02,Nepal,Bhutan,True,2,False,True,30,1.0
+2006-04-02,Sri Lanka,Brunei,True,1,False,True,30,1.0
+2006-04-02,Tajikistan,Macau,True,4,False,True,30,1.0
+2006-04-03,Afghanistan,Taiwan,True,0,True,False,30,0.5
+2006-04-03,Bangladesh,Guam,False,3,False,True,30,1.0
+2006-04-03,Cambodia,Palestine,True,4,False,False,30,0.0
+2006-04-04,Bhutan,Sri Lanka,True,1,False,False,30,0.0
+2006-04-04,Brunei,Nepal,True,1,False,True,30,1.0
+2006-04-04,Pakistan,Tajikistan,True,2,False,False,30,0.0
+2006-04-05,Bangladesh,Palestine,False,0,True,False,30,0.5
+2006-04-05,Philippines,Afghanistan,True,0,True,False,30,0.5
+2006-04-06,Bhutan,Brunei,True,0,True,False,30,0.5
+2006-04-06,Cambodia,Guam,True,3,False,True,30,1.0
+2006-04-06,Pakistan,Macau,True,0,True,False,30,0.5
+2006-04-06,Sri Lanka,Nepal,True,0,True,False,30,0.5
+2006-04-06,Tajikistan,Kyrgyzstan,True,1,False,False,30,0.0
+2006-04-07,Macau,Kyrgyzstan,True,2,False,False,30,0.0
+2006-04-08,Sri Lanka,Taiwan,True,3,False,True,30,1.0
+2006-04-09,Palestine,Kyrgyzstan,True,1,False,False,30,0.0
+2006-04-10,Bangladesh,Tajikistan,False,5,False,False,30,0.0
+2006-04-11,USA,Jamaica,False,0,True,False,20,0.5
+2006-04-12,Azerbaijan,Turkey,False,0,True,False,20,0.5
+2006-04-12,Sri Lanka,Nepal,True,0,True,False,30,0.5
+2006-04-13,Tajikistan,Kyrgyzstan,True,2,False,True,30,1.0
+2006-04-14,Lesotho,Swaziland,False,5,False,True,20,1.0
+2006-04-16,Lesotho,Swaziland,False,0,True,False,20,0.5
+2006-04-16,Sri Lanka,Tajikistan,True,4,False,False,30,0.0
+2006-04-22,Kosovo,Monaco,True,6,False,True,20,1.0
+2006-04-25,Chile,New Zealand,False,3,False,True,20,1.0
+2006-04-27,Chile,New Zealand,False,1,False,True,20,1.0
+2006-04-29,Angola,Mauritius,True,4,False,True,30,1.0
+2006-04-29,Lesotho,Mozambique,False,0,True,False,30,0.5
+2006-04-30,Lesotho,Angola,False,2,False,False,30,0.0
+2006-04-30,Mauritius,Mozambique,True,0,True,False,30,0.5
+2006-05-01,Jersey,Guernsey,False,1,False,True,20,1.0
+2006-05-02,Poland,Lithuania,False,1,False,False,20,0.0
+2006-05-02,United Arab Emirates,Syria,False,1,False,True,20,1.0
+2006-05-05,Mexico,Venezuela,True,1,False,True,20,1.0
+2006-05-09,Japan,Bulgaria,False,1,False,False,30,0.0
+2006-05-10,Lesotho,South Africa,False,0,True,False,20,0.5
+2006-05-10,Trinidad and Tobago,Peru,False,0,True,False,20,0.5
+2006-05-11,Belgium,Saudi Arabia,True,1,False,True,20,1.0
+2006-05-11,Bulgaria,Scotland,True,4,False,False,30,0.0
+2006-05-12,Mexico,Congo DR,False,1,False,True,20,1.0
+2006-05-13,Japan,Scotland,False,0,True,False,30,0.5
+2006-05-14,Botswana,Zambia,False,0,True,False,20,0.5
+2006-05-14,Poland,Faroe Islands,False,4,False,True,20,1.0
+2006-05-14,Saudi Arabia,Togo,True,1,False,True,20,1.0
+2006-05-18,Moldova,Azerbaijan,False,0,True,False,20,0.5
+2006-05-20,Botswana,Madagascar,False,2,False,True,30,1.0
+2006-05-20,Guadeloupe,St. Lucia,False,1,False,True,20,1.0
+2006-05-20,Slovakia,Belgium,False,0,True,False,20,0.5
+2006-05-20,South Africa,Swaziland,True,1,False,True,30,1.0
+2006-05-21,Botswana,South Africa,False,0,True,False,30,0.5
+2006-05-21,Madagascar,Swaziland,True,2,False,False,30,0.0
+2006-05-21,Northern Ireland,Uruguay,True,1,False,False,20,0.0
+2006-05-23,Austria,Croatia,False,3,False,False,20,0.0
+2006-05-23,Korea Republic,Senegal,False,0,True,False,20,0.5
+2006-05-23,Romania,Uruguay,True,2,False,False,20,0.0
+2006-05-23,USA,Morocco,False,1,False,False,20,0.0
+2006-05-24,Belgium,Turkey,False,0,True,False,20,0.5
+2006-05-24,Colombia,Ecuador,True,0,True,False,20,0.5
+2006-05-24,Hungary,New Zealand,False,2,False,True,20,1.0
+2006-05-24,Ireland,Chile,False,1,False,False,20,0.0
+2006-05-24,Norway,Paraguay,False,0,True,False,20,0.5
+2006-05-25,Australia,Greece,False,1,False,True,20,1.0
+2006-05-25,Sweden,Finland,False,0,True,False,20,0.5
+2006-05-26,Czech Republic,Saudi Arabia,True,2,False,True,20,1.0
+2006-05-26,Korea Republic,Bosnia-Herzegovina,False,2,False,True,20,1.0
+2006-05-26,Romania,Northern Ireland,True,2,False,True,20,1.0
+2006-05-26,Turkey,Ghana,True,0,True,False,20,0.5
+2006-05-26,USA,Venezuela,False,2,False,True,20,1.0
+2006-05-27,Denmark,Paraguay,False,0,True,False,20,0.5
+2006-05-27,France,Mexico,False,1,False,True,20,1.0
+2006-05-27,Georgia,New Zealand,True,2,False,False,20,0.0
+2006-05-27,Germany,Luxembourg,False,7,False,True,20,1.0
+2006-05-27,Netherlands,Cameroon,False,1,False,True,20,1.0
+2006-05-27,Portugal,Cape Verde,False,3,False,True,20,1.0
+2006-05-27,Romania,Colombia,True,0,True,False,20,0.5
+2006-05-27,Serbia,Uruguay,False,0,True,False,20,0.5
+2006-05-27,Spain,Russia,False,0,True,False,20,0.5
+2006-05-27,Switzerland,Ivory Coast,False,0,True,False,20,0.5
+2006-05-27,Wales,Trinidad and Tobago,True,1,False,True,20,1.0
+2006-05-28,Croatia,Iran,False,0,True,False,20,0.5
+2006-05-28,Macedonia,Ecuador,True,1,False,True,20,1.0
+2006-05-28,Morocco,Mali,True,1,False,False,20,0.0
+2006-05-28,Turkey,Estonia,True,0,True,False,20,0.5
+2006-05-28,Ukraine,Costa Rica,False,4,False,True,20,1.0
+2006-05-28,USA,Latvia,False,1,False,True,20,1.0
+2006-05-29,Jamaica,Ghana,True,3,False,False,20,0.0
+2006-05-29,Northern Cyprus,Greenland,True,1,False,True,30,1.0
+2006-05-29,Republic of St. Pauli,Gibraltar,False,0,True,False,30,0.5
+2006-05-30,Argentina,Angola,True,2,False,True,20,1.0
+2006-05-30,Chile,Ivory Coast,True,0,True,False,20,0.5
+2006-05-30,Czech Republic,Costa Rica,False,1,False,True,20,1.0
+2006-05-30,England,Hungary,False,2,False,True,20,1.0
+2006-05-30,Germany,Japan,False,0,True,False,20,0.5
+2006-05-30,Libya,Uruguay,True,1,False,False,20,0.0
+2006-05-30,Poland,Colombia,False,1,False,False,20,0.0
+2006-05-30,Tunisia,Belarus,False,3,False,True,20,1.0
+2006-05-30,Zanzibar,Northern Cyprus,True,2,False,False,30,0.0
+2006-05-30,Republic of St. Pauli,Tibet,False,7,False,True,30,1.0
+2006-05-31,Estonia,New Zealand,False,0,True,False,20,0.5
+2006-05-31,France,Denmark,False,2,False,True,20,1.0
+2006-05-31,Georgia,Paraguay,True,1,False,False,20,0.0
+2006-05-31,Gibraltar,Tibet,True,5,False,True,30,1.0
+2006-05-31,Greenland,Zanzibar,True,2,False,False,30,0.0
+2006-05-31,Iran,Bosnia-Herzegovina,False,3,False,True,20,1.0
+2006-05-31,Saudi Arabia,Turkey,True,1,False,False,20,0.0
+2006-05-31,Singapore,Malaysia,False,0,True,False,20,0.5
+2006-05-31,Slovenia,Trinidad and Tobago,False,2,False,True,20,1.0
+2006-05-31,Switzerland,Italy,False,0,True,False,20,0.5
+2006-06-01,Netherlands,Mexico,False,1,False,True,20,1.0
+2006-06-01,Northern Cyprus,Gibraltar,True,2,False,True,30,1.0
+2006-06-01,Republic of St. Pauli,Zanzibar,False,1,False,False,30,0.0
+2006-06-01,Norway,Korea Republic,False,0,True,False,20,0.5
+2006-06-02,Angola,Turkey,True,1,False,False,20,0.0
+2006-06-02,Germany,Colombia,False,3,False,True,20,1.0
+2006-06-02,Italy,Ukraine,True,0,True,False,20,0.5
+2006-06-02,Libya,Belarus,True,0,True,False,20,0.5
+2006-06-02,Liechtenstein,Togo,False,1,False,False,20,0.0
+2006-06-02,Sweden,Chile,False,0,True,False,20,0.5
+2006-06-02,Tunisia,Uruguay,False,0,True,False,20,0.5
+2006-06-03,Croatia,Poland,True,1,False,False,20,0.0
+2006-06-03,Czech Republic,Trinidad and Tobago,False,3,False,True,20,1.0
+2006-06-03,England,Jamaica,False,6,False,True,20,1.0
+2006-06-03,Luxembourg,Portugal,True,3,False,False,20,0.0
+2006-06-03,Macau,Hong Kong,False,0,True,False,20,0.5
+2006-06-03,Malaysia,Singapore,False,0,True,False,20,0.5
+2006-06-03,Republic of St. Pauli,Gibraltar,False,1,False,False,30,0.0
+2006-06-03,Northern Cyprus,Zanzibar,True,0,True,False,30,0.5
+2006-06-03,Spain,Egypt,False,2,False,True,20,1.0
+2006-06-03,Switzerland,China,False,3,False,True,20,1.0
+2006-06-04,Algeria,Sudan,False,1,False,True,20,1.0
+2006-06-04,Brazil,New Zealand,True,4,False,True,20,1.0
+2006-06-04,Colombia,Morocco,True,2,False,True,20,1.0
+2006-06-04,Ghana,Korea Republic,True,2,False,True,20,1.0
+2006-06-04,Japan,Malta,True,1,False,True,20,1.0
+2006-06-04,Netherlands,Australia,False,0,True,False,20,0.5
+2006-06-04,Slovenia,Ivory Coast,True,3,False,False,20,0.0
+2006-06-04,Turkey,Macedonia,True,1,False,False,20,0.0
+2006-06-05,Ukraine,Libya,True,3,False,True,20,1.0
+2006-06-07,Australia,Liechtenstein,True,2,False,True,20,1.0
+2006-06-07,France,China,False,2,False,True,20,1.0
+2006-06-07,Spain,Croatia,True,1,False,True,20,1.0
+2006-06-08,Luxembourg,Ukraine,False,3,False,False,20,0.0

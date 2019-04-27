@@ -1,0 +1,1527 @@
+date,home,away,neutral,gdf,draw,win,k,result
+1970-06-23,Indonesia,Western Australia,False,2,False,True,30,1.0
+1970-06-23,Korea Republic,Malaysia,True,1,False,False,30,0.0
+1970-06-24,Hong Kong,Western Australia,True,2,False,True,30,1.0
+1970-06-25,Sweden,Denmark,False,0,True,False,30,0.5
+1970-06-26,Hong Kong,Malaysia,True,0,True,False,30,0.5
+1970-06-26,Indonesia,Korea Republic,False,0,True,False,30,0.5
+1970-06-27,Indonesia,Hong Kong,False,1,False,True,30,1.0
+1970-06-28,Korea Republic,Malaysia,True,2,False,False,30,0.0
+1970-06-30,Congo DR,Sudan,False,3,False,True,20,1.0
+1970-07-06,Malawi,Mauritius,False,1,False,True,20,1.0
+1970-07-07,Iceland,Denmark,False,0,True,False,20,0.5
+1970-07-09,Malawi,Mauritius,False,0,True,False,20,0.5
+1970-07-11,Gabon,Cameroon,False,0,True,False,20,0.5
+1970-07-11,Tahiti,New Caledonia,False,2,False,True,20,1.0
+1970-07-18,Tahiti,New Caledonia,False,2,False,False,20,0.0
+1970-07-20,Iceland,Norway,False,2,False,True,20,1.0
+1970-07-22,Poland,Iraq,False,2,False,True,20,1.0
+1970-07-26,German DR,Iraq,False,5,False,True,20,1.0
+1970-07-26,Ivory Coast,Guinea,False,1,False,True,20,1.0
+1970-07-30,India,Taiwan,True,1,False,False,30,0.0
+1970-07-30,Malaysia,Vietnam Republic,False,0,True,False,30,0.5
+1970-07-31,Hong Kong,Japan,True,1,False,True,30,1.0
+1970-07-31,Korea Republic,Thailand,True,0,True,False,30,0.5
+1970-08-01,Burma,Western Australia,True,1,False,True,30,1.0
+1970-08-01,Cameroon,Gabon,False,3,False,False,20,0.0
+1970-08-01,Indonesia,Singapore,True,2,False,True,30,1.0
+1970-08-02,Hong Kong,Thailand,True,2,False,True,30,1.0
+1970-08-02,Japan,Korea Republic,True,0,True,False,30,0.5
+1970-08-03,Burma,India,True,2,False,True,30,1.0
+1970-08-03,Vietnam Republic,Western Australia,True,2,False,False,30,0.0
+1970-08-04,Hong Kong,Indonesia,True,2,False,False,30,0.0
+1970-08-04,Japan,Thailand,True,0,True,False,30,0.5
+1970-08-04,Korea Republic,Singapore,True,4,False,True,30,1.0
+1970-08-05,Burma,Vietnam Republic,True,2,False,True,30,1.0
+1970-08-05,India,Western Australia,True,2,False,True,30,1.0
+1970-08-06,Hong Kong,Singapore,True,1,False,True,30,1.0
+1970-08-06,Indonesia,Korea Republic,True,1,False,False,30,0.0
+1970-08-07,Burma,Taiwan,True,0,True,False,30,0.5
+1970-08-07,Malaysia,Western Australia,False,3,False,True,30,1.0
+1970-08-08,Indonesia,Japan,True,1,False,False,30,0.0
+1970-08-08,Malawi,Lesotho,False,1,False,False,20,0.0
+1970-08-08,Singapore,Thailand,True,1,False,False,30,0.0
+1970-08-09,Hong Kong,Korea Republic,True,0,True,False,30,0.5
+1970-08-09,India,Vietnam Republic,True,1,False,True,30,1.0
+1970-08-09,Malaysia,Burma,False,1,False,False,30,0.0
+1970-08-10,Indonesia,Thailand,True,3,False,True,30,1.0
+1970-08-10,Japan,Singapore,True,4,False,True,30,1.0
+1970-08-10,Malawi,Lesotho,False,5,False,True,20,1.0
+1970-08-12,Burma,Hong Kong,True,5,False,True,30,1.0
+1970-08-12,Thailand,Western Australia,True,2,False,True,30,1.0
+1970-08-13,India,Korea Republic,True,1,False,False,30,0.0
+1970-08-13,Singapore,Vietnam Republic,True,4,False,False,30,0.0
+1970-08-15,Hong Kong,India,True,1,False,False,30,0.0
+1970-08-16,Burma,Korea Republic,True,1,False,False,30,0.0
+1970-08-16,Japan,Taiwan,True,1,False,True,30,1.0
+1970-08-19,Singapore,India,False,5,False,False,20,0.0
+1970-08-26,Finland,Sweden,False,1,False,False,30,0.0
+1970-09-01,Libya,Tunisia,False,0,True,False,20,0.5
+1970-09-02,Poland,Denmark,False,5,False,True,20,1.0
+1970-09-04,Libya,Tunisia,False,1,False,True,20,1.0
+1970-09-05,France,Czechoslovakia,False,3,False,True,20,1.0
+1970-09-06,German DR,Poland,False,5,False,True,20,1.0
+1970-09-06,Iran,Pakistan,False,7,False,True,20,1.0
+1970-09-09,Germany,Hungary,False,2,False,True,20,1.0
+1970-09-09,Pakistan,Turkey,True,2,False,False,20,0.0
+1970-09-10,Austria,Yugoslavia,False,1,False,False,20,0.0
+1970-09-11,Iran,Turkey,False,0,True,False,20,0.5
+1970-09-20,North Vietnam,Cuba,False,1,False,True,20,1.0
+1970-09-23,Denmark,Norway,False,1,False,False,30,0.0
+1970-09-23,Ireland,Poland,False,2,False,False,20,0.0
+1970-09-24,Tunisia,Libya,False,2,False,True,20,1.0
+1970-09-26,Zanzibar,Uganda,False,1,False,False,20,0.0
+1970-09-27,Hungary,Austria,False,0,True,False,20,0.5
+1970-09-27,Tanzania,Kenya,False,2,False,True,20,1.0
+1970-09-29,Kenya,Uganda,True,1,False,False,20,0.0
+1970-09-30,Brazil,Mexico,False,1,False,True,20,1.0
+1970-09-30,Zanzibar,Tanzania,False,1,False,False,20,0.0
+1970-10-02,Tanzania,Uganda,False,3,False,False,20,0.0
+1970-10-03,Zanzibar,Kenya,False,1,False,True,20,1.0
+1970-10-04,Chile,Brazil,False,4,False,False,20,0.0
+1970-10-04,Suriname,Trinidad and Tobago,False,1,False,True,20,1.0
+1970-10-07,Austria,France,False,1,False,True,20,1.0
+1970-10-07,Curaçao,Trinidad and Tobago,True,0,True,False,20,0.5
+1970-10-07,Czechoslovakia,Finland,False,0,True,False,40,0.5
+1970-10-07,Norway,Hungary,False,2,False,False,40,0.0
+1970-10-08,Guyana,Trinidad and Tobago,False,0,True,False,20,0.5
+1970-10-09,Suriname,Curaçao,False,4,False,True,20,1.0
+1970-10-10,Guyana,Trinidad and Tobago,False,0,True,False,20,0.5
+1970-10-11,Malta,Greece,False,0,True,False,40,0.5
+1970-10-11,Netherlands,Yugoslavia,False,0,True,False,40,0.5
+1970-10-11,Romania,Finland,False,3,False,True,40,1.0
+1970-10-11,Sierra Leone,Senegal,False,1,False,True,20,1.0
+1970-10-14,Denmark,Portugal,False,1,False,False,40,0.0
+1970-10-14,Ireland,Sweden,False,0,True,False,40,0.5
+1970-10-14,Luxembourg,Yugoslavia,False,2,False,False,40,0.0
+1970-10-14,Poland,Albania,False,3,False,True,40,1.0
+1970-10-17,Germany,Turkey,False,0,True,False,40,0.5
+1970-10-17,Switzerland,Italy,False,0,True,False,20,0.5
+1970-10-18,Ivory Coast,Senegal,False,1,False,False,20,0.0
+1970-10-22,Paraguay,Argentina,False,0,True,False,20,0.5
+1970-10-23,New Caledonia,Australia,False,2,False,False,20,0.0
+1970-10-25,Czechoslovakia,Poland,False,0,True,False,20,0.5
+1970-10-25,New Caledonia,Australia,False,1,False,False,20,0.0
+1970-10-25,Togo,Senegal,False,3,False,True,20,1.0
+1970-10-28,Russia,Yugoslavia,False,4,False,True,20,1.0
+1970-10-28,Spain,Greece,False,1,False,True,20,1.0
+1970-10-28,Sweden,Ireland,False,1,False,True,40,1.0
+1970-10-29,Indonesia,Thailand,True,1,False,False,30,0.0
+1970-10-29,Vietnam Republic,Malaysia,False,0,True,False,30,0.5
+1970-10-30,Macau,Australia,False,9,False,False,20,0.0
+1970-10-31,Austria,Italy,False,1,False,False,40,0.0
+1970-10-31,Malaysia,Thailand,True,3,False,False,30,0.0
+1970-10-31,Vietnam Republic,Indonesia,False,2,False,True,30,1.0
+1970-11-01,Benin,Congo,False,1,False,True,20,1.0
+1970-11-01,Indonesia,Malaysia,True,2,False,False,30,0.0
+1970-11-01,Sierra Leone,Guinea,False,1,False,False,20,0.0
+1970-11-01,Vietnam Republic,Thailand,False,1,False,True,30,1.0
+1970-11-01,Zambia,Tanzania,False,4,False,True,40,1.0
+1970-11-04,Iran,Australia,False,1,False,False,20,0.0
+1970-11-08,Gabon,Ivory Coast,False,1,False,False,40,0.0
+1970-11-08,Hong Kong,Singapore,True,1,False,False,30,0.0
+1970-11-08,Nigeria,Congo,False,0,True,False,40,0.5
+1970-11-08,Thailand,Laos,False,1,False,True,30,1.0
+1970-11-08,Togo,Benin,False,1,False,True,40,1.0
+1970-11-08,Uganda,Congo DR,False,3,False,False,40,0.0
+1970-11-09,Cambodia,Malaysia,True,0,True,False,30,0.5
+1970-11-10,Hong Kong,Korea Republic,True,3,False,False,30,0.0
+1970-11-10,Thailand,Singapore,False,2,False,True,30,1.0
+1970-11-11,France,Norway,False,2,False,True,40,1.0
+1970-11-11,German DR,Netherlands,False,1,False,True,40,1.0
+1970-11-11,Indonesia,Vietnam Republic,True,2,False,True,30,1.0
+1970-11-11,Scotland,Denmark,False,1,False,True,40,1.0
+1970-11-11,Spain,Northern Ireland,False,3,False,True,40,1.0
+1970-11-11,Suriname,French Guyana,False,1,False,True,20,1.0
+1970-11-11,Wales,Romania,False,0,True,False,40,0.5
+1970-11-12,Korea Republic,Laos,True,4,False,True,30,1.0
+1970-11-12,Thailand,Hong Kong,False,1,False,True,30,1.0
+1970-11-13,Cambodia,Vietnam Republic,True,0,True,False,30,0.5
+1970-11-13,Indonesia,Malaysia,True,3,False,True,30,1.0
+1970-11-14,Laos,Singapore,True,3,False,True,30,1.0
+1970-11-14,Thailand,Korea Republic,False,0,True,False,30,0.5
+1970-11-15,Belgium,France,False,1,False,False,20,0.0
+1970-11-15,Bulgaria,Norway,False,0,True,False,40,0.5
+1970-11-15,Cyprus,Russia,False,2,False,False,40,0.0
+1970-11-15,Guinea,Senegal,False,1,False,True,20,1.0
+1970-11-15,Indonesia,Cambodia,True,3,False,True,30,1.0
+1970-11-15,Luxembourg,German DR,False,5,False,False,40,0.0
+1970-11-15,Madagascar,Mauritius,False,1,False,True,40,1.0
+1970-11-15,Malaysia,Vietnam Republic,True,1,False,True,30,1.0
+1970-11-15,Switzerland,Hungary,False,1,False,False,20,0.0
+1970-11-16,Hong Kong,Laos,True,2,False,True,30,1.0
+1970-11-16,Korea Republic,Singapore,True,4,False,True,30,1.0
+1970-11-18,Korea Republic,Malaysia,True,2,False,True,30,1.0
+1970-11-18,Thailand,Indonesia,False,1,False,True,30,1.0
+1970-11-18,Yugoslavia,Germany,False,2,False,True,20,1.0
+1970-11-20,Indonesia,Malaysia,True,2,False,False,30,0.0
+1970-11-20,Thailand,Korea Republic,False,1,False,False,30,0.0
+1970-11-21,Dominica,St. Lucia,True,0,True,False,30,0.5
+1970-11-22,Benin,Togo,False,0,True,False,40,0.5
+1970-11-22,Congo,Nigeria,False,1,False,True,40,1.0
+1970-11-22,Greece,Germany,False,2,False,False,20,0.0
+1970-11-22,Grenada,St. Vincent and the Grenadines,False,2,False,True,30,1.0
+1970-11-22,Ivory Coast,Gabon,False,1,False,True,40,1.0
+1970-11-24,Congo DR,Uganda,False,1,False,True,40,1.0
+1970-11-24,Dominica,St. Vincent and the Grenadines,True,1,False,False,30,0.0
+1970-11-25,Belgium,Denmark,False,2,False,True,40,1.0
+1970-11-25,England,German DR,False,2,False,True,20,1.0
+1970-11-25,Grenada,St. Lucia,False,5,False,True,30,1.0
+1970-11-27,Grenada,Dominica,False,1,False,True,30,1.0
+1970-11-29,Mauritius,Madagascar,False,3,False,True,40,1.0
+1970-12-02,Netherlands,Romania,False,2,False,True,20,1.0
+1970-12-08,Italy,Ireland,False,3,False,True,40,1.0
+1970-12-09,Greece,Cyprus,False,0,True,False,20,0.5
+1970-12-10,Algeria,Morocco,False,2,False,True,40,1.0
+1970-12-12,Niger,Mali,False,1,False,False,40,0.0
+1970-12-13,Turkey,Albania,False,1,False,True,40,1.0
+1970-12-16,Greece,Switzerland,False,1,False,False,40,0.0
+1970-12-19,Senegal,Malawi,False,3,False,True,20,1.0
+1970-12-20,Malta,Switzerland,False,1,False,False,40,0.0
+1970-12-27,Libya,Egypt,False,1,False,False,40,0.0
+1970-12-27,Mali,Niger,False,2,False,True,40,1.0
+1970-12-27,Morocco,Algeria,False,3,False,True,40,1.0
+1971-01-03,Egypt,Libya,False,1,False,True,40,1.0
+1971-01-08,Argentina,France,False,1,False,False,20,0.0
+1971-01-10,Ghana,Congo DR,False,0,True,False,20,0.5
+1971-01-13,Argentina,France,False,2,False,True,20,1.0
+1971-01-28,Kuwait,Iraq,False,2,False,False,20,0.0
+1971-01-31,Ghana,Sierra Leone,False,1,False,False,20,0.0
+1971-02-02,Chile,German DR,False,1,False,False,20,0.0
+1971-02-03,Belgium,Scotland,False,3,False,True,40,1.0
+1971-02-03,Cyprus,Northern Ireland,False,3,False,False,40,0.0
+1971-02-03,Malta,England,False,1,False,False,40,0.0
+1971-02-07,Ghana,Sierra Leone,False,1,False,False,20,0.0
+1971-02-08,Uruguay,German DR,False,3,False,False,20,0.0
+1971-02-10,Uruguay,German DR,False,0,True,False,20,0.5
+1971-02-13,Nigeria,Sierra Leone,False,1,False,True,20,1.0
+1971-02-17,Albania,Germany,False,1,False,False,40,0.0
+1971-02-17,Belgium,Portugal,False,3,False,True,40,1.0
+1971-02-17,Mexico,Russia,False,0,True,False,20,0.5
+1971-02-20,Italy,Spain,False,1,False,False,20,0.0
+1971-02-20,Mexico,Russia,False,0,True,False,20,0.5
+1971-02-24,Netherlands,Luxembourg,False,6,False,True,40,1.0
+1971-02-28,El Salvador,Russia,False,1,False,False,20,0.0
+1971-03-01,Madagascar,Liberia,False,1,False,True,20,1.0
+1971-03-04,Cameroon,Senegal,False,0,True,False,20,0.5
+1971-03-07,Cameroon,Senegal,False,1,False,False,20,0.0
+1971-03-07,Lesotho,Madagascar,False,1,False,False,20,0.0
+1971-03-10,Senegal,Cameroon,False,3,False,True,20,1.0
+1971-03-14,Cameroon,Congo,False,6,False,True,20,1.0
+1971-03-17,Spain,France,False,0,True,False,20,0.5
+1971-03-18,Malawi,Zambia,False,1,False,True,20,1.0
+1971-03-20,Malawi,Zambia,False,2,False,False,20,0.0
+1971-03-23,Malawi,Zambia,False,3,False,False,20,0.0
+1971-03-24,Togo,Liberia,False,2,False,False,20,0.0
+1971-03-28,Madagascar,Mauritius,False,3,False,True,20,1.0
+1971-04-04,Austria,Hungary,False,2,False,False,20,0.0
+1971-04-04,Yugoslavia,Netherlands,False,2,False,True,40,1.0
+1971-04-07,Greece,Bulgaria,False,1,False,False,20,0.0
+1971-04-14,Haiti,Bahamas,False,8,False,True,20,1.0
+1971-04-21,England,Greece,False,3,False,True,40,1.0
+1971-04-21,Northern Ireland,Cyprus,False,5,False,True,40,1.0
+1971-04-21,Portugal,Scotland,False,2,False,True,40,1.0
+1971-04-21,Switzerland,Malta,False,5,False,True,40,1.0
+1971-04-21,Wales,Czechoslovakia,False,2,False,False,40,0.0
+1971-04-21,Yugoslavia,Romania,False,1,False,False,20,0.0
+1971-04-24,German DR,Luxembourg,False,1,False,True,40,1.0
+1971-04-24,Hungary,France,False,0,True,False,40,0.5
+1971-04-24,Sierra Leone,Gambia,False,2,False,True,20,1.0
+1971-04-25,Turkey,Germany,False,3,False,False,40,0.0
+1971-04-26,Tanzania,Congo DR,False,1,False,False,20,0.0
+1971-04-28,Bulgaria,Russia,False,0,True,False,20,0.5
+1971-05-02,Guinea,Gambia,False,2,False,True,20,1.0
+1971-05-02,Indonesia,Vietnam Republic,True,8,False,True,30,1.0
+1971-05-02,Ivory Coast,Ghana,False,4,False,False,20,0.0
+1971-05-02,Korea Republic,Thailand,False,1,False,True,30,1.0
+1971-05-03,Burma,Taiwan,True,2,False,True,30,1.0
+1971-05-03,Cambodia,Malaysia,True,2,False,False,30,0.0
+1971-05-05,Cambodia,Thailand,True,1,False,False,30,0.0
+1971-05-05,Switzerland,Poland,False,2,False,False,20,0.0
+1971-05-06,Burma,Vietnam Republic,True,2,False,True,30,1.0
+1971-05-06,Korea Republic,Malaysia,False,4,False,True,30,1.0
+1971-05-08,Burma,Indonesia,True,2,False,True,30,1.0
+1971-05-08,Malaysia,Thailand,True,3,False,True,30,1.0
+1971-05-09,Cyprus,Spain,False,2,False,False,40,0.0
+1971-05-09,German DR,Yugoslavia,False,1,False,False,40,0.0
+1971-05-09,Korea Republic,Cambodia,False,2,False,True,30,1.0
+1971-05-10,Ireland,Italy,False,1,False,False,40,0.0
+1971-05-11,Burma,Malaysia,True,5,False,True,30,1.0
+1971-05-11,Korea Republic,Indonesia,False,3,False,True,30,1.0
+1971-05-12,Albania,Poland,False,0,True,False,40,0.5
+1971-05-12,England,Malta,False,5,False,True,40,1.0
+1971-05-12,Portugal,Denmark,False,5,False,True,40,1.0
+1971-05-12,Switzerland,Greece,False,1,False,True,40,1.0
+1971-05-13,Indonesia,Malaysia,True,2,False,True,30,1.0
+1971-05-13,Korea Republic,Burma,False,0,True,False,30,0.5
+1971-05-15,Korea Republic,Burma,False,0,True,False,30,0.5
+1971-05-15,Malaysia,Thailand,True,3,False,False,20,0.0
+1971-05-15,Northern Ireland,England,False,1,False,False,30,0.0
+1971-05-15,Wales,Scotland,False,0,True,False,30,0.5
+1971-05-16,Czechoslovakia,Romania,False,1,False,True,40,1.0
+1971-05-18,Scotland,Northern Ireland,False,1,False,False,30,0.0
+1971-05-19,Bulgaria,Hungary,False,3,False,True,40,1.0
+1971-05-19,England,Wales,False,0,True,False,30,0.5
+1971-05-20,Luxembourg,Belgium,False,4,False,False,20,0.0
+1971-05-20,Sweden,Finland,False,3,False,True,30,1.0
+1971-05-21,China,Cuba,False,1,False,True,20,1.0
+1971-05-21,Thailand,Cambodia,False,0,True,False,40,0.5
+1971-05-22,England,Scotland,False,2,False,True,30,1.0
+1971-05-22,Indonesia,Hong Kong,True,1,False,True,40,1.0
+1971-05-22,Malaysia,Brunei,True,8,False,True,40,1.0
+1971-05-22,Northern Ireland,Wales,False,1,False,True,30,1.0
+1971-05-24,Cambodia,Hong Kong,True,1,False,True,40,1.0
+1971-05-24,Thailand,Brunei,False,10,False,True,40,1.0
+1971-05-25,Uganda,Malawi,False,0,True,False,20,0.5
+1971-05-26,Denmark,Belgium,False,1,False,False,40,0.0
+1971-05-26,Finland,Wales,False,1,False,False,40,0.0
+1971-05-26,Malaysia,Cambodia,True,1,False,True,40,1.0
+1971-05-26,Norway,Iceland,False,2,False,True,20,1.0
+1971-05-26,Sweden,Austria,False,1,False,True,40,1.0
+1971-05-26,Thailand,Indonesia,False,1,False,False,40,0.0
+1971-05-28,Indonesia,Brunei,True,9,False,True,40,1.0
+1971-05-28,Malaysia,Hong Kong,True,1,False,True,40,1.0
+1971-05-30,Cambodia,Indonesia,True,2,False,True,40,1.0
+1971-05-30,Ireland,Austria,False,3,False,False,40,0.0
+1971-05-30,Russia,Spain,False,1,False,True,40,1.0
+1971-05-30,Thailand,Malaysia,False,1,False,True,40,1.0
+1971-06-01,Malaysia,Indonesia,True,3,False,True,40,1.0
+1971-06-01,Thailand,Cambodia,False,2,False,True,40,1.0
+1971-06-01,Zambia,Ethiopia,False,4,False,True,20,1.0
+1971-06-05,Indonesia,Singapore,False,3,False,True,30,1.0
+1971-06-05,Korea Republic,Thailand,True,1,False,False,30,0.0
+1971-06-06,Cambodia,Western Australia,True,0,True,False,30,0.5
+1971-06-06,India,Thailand,True,1,False,False,30,0.0
+1971-06-06,Zambia,Congo DR,False,1,False,True,40,1.0
+1971-06-07,Indonesia,Burma,False,0,True,False,30,0.5
+1971-06-07,Russia,Cyprus,False,5,False,True,40,1.0
+1971-06-08,Cambodia,Malaysia,True,0,True,False,30,0.5
+1971-06-08,India,Korea Republic,True,1,False,False,30,0.0
+1971-06-09,Burma,Singapore,True,6,False,True,30,1.0
+1971-06-09,Denmark,Scotland,False,1,False,True,40,1.0
+1971-06-09,Malaysia,Western Australia,True,1,False,True,30,1.0
+1971-06-09,Norway,Bulgaria,False,3,False,False,40,0.0
+1971-06-09,Sweden,Italy,False,0,True,False,40,0.5
+1971-06-11,Burma,Malaysia,True,4,False,True,30,1.0
+1971-06-11,Indonesia,Thailand,False,0,True,False,30,0.5
+1971-06-12,Burma,Korea Republic,True,1,False,True,30,1.0
+1971-06-12,Cambodia,Thailand,True,3,False,True,30,1.0
+1971-06-12,Germany,Albania,False,2,False,True,40,1.0
+1971-06-13,Indonesia,Cambodia,False,1,False,True,30,1.0
+1971-06-13,Korea Republic,Malaysia,True,1,False,False,30,0.0
+1971-06-14,Burma,Cambodia,True,8,False,True,30,1.0
+1971-06-14,Indonesia,Malaysia,False,1,False,True,30,1.0
+1971-06-14,Russia,Scotland,False,1,False,True,20,1.0
+1971-06-15,Cambodia,Malaysia,True,1,False,False,30,0.0
+1971-06-16,Finland,Czechoslovakia,False,4,False,False,40,0.0
+1971-06-16,Indonesia,Burma,False,1,False,False,30,0.0
+1971-06-18,Greece,Malta,False,2,False,True,40,1.0
+1971-06-20,Congo DR,Zambia,False,3,False,True,40,1.0
+1971-06-20,Denmark,Sweden,False,2,False,False,30,0.0
+1971-06-22,Norway,Germany,False,6,False,False,20,0.0
+1971-06-24,Kenya,Sudan,False,0,True,False,20,0.5
+1971-06-26,Hong Kong,Thailand,False,6,False,True,20,1.0
+1971-06-27,Madagascar,Mauritius,False,0,True,False,20,0.5
+1971-06-27,Sweden,Germany,False,1,False,True,20,1.0
+1971-06-30,Denmark,Germany,False,2,False,False,20,0.0
+1971-07-04,Ivory Coast,Congo,False,1,False,True,40,1.0
+1971-07-04,Kenya,Mauritius,False,1,False,True,40,1.0
+1971-07-04,Paraguay,Argentina,False,0,True,False,30,0.5
+1971-07-05,Zambia,Cyprus,False,3,False,True,20,1.0
+1971-07-06,Malawi,Uganda,False,2,False,True,20,1.0
+1971-07-06,Mexico,Greece,False,0,True,False,20,0.5
+1971-07-08,Zambia,Cyprus,False,3,False,True,20,1.0
+1971-07-09,Argentina,Paraguay,False,1,False,True,30,1.0
+1971-07-09,Libya,Syria,False,1,False,True,20,1.0
+1971-07-10,Malawi,Uganda,False,1,False,False,20,0.0
+1971-07-11,Brazil,Austria,False,0,True,False,20,0.5
+1971-07-11,Egypt,Syria,True,1,False,True,20,1.0
+1971-07-11,Sudan,Palestine,True,0,True,False,20,0.5
+1971-07-11,Zambia,Cyprus,False,3,False,True,20,1.0
+1971-07-13,Libya,Egypt,False,2,False,False,20,0.0
+1971-07-14,Argentina,Uruguay,False,1,False,True,20,1.0
+1971-07-14,Brazil,Czechoslovakia,False,1,False,True,20,1.0
+1971-07-14,Chile,Paraguay,False,1,False,True,20,1.0
+1971-07-14,Martinique,Guadeloupe,False,1,False,True,20,1.0
+1971-07-14,Tanzania,Guinea,False,1,False,True,20,1.0
+1971-07-16,Libya,Sudan,False,2,False,False,20,0.0
+1971-07-18,Brazil,Yugoslavia,False,0,True,False,20,0.5
+1971-07-18,Congo,Ivory Coast,False,2,False,True,40,1.0
+1971-07-18,Libya,Egypt,False,2,False,True,20,1.0
+1971-07-18,Mauritius,Kenya,False,0,True,False,40,0.5
+1971-07-18,New Caledonia,New Zealand,False,2,False,True,20,1.0
+1971-07-18,Uruguay,Argentina,False,0,True,False,20,0.5
+1971-07-18,Zambia,Guinea,False,2,False,True,20,1.0
+1971-07-20,New Caledonia,New Zealand,False,1,False,True,20,1.0
+1971-07-21,Chile,Argentina,False,0,True,False,30,0.5
+1971-07-21,Guadeloupe,Martinique,False,0,True,False,20,0.5
+1971-07-21,Zambia,Guinea,False,4,False,False,20,0.0
+1971-07-24,Brazil,Paraguay,False,1,False,True,20,1.0
+1971-07-25,Senegal,Sierra Leone,False,1,False,True,20,1.0
+1971-07-25,Zambia,Guinea,False,1,False,True,20,1.0
+1971-07-27,Peru,Paraguay,False,0,True,False,20,0.5
+1971-07-28,Argentina,Brazil,False,0,True,False,30,0.5
+1971-07-28,Denmark,Japan,False,1,False,True,20,1.0
+1971-07-31,Argentina,Brazil,False,0,True,False,30,0.5
+1971-08-04,Argentina,Chile,False,1,False,True,30,1.0
+1971-08-04,Malaysia,Vietnam Republic,False,2,False,True,30,1.0
+1971-08-05,Hong Kong,Singapore,True,1,False,False,30,0.0
+1971-08-05,India,Philippines,True,4,False,True,30,1.0
+1971-08-07,Burma,Singapore,True,1,False,False,30,0.0
+1971-08-07,India,Indonesia,True,2,False,False,30,0.0
+1971-08-08,Paraguay,Chile,False,2,False,True,20,1.0
+1971-08-08,Sweden,Norway,False,3,False,True,30,1.0
+1971-08-09,Burma,Indonesia,True,0,True,False,30,0.5
+1971-08-09,Hong Kong,Philippines,True,1,False,True,30,1.0
+1971-08-10,India,Singapore,True,0,True,False,30,0.5
+1971-08-10,Thailand,Vietnam Republic,True,2,False,False,30,0.0
+1971-08-11,Burma,Hong Kong,True,4,False,True,30,1.0
+1971-08-11,Indonesia,Philippines,True,2,False,True,30,1.0
+1971-08-11,Peru,Chile,False,1,False,True,30,1.0
+1971-08-13,Burma,Philippines,True,2,False,True,30,1.0
+1971-08-13,Hong Kong,India,True,1,False,True,30,1.0
+1971-08-13,Iceland,Japan,False,2,False,False,20,0.0
+1971-08-13,Indonesia,Singapore,True,4,False,True,30,1.0
+1971-08-15,Bolivia,Chile,False,1,False,False,20,0.0
+1971-08-15,Burma,India,True,8,False,True,30,1.0
+1971-08-15,Hong Kong,Indonesia,True,3,False,False,30,0.0
+1971-08-15,Paraguay,Peru,False,2,False,True,20,1.0
+1971-08-15,Philippines,Singapore,True,0,True,False,30,0.5
+1971-08-17,Philippines,Thailand,True,2,False,True,30,1.0
+1971-08-18,Chile,Peru,False,1,False,True,30,1.0
+1971-08-18,Guinea,Senegal,False,1,False,True,40,1.0
+1971-08-18,Indonesia,Taiwan,True,1,False,True,30,1.0
+1971-08-18,Mexico,German DR,False,1,False,False,20,0.0
+1971-08-21,Burma,Indonesia,True,1,False,True,30,1.0
+1971-08-21,Hong Kong,Vietnam Republic,True,2,False,False,30,0.0
+1971-08-22,St. Lucia,St. Vincent and the Grenadines,False,4,False,False,20,0.0
+1971-08-23,India,Indonesia,True,1,False,True,20,1.0
+1971-08-23,Singapore,Malaysia,False,0,True,False,20,0.5
+1971-08-24,Philippines,Thailand,True,1,False,False,20,0.0
+1971-08-25,Finland,Norway,False,0,True,False,30,0.5
+1971-08-26,India,Malaysia,True,6,False,True,20,1.0
+1971-08-26,Thailand,Vietnam Republic,True,1,False,False,20,0.0
+1971-08-27,Singapore,Indonesia,False,1,False,True,20,1.0
+1971-08-28,India,Vietnam Republic,True,0,True,False,20,0.5
+1971-08-30,Tahiti,Fiji,False,3,False,True,20,1.0
+1971-09-01,Hungary,Yugoslavia,False,1,False,True,20,1.0
+1971-09-01,Senegal,Guinea,False,0,True,False,40,0.5
+1971-09-04,Austria,Sweden,False,1,False,True,40,1.0
+1971-09-07,Honduras,Guatemala,False,1,False,True,30,1.0
+1971-09-08,Denmark,Finland,False,0,True,False,30,0.5
+1971-09-08,Germany,Mexico,False,5,False,True,20,1.0
+1971-09-08,Norway,France,False,2,False,False,40,0.0
+1971-09-09,Fiji,New Caledonia,True,4,False,False,30,0.0
+1971-09-10,Korea Republic,Iran,False,2,False,True,20,1.0
+1971-09-11,Cook Islands,Papua New Guinea,True,15,False,False,30,0.0
+1971-09-11,Fiji,Vanuatu,True,2,False,False,30,0.0
+1971-09-12,Korea Republic,Iran,False,2,False,False,20,0.0
+1971-09-13,New Caledonia,Vanuatu,True,0,True,False,30,0.5
+1971-09-14,Guatemala,Honduras,False,0,True,False,30,0.5
+1971-09-15,Cook Islands,Fiji,True,14,False,False,30,0.0
+1971-09-15,El Salvador,Nicaragua,False,1,False,True,30,1.0
+1971-09-16,New Caledonia,Papua New Guinea,True,4,False,True,30,1.0
+1971-09-18,German DR,Mexico,False,0,True,False,20,0.5
+1971-09-18,Russia,India,False,5,False,True,20,1.0
+1971-09-22,Finland,Romania,False,4,False,False,40,0.0
+1971-09-22,Poland,Turkey,False,4,False,True,40,1.0
+1971-09-22,Russia,Northern Ireland,False,1,False,True,40,1.0
+1971-09-22,Yugoslavia,Mexico,False,4,False,True,20,1.0
+1971-09-25,German DR,Czechoslovakia,False,0,True,False,20,0.5
+1971-09-25,Hungary,Bulgaria,False,2,False,True,40,1.0
+1971-09-25,Italy,Mexico,False,2,False,True,20,1.0
+1971-09-25,Kenya,Tanzania,False,0,True,False,20,0.5
+1971-09-26,Norway,Denmark,False,3,False,False,30,0.0
+1971-09-26,Switzerland,Turkey,False,4,False,True,20,1.0
+1971-09-26,Uganda,Zanzibar,True,2,False,True,20,1.0
+1971-09-29,Uganda,Tanzania,True,0,True,False,20,0.5
+1971-09-30,Greece,Mexico,False,1,False,False,20,0.0
+1971-09-30,Kenya,Zanzibar,False,4,False,True,20,1.0
+1971-10-01,Jamaica,Cuba,False,1,False,False,30,0.0
+1971-10-02,Tanzania,Zanzibar,True,0,True,False,20,0.5
+1971-10-03,Kenya,Uganda,False,2,False,True,20,1.0
+1971-10-04,Cuba,Jamaica,False,0,True,False,30,0.5
+1971-10-08,Lesotho,Malawi,False,0,True,False,20,0.5
+1971-10-09,France,Hungary,False,2,False,False,40,0.0
+1971-10-09,Italy,Sweden,False,3,False,True,40,1.0
+1971-10-10,Austria,Ireland,False,6,False,True,40,1.0
+1971-10-10,Lesotho,Malawi,False,2,False,False,20,0.0
+1971-10-10,Netherlands,German DR,False,1,False,True,40,1.0
+1971-10-10,Poland,Germany,False,2,False,False,40,0.0
+1971-10-13,Northern Ireland,Russia,False,0,True,False,40,0.5
+1971-10-13,Scotland,Portugal,False,1,False,True,40,1.0
+1971-10-13,Switzerland,England,False,1,False,False,40,0.0
+1971-10-13,Wales,Finland,False,3,False,True,40,1.0
+1971-10-16,Yugoslavia,German DR,False,0,True,False,40,0.5
+1971-10-17,Zambia,Kenya,False,2,False,False,20,0.0
+1971-10-20,Zambia,Kenya,False,2,False,True,20,1.0
+1971-10-23,Zambia,Kenya,False,1,False,False,20,0.0
+1971-10-27,Czechoslovakia,Wales,False,1,False,True,40,1.0
+1971-10-27,Hungary,Norway,False,4,False,True,40,1.0
+1971-10-27,Spain,Russia,False,0,True,False,40,0.5
+1971-10-27,Uruguay,Chile,False,3,False,True,30,1.0
+1971-10-27,Yugoslavia,Luxembourg,False,0,True,False,40,0.5
+1971-10-28,Singapore,Thailand,True,1,False,False,30,0.0
+1971-10-28,Vietnam Republic,Malaysia,False,1,False,False,30,0.0
+1971-10-30,Malaysia,Singapore,True,0,True,False,30,0.5
+1971-10-30,Vietnam Republic,Thailand,False,3,False,True,30,1.0
+1971-10-31,Martinique,Haiti,False,0,True,False,20,0.5
+1971-10-31,Singapore,Thailand,True,2,False,True,30,1.0
+1971-10-31,Vietnam Republic,Malaysia,False,0,True,False,30,0.5
+1971-11-03,Chile,Uruguay,False,5,False,True,30,1.0
+1971-11-07,Belgium,Luxembourg,False,1,False,True,20,1.0
+1971-11-07,Thailand,Singapore,False,2,False,True,30,1.0
+1971-11-08,Korea Republic,Malaysia,True,0,True,False,30,0.5
+1971-11-09,Singapore,Vietnam Republic,True,1,False,False,30,0.0
+1971-11-10,England,Switzerland,False,0,True,False,40,0.5
+1971-11-10,France,Bulgaria,False,1,False,True,40,1.0
+1971-11-10,Indonesia,Malaysia,True,2,False,True,30,1.0
+1971-11-10,Scotland,Belgium,False,1,False,True,40,1.0
+1971-11-11,Australia,Israel,False,0,True,False,20,0.5
+1971-11-11,Thailand,Vietnam Republic,False,1,False,False,30,0.0
+1971-11-12,Indonesia,Korea Republic,True,0,True,False,30,0.5
+1971-11-14,Albania,Turkey,False,3,False,True,40,1.0
+1971-11-14,Australia,Israel,False,1,False,True,20,1.0
+1971-11-14,Guinea,Tanzania,False,1,False,True,20,1.0
+1971-11-14,Korea Republic,Vietnam Republic,True,0,True,False,30,0.5
+1971-11-14,Malta,Hungary,False,2,False,False,40,0.0
+1971-11-14,Romania,Czechoslovakia,False,1,False,True,40,1.0
+1971-11-14,Thailand,Indonesia,False,1,False,True,30,1.0
+1971-11-16,Thailand,Korea Republic,False,1,False,False,30,0.0
+1971-11-17,Bulgaria,Greece,False,0,True,False,20,0.5
+1971-11-17,Germany,Poland,False,0,True,False,40,0.5
+1971-11-17,Netherlands,Luxembourg,False,8,False,True,40,1.0
+1971-11-19,Iraq,Kuwait,False,2,False,True,20,1.0
+1971-11-20,Italy,Austria,False,0,True,False,40,0.5
+1971-11-21,Australia,Israel,False,2,False,False,20,0.0
+1971-11-21,Haiti,Mexico,True,0,True,False,40,0.5
+1971-11-21,Portugal,Belgium,False,0,True,False,40,0.5
+1971-11-23,Cuba,Honduras,True,2,False,True,40,1.0
+1971-11-24,Costa Rica,Haiti,True,0,True,False,40,0.5
+1971-11-24,Libya,Algeria,False,0,True,False,20,0.5
+1971-11-24,Romania,Wales,False,2,False,True,40,1.0
+1971-11-24,Spain,Cyprus,False,7,False,True,40,1.0
+1971-11-26,Trinidad and Tobago,Mexico,False,2,False,False,40,0.0
+1971-11-27,Grenada,St. Lucia,True,3,False,True,30,1.0
+1971-11-27,Nigeria,Burkina Faso,False,4,False,True,20,1.0
+1971-11-28,Cuba,Mexico,True,1,False,False,40,0.0
+1971-11-28,Dominica,St. Vincent and the Grenadines,False,3,False,True,30,1.0
+1971-11-28,Trinidad and Tobago,Haiti,False,5,False,False,40,0.0
+1971-11-30,Barbados,Curaçao,False,2,False,False,20,0.0
+1971-11-30,Grenada,St. Vincent and the Grenadines,True,0,True,False,30,0.5
+1971-11-30,Togo,Burkina Faso,False,1,False,True,20,1.0
+1971-12-01,Dominica,St. Lucia,False,0,True,False,30,0.5
+1971-12-01,Greece,England,False,2,False,False,40,0.0
+1971-12-01,Guinea,Nigeria,False,3,False,True,20,1.0
+1971-12-01,Haiti,Honduras,True,2,False,True,40,1.0
+1971-12-01,Netherlands,Scotland,False,1,False,True,20,1.0
+1971-12-02,Costa Rica,Mexico,True,1,False,False,40,0.0
+1971-12-04,Bulgaria,France,False,1,False,True,40,1.0
+1971-12-04,Cuba,Haiti,True,0,True,False,40,0.5
+1971-12-04,Dominica,Grenada,False,3,False,True,30,1.0
+1971-12-04,Honduras,Mexico,True,1,False,False,40,0.0
+1971-12-04,Sierra Leone,Nigeria,False,1,False,False,20,0.0
+1971-12-05,Kenya,Zambia,False,1,False,True,20,1.0
+1971-12-05,Tanzania,Burundi,False,3,False,True,20,1.0
+1971-12-05,Turkey,Poland,False,1,False,True,40,1.0
+1971-12-08,Kenya,Zambia,False,1,False,True,20,1.0
+1971-12-08,Malta,Algeria,False,0,True,False,20,0.5
+1971-12-09,Tanzania,China,False,0,True,False,20,0.5
+1971-12-10,Kuwait,Iraq,False,0,True,False,40,0.5
+1971-12-11,Bahrain,Lebanon,True,3,False,True,40,1.0
+1971-12-11,Syria,Jordan,True,0,True,False,40,0.5
+1971-12-12,Burkina Faso,Togo,False,1,False,False,20,0.0
+1971-12-12,Kenya,Zambia,False,2,False,False,20,0.0
+1971-12-12,Tanzania,China,False,1,False,False,20,0.0
+1971-12-13,Iraq,Sri Lanka,True,5,False,True,40,1.0
+1971-12-13,Jordan,Bahrain,True,1,False,True,40,1.0
+1971-12-14,Kuwait,Lebanon,False,1,False,True,40,1.0
+1971-12-15,Iraq,Bahrain,True,1,False,True,40,1.0
+1971-12-16,Jordan,Sri Lanka,True,1,False,True,40,1.0
+1971-12-17,Kuwait,Syria,False,0,True,False,40,0.5
+1971-12-18,Iraq,Jordan,True,2,False,True,40,1.0
+1971-12-19,Lebanon,Syria,True,1,False,True,40,1.0
+1971-12-19,Niger,Libya,False,1,False,False,20,0.0
+1971-12-19,Senegal,Mali,False,3,False,True,20,1.0
+1971-12-20,Bahrain,Sri Lanka,True,3,False,True,40,1.0
+1971-12-21,Kuwait,Jordan,False,2,False,True,40,1.0
+1971-12-22,Iraq,Lebanon,True,3,False,True,40,1.0
+1971-12-24,Kuwait,Iraq,False,1,False,False,40,0.0
+1971-12-24,Lebanon,Jordan,True,2,False,True,40,1.0
+1972-01-01,Algeria,Palestine,True,2,False,True,20,1.0
+1972-01-01,Iraq,Egypt,False,0,True,False,20,0.5
+1972-01-01,Kuwait,Libya,True,1,False,True,20,1.0
+1972-01-01,Syria,Yemen DPR,True,1,False,True,20,1.0
+1972-01-01,Zambia,China,False,0,True,False,20,0.5
+1972-01-04,Algeria,Qatar,True,3,False,True,20,1.0
+1972-01-04,Palestine,Syria,True,2,False,False,20,0.0
+1972-01-05,Egypt,Kuwait,True,2,False,True,20,1.0
+1972-01-05,Iraq,Libya,False,3,False,True,20,1.0
+1972-01-06,Palestine,Yemen DPR,True,1,False,False,20,0.0
+1972-01-06,Syria,Qatar,True,1,False,True,20,1.0
+1972-01-07,Egypt,Libya,True,0,True,False,20,0.5
+1972-01-07,Iraq,Kuwait,False,2,False,True,20,1.0
+1972-01-08,Algeria,Syria,True,1,False,False,20,0.0
+1972-01-08,Qatar,Yemen DPR,True,1,False,False,20,0.0
+1972-01-09,Burkina Faso,Nigeria,False,0,True,False,20,0.5
+1972-01-09,Senegal,Congo,False,2,False,False,20,0.0
+1972-01-10,Algeria,Yemen DPR,True,3,False,True,20,1.0
+1972-01-10,Palestine,Qatar,True,5,False,True,20,1.0
+1972-01-12,Guinea,Congo,False,1,False,False,20,0.0
+1972-01-12,Iraq,Algeria,False,2,False,True,20,1.0
+1972-01-12,Spain,Hungary,False,1,False,True,20,1.0
+1972-01-13,Algeria,Syria,True,2,False,True,20,1.0
+1972-01-18,Somalia,China,False,2,False,False,20,0.0
+1972-01-20,Togo,Benin,False,4,False,True,20,1.0
+1972-01-27,Mexico,Chile,False,2,False,True,20,1.0
+1972-01-30,Nigeria,Guinea,False,0,True,False,20,0.5
+1972-02-06,Congo,Benin,False,0,True,False,20,0.5
+1972-02-07,Congo,Guinea,False,0,True,False,20,0.5
+1972-02-09,Haiti,Chile,False,1,False,True,20,1.0
+1972-02-13,Cameroon,Nigeria,False,1,False,False,20,0.0
+1972-02-13,Guadeloupe,Haiti,False,0,True,False,20,0.5
+1972-02-15,Martinique,Haiti,False,0,True,False,20,0.5
+1972-02-16,Greece,Netherlands,False,5,False,False,20,0.0
+1972-02-16,Northern Ireland,Spain,True,0,True,False,40,0.5
+1972-02-17,Senegal,Morocco,False,2,False,False,20,0.0
+1972-02-20,Nigeria,Morocco,False,3,False,True,20,1.0
+1972-02-20,Tunisia,Austria,False,0,True,False,20,0.5
+1972-02-23,Cameroon,Kenya,False,1,False,True,50,1.0
+1972-02-23,Israel,Norway,False,1,False,True,20,1.0
+1972-02-24,Mali,Togo,True,0,True,False,50,0.5
+1972-02-25,Congo,Morocco,True,0,True,False,50,0.5
+1972-02-25,Sudan,Congo DR,True,0,True,False,50,0.5
+1972-02-26,Cameroon,Togo,False,2,False,True,50,1.0
+1972-02-26,Kenya,Mali,True,0,True,False,50,0.5
+1972-02-27,Congo,Congo DR,True,2,False,False,50,0.0
+1972-02-27,Morocco,Sudan,True,0,True,False,50,0.5
+1972-02-28,Cameroon,Mali,False,0,True,False,50,0.5
+1972-02-28,Kenya,Togo,True,0,True,False,50,0.5
+1972-02-29,Congo,Sudan,True,2,False,True,50,1.0
+1972-02-29,Morocco,Congo DR,True,0,True,False,50,0.5
+1972-03-02,Algeria,Guinea,False,1,False,True,40,1.0
+1972-03-02,Cameroon,Congo,False,1,False,False,50,0.0
+1972-03-02,Mali,Congo DR,True,1,False,True,50,1.0
+1972-03-04,Cameroon,Congo DR,False,3,False,True,50,1.0
+1972-03-04,Greece,Italy,False,1,False,True,20,1.0
+1972-03-05,Congo,Mali,True,1,False,True,50,1.0
+1972-03-12,Guinea,Algeria,False,4,False,True,40,1.0
+1972-03-15,Algeria,Malta,False,1,False,True,20,1.0
+1972-03-16,Saudi Arabia,Kuwait,False,0,True,False,30,0.5
+1972-03-17,Qatar,United Arab Emirates,True,1,False,False,30,0.0
+1972-03-18,Bahrain,Kuwait,True,2,False,False,30,0.0
+1972-03-19,Saudi Arabia,United Arab Emirates,False,4,False,True,30,1.0
+1972-03-21,Bahrain,Qatar,True,4,False,True,30,1.0
+1972-03-22,Kuwait,United Arab Emirates,True,7,False,True,30,1.0
+1972-03-24,Saudi Arabia,Qatar,False,4,False,True,30,1.0
+1972-03-25,Bahrain,United Arab Emirates,True,2,False,True,30,1.0
+1972-03-26,Kuwait,Qatar,True,5,False,True,30,1.0
+1972-03-28,Saudi Arabia,Bahrain,False,1,False,True,30,1.0
+1972-03-29,Bulgaria,Russia,False,0,True,False,20,0.5
+1972-03-29,Colombia,Peru,False,0,True,False,20,0.5
+1972-03-29,Hungary,Germany,False,2,False,False,20,0.0
+1972-03-29,Portugal,Cyprus,False,4,False,True,40,1.0
+1972-04-02,Jamaica,Cuba,False,2,False,True,20,1.0
+1972-04-05,Mexico,Peru,False,1,False,True,20,1.0
+1972-04-08,Czechoslovakia,Austria,False,2,False,True,20,1.0
+1972-04-08,Poland,German DR,False,1,False,True,20,1.0
+1972-04-08,Romania,France,False,2,False,True,20,1.0
+1972-04-12,Greece,Spain,False,0,True,False,20,0.5
+1972-04-15,Haiti,Puerto Rico,False,7,False,True,40,1.0
+1972-04-19,Ghana,Ivory Coast,False,1,False,False,20,0.0
+1972-04-19,Russia,Peru,False,2,False,True,20,1.0
+1972-04-23,Puerto Rico,Haiti,False,5,False,False,40,0.0
+1972-04-23,Romania,Peru,False,0,True,False,20,0.5
+1972-04-26,Brazil,Paraguay,False,1,False,True,20,1.0
+1972-04-26,Czechoslovakia,Luxembourg,False,6,False,True,20,1.0
+1972-04-26,Scotland,Peru,False,2,False,True,20,1.0
+1972-04-26,Switzerland,Sweden,False,0,True,False,20,0.5
+1972-04-29,England,Germany,False,2,False,False,40,0.0
+1972-04-29,Hungary,Romania,False,0,True,False,40,0.5
+1972-04-29,Italy,Belgium,False,0,True,False,40,0.5
+1972-04-29,Madagascar,Tanzania,False,1,False,False,20,0.0
+1972-04-30,Austria,Malta,False,4,False,True,40,1.0
+1972-04-30,Lesotho,Zambia,False,0,True,False,40,0.5
+1972-04-30,Yugoslavia,Russia,False,0,True,False,40,0.5
+1972-05-03,Netherlands,Peru,False,3,False,True,20,1.0
+1972-05-06,Hungary,Malta,False,3,False,True,40,1.0
+1972-05-07,Ethiopia,Greece,False,1,False,False,20,0.0
+1972-05-07,Iran,Cambodia,True,2,False,True,50,1.0
+1972-05-07,Korea Republic,Iraq,True,0,True,False,50,0.5
+1972-05-08,Thailand,Kuwait,False,2,False,False,50,0.0
+1972-05-09,Iran,Iraq,True,3,False,True,50,1.0
+1972-05-10,Cambodia,Korea Republic,True,3,False,False,50,0.0
+1972-05-10,Cyprus,Portugal,False,1,False,False,40,0.0
+1972-05-10,Poland,Switzerland,False,0,True,False,20,0.5
+1972-05-11,Thailand,Iraq,False,0,True,False,50,0.5
+1972-05-12,Korea Republic,Kuwait,True,1,False,False,50,0.0
+1972-05-13,Belgium,Italy,False,1,False,True,40,1.0
+1972-05-13,Germany,England,False,0,True,False,40,0.5
+1972-05-13,Russia,Yugoslavia,False,3,False,True,40,1.0
+1972-05-13,Thailand,Iran,False,1,False,False,50,0.0
+1972-05-14,Cambodia,Kuwait,True,4,False,True,50,1.0
+1972-05-14,Romania,Hungary,False,0,True,False,40,0.5
+1972-05-14,Sweden,Czechoslovakia,False,1,False,False,20,0.0
+1972-05-16,Iran,Cambodia,True,1,False,True,50,1.0
+1972-05-17,Hungary,Romania,True,1,False,True,40,1.0
+1972-05-17,Kenya,Madagascar,False,2,False,False,20,0.0
+1972-05-17,Thailand,Korea Republic,False,0,True,False,50,0.5
+1972-05-18,Belgium,Iceland,False,4,False,True,40,1.0
+1972-05-19,Iran,Korea Republic,True,1,False,True,50,1.0
+1972-05-19,Thailand,Cambodia,False,0,True,False,50,0.5
+1972-05-20,Scotland,Northern Ireland,False,2,False,True,30,1.0
+1972-05-20,Wales,England,False,3,False,False,30,0.0
+1972-05-22,Belgium,Iceland,False,4,False,True,40,1.0
+1972-05-22,Mauritius,Uganda,False,1,False,False,20,0.0
+1972-05-23,England,Northern Ireland,False,1,False,False,30,0.0
+1972-05-23,Spain,Uruguay,False,2,False,True,20,1.0
+1972-05-24,Scotland,Wales,False,1,False,True,30,1.0
+1972-05-25,Argentina,Paraguay,False,0,True,False,20,0.5
+1972-05-25,Sweden,Hungary,False,0,True,False,40,0.5
+1972-05-26,Germany,Russia,False,3,False,True,20,1.0
+1972-05-27,German DR,Uruguay,False,1,False,True,20,1.0
+1972-05-27,Scotland,England,False,1,False,False,30,0.0
+1972-05-27,Wales,Northern Ireland,False,0,True,False,30,0.5
+1972-05-28,Finland,Norway,False,0,True,False,30,0.5
+1972-05-28,Mauritius,Uganda,False,2,False,False,20,0.0
+1972-05-31,Chile,Argentina,False,1,False,False,30,0.0
+1972-05-31,German DR,Uruguay,False,0,True,False,20,0.5
+1972-05-31,Liberia,Guinea,False,2,False,False,20,0.0
+1972-05-31,Sierra Leone,Ghana,False,2,False,True,20,1.0
+1972-06-01,Puerto Rico,Panama,False,0,True,False,20,0.5
+1972-06-04,Zambia,Lesotho,False,5,False,True,40,1.0
+1972-06-05,Indonesia,Burma,False,1,False,True,30,1.0
+1972-06-05,Tunisia,Algeria,False,2,False,True,20,1.0
+1972-06-06,Cambodia,Singapore,True,3,False,True,30,1.0
+1972-06-06,Togo,Congo DR,False,0,True,False,40,0.5
+1972-06-07,Denmark,Finland,False,3,False,True,30,1.0
+1972-06-07,Russia,Bulgaria,False,1,False,True,20,1.0
+1972-06-08,Cambodia,Thailand,True,2,False,True,30,1.0
+1972-06-08,Philippines,Singapore,True,2,False,True,30,1.0
+1972-06-09,Burma,Sri Lanka,True,2,False,True,30,1.0
+1972-06-09,Laos,Malaysia,True,1,False,False,30,0.0
+1972-06-10,Austria,Sweden,False,2,False,True,40,1.0
+1972-06-10,Kenya,Uganda,False,2,False,True,20,1.0
+1972-06-11,Bolivia,Peru,True,3,False,False,30,0.0
+1972-06-11,Burma,Laos,True,5,False,True,30,1.0
+1972-06-11,Ecuador,Portugal,True,3,False,False,30,0.0
+1972-06-11,Iran,Ireland,True,1,False,False,30,0.0
+1972-06-11,Paraguay,Venezuela,True,3,False,True,30,1.0
+1972-06-12,Philippines,Thailand,True,1,False,True,30,1.0
+1972-06-13,Laos,Sri Lanka,True,2,False,False,30,0.0
+1972-06-14,Belgium,Germany,False,1,False,False,50,0.0
+1972-06-14,Chile,Ecuador,True,1,False,True,30,1.0
+1972-06-14,Hungary,Russia,True,1,False,False,50,0.0
+1972-06-14,Iran,Portugal,True,3,False,False,30,0.0
+1972-06-14,Norway,Uruguay,False,1,False,False,20,0.0
+1972-06-14,Paraguay,Peru,True,1,False,True,30,1.0
+1972-06-14,Venezuela,Yugoslavia,True,10,False,False,30,0.0
+1972-06-15,Burma,Malaysia,True,0,True,False,30,0.5
+1972-06-16,Benin,Congo,False,2,False,True,20,1.0
+1972-06-17,Belgium,Hungary,False,1,False,True,50,1.0
+1972-06-17,Romania,Italy,False,0,True,False,20,0.5
+1972-06-18,Benin,Ghana,True,5,False,False,40,0.0
+1972-06-18,Bolivia,Yugoslavia,True,0,True,False,30,0.5
+1972-06-18,Chile,Portugal,True,3,False,False,30,0.0
+1972-06-18,Colombia,France,True,1,False,False,30,0.0
+1972-06-18,Ecuador,Ireland,True,1,False,False,30,0.0
+1972-06-18,Germany,Russia,True,3,False,True,50,1.0
+1972-06-18,Peru,Venezuela,True,1,False,True,30,1.0
+1972-06-19,Burma,Cambodia,True,3,False,False,30,0.0
+1972-06-20,Congo DR,Togo,False,4,False,True,40,1.0
+1972-06-21,Bolivia,Venezuela,True,0,True,False,30,0.5
+1972-06-21,Bulgaria,Italy,False,0,True,False,20,0.5
+1972-06-21,Chile,Ireland,True,1,False,True,30,1.0
+1972-06-21,Ecuador,Iran,True,0,True,False,30,0.5
+1972-06-21,Finland,Albania,False,1,False,True,40,1.0
+1972-06-22,Argentina,Colombia,True,3,False,True,30,1.0
+1972-06-22,Paraguay,Yugoslavia,True,1,False,False,30,0.0
+1972-06-23,Singapore,Sri Lanka,False,2,False,True,20,1.0
+1972-06-25,Argentina,France,True,0,True,False,30,0.5
+1972-06-25,Bolivia,Paraguay,True,5,False,False,30,0.0
+1972-06-25,Chile,Iran,True,1,False,True,30,1.0
+1972-06-25,Ireland,Portugal,True,1,False,False,30,0.0
+1972-06-25,Peru,Yugoslavia,True,1,False,False,30,0.0
+1972-06-28,Brazil,Czechoslovakia,False,0,True,False,30,0.5
+1972-06-29,Argentina,Portugal,True,2,False,False,30,0.0
+1972-06-29,Scotland,Yugoslavia,True,0,True,False,30,0.5
+1972-06-29,Sweden,Denmark,False,2,False,True,30,1.0
+1972-06-29,Uruguay,Russia,True,1,False,False,30,0.0
+1972-07-02,Argentina,Russia,True,1,False,True,30,1.0
+1972-07-02,Brazil,Yugoslavia,False,3,False,True,30,1.0
+1972-07-02,Congo DR,Guinea,False,6,False,True,20,1.0
+1972-07-02,Czechoslovakia,Scotland,True,0,True,False,30,0.5
+1972-07-02,Ghana,Benin,False,4,False,True,40,1.0
+1972-07-02,Portugal,Uruguay,True,0,True,False,30,0.5
+1972-07-03,Iceland,Denmark,False,3,False,False,20,0.0
+1972-07-04,Tanzania,Sudan,False,3,False,True,20,1.0
+1972-07-05,Brazil,Scotland,False,1,False,True,30,1.0
+1972-07-06,Argentina,Uruguay,True,1,False,True,30,1.0
+1972-07-06,Czechoslovakia,Yugoslavia,True,1,False,False,30,0.0
+1972-07-06,Malawi,Lesotho,False,1,False,True,20,1.0
+1972-07-06,Portugal,Russia,True,1,False,True,30,1.0
+1972-07-06,Tanzania,Nigeria,False,0,True,False,20,0.5
+1972-07-08,Malawi,Lesotho,False,4,False,True,20,1.0
+1972-07-09,Argentina,Yugoslavia,True,2,False,False,30,0.0
+1972-07-09,Brazil,Portugal,False,1,False,True,30,1.0
+1972-07-09,Uganda,Sudan,False,4,False,True,20,1.0
+1972-07-11,Zanzibar,Nigeria,False,3,False,False,20,0.0
+1972-07-12,Iceland,Faroe Islands,False,3,False,True,20,1.0
+1972-07-13,Indonesia,Singapore,True,0,True,False,30,0.5
+1972-07-15,Hong Kong,Korea Republic,True,0,True,False,30,0.5
+1972-07-15,Singapore,Thailand,True,2,False,False,30,0.0
+1972-07-16,Cambodia,Philippines,True,0,True,False,30,0.5
+1972-07-16,Finland,Russia,False,0,True,False,20,0.5
+1972-07-16,Japan,Sri Lanka,True,5,False,True,30,1.0
+1972-07-16,Kenya,Sudan,False,2,False,True,40,1.0
+1972-07-17,Hong Kong,Singapore,True,3,False,True,30,1.0
+1972-07-17,Korea Republic,Thailand,True,2,False,True,30,1.0
+1972-07-18,Japan,Philippines,True,4,False,True,30,1.0
+1972-07-19,Indonesia,Thailand,True,1,False,True,30,1.0
+1972-07-19,Korea Republic,Singapore,True,3,False,True,30,1.0
+1972-07-20,Philippines,Sri Lanka,True,3,False,True,30,1.0
+1972-07-21,Hong Kong,Indonesia,True,1,False,True,30,1.0
+1972-07-22,Cambodia,Sri Lanka,True,5,False,True,30,1.0
+1972-07-23,Hong Kong,Thailand,True,0,True,False,30,0.5
+1972-07-23,Indonesia,Korea Republic,True,2,False,False,30,0.0
+1972-07-23,Sudan,Kenya,False,1,False,True,40,1.0
+1972-07-25,Singapore,Sri Lanka,True,5,False,True,30,1.0
+1972-07-26,Japan,Korea Republic,True,3,False,False,30,0.0
+1972-07-27,Uganda,Tanzania,False,0,True,False,20,0.5
+1972-07-29,Malaysia,Korea Republic,False,1,False,False,30,0.0
+1972-07-29,Philippines,Thailand,True,4,False,False,30,0.0
+1972-08-02,Indonesia,Philippines,True,3,False,True,20,1.0
+1972-08-02,Singapore,Sri Lanka,False,5,False,True,20,1.0
+1972-08-03,Norway,Iceland,False,3,False,True,40,1.0
+1972-08-04,Hong Kong,Sri Lanka,True,1,False,True,20,1.0
+1972-08-04,Japan,Philippines,True,3,False,True,20,1.0
+1972-08-05,Nigeria,Congo,False,1,False,True,40,1.0
+1972-08-06,Costa Rica,Mexico,False,1,False,True,20,1.0
+1972-08-06,Indonesia,Japan,True,1,False,True,20,1.0
+1972-08-06,Singapore,Hong Kong,False,2,False,False,20,0.0
+1972-08-06,Sweden,Russia,False,0,True,False,20,0.5
+1972-08-08,Cambodia,Indonesia,True,5,False,False,20,0.0
+1972-08-09,Peru,Mexico,False,1,False,True,20,1.0
+1972-08-10,Hong Kong,Cambodia,True,1,False,True,20,1.0
+1972-08-15,Congo,Nigeria,False,0,True,False,40,0.5
+1972-08-16,Chile,Mexico,False,2,False,False,20,0.0
+1972-08-20,Canada,USA,False,1,False,True,40,1.0
+1972-08-24,Canada,Mexico,False,1,False,False,40,0.0
+1972-08-29,USA,Canada,False,0,True,False,40,0.5
+1972-08-30,Czechoslovakia,Netherlands,False,1,False,False,20,0.0
+1972-09-02,Greece,France,False,2,False,False,20,0.0
+1972-09-02,Guatemala,Canada,False,0,True,False,20,0.5
+1972-09-03,Mexico,USA,False,2,False,True,40,1.0
+1972-09-03,Romania,Austria,False,0,True,False,20,0.5
+1972-09-03,Sri Lanka,China,False,1,False,False,20,0.0
+1972-09-06,Mexico,Canada,False,1,False,True,40,1.0
+1972-09-10,USA,Mexico,False,1,False,False,40,0.0
+1972-09-12,Sri Lanka,China,False,1,False,False,20,0.0
+1972-09-14,Japan,Korea Republic,False,0,True,False,20,0.5
+1972-09-17,New Zealand,New Caledonia,False,3,False,True,20,1.0
+1972-09-17,Norway,Sweden,False,2,False,False,30,0.0
+1972-09-20,Cambodia,Malaysia,True,1,False,False,30,0.0
+1972-09-20,Finland,Romania,False,0,True,False,40,0.5
+1972-09-20,Italy,Yugoslavia,False,2,False,True,20,1.0
+1972-09-20,Korea Republic,Thailand,False,3,False,True,30,1.0
+1972-09-21,Burma,Philippines,True,4,False,True,30,1.0
+1972-09-22,Korea Republic,Cambodia,False,2,False,True,30,1.0
+1972-09-22,Malaysia,Thailand,True,0,True,False,30,0.5
+1972-09-23,Burma,Indonesia,True,0,True,False,30,0.5
+1972-09-23,Philippines,Singapore,True,5,False,False,30,0.0
+1972-09-24,Cambodia,Thailand,True,0,True,False,30,0.5
+1972-09-24,Korea Republic,Malaysia,False,2,False,True,30,1.0
+1972-09-25,Burma,Singapore,True,1,False,True,30,1.0
+1972-09-27,Cambodia,Philippines,True,1,False,True,30,1.0
+1972-09-27,Korea Republic,Burma,False,1,False,False,30,0.0
+1972-09-28,Indonesia,Malaysia,True,2,False,True,30,1.0
+1972-09-28,Singapore,Thailand,True,3,False,False,30,0.0
+1972-09-30,Burma,Indonesia,True,2,False,True,30,1.0
+1972-09-30,Korea Republic,Malaysia,False,1,False,True,30,1.0
+1972-09-30,Martinique,Trinidad and Tobago,False,1,False,False,20,0.0
+1972-09-30,New Zealand,New Caledonia,False,1,False,True,20,1.0
+1972-10-01,Costa Rica,El Salvador,False,2,False,True,20,1.0
+1972-10-03,Martinique,Trinidad and Tobago,False,1,False,False,20,0.0
+1972-10-04,Algeria,Turkey,False,1,False,True,20,1.0
+1972-10-04,Denmark,Switzerland,False,0,True,False,20,0.5
+1972-10-04,Lesotho,Zambia,False,0,True,False,20,0.5
+1972-10-04,Norway,Belgium,False,2,False,False,40,0.0
+1972-10-05,Hong Kong,Singapore,False,1,False,False,20,0.0
+1972-10-07,German DR,Finland,False,5,False,True,40,1.0
+1972-10-07,Indonesia,Australia,False,3,False,False,20,0.0
+1972-10-07,Luxembourg,Italy,False,4,False,False,40,0.0
+1972-10-08,El Salvador,Costa Rica,False,1,False,False,20,0.0
+1972-10-08,Lesotho,Zambia,False,0,True,False,20,0.5
+1972-10-09,Australia,New Zealand,True,2,False,True,20,1.0
+1972-10-11,Bulgaria,Yugoslavia,False,1,False,True,20,1.0
+1972-10-11,England,Yugoslavia,False,0,True,False,20,0.5
+1972-10-11,Indonesia,New Zealand,False,0,True,False,20,0.5
+1972-10-11,Spain,Argentina,False,1,False,True,20,1.0
+1972-10-11,St. Kitts and Nevis,Trinidad and Tobago,False,3,False,False,20,0.0
+1972-10-12,Mexico,Costa Rica,False,2,False,True,20,1.0
+1972-10-13,China,Nepal,False,4,False,True,20,1.0
+1972-10-13,France,Russia,False,1,False,True,40,1.0
+1972-10-14,New Caledonia,New Zealand,False,2,False,True,20,1.0
+1972-10-15,Austria,Hungary,False,0,True,False,40,0.5
+1972-10-15,Guatemala,Costa Rica,False,0,True,False,20,0.5
+1972-10-15,Malawi,Kenya,False,1,False,False,20,0.0
+1972-10-15,Poland,Czechoslovakia,False,3,False,True,20,1.0
+1972-10-15,Sierra Leone,Ivory Coast,False,1,False,False,40,0.0
+1972-10-15,Sweden,Malta,False,7,False,True,40,1.0
+1972-10-15,Vietnam Republic,Australia,False,1,False,False,20,0.0
+1972-10-18,Bulgaria,Northern Ireland,False,3,False,True,40,1.0
+1972-10-18,Denmark,Scotland,False,3,False,False,40,0.0
+1972-10-18,Ireland,Russia,False,1,False,False,40,0.0
+1972-10-19,Spain,Yugoslavia,False,0,True,False,40,0.5
+1972-10-21,Switzerland,Italy,False,0,True,False,40,0.5
+1972-10-22,Korea Republic,Australia,False,0,True,False,20,0.5
+1972-10-22,Luxembourg,Turkey,False,2,False,True,40,1.0
+1972-10-22,Malawi,Kenya,False,1,False,True,20,1.0
+1972-10-24,Korea Republic,Australia,False,2,False,False,20,0.0
+1972-10-25,Peru,Argentina,False,2,False,False,30,0.0
+1972-10-28,Cambodia,Singapore,True,1,False,False,30,0.0
+1972-10-28,Vietnam Republic,Malaysia,False,0,True,False,30,0.5
+1972-10-29,Cambodia,Malaysia,True,1,False,True,30,1.0
+1972-10-29,Ivory Coast,Sierra Leone,False,2,False,True,40,1.0
+1972-10-29,Philippines,Australia,False,6,False,False,20,0.0
+1972-10-29,Romania,Albania,False,2,False,True,40,1.0
+1972-10-29,Vietnam Republic,Singapore,False,3,False,True,30,1.0
+1972-11-01,Czechoslovakia,German DR,False,2,False,False,20,0.0
+1972-11-01,Malaysia,Singapore,True,2,False,False,30,0.0
+1972-11-01,Netherlands,Norway,False,9,False,True,40,1.0
+1972-11-01,Vietnam Republic,Cambodia,False,1,False,False,30,0.0
+1972-11-06,Nigeria,Tanzania,False,1,False,True,20,1.0
+1972-11-10,Trinidad and Tobago,Antigua and Barbuda,False,10,False,True,40,1.0
+1972-11-11,Nigeria,Tanzania,False,1,False,True,20,1.0
+1972-11-12,Costa Rica,Guatemala,False,0,True,False,20,0.5
+1972-11-15,Germany,Switzerland,False,4,False,True,20,1.0
+1972-11-15,Ireland,France,False,1,False,True,40,1.0
+1972-11-15,Scotland,Denmark,False,2,False,True,40,1.0
+1972-11-15,Wales,England,False,1,False,False,40,0.0
+1972-11-16,Tunisia,Algeria,False,1,False,False,20,0.0
+1972-11-18,Korea Republic,Malaysia,True,3,False,True,30,1.0
+1972-11-18,Sierra Leone,Tanzania,False,0,True,False,20,0.5
+1972-11-18,Thailand,Singapore,False,4,False,True,30,1.0
+1972-11-18,Yugoslavia,Greece,False,1,False,True,40,1.0
+1972-11-19,Antigua and Barbuda,Trinidad and Tobago,False,1,False,False,40,0.0
+1972-11-19,Belgium,Netherlands,False,0,True,False,40,0.5
+1972-11-19,Cyprus,Bulgaria,False,4,False,False,40,0.0
+1972-11-19,Morocco,Senegal,False,0,True,False,40,0.5
+1972-11-20,Indonesia,Singapore,True,1,False,False,30,0.0
+1972-11-20,Thailand,Malaysia,False,2,False,False,30,0.0
+1972-11-22,Indonesia,Korea Republic,True,0,True,False,30,0.5
+1972-11-22,Malaysia,Singapore,True,2,False,True,30,1.0
+1972-11-22,Mali,Nigeria,False,1,False,True,20,1.0
+1972-11-24,Guinea,China,False,0,True,False,20,0.5
+1972-11-24,Korea Republic,Singapore,True,2,False,True,30,1.0
+1972-11-24,Liberia,Nigeria,False,2,False,False,20,0.0
+1972-11-24,Thailand,Indonesia,False,3,False,True,30,1.0
+1972-11-25,Dominica,Grenada,True,1,False,False,30,0.0
+1972-11-25,Malta,Austria,False,2,False,False,40,0.0
+1972-11-25,Tanzania,Ethiopia,False,0,True,False,40,0.5
+1972-11-26,Indonesia,Malaysia,True,2,False,False,30,0.0
+1972-11-26,Sierra Leone,Nigeria,False,1,False,False,20,0.0
+1972-11-26,St. Lucia,St. Vincent and the Grenadines,False,1,False,True,30,1.0
+1972-11-26,Thailand,Korea Republic,False,1,False,True,30,1.0
+1972-11-28,Dominica,St. Vincent and the Grenadines,True,1,False,False,30,0.0
+1972-11-28,Korea Republic,Singapore,True,0,True,False,30,0.5
+1972-11-28,Thailand,Malaysia,False,1,False,False,30,0.0
+1972-11-28,Trinidad and Tobago,Suriname,False,1,False,True,40,1.0
+1972-11-29,Senegal,China,False,0,True,False,20,0.5
+1972-11-29,St. Lucia,Grenada,False,1,False,True,30,1.0
+1972-11-30,Trinidad and Tobago,Suriname,False,0,True,False,40,0.5
+1972-12-01,Grenada,St. Vincent and the Grenadines,True,0,True,False,30,0.5
+1972-12-02,St. Lucia,Dominica,False,1,False,True,30,1.0
+1972-12-03,Antigua and Barbuda,Suriname,False,6,False,False,40,0.0
+1972-12-03,Ethiopia,Tanzania,False,0,True,False,40,0.5
+1972-12-03,Guatemala,El Salvador,False,1,False,True,40,1.0
+1972-12-03,Honduras,Costa Rica,False,1,False,True,40,1.0
+1972-12-03,Senegal,Morocco,False,1,False,False,40,0.0
+1972-12-04,Nigeria,Mali,False,3,False,True,20,1.0
+1972-12-05,Antigua and Barbuda,Suriname,False,2,False,False,40,0.0
+1972-12-08,Egypt,Tunisia,False,1,False,True,40,1.0
+1972-12-10,Costa Rica,Honduras,False,0,True,False,40,0.5
+1972-12-10,El Salvador,Guatemala,False,1,False,False,40,0.0
+1972-12-10,Ethiopia,Tanzania,False,3,False,True,40,1.0
+1972-12-10,Mauritius,Kenya,False,2,False,False,40,0.0
+1972-12-10,Turkey,Luxembourg,False,3,False,True,40,1.0
+1972-12-12,Nigeria,Sierra Leone,False,4,False,True,20,1.0
+1972-12-14,Haiti,Curaçao,False,3,False,True,20,1.0
+1972-12-14,Panama,Puerto Rico,False,5,False,True,20,1.0
+1972-12-16,Panama,Puerto Rico,False,1,False,False,20,0.0
+1972-12-17,Haiti,Curaçao,False,3,False,True,20,1.0
+1972-12-17,Kenya,Mauritius,False,0,True,False,40,0.5
+1972-12-17,Tunisia,Egypt,False,2,False,True,40,1.0
+1972-12-20,Nigeria,Benin,False,3,False,True,20,1.0
+1972-12-24,Bermuda,Jamaica,False,0,True,False,20,0.5
+1972-12-27,Bermuda,Jamaica,False,3,False,False,20,0.0
+1972-12-28,Ghana,Togo,False,0,True,False,20,0.5
+1972-12-29,Liberia,Ghana,False,0,True,False,20,0.5
+1973-01-01,Gambia,Senegal,False,1,False,True,20,1.0
+1973-01-13,Italy,Turkey,False,0,True,False,40,0.5
+1973-01-17,Greece,Spain,False,1,False,False,40,0.0
+1973-01-24,England,Wales,False,0,True,False,40,0.5
+1973-01-26,Uganda,Congo,False,2,False,True,20,1.0
+1973-01-28,Cyprus,Bulgaria,False,3,False,False,20,0.0
+1973-01-30,Guyana,Haiti,False,2,False,False,20,0.0
+1973-01-31,Greece,Bulgaria,False,0,True,False,20,0.5
+1973-02-01,Guyana,Haiti,False,1,False,True,20,1.0
+1973-02-04,Cameroon,Congo DR,False,1,False,False,40,0.0
+1973-02-04,Haiti,Trinidad and Tobago,False,0,True,False,20,0.5
+1973-02-04,Indonesia,Bulgaria,False,4,False,False,20,0.0
+1973-02-04,Tunisia,Yugoslavia,False,5,False,False,20,0.0
+1973-02-06,Haiti,Trinidad and Tobago,False,2,False,True,20,1.0
+1973-02-06,Mexico,Argentina,False,2,False,True,20,1.0
+1973-02-08,Barbados,Haiti,False,1,False,True,20,1.0
+1973-02-08,New Caledonia,Bulgaria,False,2,False,False,20,0.0
+1973-02-10,Nigeria,Ghana,False,1,False,False,40,0.0
+1973-02-11,Guinea,Morocco,False,0,True,False,40,0.5
+1973-02-11,Tunisia,Ivory Coast,False,0,True,False,40,0.5
+1973-02-14,Australia,Bulgaria,False,0,True,False,20,0.5
+1973-02-14,Chile,Tahiti,False,9,False,True,20,1.0
+1973-02-14,Cyprus,Northern Ireland,False,1,False,True,40,1.0
+1973-02-14,Germany,Argentina,False,1,False,False,20,0.0
+1973-02-14,Scotland,England,False,5,False,False,20,0.0
+1973-02-14,Turkey,Algeria,False,4,False,True,20,1.0
+1973-02-15,Colombia,German DR,False,2,False,False,20,0.0
+1973-02-16,Australia,Bulgaria,False,2,False,False,20,0.0
+1973-02-17,Morocco,Senegal,False,2,False,True,20,1.0
+1973-02-17,New Caledonia,Tahiti,True,1,False,False,30,0.0
+1973-02-17,New Zealand,Fiji,False,4,False,True,30,1.0
+1973-02-18,Australia,Bulgaria,False,2,False,False,20,0.0
+1973-02-18,Ecuador,German DR,False,0,True,False,20,0.5
+1973-02-18,New Caledonia,Vanuatu,True,3,False,True,30,1.0
+1973-02-18,New Zealand,Tahiti,False,0,True,False,30,0.5
+1973-02-20,Fiji,New Caledonia,True,2,False,False,30,0.0
+1973-02-20,Israel,Argentina,False,0,True,False,20,0.5
+1973-02-20,Vanuatu,Tahiti,True,1,False,False,30,0.0
+1973-02-21,Fiji,Vanuatu,True,1,False,False,30,0.0
+1973-02-21,New Zealand,New Caledonia,False,1,False,True,30,1.0
+1973-02-21,Spain,Greece,False,2,False,True,40,1.0
+1973-02-23,Fiji,Tahiti,True,4,False,False,30,0.0
+1973-02-23,New Zealand,Vanuatu,False,2,False,True,30,1.0
+1973-02-24,New Caledonia,Vanuatu,True,1,False,True,30,1.0
+1973-02-24,New Zealand,Tahiti,False,2,False,True,30,1.0
+1973-02-25,Congo DR,Cameroon,False,1,False,False,40,0.0
+1973-02-25,Ghana,Nigeria,False,0,True,False,40,0.5
+1973-02-25,Ivory Coast,Tunisia,False,1,False,True,40,1.0
+1973-02-25,Morocco,Guinea,False,2,False,True,40,1.0
+1973-02-25,Turkey,Italy,False,1,False,False,40,0.0
+1973-02-27,Congo DR,Cameroon,False,2,False,True,40,1.0
+1973-03-03,France,Portugal,False,1,False,False,20,0.0
+1973-03-04,New Zealand,Australia,False,0,True,False,40,0.5
+1973-03-04,Peru,Guatemala,False,4,False,True,20,1.0
+1973-03-10,Sudan,Ethiopia,False,1,False,True,20,1.0
+1973-03-11,Australia,Iraq,False,2,False,True,40,1.0
+1973-03-11,Indonesia,New Zealand,True,0,True,False,40,0.5
+1973-03-13,Australia,Indonesia,False,1,False,True,40,1.0
+1973-03-13,Iraq,New Zealand,True,2,False,True,40,1.0
+1973-03-16,Australia,New Zealand,False,0,True,False,40,0.5
+1973-03-16,Iraq,Indonesia,True,0,True,False,40,0.5
+1973-03-17,Bermuda,USA,False,4,False,True,20,1.0
+1973-03-18,Australia,Iraq,False,0,True,False,40,0.5
+1973-03-18,Indonesia,New Zealand,True,1,False,True,40,1.0
+1973-03-20,Poland,USA,False,4,False,True,20,1.0
+1973-03-21,Iraq,Indonesia,True,1,False,True,40,1.0
+1973-03-24,Australia,Indonesia,False,6,False,True,40,1.0
+1973-03-24,Iraq,New Zealand,True,4,False,True,40,1.0
+1973-03-24,Peru,Bolivia,False,2,False,True,20,1.0
+1973-03-28,Austria,Netherlands,False,1,False,True,20,1.0
+1973-03-28,Bulgaria,Russia,False,1,False,True,20,1.0
+1973-03-28,Germany,Czechoslovakia,False,3,False,True,20,1.0
+1973-03-28,Northern Ireland,Portugal,True,0,True,False,40,0.5
+1973-03-28,Peru,Paraguay,False,1,False,True,20,1.0
+1973-03-28,Wales,Poland,False,2,False,True,40,1.0
+1973-03-31,Bolivia,Paraguay,False,0,True,False,20,0.5
+1973-03-31,Italy,Luxembourg,False,5,False,True,40,1.0
+1973-04-01,Ethiopia,Zambia,False,0,True,False,40,0.5
+1973-04-08,Central African Republic,Ivory Coast,False,2,False,True,40,1.0
+1973-04-08,German DR,Albania,False,2,False,True,40,1.0
+1973-04-08,Luxembourg,Switzerland,False,1,False,False,40,0.0
+1973-04-08,Paraguay,Peru,False,0,True,False,20,0.5
+1973-04-12,Kuwait,Qatar,False,9,False,True,20,1.0
+1973-04-14,Haiti,Chile,False,0,True,False,20,0.5
+1973-04-15,Burkina Faso,Congo DR,False,5,False,False,40,0.0
+1973-04-15,Zambia,Ethiopia,False,2,False,True,40,1.0
+1973-04-17,Kuwait,Qatar,False,3,False,True,20,1.0
+1973-04-18,Belgium,German DR,False,3,False,True,20,1.0
+1973-04-18,Russia,Romania,False,2,False,True,20,1.0
+1973-04-18,Turkey,Bulgaria,False,3,False,True,30,1.0
+1973-04-21,Senegal,Ghana,False,1,False,True,40,1.0
+1973-04-22,Congo DR,Burkina Faso,False,3,False,True,40,1.0
+1973-04-22,Ivory Coast,Central African Republic,False,1,False,True,40,1.0
+1973-04-23,Peru,Panama,False,4,False,True,20,1.0
+1973-04-24,Ecuador,Chile,False,0,True,False,20,0.5
+1973-04-26,Denmark,Sweden,False,1,False,False,20,0.0
+1973-04-28,Kenya,Uganda,False,1,False,False,40,0.0
+1973-04-29,Bolivia,Ecuador,False,0,True,False,20,0.5
+1973-04-29,Hungary,Austria,False,0,True,False,40,0.5
+1973-04-29,Peru,Chile,False,2,False,True,40,1.0
+1973-05-02,Bulgaria,Portugal,False,1,False,True,40,1.0
+1973-05-02,Denmark,Czechoslovakia,False,0,True,False,40,0.5
+1973-05-02,Netherlands,Spain,False,1,False,True,20,1.0
+1973-05-04,Iran,Korea DPR,False,0,True,False,40,0.5
+1973-05-04,Syria,Kuwait,True,1,False,True,40,1.0
+1973-05-06,Albania,Romania,False,3,False,False,40,0.0
+1973-05-06,Ecuador,Bolivia,False,0,True,False,20,0.5
+1973-05-06,Iran,Kuwait,False,1,False,True,40,1.0
+1973-05-06,Korea DPR,Syria,True,0,True,False,40,0.5
+1973-05-08,Iran,Syria,False,1,False,True,40,1.0
+1973-05-08,Korea DPR,Kuwait,True,0,True,False,40,0.5
+1973-05-08,Northern Ireland,Cyprus,True,3,False,True,40,1.0
+1973-05-09,Germany,Yugoslavia,False,1,False,False,20,0.0
+1973-05-09,Switzerland,Turkey,False,0,True,False,40,0.5
+1973-05-11,Iran,Korea DPR,False,1,False,True,40,1.0
+1973-05-11,Syria,Kuwait,True,2,False,True,40,1.0
+1973-05-12,England,Northern Ireland,False,1,False,True,30,1.0
+1973-05-12,Germany,Bulgaria,False,3,False,True,20,1.0
+1973-05-12,Haiti,Ecuador,False,1,False,False,20,0.0
+1973-05-12,Wales,Scotland,False,2,False,False,30,0.0
+1973-05-13,Chile,Peru,False,2,False,True,40,1.0
+1973-05-13,Iran,Kuwait,False,2,False,True,40,1.0
+1973-05-13,Korea DPR,Syria,True,3,False,True,40,1.0
+1973-05-13,Poland,Yugoslavia,False,0,True,False,20,0.5
+1973-05-13,Russia,Ireland,True,1,False,True,40,1.0
+1973-05-15,England,Wales,False,3,False,True,30,1.0
+1973-05-15,Haiti,Ecuador,False,1,False,True,20,1.0
+1973-05-15,Iran,Syria,False,1,False,False,40,0.0
+1973-05-15,Korea DPR,Kuwait,True,2,False,False,40,0.0
+1973-05-16,German DR,Hungary,False,1,False,True,20,1.0
+1973-05-16,Israel,Japan,True,1,False,True,40,1.0
+1973-05-16,Poland,Ireland,False,2,False,True,20,1.0
+1973-05-16,Scotland,Northern Ireland,False,1,False,False,30,0.0
+1973-05-16,Thailand,Vietnam Republic,True,1,False,False,40,0.0
+1973-05-17,Argentina,Uruguay,False,0,True,False,30,0.5
+1973-05-17,Hong Kong,Malaysia,True,1,False,True,40,1.0
+1973-05-19,England,Scotland,False,1,False,True,30,1.0
+1973-05-19,France,Ireland,False,0,True,False,40,0.5
+1973-05-19,Israel,Malaysia,True,3,False,True,40,1.0
+1973-05-19,Korea Republic,Thailand,False,4,False,True,40,1.0
+1973-05-19,Northern Ireland,Wales,True,1,False,True,30,1.0
+1973-05-20,Ivory Coast,Morocco,False,0,True,False,40,0.5
+1973-05-20,Vietnam Republic,Japan,True,4,False,False,40,0.0
+1973-05-21,Israel,Thailand,True,6,False,True,40,1.0
+1973-05-21,Korea Republic,Malaysia,False,0,True,False,40,0.5
+1973-05-22,Japan,Hong Kong,True,1,False,False,40,0.0
+1973-05-23,Korea Republic,Israel,False,0,True,False,40,0.5
+1973-05-23,Sweden,Austria,False,1,False,True,40,1.0
+1973-05-23,Thailand,Malaysia,True,2,False,False,40,0.0
+1973-05-23,Uruguay,Argentina,False,0,True,False,30,0.5
+1973-05-24,Hong Kong,Vietnam Republic,True,1,False,True,40,1.0
+1973-05-26,Israel,Japan,True,1,False,True,40,1.0
+1973-05-26,Korea Republic,Hong Kong,False,2,False,True,40,1.0
+1973-05-26,Russia,France,True,2,False,True,40,1.0
+1973-05-27,Brazil,Bolivia,False,5,False,True,20,1.0
+1973-05-27,Cameroon,Congo DR,False,1,False,True,40,1.0
+1973-05-27,Czechoslovakia,England,False,0,True,False,20,0.5
+1973-05-27,Haiti,Colombia,False,1,False,False,20,0.0
+1973-05-27,Romania,German DR,False,1,False,True,40,1.0
+1973-05-28,Korea Republic,Israel,False,1,False,True,40,1.0
+1973-05-29,Haiti,Colombia,False,1,False,True,20,1.0
+1973-06-03,Algeria,Brazil,False,2,False,False,20,0.0
+1973-06-03,Morocco,Ivory Coast,False,3,False,True,40,1.0
+1973-06-05,Madagascar,Zambia,False,1,False,True,40,1.0
+1973-06-06,Czechoslovakia,Denmark,False,6,False,True,40,1.0
+1973-06-06,Finland,German DR,False,4,False,False,40,0.0
+1973-06-06,Haiti,Uruguay,False,0,True,False,20,0.5
+1973-06-06,Norway,Ireland,False,0,True,False,20,0.5
+1973-06-06,Poland,England,False,2,False,True,40,1.0
+1973-06-06,Tunisia,Brazil,False,3,False,False,20,0.0
+1973-06-08,Faroe Islands,Iceland,False,4,False,False,20,0.0
+1973-06-09,Italy,Brazil,False,2,False,True,20,1.0
+1973-06-10,China,Pakistan,False,3,False,True,20,1.0
+1973-06-10,Russia,England,False,1,False,False,20,0.0
+1973-06-12,Burma,Malaysia,True,0,True,False,30,0.5
+1973-06-13,Austria,Brazil,False,0,True,False,20,0.5
+1973-06-13,Hungary,Sweden,False,0,True,False,40,0.5
+1973-06-14,Congo DR,Cameroon,False,2,False,True,40,1.0
+1973-06-14,Indonesia,Malaysia,False,2,False,True,30,1.0
+1973-06-14,Italy,England,False,2,False,True,20,1.0
+1973-06-16,Germany,Brazil,False,1,False,False,20,0.0
+1973-06-17,China,Somalia,False,3,False,True,20,1.0
+1973-06-18,Indonesia,Burma,False,0,True,False,30,0.5
+1973-06-21,Colombia,Ecuador,False,0,True,False,40,0.5
+1973-06-21,Denmark,Norway,False,1,False,True,30,1.0
+1973-06-21,Russia,Brazil,False,1,False,False,20,0.0
+1973-06-22,Switzerland,Scotland,False,1,False,True,20,1.0
+1973-06-23,Korea Republic,Japan,False,2,False,True,20,1.0
+1973-06-24,Colombia,Uruguay,False,0,True,False,40,0.5
+1973-06-25,Sweden,Brazil,False,1,False,True,20,1.0
+1973-06-28,Ecuador,Colombia,False,0,True,False,40,0.5
+1973-06-30,Scotland,Brazil,False,1,False,False,20,0.0
+1973-07-01,Ecuador,Uruguay,False,1,False,False,40,0.0
+1973-07-01,Peru,Colombia,False,2,False,True,20,1.0
+1973-07-03,Ireland,Brazil,False,1,False,False,20,0.0
+1973-07-05,Tanzania,Congo,False,1,False,True,20,1.0
+1973-07-05,Uruguay,Colombia,False,1,False,False,40,0.0
+1973-07-06,Malawi,Mauritius,False,3,False,True,20,1.0
+1973-07-08,Malawi,Mauritius,False,1,False,True,20,1.0
+1973-07-08,Sweden,Finland,False,0,True,False,30,0.5
+1973-07-08,Uruguay,Ecuador,False,4,False,True,40,1.0
+1973-07-11,Sweden,Iceland,False,1,False,True,20,1.0
+1973-07-13,Argentina,Chile,False,1,False,True,30,1.0
+1973-07-15,Bolivia,Peru,False,2,False,True,20,1.0
+1973-07-15,Ghana,Ivory Coast,False,3,False,False,40,0.0
+1973-07-15,Mauritius,Réunion,False,0,True,False,20,0.5
+1973-07-16,Egypt,Tanzania,True,9,False,True,20,1.0
+1973-07-17,Iceland,German DR,False,1,False,False,20,0.0
+1973-07-18,Chile,Argentina,False,2,False,True,30,1.0
+1973-07-19,Iceland,German DR,False,2,False,False,20,0.0
+1973-07-19,Israel,Uruguay,False,1,False,False,20,0.0
+1973-07-24,Chile,Bolivia,False,3,False,True,20,1.0
+1973-07-25,Norway,Korea DPR,False,3,False,True,20,1.0
+1973-07-26,Cambodia,Singapore,True,0,True,False,30,0.5
+1973-07-26,Malaysia,Kuwait,False,0,True,False,30,0.5
+1973-07-27,Argentina,Peru,False,2,False,True,30,1.0
+1973-07-27,Bangladesh,Thailand,True,0,True,False,30,0.5
+1973-07-27,India,Vietnam Republic,True,1,False,True,30,1.0
+1973-07-28,Kuwait,Singapore,True,2,False,True,30,1.0
+1973-07-29,Bangladesh,Vietnam Republic,True,0,True,False,30,0.5
+1973-07-29,India,Thailand,True,2,False,True,30,1.0
+1973-07-29,Ivory Coast,Ghana,False,1,False,True,40,1.0
+1973-07-30,Burma,Singapore,True,1,False,True,30,1.0
+1973-07-31,Bangladesh,Kuwait,True,1,False,False,30,0.0
+1973-08-01,Canada,Poland,False,2,False,False,20,0.0
+1973-08-02,Bangladesh,Singapore,True,0,True,False,30,0.5
+1973-08-02,Burma,Vietnam Republic,True,1,False,True,30,1.0
+1973-08-03,China,Guinea,False,3,False,True,20,1.0
+1973-08-03,Iceland,Norway,False,4,False,False,40,0.0
+1973-08-03,USA,Poland,False,1,False,False,20,0.0
+1973-08-05,Burma,Kuwait,True,2,False,True,30,1.0
+1973-08-05,Canada,USA,False,2,False,False,20,0.0
+1973-08-05,Chile,Peru,True,1,False,True,40,1.0
+1973-08-05,Ghana,Congo DR,False,1,False,True,40,1.0
+1973-08-05,Mexico,Poland,True,1,False,False,20,0.0
+1973-08-05,Russia,Sweden,False,0,True,False,20,0.5
+1973-08-05,Singapore,Vietnam Republic,True,1,False,False,30,0.0
+1973-08-06,Cambodia,Thailand,True,3,False,False,30,0.0
+1973-08-06,Swaziland,Malawi,False,1,False,False,20,0.0
+1973-08-08,Bangladesh,Burma,True,6,False,False,30,0.0
+1973-08-08,Kuwait,Vietnam Republic,True,1,False,True,30,1.0
+1973-08-08,Mexico,Poland,False,1,False,False,20,0.0
+1973-08-09,India,Vietnam Republic,True,0,True,False,30,0.5
+1973-08-10,Cambodia,Singapore,True,3,False,False,30,0.0
+1973-08-10,Malaysia,Burma,False,1,False,True,30,1.0
+1973-08-10,USA,Poland,False,4,False,False,20,0.0
+1973-08-11,Libya,United Arab Emirates,False,0,True,False,20,0.5
+1973-08-12,Bangladesh,Thailand,True,2,False,False,30,0.0
+1973-08-12,Egypt,Yemen DPR,True,5,False,True,20,1.0
+1973-08-12,Malaysia,Kuwait,False,2,False,True,30,1.0
+1973-08-12,New Zealand,Iran,False,0,True,False,20,0.5
+1973-08-12,USA,Poland,False,1,False,True,20,1.0
+1973-08-12,Zambia,Kenya,False,2,False,True,40,1.0
+1973-08-13,Algeria,United Arab Emirates,True,2,False,True,20,1.0
+1973-08-13,Iraq,Yemen,True,2,False,True,20,1.0
+1973-08-13,Singapore,Bangladesh,False,1,False,False,20,0.0
+1973-08-13,Syria,Tunisia,True,3,False,False,20,0.0
+1973-08-14,Libya,Yemen,False,10,False,True,20,1.0
+1973-08-15,Algeria,Iraq,True,0,True,False,20,0.5
+1973-08-15,Congo,Uganda,False,1,False,True,20,1.0
+1973-08-15,Egypt,Tunisia,True,1,False,False,20,0.0
+1973-08-15,Singapore,India,False,1,False,False,20,0.0
+1973-08-16,Syria,Yemen DPR,True,6,False,True,20,1.0
+1973-08-17,Algeria,Yemen,True,14,False,True,20,1.0
+1973-08-18,Australia,Iran,False,3,False,True,40,1.0
+1973-08-18,Egypt,Palestine,True,2,False,True,20,1.0
+1973-08-18,Libya,Iraq,False,0,True,False,20,0.5
+1973-08-19,Bulgaria,Poland,False,2,False,False,20,0.0
+1973-08-19,Congo DR,Ghana,False,3,False,True,40,1.0
+1973-08-19,Kenya,Zambia,False,0,True,False,40,0.5
+1973-08-19,Tunisia,Yemen DPR,True,2,False,True,20,1.0
+1973-08-20,Egypt,Syria,True,2,False,False,20,0.0
+1973-08-20,Iraq,United Arab Emirates,True,2,False,True,20,1.0
+1973-08-21,Libya,Algeria,False,2,False,False,20,0.0
+1973-08-21,Palestine,Tunisia,True,4,False,False,20,0.0
+1973-08-22,Netherlands,Iceland,False,5,False,True,40,1.0
+1973-08-23,Algeria,Syria,True,0,True,False,20,0.5
+1973-08-23,Iraq,Tunisia,True,2,False,False,20,0.0
+1973-08-24,Iran,Australia,False,2,False,True,40,1.0
+1973-08-25,Algeria,Iraq,True,0,True,False,20,0.5
+1973-08-26,Syria,Tunisia,True,4,False,False,20,0.0
+1973-08-29,Finland,Sweden,False,1,False,False,30,0.0
+1973-08-29,Netherlands,Iceland,False,7,False,True,40,1.0
+1973-09-02,Bolivia,Paraguay,False,1,False,False,40,0.0
+1973-09-05,Russia,Germany,False,1,False,False,20,0.0
+1973-09-08,France,Greece,False,2,False,True,20,1.0
+1973-09-09,Argentina,Bolivia,False,4,False,True,40,1.0
+1973-09-09,USA,Bermuda,False,1,False,True,20,1.0
+1973-09-12,Norway,Netherlands,False,1,False,False,40,0.0
+1973-09-16,Paraguay,Argentina,False,0,True,False,40,0.5
+1973-09-20,Mexico,Chile,False,1,False,False,20,0.0
+1973-09-22,Burma,Thailand,True,0,True,False,30,0.5
+1973-09-22,Korea Republic,Cambodia,False,6,False,True,30,1.0
+1973-09-22,Uganda,Somalia,False,5,False,True,30,1.0
+1973-09-23,Bolivia,Argentina,False,1,False,False,40,0.0
+1973-09-23,Kenya,Zanzibar,True,2,False,True,30,1.0
+1973-09-23,Norway,Denmark,False,1,False,False,30,0.0
+1973-09-24,Korea Republic,Indonesia,False,2,False,True,30,1.0
+1973-09-24,Malaysia,Thailand,True,4,False,True,30,1.0
+1973-09-24,Somalia,Zambia,True,5,False,False,30,0.0
+1973-09-25,Tanzania,Zanzibar,True,1,False,True,30,1.0
+1973-09-26,Burma,Malaysia,True,2,False,False,30,0.0
+1973-09-26,England,Austria,False,7,False,True,20,1.0
+1973-09-26,German DR,Romania,False,2,False,True,40,1.0
+1973-09-26,Indonesia,Cambodia,True,1,False,False,30,0.0
+1973-09-26,Northern Ireland,Bulgaria,True,0,True,False,40,0.5
+1973-09-26,Poland,Wales,False,3,False,True,40,1.0
+1973-09-26,Russia,Chile,True,0,True,False,40,0.5
+1973-09-26,Scotland,Czechoslovakia,False,1,False,True,40,1.0
+1973-09-26,Switzerland,Luxembourg,False,1,False,True,40,1.0
+1973-09-26,Uganda,Zambia,False,0,True,False,30,0.5
+1973-09-26,Yugoslavia,Hungary,False,0,True,False,20,0.5
+1973-09-27,Kenya,Tanzania,True,1,False,False,30,0.0
+1973-09-28,Cambodia,Malaysia,True,2,False,True,30,1.0
+1973-09-28,Korea Republic,Burma,False,1,False,False,30,0.0
+1973-09-28,Malta,Canada,False,2,False,True,20,1.0
+1973-09-28,Uganda,Zambia,False,1,False,True,30,1.0
+1973-09-29,Italy,Sweden,False,2,False,True,20,1.0
+1973-09-29,Uganda,Tanzania,False,1,False,True,30,1.0
+1973-09-30,Burma,Cambodia,True,0,True,False,30,0.5
+1973-09-30,Korea Republic,Malaysia,False,2,False,True,30,1.0
+1973-09-30,Malta,Canada,False,0,True,False,20,0.5
+1973-09-30,Paraguay,Bolivia,False,4,False,True,40,1.0
+1973-10-07,Argentina,Paraguay,False,2,False,True,40,1.0
+1973-10-07,Luxembourg,Canada,False,2,False,False,20,0.0
+1973-10-10,Albania,Finland,False,1,False,True,40,1.0
+1973-10-10,Germany,Austria,False,4,False,True,20,1.0
+1973-10-10,Netherlands,Poland,False,0,True,False,20,0.5
+1973-10-11,Trinidad and Tobago,Martinique,False,2,False,True,20,1.0
+1973-10-13,Denmark,Hungary,False,0,True,False,20,0.5
+1973-10-13,Germany,France,False,1,False,True,20,1.0
+1973-10-13,Portugal,Bulgaria,False,0,True,False,40,0.5
+1973-10-14,Romania,Finland,False,9,False,True,40,1.0
+1973-10-16,Mexico,USA,False,2,False,True,20,1.0
+1973-10-17,Czechoslovakia,Scotland,False,1,False,True,40,1.0
+1973-10-17,England,Poland,False,0,True,False,40,0.5
+1973-10-17,German DR,Russia,False,1,False,True,20,1.0
+1973-10-17,Turkey,Spain,False,0,True,False,20,0.5
+1973-10-20,Italy,Switzerland,False,2,False,True,40,1.0
+1973-10-21,Ireland,Poland,False,1,False,True,20,1.0
+1973-10-21,Yugoslavia,Spain,False,0,True,False,40,0.5
+1973-10-21,Zambia,Morocco,False,4,False,True,40,1.0
+1973-10-27,Curaçao,Suriname,False,0,True,False,20,0.5
+1973-10-28,Australia,Korea Republic,False,0,True,False,40,0.5
+1973-10-29,Curaçao,Suriname,False,0,True,False,20,0.5
+1973-10-31,Algeria,Morocco,False,2,False,True,20,1.0
+1973-10-31,Belgium,Norway,False,2,False,True,40,1.0
+1973-11-01,Vietnam Republic,Malaysia,False,4,False,False,30,0.0
+1973-11-03,Albania,German DR,False,3,False,False,40,0.0
+1973-11-03,Haiti,USA,False,1,False,True,20,1.0
+1973-11-03,Malaysia,Singapore,True,1,False,True,30,1.0
+1973-11-04,Guyana,Jamaica,False,1,False,True,20,1.0
+1973-11-04,Vietnam Republic,Singapore,False,2,False,True,30,1.0
+1973-11-04,Zambia,Congo DR,False,2,False,False,40,0.0
+1973-11-05,Haiti,USA,False,1,False,True,20,1.0
+1973-11-06,Barbados,Suriname,True,2,False,False,20,0.0
+1973-11-06,Guadeloupe,Martinique,False,2,False,False,20,0.0
+1973-11-07,Albania,China,False,0,True,False,20,0.5
+1973-11-07,Dominica,Grenada,False,2,False,True,30,1.0
+1973-11-09,Guyana,Suriname,False,2,False,False,20,0.0
+1973-11-10,Haiti,Canada,False,4,False,True,20,1.0
+1973-11-10,Korea Republic,Australia,False,0,True,False,40,0.5
+1973-11-11,Dominica,St. Lucia,False,1,False,True,30,1.0
+1973-11-11,Malta,Sweden,False,1,False,False,40,0.0
+1973-11-11,St. Vincent and the Grenadines,Grenada,False,3,False,True,30,1.0
+1973-11-12,Haiti,Canada,False,1,False,False,20,0.0
+1973-11-13,Australia,Korea Republic,True,1,False,True,40,1.0
+1973-11-13,Israel,USA,False,2,False,True,20,1.0
+1973-11-14,England,Italy,False,1,False,False,20,0.0
+1973-11-14,Portugal,Northern Ireland,False,0,True,False,40,0.5
+1973-11-14,Scotland,Germany,False,0,True,False,20,0.5
+1973-11-15,Israel,USA,False,2,False,True,20,1.0
+1973-11-15,St. Lucia,Grenada,False,2,False,False,30,0.0
+1973-11-16,St. Lucia,Dominica,False,1,False,True,30,1.0
+1973-11-18,Bulgaria,Cyprus,False,2,False,True,40,1.0
+1973-11-18,Congo DR,Zambia,False,1,False,True,40,1.0
+1973-11-18,Netherlands,Belgium,False,0,True,False,40,0.5
+1973-11-18,Turkey,Switzerland,False,2,False,True,40,1.0
+1973-11-19,St. Vincent and the Grenadines,Dominica,False,0,True,False,30,0.5
+1973-11-21,France,Denmark,False,3,False,True,20,1.0
+1973-11-21,Grenada,Dominica,False,0,True,False,30,0.5
+1973-11-21,Hungary,German DR,False,1,False,False,20,0.0
+1973-11-23,St. Vincent and the Grenadines,St. Lucia,False,2,False,True,30,1.0
+1973-11-24,Germany,Spain,False,1,False,True,20,1.0
+1973-11-25,Morocco,Zambia,False,2,False,True,40,1.0
+1973-11-27,Austria,Sweden,True,1,False,False,40,0.0
+1973-11-27,St. Lucia,St. Vincent and the Grenadines,False,1,False,False,30,0.0
+1973-11-29,Grenada,St. Lucia,False,2,False,True,30,1.0
+1973-11-29,Honduras,Trinidad and Tobago,True,1,False,True,40,1.0
+1973-11-30,Dominica,St. Vincent and the Grenadines,False,0,True,False,30,0.5
+1973-11-30,Guatemala,Mexico,True,0,True,False,40,0.5
+1973-12-01,Haiti,Curaçao,False,3,False,True,40,1.0
+1973-12-02,Panama,Nicaragua,False,2,False,True,20,1.0
+1973-12-03,Burma,Vietnam Republic,True,1,False,False,30,0.0
+1973-12-03,Honduras,Mexico,True,0,True,False,40,0.5
+1973-12-04,Haiti,Trinidad and Tobago,False,1,False,True,40,1.0
+1973-12-05,Guatemala,Curaçao,True,0,True,False,40,0.5
+1973-12-07,Haiti,Honduras,False,1,False,True,40,1.0
+1973-12-08,Kenya,Uganda,False,0,True,False,20,0.5
+1973-12-08,Mexico,Curaçao,True,8,False,True,40,1.0
+1973-12-09,Congo DR,Morocco,False,3,False,True,40,1.0
+1973-12-10,Guatemala,Trinidad and Tobago,True,1,False,False,40,0.0
+1973-12-10,Uganda,Zambia,True,2,False,True,20,1.0
+1973-12-12,Honduras,Curaçao,True,0,True,False,40,0.5
+1973-12-12,Kenya,Zambia,False,2,False,True,20,1.0
+1973-12-13,Haiti,Guatemala,False,1,False,True,40,1.0
+1973-12-14,Mexico,Trinidad and Tobago,True,4,False,False,40,0.0
+1973-12-15,Guatemala,Honduras,True,0,True,False,40,0.5
+1973-12-15,Laos,Singapore,True,1,False,True,30,1.0
+1973-12-15,Thailand,Burma,False,1,False,True,30,1.0
+1973-12-16,Cambodia,Korea Republic,True,5,False,False,30,0.0
+1973-12-17,Burma,Singapore,True,5,False,True,30,1.0
+1973-12-17,Curaçao,Trinidad and Tobago,True,4,False,False,40,0.0
+1973-12-17,Thailand,Laos,False,5,False,True,30,1.0
+1973-12-18,Haiti,Mexico,False,1,False,False,40,0.0
+1973-12-18,Korea Republic,Malaysia,True,0,True,False,30,0.5
+1973-12-19,Burma,Laos,True,1,False,True,30,1.0
+1973-12-19,Greece,Yugoslavia,False,2,False,False,40,0.0
+1973-12-19,Thailand,Singapore,False,3,False,True,30,1.0
+1973-12-20,Cambodia,Malaysia,True,1,False,False,30,0.0
+1973-12-21,Congo,Tunisia,False,1,False,False,20,0.0
+1973-12-22,Burma,Korea Republic,True,2,False,False,30,0.0
+1973-12-23,Thailand,Malaysia,False,1,False,False,30,0.0
+1973-12-25,Korea Republic,Malaysia,True,1,False,True,30,1.0
+1973-12-25,Thailand,Burma,False,1,False,True,30,1.0
+1973-12-30,Guinea,Tunisia,False,0,True,False,20,0.5
+1974-01-01,Uganda,Congo,False,2,False,False,20,0.0
+1974-01-06,Mali,Tunisia,False,1,False,True,20,1.0
+1974-01-13,Mauritius,Malawi,False,3,False,True,20,1.0
+1974-01-17,Mauritius,Malawi,False,1,False,True,20,1.0
+1974-01-17,Pakistan,Iran,False,1,False,False,20,0.0
+1974-01-18,Pakistan,Turkey,False,0,True,False,20,0.5
+1974-01-20,Iran,Turkey,True,1,False,False,20,0.0
+1974-01-20,Mauritius,Malawi,False,0,True,False,20,0.5
+1974-01-25,Panama,El Salvador,False,1,False,True,20,1.0
+1974-02-06,Cyprus,Bulgaria,False,3,False,False,20,0.0
+1974-02-08,Kuwait,Bulgaria,False,2,False,False,20,0.0
+1974-02-10,Kuwait,Bulgaria,False,1,False,False,20,0.0
+1974-02-12,Singapore,Japan,False,1,False,False,20,0.0
+1974-02-13,Yugoslavia,Spain,True,1,False,True,40,1.0
+1974-02-15,Ghana,Guinea,False,3,False,True,20,1.0
+1974-02-17,Congo,Mali,False,0,True,False,20,0.5
+1974-02-17,Ghana,Guinea,False,2,False,True,20,1.0
+1974-02-17,Tahiti,New Caledonia,False,1,False,True,20,1.0
+1974-02-17,Tahiti,New Caledonia,False,1,False,False,20,0.0
+1974-02-20,Hong Kong,Japan,False,0,True,False,20,0.5
+1974-02-20,Tahiti,New Caledonia,False,0,True,False,20,0.5
+1974-02-22,Iraq,Morocco,False,0,True,False,20,0.5
+1974-02-23,Spain,Germany,False,1,False,True,20,1.0
+1974-02-24,Iraq,Morocco,False,0,True,False,20,0.5
+1974-02-25,Kuwait,Morocco,False,2,False,False,20,0.0
+1974-02-26,Italy,Germany,False,0,True,False,20,0.5
+1974-02-26,Tunisia,German DR,False,4,False,False,20,0.0
+1974-02-27,Qatar,Morocco,False,1,False,False,20,0.0
+1974-02-28,Algeria,German DR,False,2,False,False,20,0.0
+1974-03-01,Bahrain,Morocco,False,1,False,False,20,0.0
+1974-03-01,Egypt,Uganda,False,1,False,True,50,1.0
+1974-03-02,Ivory Coast,Zambia,True,1,False,False,50,0.0
+1974-03-03,Congo,Mauritius,True,2,False,True,50,1.0
+1974-03-03,Guinea,Congo DR,True,1,False,False,50,0.0
+1974-03-04,Egypt,Zambia,False,2,False,True,50,1.0
+1974-03-04,Ivory Coast,Uganda,True,0,True,False,50,0.5
+1974-03-05,Congo,Congo DR,True,1,False,True,50,1.0
+1974-03-05,Guinea,Mauritius,True,1,False,True,50,1.0
+1974-03-06,Egypt,Ivory Coast,False,2,False,True,50,1.0
+1974-03-06,Saudi Arabia,Morocco,False,0,True,False,20,0.5
+1974-03-06,Togo,Denmark,False,2,False,False,20,0.0
+1974-03-06,Uganda,Zambia,True,1,False,False,50,0.0
+1974-03-07,Congo,Guinea,True,0,True,False,50,0.5
+1974-03-07,Mauritius,Congo DR,True,3,False,False,50,0.0
+1974-03-09,Congo,Zambia,True,2,False,False,50,0.0
+1974-03-09,Egypt,Congo DR,False,1,False,False,50,0.0
+1974-03-10,Benin,Denmark,False,2,False,True,20,1.0
+1974-03-11,Egypt,Congo,False,4,False,True,50,1.0
+1974-03-12,Congo DR,Zambia,True,0,True,False,50,0.5
+1974-03-13,German DR,Belgium,False,1,False,True,20,1.0
+1974-03-13,Réunion,Seychelles,False,2,False,True,20,1.0
+1974-03-14,Congo DR,Zambia,True,2,False,True,50,1.0
+1974-03-14,Puerto Rico,Panama,False,1,False,False,20,0.0
+1974-03-15,Kuwait,United Arab Emirates,False,2,False,True,30,1.0
+1974-03-16,Bahrain,Oman,True,4,False,True,30,1.0
+1974-03-16,Qatar,Saudi Arabia,True,2,False,False,30,0.0
+1974-03-18,Bahrain,United Arab Emirates,True,4,False,False,30,0.0
+1974-03-19,Kuwait,Oman,False,5,False,True,30,1.0
+1974-03-21,Bahrain,Saudi Arabia,True,3,False,False,30,0.0
+1974-03-22,Oman,Qatar,True,4,False,False,30,0.0
+1974-03-23,France,Romania,False,1,False,True,20,1.0
+1974-03-23,Haiti,Uruguay,False,1,False,False,20,0.0
+1974-03-23,Saudi Arabia,United Arab Emirates,True,2,False,True,30,1.0
+1974-03-24,Kuwait,Qatar,False,1,False,True,30,1.0
+1974-03-25,Haiti,Uruguay,False,0,True,False,20,0.5
+1974-03-26,Kuwait,United Arab Emirates,False,6,False,True,30,1.0
+1974-03-26,Qatar,Saudi Arabia,True,2,False,False,30,0.0
+1974-03-27,German DR,Czechoslovakia,False,1,False,True,20,1.0
+1974-03-27,Germany,Scotland,False,1,False,True,20,1.0
+1974-03-27,Netherlands,Austria,False,0,True,False,20,0.5
+1974-03-28,Jamaica,Uruguay,False,3,False,False,20,0.0
+1974-03-28,Qatar,United Arab Emirates,True,0,True,False,30,0.5
+1974-03-29,Kuwait,Saudi Arabia,False,4,False,True,30,1.0
+1974-03-31,Brazil,Mexico,False,0,True,False,20,0.5
+1974-03-31,Hungary,Bulgaria,False,2,False,True,20,1.0
+1974-04-03,Portugal,England,False,0,True,False,20,0.5
+1974-04-07,Brazil,Czechoslovakia,False,1,False,True,20,1.0
+1974-04-07,Morocco,Algeria,False,2,False,True,20,1.0
+1974-04-12,Bermuda,Canada,False,0,True,False,20,0.5
+1974-04-13,Bulgaria,Czechoslovakia,False,1,False,False,20,0.0
+1974-04-13,Haiti,Poland,False,1,False,True,20,1.0
+1974-04-14,Brazil,Bulgaria,False,1,False,True,20,1.0
+1974-04-15,Haiti,Poland,False,2,False,False,20,0.0
+1974-04-17,Belgium,Poland,False,0,True,False,20,0.5
+1974-04-17,Brazil,Romania,False,2,False,True,20,1.0
+1974-04-17,Germany,Hungary,False,5,False,True,20,1.0
+1974-04-17,Yugoslavia,Russia,False,1,False,False,20,0.0
+1974-04-19,Indonesia,Uruguay,False,1,False,True,20,1.0
+1974-04-21,Brazil,Haiti,False,4,False,True,20,1.0
+1974-04-21,Indonesia,Uruguay,False,1,False,False,20,0.0
+1974-04-22,Argentina,Romania,False,1,False,True,20,1.0
+1974-04-24,Haiti,Chile,False,1,False,False,20,0.0
+1974-04-26,Haiti,Chile,False,0,True,False,20,0.5
+1974-04-27,Czechoslovakia,France,False,0,True,False,20,0.5
+1974-04-28,Brazil,Greece,False,0,True,False,20,0.5
+1974-05-01,Brazil,Austria,False,0,True,False,20,0.5
+1974-05-01,Germany,Sweden,False,2,False,True,20,1.0
+1974-05-01,Switzerland,Belgium,False,1,False,False,20,0.0
+1974-05-02,Yemen DPR,Iraq,False,2,False,True,20,1.0
+1974-05-05,Brazil,Ireland,False,1,False,True,20,1.0
+1974-05-05,China,Sierra Leone,False,3,False,True,20,1.0
+1974-05-08,Bulgaria,Turkey,False,4,False,True,30,1.0
+1974-05-08,Uruguay,Ireland,False,2,False,True,20,1.0
+1974-05-11,Scotland,Northern Ireland,False,1,False,False,30,0.0
+1974-05-11,Wales,England,False,2,False,False,30,0.0
+1974-05-12,Brazil,Paraguay,False,2,False,True,20,1.0
+1974-05-12,Chile,Ireland,False,1,False,False,20,0.0
+1974-05-13,Korea Republic,Cambodia,False,1,False,False,30,0.0
+1974-05-14,Scotland,Wales,False,2,False,True,30,1.0
+1974-05-15,England,Northern Ireland,False,1,False,True,30,1.0
+1974-05-15,Poland,Greece,False,2,False,True,20,1.0
+1974-05-16,Burma,Thailand,True,1,False,True,30,1.0
+1974-05-18,France,Argentina,False,1,False,False,20,0.0
+1974-05-18,Korea Republic,Burma,False,3,False,True,30,1.0
+1974-05-18,Scotland,England,False,2,False,True,30,1.0
+1974-05-18,Wales,Northern Ireland,False,1,False,True,30,1.0
+1974-05-20,Burma,Cambodia,True,6,False,True,30,1.0
+1974-05-20,Russia,Czechoslovakia,False,1,False,False,20,0.0
+1974-05-21,Indonesia,Australia,False,1,False,False,20,0.0
+1974-05-22,England,Argentina,False,0,True,False,20,0.5
+1974-05-23,German DR,Norway,False,1,False,True,20,1.0
+1974-05-25,Bulgaria,Korea DPR,False,5,False,True,20,1.0
+1974-05-26,Netherlands,Argentina,False,3,False,True,20,1.0
+1974-05-28,Israel,Australia,False,1,False,True,20,1.0
+1974-05-29,German DR,England,False,0,True,False,20,0.5
+1974-05-29,Hungary,Yugoslavia,False,1,False,True,20,1.0
+1974-05-29,Romania,Greece,False,2,False,True,30,1.0
+1974-06-01,Belgium,Scotland,False,1,False,True,20,1.0
+1974-06-01,Bulgaria,England,False,1,False,False,20,0.0
+1974-06-01,Indonesia,Burma,False,2,False,False,30,0.0
+1974-06-02,Tunisia,Iraq,False,1,False,True,20,1.0
+1974-06-03,Burma,Malaysia,True,3,False,True,30,1.0
+1974-06-03,Denmark,Sweden,False,2,False,False,30,0.0
+1974-06-05,Netherlands,Romania,False,0,True,False,20,0.5
+1974-06-05,Yugoslavia,England,False,0,True,False,20,0.5
+1974-06-06,Finland,Denmark,False,0,True,False,30,0.5
+1974-06-06,Norway,Scotland,False,1,False,False,20,0.0
+1974-06-07,Indonesia,Malaysia,False,1,False,True,30,1.0
+1974-06-07,Libya,Iraq,False,1,False,True,20,1.0
+1974-06-08,Austria,Italy,False,0,True,False,20,0.5
+1974-06-09,Korea Republic,Malaysia,True,0,True,False,30,0.5
+1974-06-09,Sweden,Switzerland,False,0,True,False,20,0.5

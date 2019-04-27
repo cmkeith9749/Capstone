@@ -1,0 +1,1696 @@
+date,home,away,neutral,gdf,draw,win,k,result
+1978-06-28,Iceland,Denmark,False,0,True,False,20,0.5
+1978-06-28,Sweden,Finland,False,1,False,True,30,1.0
+1978-07-02,Algeria,Iraq,False,0,True,False,20,0.5
+1978-07-02,Guadeloupe,Jamaica,False,1,False,True,30,1.0
+1978-07-04,Algeria,Iraq,False,0,True,False,20,0.5
+1978-07-06,Malawi,Sierra Leone,False,5,False,True,20,1.0
+1978-07-09,Guyana,Suriname,False,2,False,False,30,0.0
+1978-07-09,Malawi,Sierra Leone,False,2,False,True,20,1.0
+1978-07-12,Malaysia,Korea Republic,False,2,False,False,30,0.0
+1978-07-13,Indonesia,Syria,True,1,False,True,30,1.0
+1978-07-13,Iraq,Japan,True,0,True,False,30,0.5
+1978-07-14,Korea Republic,Thailand,True,3,False,True,30,1.0
+1978-07-15,Indonesia,Japan,True,1,False,True,30,1.0
+1978-07-15,Iraq,Syria,True,1,False,True,30,1.0
+1978-07-16,Korea Republic,Singapore,True,2,False,True,30,1.0
+1978-07-17,Indonesia,Iraq,True,4,False,False,30,0.0
+1978-07-17,Japan,Syria,True,1,False,True,30,1.0
+1978-07-18,Singapore,Thailand,True,1,False,False,30,0.0
+1978-07-19,Japan,Korea Republic,True,4,False,False,30,0.0
+1978-07-20,Iraq,Singapore,True,3,False,True,30,1.0
+1978-07-20,Syria,Thailand,True,2,False,False,30,0.0
+1978-07-22,Indonesia,Thailand,True,3,False,False,30,0.0
+1978-07-22,Iraq,Korea Republic,True,2,False,False,30,0.0
+1978-07-23,Japan,Singapore,True,1,False,False,30,0.0
+1978-07-24,Iraq,Thailand,True,1,False,True,30,1.0
+1978-07-25,Indonesia,Korea Republic,True,2,False,False,30,0.0
+1978-07-25,Singapore,Syria,True,3,False,True,30,1.0
+1978-07-26,Japan,Thailand,True,4,False,True,30,1.0
+1978-07-27,Indonesia,Singapore,True,0,True,False,30,0.5
+1978-07-27,Korea Republic,Syria,True,2,False,True,30,1.0
+1978-07-29,Curaçao,Barbados,True,1,False,True,30,1.0
+1978-07-29,Iraq,Korea Republic,True,2,False,False,30,0.0
+1978-07-30,Grenada,Trinidad and Tobago,False,0,True,False,20,0.5
+1978-07-30,Jamaica,Guadeloupe,False,1,False,False,30,0.0
+1978-07-30,Suriname,Guyana,False,1,False,True,30,1.0
+1978-08-07,Vanuatu,Tahiti,False,2,False,False,20,0.0
+1978-08-09,Finland,Norway,False,0,True,False,30,0.5
+1978-08-13,New Caledonia,Tahiti,False,2,False,True,20,1.0
+1978-08-16,Denmark,Sweden,False,1,False,True,30,1.0
+1978-08-16,São Tomé and Príncipe,Angola,False,0,True,False,20,0.5
+1978-08-20,New Caledonia,Tahiti,False,1,False,False,20,0.0
+1978-08-20,Puerto Rico,Haiti,False,0,True,False,30,0.5
+1978-08-20,Trinidad and Tobago,French Guyana,False,2,False,False,30,0.0
+1978-08-26,Haiti,Puerto Rico,False,1,False,True,30,1.0
+1978-08-30,Finland,Poland,False,1,False,False,20,0.0
+1978-08-30,German DR,Bulgaria,False,0,True,False,20,0.5
+1978-08-30,Norway,Austria,False,2,False,False,40,0.0
+1978-09-01,France,Sweden,False,0,True,False,40,0.5
+1978-09-02,French Guyana,Trinidad and Tobago,False,3,False,False,30,0.0
+1978-09-03,China,Congo,False,1,False,True,20,1.0
+1978-09-03,Iceland,USA,False,0,True,False,20,0.5
+1978-09-06,German DR,Czechoslovakia,False,1,False,True,20,1.0
+1978-09-06,Iceland,Poland,False,2,False,False,40,0.0
+1978-09-06,Iran,Russia,False,1,False,False,20,0.0
+1978-09-06,Swaziland,Zambia,False,5,False,False,20,0.0
+1978-09-06,Switzerland,USA,False,2,False,True,20,1.0
+1978-09-07,Swaziland,Zambia,False,3,False,False,20,0.0
+1978-09-09,Bahrain,Malaysia,True,1,False,False,30,0.0
+1978-09-09,French Guyana,Martinique,False,2,False,True,20,1.0
+1978-09-10,Indonesia,Thailand,True,2,False,False,30,0.0
+1978-09-10,Lebanon,Mexico,True,6,False,False,30,0.0
+1978-09-11,Korea Republic,Malaysia,False,0,True,False,30,0.5
+1978-09-13,Korea Republic,Bahrain,False,2,False,True,30,1.0
+1978-09-16,Haiti,Martinique,False,0,True,False,30,0.5
+1978-09-17,Seychelles,Réunion,False,1,False,True,20,1.0
+1978-09-20,Austria,Scotland,False,1,False,True,40,1.0
+1978-09-20,Belgium,Norway,False,0,True,False,40,0.5
+1978-09-20,Denmark,England,False,1,False,False,40,0.0
+1978-09-20,Finland,Hungary,False,1,False,True,40,1.0
+1978-09-20,Ireland,Northern Ireland,False,0,True,False,40,0.5
+1978-09-20,Italy,Bulgaria,False,1,False,True,20,1.0
+1978-09-20,Libya,Yemen DPR,False,2,False,True,20,1.0
+1978-09-20,Netherlands,Iceland,False,3,False,True,40,1.0
+1978-09-20,Portugal,USA,False,1,False,True,20,1.0
+1978-09-20,Russia,Greece,False,2,False,True,40,1.0
+1978-09-23,Italy,Turkey,False,1,False,True,20,1.0
+1978-09-23,Réunion,Mauritius,False,2,False,False,20,0.0
+1978-09-30,Botswana,Mozambique,False,3,False,False,20,0.0
+1978-09-30,Curaçao,Suriname,True,2,False,False,30,0.0
+1978-10-01,Botswana,Mozambique,False,2,False,False,20,0.0
+1978-10-01,Martinique,Haiti,False,0,True,False,30,0.5
+1978-10-01,Singapore,New Zealand,False,2,False,False,20,0.0
+1978-10-04,German DR,Iceland,False,2,False,True,40,1.0
+1978-10-04,Sweden,Czechoslovakia,False,2,False,False,40,0.0
+1978-10-04,Yugoslavia,Spain,False,1,False,False,40,0.0
+1978-10-05,Turkey,Russia,False,2,False,False,20,0.0
+1978-10-07,Luxembourg,France,False,2,False,False,40,0.0
+1978-10-11,Czechoslovakia,Germany,False,1,False,False,20,0.0
+1978-10-11,Denmark,Bulgaria,False,0,True,False,40,0.5
+1978-10-11,Greece,Finland,False,7,False,True,40,1.0
+1978-10-11,Hungary,Russia,False,2,False,True,40,1.0
+1978-10-11,Portugal,Belgium,False,0,True,False,40,0.5
+1978-10-11,Romania,Poland,False,1,False,True,20,1.0
+1978-10-11,Switzerland,Netherlands,False,2,False,False,40,0.0
+1978-10-13,Suriname,Curaçao,False,3,False,True,30,1.0
+1978-10-15,Tanzania,Kenya,False,1,False,True,20,1.0
+1978-10-20,Kenya,Tanzania,False,0,True,False,20,0.5
+1978-10-22,Haiti,Suriname,True,3,False,False,30,0.0
+1978-10-22,Malawi,Algeria,False,0,True,False,20,0.5
+1978-10-23,Trinidad and Tobago,Antigua and Barbuda,False,2,False,True,30,1.0
+1978-10-24,Malawi,Algeria,False,1,False,True,20,1.0
+1978-10-25,Ireland,England,False,0,True,False,40,0.5
+1978-10-25,Northern Ireland,Denmark,False,1,False,True,40,1.0
+1978-10-25,Romania,Yugoslavia,False,1,False,True,40,1.0
+1978-10-25,Scotland,Norway,False,1,False,True,40,1.0
+1978-10-25,Trinidad and Tobago,Suriname,False,1,False,False,30,0.0
+1978-10-25,Wales,Malta,False,7,False,True,40,1.0
+1978-10-26,Antigua and Barbuda,Haiti,True,1,False,False,30,0.0
+1978-10-28,Antigua and Barbuda,Suriname,True,4,False,False,30,0.0
+1978-10-28,Zambia,Algeria,False,3,False,False,20,0.0
+1978-10-29,Greece,Hungary,False,3,False,True,40,1.0
+1978-10-29,Trinidad and Tobago,Haiti,False,0,True,False,30,0.5
+1978-11-01,Malawi,Kenya,False,1,False,True,30,1.0
+1978-11-03,Malawi,Somalia,False,2,False,True,30,1.0
+1978-11-05,Malawi,Uganda,False,2,False,False,30,0.0
+1978-11-07,Uganda,Zambia,True,1,False,False,30,0.0
+1978-11-08,Czechoslovakia,Italy,False,3,False,True,20,1.0
+1978-11-08,France,Spain,False,1,False,True,20,1.0
+1978-11-09,Kenya,Uganda,True,1,False,False,30,0.0
+1978-11-09,Somalia,Zambia,True,4,False,False,30,0.0
+1978-11-11,Burkina Faso,Mali,False,2,False,True,20,1.0
+1978-11-11,Kenya,Somalia,True,1,False,True,30,1.0
+1978-11-11,Malawi,Zambia,False,1,False,True,30,1.0
+1978-11-13,Kenya,Zambia,True,9,False,False,30,0.0
+1978-11-13,Somalia,Uganda,True,0,True,False,30,0.5
+1978-11-15,Austria,Portugal,False,1,False,False,40,0.0
+1978-11-15,Germany,Hungary,False,0,True,False,20,0.5
+1978-11-15,Israel,Belgium,False,1,False,True,20,1.0
+1978-11-15,Netherlands,German DR,False,3,False,True,40,1.0
+1978-11-15,Poland,Switzerland,False,2,False,True,40,1.0
+1978-11-15,Spain,Romania,False,1,False,True,40,1.0
+1978-11-15,Yugoslavia,Greece,False,3,False,True,30,1.0
+1978-11-17,Algeria,Congo,False,3,False,True,20,1.0
+1978-11-17,Malawi,Kenya,False,2,False,True,30,1.0
+1978-11-17,Uganda,Zambia,True,4,False,False,30,0.0
+1978-11-19,Japan,Russia,False,3,False,False,20,0.0
+1978-11-19,Kenya,Uganda,True,2,False,True,30,1.0
+1978-11-19,Malawi,Zambia,False,1,False,True,30,1.0
+1978-11-23,Japan,Russia,False,3,False,False,20,0.0
+1978-11-25,Grenada,Barbados,False,2,False,True,20,1.0
+1978-11-26,Grenada,Barbados,False,0,True,False,20,0.5
+1978-11-26,Japan,Russia,False,3,False,False,20,0.0
+1978-11-29,Bulgaria,Northern Ireland,False,2,False,False,40,0.0
+1978-11-29,England,Czechoslovakia,False,1,False,True,20,1.0
+1978-11-29,Portugal,Scotland,False,1,False,True,40,1.0
+1978-11-29,Wales,Turkey,False,1,False,True,40,1.0
+1978-12-03,Madagascar,Malawi,False,1,False,True,40,1.0
+1978-12-03,Mauritius,Lesotho,False,1,False,False,40,0.0
+1978-12-12,Antigua and Barbuda,Martinique,False,2,False,False,20,0.0
+1978-12-13,Greece,Romania,False,1,False,True,20,1.0
+1978-12-13,Spain,Cyprus,False,5,False,True,40,1.0
+1978-12-17,Lesotho,Mauritius,False,1,False,False,40,0.0
+1978-12-17,Malawi,Madagascar,False,4,False,True,40,1.0
+1978-12-19,Israel,Romania,False,0,True,False,20,0.5
+1978-12-19,Syria,Tunisia,False,1,False,True,20,1.0
+1978-12-20,Germany,Netherlands,False,2,False,True,20,1.0
+1978-12-21,Italy,Spain,False,1,False,True,20,1.0
+1978-12-25,Korea Republic,Macau,True,3,False,True,40,1.0
+1978-12-25,Philippines,China,False,3,False,False,40,0.0
+1978-12-27,China,Macau,True,1,False,True,40,1.0
+1978-12-27,Philippines,Korea Republic,False,5,False,False,40,0.0
+1978-12-29,Korea Republic,China,True,1,False,True,40,1.0
+1979-01-07,Guinea-Bissau,Cape Verde,False,3,False,True,30,1.0
+1979-01-08,Gambia,Mauritania,True,2,False,True,30,1.0
+1979-01-08,Guinea,Mali,True,1,False,False,30,0.0
+1979-01-09,Cape Verde,Senegal,True,1,False,False,30,0.0
+1979-01-10,Gambia,Mali,True,1,False,False,30,0.0
+1979-01-10,Guinea,Mauritania,True,3,False,True,30,1.0
+1979-01-10,Rwanda,Gabon,False,0,True,False,20,0.5
+1979-01-11,Guinea-Bissau,Senegal,False,2,False,False,30,0.0
+1979-01-12,Gambia,Guinea,True,0,True,False,30,0.5
+1979-01-12,Mali,Mauritania,True,2,False,True,30,1.0
+1979-01-13,Guinea,Senegal,True,2,False,False,30,0.0
+1979-01-13,Guinea-Bissau,Mali,False,0,True,False,30,0.5
+1979-01-14,Guinea-Bissau,Guinea,False,0,True,False,30,0.5
+1979-01-14,Mali,Senegal,True,1,False,False,30,0.0
+1979-01-16,Cyprus,Bulgaria,False,1,False,False,20,0.0
+1979-01-27,Ivory Coast,Togo,True,1,False,False,20,0.0
+1979-01-28,Liberia,Guinea,False,1,False,True,20,1.0
+1979-01-29,Gambia,Ivory Coast,True,1,False,True,20,1.0
+1979-01-30,Guinea,Senegal,True,0,True,False,20,0.5
+1979-01-30,Israel,Austria,False,1,False,False,20,0.0
+1979-01-31,Gambia,Togo,True,0,True,False,20,0.5
+1979-02-01,Liberia,Senegal,False,0,True,False,20,0.5
+1979-02-03,Senegal,Togo,True,1,False,False,20,0.0
+1979-02-04,Liberia,Gambia,False,1,False,True,20,1.0
+1979-02-05,Iraq,Finland,False,1,False,True,20,1.0
+1979-02-07,England,Northern Ireland,False,4,False,True,40,1.0
+1979-02-07,Iraq,Finland,False,2,False,True,20,1.0
+1979-02-07,Libya,Greece,False,0,True,False,20,0.5
+1979-02-09,Bahrain,Finland,False,1,False,False,20,0.0
+1979-02-09,Iraq,German DR,False,0,True,False,20,0.5
+1979-02-11,Iraq,German DR,False,1,False,True,20,1.0
+1979-02-14,Israel,Greece,False,3,False,True,20,1.0
+1979-02-16,Libya,Poland,False,1,False,True,20,1.0
+1979-02-18,Tunisia,Poland,False,2,False,False,20,0.0
+1979-02-24,Italy,Netherlands,False,3,False,True,20,1.0
+1979-02-25,France,Luxembourg,False,3,False,True,40,1.0
+1979-02-25,Malta,Germany,False,0,True,False,40,0.5
+1979-02-28,Bulgaria,German DR,False,1,False,True,20,1.0
+1979-02-28,Turkey,Algeria,False,1,False,False,20,0.0
+1979-03-03,Barbados,Trinidad and Tobago,False,0,True,False,20,0.5
+1979-03-04,Japan,Korea Republic,False,1,False,True,20,1.0
+1979-03-05,Bangladesh,Afghanistan,False,1,False,True,40,1.0
+1979-03-07,Bangladesh,Qatar,False,2,False,False,40,0.0
+1979-03-10,Senegal,Mali,False,1,False,True,20,1.0
+1979-03-14,Czechoslovakia,Spain,False,1,False,True,20,1.0
+1979-03-16,Martinique,Trinidad and Tobago,True,0,True,False,20,0.5
+1979-03-18,Turkey,Malta,False,1,False,True,40,1.0
+1979-03-21,Romania,Greece,False,3,False,True,20,1.0
+1979-03-23,Iraq,Bahrain,False,4,False,True,30,1.0
+1979-03-24,Kuwait,Qatar,True,2,False,True,30,1.0
+1979-03-24,Saudi Arabia,United Arab Emirates,True,1,False,True,30,1.0
+1979-03-25,Mali,Senegal,False,1,False,True,20,1.0
+1979-03-28,Belgium,Austria,False,0,True,False,40,0.5
+1979-03-28,Hungary,German DR,False,3,False,True,20,1.0
+1979-03-28,Netherlands,Switzerland,False,3,False,True,40,1.0
+1979-03-28,Russia,Bulgaria,False,2,False,True,20,1.0
+1979-04-01,Cyprus,Yugoslavia,False,3,False,False,40,0.0
+1979-04-01,Oman,Qatar,True,1,False,False,30,0.0
+1979-04-01,Turkey,Germany,False,0,True,False,40,0.5
+1979-04-03,Barbados,Martinique,False,1,False,False,20,0.0
+1979-04-04,Czechoslovakia,France,False,2,False,True,40,1.0
+1979-04-04,Poland,Hungary,False,0,True,False,20,0.5
+1979-04-04,Romania,Spain,False,0,True,False,40,0.5
+1979-04-06,Iraq,Oman,False,7,False,True,30,1.0
+1979-04-07,Bahrain,Qatar,True,0,True,False,30,0.5
+1979-04-08,Gabon,Ivory Coast,False,1,False,True,20,1.0
+1979-04-08,Iraq,Saudi Arabia,False,2,False,True,30,1.0
+1979-04-09,Bahrain,Kuwait,True,2,False,False,30,0.0
+1979-04-09,Oman,United Arab Emirates,True,4,False,False,30,0.0
+1979-04-15,Benin,Ivory Coast,False,1,False,True,40,1.0
+1979-04-15,Congo,Congo DR,False,2,False,True,40,1.0
+1979-04-15,Guadeloupe,Martinique,False,1,False,False,20,0.0
+1979-04-15,Malawi,Zambia,False,2,False,False,40,0.0
+1979-04-18,German DR,Poland,False,1,False,True,40,1.0
+1979-04-19,Russia,Sweden,False,2,False,True,20,1.0
+1979-04-25,Argentina,Bulgaria,False,1,False,True,20,1.0
+1979-04-25,São Tomé and Príncipe,Angola,False,1,False,False,20,0.0
+1979-04-29,Congo DR,Congo,False,3,False,True,40,1.0
+1979-04-29,Ivory Coast,Benin,False,3,False,True,40,1.0
+1979-04-29,Madagascar,Kenya,False,4,False,True,20,1.0
+1979-04-29,Zambia,Malawi,False,2,False,True,40,1.0
+1979-05-01,Luxembourg,Czechoslovakia,False,3,False,False,40,0.0
+1979-05-02,Austria,Belgium,False,0,True,False,40,0.5
+1979-05-02,Hungary,Greece,False,0,True,False,40,0.5
+1979-05-02,Ireland,Denmark,False,2,False,True,40,1.0
+1979-05-02,Korea DPR,Hong Kong,True,3,False,True,40,1.0
+1979-05-02,Northern Ireland,Bulgaria,False,2,False,True,40,1.0
+1979-05-02,Poland,Netherlands,False,2,False,True,40,1.0
+1979-05-02,USA,France,False,6,False,False,20,0.0
+1979-05-02,Wales,Germany,False,2,False,False,40,0.0
+1979-05-05,Russia,Czechoslovakia,False,3,False,True,20,1.0
+1979-05-05,St. Vincent and the Grenadines,Martinique,False,0,True,False,30,0.5
+1979-05-05,Switzerland,German DR,False,2,False,False,40,0.0
+1979-05-07,Korea DPR,Indonesia,True,2,False,True,40,1.0
+1979-05-09,Denmark,Sweden,False,0,True,False,20,0.5
+1979-05-09,Malaysia,Korea DPR,True,0,True,False,40,0.5
+1979-05-09,Norway,Portugal,False,1,False,False,40,0.0
+1979-05-11,Malaysia,Hong Kong,True,0,True,False,40,0.5
+1979-05-12,Thailand,Korea DPR,False,1,False,False,40,0.0
+1979-05-13,Cyprus,Romania,False,0,True,False,40,0.5
+1979-05-14,Korea DPR,Malaysia,True,1,False,True,40,1.0
+1979-05-17,Brazil,Paraguay,False,6,False,True,20,1.0
+1979-05-19,Bulgaria,Ireland,False,1,False,True,40,1.0
+1979-05-19,Mozambique,Zimbabwe,False,6,False,False,20,0.0
+1979-05-19,Northern Ireland,England,False,2,False,False,30,0.0
+1979-05-19,Russia,Hungary,False,0,True,False,40,0.5
+1979-05-19,Wales,Scotland,False,3,False,True,30,1.0
+1979-05-22,Argentina,Netherlands,True,0,True,False,20,0.5
+1979-05-22,Ireland,Germany,False,2,False,False,20,0.0
+1979-05-22,Scotland,Northern Ireland,False,1,False,True,30,1.0
+1979-05-22,Switzerland,Iceland,False,2,False,True,40,1.0
+1979-05-23,England,Wales,False,0,True,False,30,0.5
+1979-05-24,Martinique,Trinidad and Tobago,False,2,False,True,20,1.0
+1979-05-26,England,Scotland,False,2,False,True,30,1.0
+1979-05-26,Iceland,Germany,False,2,False,False,20,0.0
+1979-05-26,Italy,Argentina,False,0,True,False,20,0.5
+1979-05-26,Northern Ireland,Wales,False,0,True,False,30,0.5
+1979-05-29,Ireland,Argentina,False,0,True,False,20,0.5
+1979-05-31,Brazil,Uruguay,False,4,False,True,20,1.0
+1979-05-31,Japan,Indonesia,False,4,False,True,30,1.0
+1979-06-01,German DR,Romania,False,1,False,True,20,1.0
+1979-06-02,Malta,Wales,False,2,False,False,40,0.0
+1979-06-02,Scotland,Argentina,False,2,False,False,20,0.0
+1979-06-03,Benin,Togo,False,1,False,False,20,0.0
+1979-06-03,Jamaica,St. Kitts and Nevis,False,1,False,True,30,1.0
+1979-06-06,Bulgaria,England,False,3,False,False,40,0.0
+1979-06-06,Denmark,Northern Ireland,False,4,False,True,40,1.0
+1979-06-07,Norway,Scotland,False,4,False,False,40,0.0
+1979-06-07,Sweden,Luxembourg,False,3,False,True,40,1.0
+1979-06-09,Iceland,Switzerland,False,1,False,False,40,0.0
+1979-06-09,Martinique,St. Vincent and the Grenadines,False,1,False,False,30,0.0
+1979-06-10,Sweden,England,False,0,True,False,20,0.5
+1979-06-13,Austria,England,False,1,False,True,20,1.0
+1979-06-13,Chile,Ecuador,False,0,True,False,20,0.5
+1979-06-13,New Zealand,Australia,False,1,False,True,20,1.0
+1979-06-13,Yugoslavia,Italy,False,3,False,True,20,1.0
+1979-06-16,Korea Republic,Japan,False,3,False,True,20,1.0
+1979-06-17,St. Kitts and Nevis,Jamaica,False,1,False,False,30,0.0
+1979-06-21,Ecuador,Chile,False,1,False,True,20,1.0
+1979-06-24,Ghana,Liberia,False,0,True,False,20,0.5
+1979-06-24,Malawi,Lesotho,False,1,False,True,20,1.0
+1979-06-24,Zambia,Congo DR,False,3,False,True,20,1.0
+1979-06-26,Malawi,Lesotho,False,1,False,False,20,0.0
+1979-06-27,Denmark,Russia,False,1,False,False,20,0.0
+1979-06-28,Sweden,Norway,False,2,False,True,30,1.0
+1979-06-29,Fiji,New Zealand,False,6,False,False,20,0.0
+1979-06-29,Japan,Thailand,True,2,False,True,30,1.0
+1979-06-29,Malaysia,Burma,False,3,False,True,30,1.0
+1979-06-29,Sudan,Ivory Coast,False,2,False,True,40,1.0
+1979-06-30,Congo DR,Zambia,False,1,False,False,20,0.0
+1979-06-30,Indonesia,Singapore,True,0,True,False,30,0.5
+1979-07-01,Burma,Japan,True,1,False,False,30,0.0
+1979-07-01,Fiji,New Zealand,False,3,False,False,20,0.0
+1979-07-03,Burma,Thailand,True,2,False,True,30,1.0
+1979-07-04,Finland,Russia,False,0,True,False,40,0.5
+1979-07-05,Singapore,Thailand,True,0,True,False,30,0.5
+1979-07-06,Ivory Coast,Sudan,False,4,False,True,40,1.0
+1979-07-06,Malawi,Kenya,False,1,False,True,20,1.0
+1979-07-08,Congo DR,Togo,False,3,False,True,20,1.0
+1979-07-08,Indonesia,Thailand,True,1,False,True,30,1.0
+1979-07-08,Malawi,Kenya,False,0,True,False,20,0.5
+1979-07-10,Bolivia,Paraguay,False,2,False,True,30,1.0
+1979-07-11,Burma,Singapore,True,3,False,True,30,1.0
+1979-07-11,Chile,Uruguay,False,1,False,True,30,1.0
+1979-07-11,Indonesia,Japan,True,0,True,False,30,0.5
+1979-07-11,Peru,Ecuador,False,1,False,True,20,1.0
+1979-07-12,Bolivia,Paraguay,False,0,True,False,20,0.5
+1979-07-13,Burma,Indonesia,True,4,False,True,30,1.0
+1979-07-13,Japan,Singapore,True,2,False,True,30,1.0
+1979-07-15,Kenya,Congo DR,False,0,True,False,20,0.5
+1979-07-15,Malawi,Tanzania,False,2,False,True,20,1.0
+1979-07-17,Malawi,Tanzania,False,2,False,True,20,1.0
+1979-07-18,Bolivia,Argentina,False,1,False,True,50,1.0
+1979-07-18,Peru,Colombia,False,1,False,False,20,0.0
+1979-07-18,Uruguay,Chile,False,1,False,True,30,1.0
+1979-07-19,Malawi,Tanzania,False,1,False,False,20,0.0
+1979-07-20,Kyrgyzstan,Lithuania,True,0,True,False,20,0.5
+1979-07-21,Belarus,Armenia,False,3,False,True,20,1.0
+1979-07-22,Georgia,Lithuania,True,5,False,True,20,1.0
+1979-07-22,Grenada,Trinidad and Tobago,False,1,False,False,30,0.0
+1979-07-23,Belarus,Latvia,False,1,False,True,20,1.0
+1979-07-24,Azerbaijan,Lithuania,True,1,False,False,20,0.0
+1979-07-25,Belarus,Russia,False,1,False,False,20,0.0
+1979-07-25,Benin,Congo DR,False,1,False,False,20,0.0
+1979-07-25,Colombia,Peru,False,1,False,False,20,0.0
+1979-07-26,Bolivia,Brazil,False,1,False,True,50,1.0
+1979-07-26,Liberia,Ghana,False,2,False,True,20,1.0
+1979-07-28,Benin,Congo DR,False,3,False,False,20,0.0
+1979-07-28,Lithuania,Ukraine,True,2,False,False,20,0.0
+1979-07-28,Russia,Belarus,False,0,True,False,20,0.5
+1979-07-29,Madagascar,Tanzania,False,2,False,False,20,0.0
+1979-07-30,Belarus,Ukraine,True,0,True,False,20,0.5
+1979-07-30,Russia,Lithuania,False,2,False,True,20,1.0
+1979-08-01,Belarus,Lithuania,True,2,False,False,20,0.0
+1979-08-01,Madagascar,Tanzania,False,1,False,True,20,1.0
+1979-08-01,Paraguay,Bolivia,False,2,False,True,30,1.0
+1979-08-01,Venezuela,Colombia,False,0,True,False,50,0.5
+1979-08-02,Brazil,Argentina,False,1,False,True,50,1.0
+1979-08-04,Belarus,Kazakhstan,True,1,False,False,20,0.0
+1979-08-04,Trinidad and Tobago,Grenada,False,1,False,True,30,1.0
+1979-08-05,Congo DR,Guinea,False,1,False,True,40,1.0
+1979-08-05,Russia,Lithuania,False,1,False,True,20,1.0
+1979-08-08,Argentina,Bolivia,False,3,False,True,50,1.0
+1979-08-08,Ecuador,Peru,False,1,False,True,20,1.0
+1979-08-08,Venezuela,Chile,False,0,True,False,50,0.5
+1979-08-15,Colombia,Chile,False,1,False,True,50,1.0
+1979-08-15,Norway,Sweden,False,2,False,True,30,1.0
+1979-08-16,Brazil,Bolivia,False,2,False,True,50,1.0
+1979-08-19,Guinea,Congo DR,False,2,False,True,40,1.0
+1979-08-19,Poland,Libya,False,5,False,True,20,1.0
+1979-08-22,Colombia,Venezuela,False,4,False,True,50,1.0
+1979-08-23,Argentina,Brazil,False,0,True,False,50,0.5
+1979-08-23,Korea DPR,Japan,False,0,True,False,20,0.5
+1979-08-25,Lesotho,Malawi,False,3,False,False,20,0.0
+1979-08-28,Tunisia,Malta,False,4,False,True,20,1.0
+1979-08-29,Austria,Norway,False,4,False,True,40,1.0
+1979-08-29,Chile,Venezuela,False,7,False,True,50,1.0
+1979-08-29,Ecuador,Paraguay,False,1,False,False,50,0.0
+1979-08-29,Finland,Denmark,False,0,True,False,30,0.5
+1979-08-29,Guam,Vanuatu,True,4,False,False,30,0.0
+1979-08-29,Poland,Romania,False,3,False,True,20,1.0
+1979-08-29,Solomon Islands,Wallis Islands and Futuna,True,6,False,True,30,1.0
+1979-08-29,Tahiti,Tonga,True,8,False,True,30,1.0
+1979-08-30,Fiji,Kiribati,False,24,False,True,30,1.0
+1979-08-30,Guam,New Caledonia,True,9,False,False,30,0.0
+1979-08-30,Peru,Uruguay,False,2,False,True,20,1.0
+1979-08-30,Tahiti,Tuvalu,True,18,False,True,30,1.0
+1979-08-31,Kiribati,Papua New Guinea,True,13,False,False,30,0.0
+1979-09-01,Tonga,Tuvalu,True,2,False,False,30,0.0
+1979-09-01,Wallis Islands and Futuna,Samoa,True,2,False,True,30,1.0
+1979-09-03,Fiji,Wallis Islands and Futuna,False,5,False,True,30,1.0
+1979-09-03,Libya,Palestine,False,0,True,False,20,0.5
+1979-09-03,New Caledonia,Tuvalu,True,11,False,True,30,1.0
+1979-09-03,Papua New Guinea,Solomon Islands,True,1,False,False,30,0.0
+1979-09-04,New Caledonia,Tahiti,True,1,False,False,30,0.0
+1979-09-05,Chile,Colombia,False,2,False,True,50,1.0
+1979-09-05,Ecuador,Uruguay,False,1,False,True,50,1.0
+1979-09-05,Guam,Samoa,True,2,False,True,30,1.0
+1979-09-05,Iceland,Netherlands,False,4,False,False,40,0.0
+1979-09-05,Kiribati,Tuvalu,True,0,True,False,30,0.5
+1979-09-05,Russia,German DR,False,1,False,True,20,1.0
+1979-09-05,Sweden,France,False,2,False,False,40,0.0
+1979-09-05,Tonga,Wallis Islands and Futuna,True,1,False,True,30,1.0
+1979-09-05,Vanuatu,Papua New Guinea,True,2,False,True,30,1.0
+1979-09-06,Guam,Tuvalu,True,5,False,True,30,1.0
+1979-09-06,Vanuatu,Tonga,True,6,False,True,30,1.0
+1979-09-07,New Caledonia,Solomon Islands,True,2,False,False,30,0.0
+1979-09-08,Korea Republic,Sudan,False,8,False,True,30,1.0
+1979-09-09,Indonesia,Thailand,True,2,False,False,30,0.0
+1979-09-10,Bangladesh,Sudan,True,3,False,False,30,0.0
+1979-09-11,Wales,Ireland,False,1,False,True,20,1.0
+1979-09-12,England,Denmark,False,1,False,True,40,1.0
+1979-09-12,Germany,Argentina,False,1,False,True,20,1.0
+1979-09-12,Greece,Russia,False,1,False,True,40,1.0
+1979-09-12,Hungary,Czechoslovakia,False,1,False,True,20,1.0
+1979-09-12,Iceland,German DR,False,3,False,False,40,0.0
+1979-09-12,Korea Republic,Sri Lanka,False,6,False,True,30,1.0
+1979-09-12,Norway,Belgium,False,1,False,False,40,0.0
+1979-09-12,Scotland,Peru,False,0,True,False,20,0.5
+1979-09-12,Switzerland,Poland,False,2,False,False,40,0.0
+1979-09-13,Paraguay,Ecuador,False,2,False,True,50,1.0
+1979-09-14,Korea Republic,Bahrain,False,4,False,True,30,1.0
+1979-09-16,Korea Republic,Bangladesh,False,9,False,True,30,1.0
+1979-09-16,Sri Lanka,Sudan,True,1,False,False,30,0.0
+1979-09-16,Uruguay,Ecuador,False,1,False,True,50,1.0
+1979-09-16,Yugoslavia,Argentina,False,2,False,True,20,1.0
+1979-09-20,Paraguay,Uruguay,False,0,True,False,50,0.5
+1979-09-26,Austria,Hungary,False,2,False,True,20,1.0
+1979-09-26,Czechoslovakia,Ireland,False,3,False,True,20,1.0
+1979-09-26,Denmark,Finland,False,1,False,True,30,1.0
+1979-09-26,Italy,Sweden,False,1,False,True,20,1.0
+1979-09-26,Netherlands,Belgium,False,1,False,True,20,1.0
+1979-09-26,Poland,German DR,False,0,True,False,40,0.5
+1979-09-26,Spain,Portugal,False,0,True,False,20,0.5
+1979-09-26,Uruguay,Paraguay,False,0,True,False,50,0.5
+1979-09-29,Haiti,Antigua and Barbuda,False,1,False,True,30,1.0
+1979-09-29,Senegal,Nigeria,False,2,False,False,20,0.0
+1979-09-29,Sierra Leone,Gambia,False,2,False,True,20,1.0
+1979-10-03,Bahrain,New Zealand,False,2,False,False,20,0.0
+1979-10-07,Bermuda,USA,False,2,False,False,20,0.0
+1979-10-08,Bahrain,New Zealand,False,1,False,False,20,0.0
+1979-10-10,Czechoslovakia,Sweden,False,3,False,True,40,1.0
+1979-10-10,France,USA,False,3,False,True,20,1.0
+1979-10-10,Peru,Paraguay,False,1,False,False,20,0.0
+1979-10-10,Poland,Iceland,False,2,False,True,40,1.0
+1979-10-10,Spain,Yugoslavia,False,1,False,False,40,0.0
+1979-10-13,German DR,Switzerland,False,3,False,True,40,1.0
+1979-10-14,Benin,Nigeria,False,0,True,False,20,0.5
+1979-10-14,Russia,Romania,False,2,False,True,20,1.0
+1979-10-15,Antigua and Barbuda,Haiti,False,1,False,False,30,0.0
+1979-10-17,Belgium,Portugal,False,2,False,True,40,1.0
+1979-10-17,Germany,Wales,False,4,False,True,40,1.0
+1979-10-17,Hungary,Finland,False,2,False,True,40,1.0
+1979-10-17,Ireland,Bulgaria,False,3,False,True,40,1.0
+1979-10-17,Netherlands,Poland,False,0,True,False,40,0.5
+1979-10-17,Northern Ireland,England,False,4,False,False,40,0.0
+1979-10-17,Peru,Chile,False,1,False,False,50,0.0
+1979-10-17,Scotland,Austria,False,0,True,False,40,0.5
+1979-10-21,Benin,Burkina Faso,True,1,False,True,20,1.0
+1979-10-21,Ivory Coast,Togo,False,3,False,True,20,1.0
+1979-10-21,United Arab Emirates,India,False,0,True,False,20,0.5
+1979-10-22,Guadeloupe,St. Vincent and the Grenadines,False,2,False,False,30,0.0
+1979-10-22,St. Vincent and the Grenadines,Guadeloupe,False,0,True,False,30,0.5
+1979-10-23,Luxembourg,Sweden,False,0,True,False,40,0.5
+1979-10-23,Togo,Burkina Faso,True,2,False,True,20,1.0
+1979-10-24,Chile,Peru,False,0,True,False,50,0.5
+1979-10-24,Paraguay,Brazil,False,1,False,True,50,1.0
+1979-10-25,Liberia,Nigeria,False,0,True,False,20,0.5
+1979-10-26,Hungary,USA,False,2,False,False,20,0.0
+1979-10-26,Ivory Coast,Benin,False,2,False,True,20,1.0
+1979-10-26,Niger,Togo,True,0,True,False,20,0.5
+1979-10-27,Sierra Leone,Nigeria,False,0,True,False,20,0.5
+1979-10-28,Benin,Niger,True,1,False,False,20,0.0
+1979-10-28,Haiti,Jamaica,False,3,False,True,30,1.0
+1979-10-28,Ivory Coast,Togo,False,1,False,False,20,0.0
+1979-10-28,Malta,Turkey,False,1,False,False,40,0.0
+1979-10-29,Ireland,USA,False,1,False,True,20,1.0
+1979-10-31,Brazil,Paraguay,False,0,True,False,50,0.5
+1979-10-31,Bulgaria,Denmark,False,3,False,True,40,1.0
+1979-10-31,Russia,Finland,False,0,True,False,40,0.5
+1979-10-31,Yugoslavia,Romania,False,1,False,True,40,1.0
+1979-11-01,Mexico,Peru,False,1,False,True,20,1.0
+1979-11-01,Portugal,Norway,False,2,False,True,40,1.0
+1979-11-02,Jamaica,Haiti,False,4,False,False,30,0.0
+1979-11-03,Kenya,Tanzania,False,0,True,False,30,0.5
+1979-11-03,Sierra Leone,Senegal,False,1,False,True,20,1.0
+1979-11-04,Malawi,Zanzibar,True,4,False,True,30,1.0
+1979-11-04,Nigeria,Benin,False,5,False,True,20,1.0
+1979-11-04,Uganda,Zambia,True,1,False,False,30,0.0
+1979-11-06,Tanzania,Zambia,True,0,True,False,30,0.5
+1979-11-07,Kenya,Uganda,False,2,False,True,30,1.0
+1979-11-07,Malawi,Sudan,True,4,False,True,30,1.0
+1979-11-09,Sudan,Zanzibar,True,0,True,False,30,0.5
+1979-11-09,Tanzania,Uganda,True,2,False,True,30,1.0
+1979-11-10,Kenya,Zambia,False,2,False,True,30,1.0
+1979-11-11,Haiti,Trinidad and Tobago,True,1,False,True,30,1.0
+1979-11-12,Suriname,St. Vincent and the Grenadines,False,1,False,False,30,0.0
+1979-11-13,Malawi,Tanzania,True,0,True,False,30,0.5
+1979-11-14,Haiti,St. Vincent and the Grenadines,True,2,False,True,30,1.0
+1979-11-14,Kenya,Zanzibar,False,2,False,True,30,1.0
+1979-11-14,Malawi,Tanzania,True,4,False,True,30,1.0
+1979-11-14,Malaysia,Sweden,False,2,False,False,20,0.0
+1979-11-14,Spain,Denmark,False,2,False,False,20,0.0
+1979-11-14,Yugoslavia,Cyprus,False,5,False,True,40,1.0
+1979-11-15,Suriname,Trinidad and Tobago,False,3,False,True,30,1.0
+1979-11-16,Tanzania,Zanzibar,True,1,False,True,30,1.0
+1979-11-17,France,Czechoslovakia,False,1,False,True,40,1.0
+1979-11-17,Italy,Switzerland,False,2,False,True,20,1.0
+1979-11-17,Kenya,Malawi,False,1,False,False,30,0.0
+1979-11-17,Singapore,Sweden,False,5,False,False,20,0.0
+1979-11-18,Romania,Cyprus,False,2,False,True,40,1.0
+1979-11-18,Suriname,Haiti,False,1,False,False,30,0.0
+1979-11-21,Belgium,Scotland,False,2,False,True,40,1.0
+1979-11-21,German DR,Netherlands,False,1,False,False,40,0.0
+1979-11-21,Malaysia,Taiwan,True,3,False,False,20,0.0
+1979-11-21,Northern Ireland,Ireland,False,1,False,True,40,1.0
+1979-11-21,Portugal,Austria,False,1,False,False,40,0.0
+1979-11-21,Russia,Germany,False,2,False,False,20,0.0
+1979-11-21,Turkey,Wales,False,1,False,True,40,1.0
+1979-11-22,England,Bulgaria,False,2,False,True,40,1.0
+1979-11-22,Thailand,Sri Lanka,False,4,False,True,30,1.0
+1979-11-24,Czechoslovakia,Luxembourg,False,4,False,True,40,1.0
+1979-11-24,Thailand,Indonesia,False,3,False,True,30,1.0
+1979-11-25,Angola,Gabon,False,1,False,True,20,1.0
+1979-11-26,Bermuda,Finland,False,2,False,False,20,0.0
+1979-11-26,Indonesia,Sri Lanka,True,0,True,False,30,0.5
+1979-11-27,Angola,Cameroon,False,1,False,False,20,0.0
+1979-11-28,Cameroon,Congo,True,2,False,False,20,0.0
+1979-11-28,Paraguay,Chile,False,3,False,True,50,1.0
+1979-11-29,Angola,Congo,False,1,False,False,20,0.0
+1979-11-29,Cameroon,Gabon,True,2,False,True,20,1.0
+1979-12-04,El Salvador,Mexico,False,2,False,False,20,0.0
+1979-12-05,Chile,Paraguay,False,1,False,True,50,1.0
+1979-12-09,Cyprus,Spain,False,2,False,False,40,0.0
+1979-12-11,Chile,Paraguay,True,0,True,False,50,0.5
+1979-12-18,Mexico,El Salvador,False,0,True,False,20,0.5
+1979-12-19,Scotland,Belgium,False,2,False,False,40,0.0
+1979-12-22,Germany,Turkey,False,2,False,True,40,1.0
+1979-12-26,Tunisia,Senegal,False,2,False,True,20,1.0
+1980-01-06,Sierra Leone,Ghana,False,2,False,False,20,0.0
+1980-01-16,Cyprus,Greece,False,0,True,False,20,0.5
+1980-01-19,Congo,Ivory Coast,False,2,False,True,20,1.0
+1980-01-20,Congo,Ivory Coast,False,2,False,False,20,0.0
+1980-01-23,Spain,Netherlands,False,1,False,True,20,1.0
+1980-01-26,Nigeria,Liberia,False,1,False,True,20,1.0
+1980-01-27,Australia,Czechoslovakia,False,4,False,False,20,0.0
+1980-01-27,Cameroon,Ivory Coast,False,0,True,False,20,0.5
+1980-01-27,Ghana,Tunisia,False,3,False,True,20,1.0
+1980-01-30,Ivory Coast,Tunisia,False,0,True,False,20,0.5
+1980-01-30,Saudi Arabia,Korea Republic,False,2,False,False,20,0.0
+1980-02-01,Congo,Gabon,False,3,False,True,20,1.0
+1980-02-01,Saudi Arabia,Korea Republic,False,0,True,False,20,0.5
+1980-02-02,Nigeria,Cameroon,False,0,True,False,20,0.5
+1980-02-03,Australia,Czechoslovakia,False,5,False,False,20,0.0
+1980-02-06,England,Ireland,False,2,False,True,40,1.0
+1980-02-09,Australia,Czechoslovakia,False,0,True,False,20,0.5
+1980-02-09,Gambia,Guinea-Bissau,False,2,False,True,30,1.0
+1980-02-10,Mali,Senegal,True,1,False,True,30,1.0
+1980-02-11,Guinea-Bissau,Guinea,True,1,False,False,30,0.0
+1980-02-12,Ivory Coast,Morocco,False,0,True,False,20,0.5
+1980-02-12,Mali,Mauritania,True,1,False,False,30,0.0
+1980-02-13,Gambia,Guinea,False,0,True,False,30,0.5
+1980-02-13,Spain,German DR,False,1,False,False,20,0.0
+1980-02-14,Mauritania,Senegal,True,1,False,False,30,0.0
+1980-02-16,Gambia,Mauritania,False,0,True,False,30,0.5
+1980-02-16,Guinea,Senegal,True,1,False,False,30,0.0
+1980-02-16,Italy,Romania,False,1,False,True,20,1.0
+1980-02-17,Guinea-Bissau,Mali,True,2,False,False,30,0.0
+1980-02-17,Morocco,Poland,False,1,False,True,20,1.0
+1980-02-18,Gambia,Senegal,False,1,False,False,30,0.0
+1980-02-19,Fiji,New Zealand,False,0,True,False,20,0.5
+1980-02-21,Fiji,New Zealand,False,2,False,False,20,0.0
+1980-02-24,New Caledonia,Australia,False,8,False,False,30,0.0
+1980-02-24,Vanuatu,Papua New Guinea,True,1,False,False,30,0.0
+1980-02-25,Fiji,Solomon Islands,True,2,False,True,30,1.0
+1980-02-25,Morocco,Senegal,False,1,False,True,20,1.0
+1980-02-25,New Zealand,Tahiti,True,2,False,False,30,0.0
+1980-02-26,Australia,Papua New Guinea,True,9,False,True,30,1.0
+1980-02-26,Mexico,Korea Republic,True,1,False,False,20,0.0
+1980-02-26,New Caledonia,Vanuatu,False,1,False,True,30,1.0
+1980-02-27,Belgium,Luxembourg,False,5,False,True,20,1.0
+1980-02-27,Fiji,New Zealand,True,4,False,True,30,1.0
+1980-02-27,France,Greece,False,4,False,True,20,1.0
+1980-02-27,Germany,Malta,False,8,False,True,40,1.0
+1980-02-27,Iraq,Poland,False,0,True,False,20,0.5
+1980-02-27,Morocco,Tunisia,False,0,True,False,20,0.5
+1980-02-27,Solomon Islands,Tahiti,True,11,False,False,30,0.0
+1980-02-28,Australia,Vanuatu,True,1,False,True,30,1.0
+1980-02-28,New Caledonia,Papua New Guinea,False,8,False,True,30,1.0
+1980-02-29,Fiji,Tahiti,True,3,False,False,30,0.0
+1980-02-29,Iraq,Poland,False,1,False,True,20,1.0
+1980-02-29,New Zealand,Solomon Islands,True,5,False,True,30,1.0
+1980-03-01,Australia,Tahiti,True,2,False,True,30,1.0
+1980-03-01,New Caledonia,Fiji,False,1,False,True,30,1.0
+1980-03-04,Sierra Leone,Guinea,False,1,False,True,20,1.0
+1980-03-06,Honduras,Costa Rica,False,0,True,False,20,0.5
+1980-03-08,Egypt,Ivory Coast,True,1,False,True,50,1.0
+1980-03-08,Kuwait,Bulgaria,False,0,True,False,20,0.5
+1980-03-08,Nigeria,Tanzania,False,2,False,True,50,1.0
+1980-03-09,Algeria,Ghana,True,0,True,False,50,0.5
+1980-03-09,Guinea,Morocco,True,0,True,False,50,0.5
+1980-03-12,Egypt,Tanzania,True,1,False,True,50,1.0
+1980-03-12,Malaysia,Saudi Arabia,False,3,False,True,20,1.0
+1980-03-12,Nigeria,Ivory Coast,False,0,True,False,50,0.5
+1980-03-13,Algeria,Morocco,True,1,False,True,50,1.0
+1980-03-13,Ghana,Guinea,True,1,False,True,50,1.0
+1980-03-15,Italy,Uruguay,False,1,False,True,20,1.0
+1980-03-15,Ivory Coast,Tanzania,True,0,True,False,50,0.5
+1980-03-15,Nigeria,Egypt,False,1,False,True,50,1.0
+1980-03-16,Algeria,Guinea,True,1,False,True,50,1.0
+1980-03-16,Ghana,Morocco,True,1,False,False,50,0.0
+1980-03-16,Malaysia,China,False,2,False,True,20,1.0
+1980-03-18,Belgium,Uruguay,False,2,False,True,20,1.0
+1980-03-18,Honduras,Mexico,False,1,False,False,20,0.0
+1980-03-19,Algeria,Egypt,True,0,True,False,50,0.5
+1980-03-19,Nigeria,Morocco,False,1,False,True,50,1.0
+1980-03-20,Tahiti,Vanuatu,False,1,False,True,20,1.0
+1980-03-21,Egypt,Morocco,True,2,False,False,50,0.0
+1980-03-22,Nigeria,Algeria,False,3,False,True,50,1.0
+1980-03-22,Yugoslavia,Uruguay,False,1,False,True,20,1.0
+1980-03-26,Bulgaria,Russia,False,2,False,False,20,0.0
+1980-03-26,Cyprus,Ireland,False,1,False,False,40,0.0
+1980-03-26,France,Netherlands,False,0,True,False,20,0.5
+1980-03-26,Hungary,Poland,False,1,False,True,20,1.0
+1980-03-26,Israel,Northern Ireland,False,0,True,False,40,0.5
+1980-03-26,Luxembourg,Uruguay,False,1,False,False,20,0.0
+1980-03-26,Scotland,Portugal,False,3,False,True,40,1.0
+1980-03-26,Spain,England,False,2,False,False,20,0.0
+1980-03-26,Switzerland,Czechoslovakia,False,2,False,True,20,1.0
+1980-03-30,Guyana,Grenada,False,3,False,True,40,1.0
+1980-03-30,Yugoslavia,Romania,False,2,False,True,30,1.0
+1980-04-01,Switzerland,Greece,False,2,False,True,20,1.0
+1980-04-02,Belgium,Poland,False,1,False,True,20,1.0
+1980-04-02,Germany,Austria,False,1,False,True,20,1.0
+1980-04-02,Romania,German DR,False,0,True,False,20,0.5
+1980-04-05,Senegal,Tunisia,False,2,False,False,20,0.0
+1980-04-06,Ivory Coast,Gabon,False,3,False,True,20,1.0
+1980-04-08,Mexico,Honduras,False,5,False,True,20,1.0
+1980-04-13,Grenada,Guyana,False,1,False,False,40,0.0
+1980-04-15,Guatemala,Mexico,False,2,False,False,20,0.0
+1980-04-16,Costa Rica,Honduras,False,0,True,False,20,0.5
+1980-04-16,German DR,Greece,False,2,False,True,20,1.0
+1980-04-16,Spain,Czechoslovakia,False,0,True,False,20,0.5
+1980-04-19,Italy,Poland,False,0,True,False,20,0.5
+1980-04-20,Tanzania,Zambia,True,2,False,False,20,0.0
+1980-04-20,Zimbabwe,Mozambique,False,6,False,True,20,1.0
+1980-04-21,Mozambique,Tanzania,True,2,False,False,20,0.0
+1980-04-21,Zimbabwe,Zambia,False,1,False,True,20,1.0
+1980-04-26,Yugoslavia,Poland,False,1,False,True,20,1.0
+1980-04-27,Malta,Libya,False,3,False,False,20,0.0
+1980-04-29,Mexico,Guatemala,False,0,True,False,20,0.5
+1980-04-29,Sweden,Russia,False,4,False,False,20,0.0
+1980-04-30,Czechoslovakia,Hungary,False,1,False,True,20,1.0
+1980-04-30,Ireland,Switzerland,False,2,False,True,20,1.0
+1980-04-30,Romania,Czechoslovakia,False,2,False,True,20,1.0
+1980-05-01,Senegal,Guinea,False,1,False,True,20,1.0
+1980-05-01,Thailand,Luxembourg,True,1,False,False,20,0.0
+1980-05-04,Zambia,Malawi,False,0,True,False,20,0.5
+1980-05-07,Sweden,Denmark,False,1,False,False,30,0.0
+1980-05-08,Libya,Gambia,False,1,False,True,40,1.0
+1980-05-09,Korea Republic,Luxembourg,True,1,False,False,20,0.0
+1980-05-09,Martinique,Guadeloupe,False,1,False,True,20,1.0
+1980-05-09,Panama,El Salvador,False,0,True,False,20,0.5
+1980-05-11,Japan,Luxembourg,True,1,False,True,20,1.0
+1980-05-13,Burma,Luxembourg,True,2,False,True,20,1.0
+1980-05-13,England,Argentina,False,2,False,True,20,1.0
+1980-05-13,Germany,Poland,False,2,False,True,20,1.0
+1980-05-13,Haiti,El Salvador,False,2,False,True,20,1.0
+1980-05-14,Greece,Bulgaria,False,0,True,False,20,0.5
+1980-05-14,Korea Republic,Luxembourg,True,3,False,True,20,1.0
+1980-05-16,Ireland,Argentina,False,1,False,False,20,0.0
+1980-05-16,Northern Ireland,Scotland,False,1,False,True,30,1.0
+1980-05-17,Wales,England,False,3,False,True,30,1.0
+1980-05-18,Ethiopia,Zambia,False,0,True,False,40,0.5
+1980-05-20,England,Northern Ireland,False,0,True,False,30,0.5
+1980-05-20,Guatemala,Costa Rica,False,0,True,False,20,0.5
+1980-05-21,Austria,Argentina,False,4,False,False,20,0.0
+1980-05-21,Denmark,Spain,False,0,True,False,20,0.5
+1980-05-21,Scotland,Wales,False,1,False,True,30,1.0
+1980-05-22,Finland,Sweden,False,2,False,False,30,0.0
+1980-05-22,Norway,Bulgaria,False,1,False,True,20,1.0
+1980-05-23,Russia,France,False,1,False,True,20,1.0
+1980-05-23,Wales,Northern Ireland,False,1,False,False,30,0.0
+1980-05-24,Scotland,England,False,2,False,False,30,0.0
+1980-05-28,Poland,Scotland,False,1,False,True,20,1.0
+1980-05-29,Costa Rica,Guatemala,False,1,False,True,20,1.0
+1980-05-31,Australia,England,False,1,False,False,20,0.0
+1980-05-31,Hungary,Scotland,False,2,False,True,20,1.0
+1980-05-31,Sierra Leone,Algeria,False,0,True,False,40,0.5
+1980-06-01,Macau,Hong Kong,False,2,False,False,20,0.0
+1980-06-01,Zambia,Ethiopia,False,4,False,True,40,1.0
+1980-06-02,Iceland,Wales,False,4,False,False,40,0.0
+1980-06-04,Denmark,Norway,False,2,False,True,30,1.0
+1980-06-04,El Salvador,Haiti,False,3,False,True,20,1.0
+1980-06-04,Finland,Bulgaria,False,2,False,False,40,0.0
+1980-06-04,Hungary,Austria,False,0,True,False,20,0.5
+1980-06-06,Belgium,Romania,False,1,False,True,20,1.0
+1980-06-06,Honduras,Haiti,False,2,False,True,20,1.0
+1980-06-07,Zambia,Zimbabwe,False,1,False,True,20,1.0
+1980-06-08,Brazil,Mexico,False,2,False,True,20,1.0
+1980-06-08,Tunisia,Morocco,False,1,False,False,20,0.0
+1980-06-08,Zambia,Zimbabwe,False,2,False,False,20,0.0
+1980-06-09,Hong Kong,Japan,True,2,False,False,20,0.0
+1980-06-10,Honduras,Haiti,False,1,False,True,20,1.0
+1980-06-11,China,Japan,False,1,False,True,20,1.0
+1980-06-11,Czechoslovakia,Germany,True,1,False,False,50,0.0
+1980-06-11,Netherlands,Greece,True,1,False,True,50,1.0
+1980-06-12,Belgium,England,True,0,True,False,50,0.5
+1980-06-12,Guatemala,Haiti,False,1,False,False,20,0.0
+1980-06-12,Italy,Spain,False,0,True,False,50,0.5
+1980-06-13,Algeria,Sierra Leone,False,2,False,True,40,1.0
+1980-06-13,China,Hong Kong,False,7,False,True,20,1.0
+1980-06-13,Honduras,Panama,False,0,True,False,20,0.5
+1980-06-13,Togo,Nigeria,False,1,False,False,20,0.0
+1980-06-14,Germany,Netherlands,True,1,False,True,50,1.0
+1980-06-14,Greece,Czechoslovakia,True,2,False,False,50,0.0
+1980-06-15,Australia,Northern Ireland,False,0,True,False,20,0.5
+1980-06-15,Belgium,Spain,True,1,False,True,50,1.0
+1980-06-15,Brazil,Russia,False,1,False,False,20,0.0
+1980-06-15,Honduras,Panama,False,2,False,True,20,1.0
+1980-06-15,Italy,England,False,1,False,True,50,1.0
+1980-06-15,Malawi,Zambia,False,2,False,True,20,1.0
+1980-06-17,Greece,Germany,True,0,True,False,50,0.5
+1980-06-17,Netherlands,Czechoslovakia,True,0,True,False,50,0.5
+1980-06-18,Australia,Northern Ireland,False,1,False,False,20,0.0
+1980-06-18,Hong Kong,Japan,True,2,False,False,20,0.0
+1980-06-18,Italy,Belgium,False,0,True,False,50,0.5
+1980-06-18,Spain,England,True,1,False,False,50,0.0
+1980-06-18,Sweden,Israel,False,0,True,False,40,0.5
+1980-06-19,Madagascar,Tanzania,False,1,False,True,20,1.0
+1980-06-21,Italy,Czechoslovakia,False,0,True,False,50,0.5
+1980-06-22,Belgium,Germany,True,1,False,False,50,0.0
+1980-06-22,Guinea,Lesotho,False,2,False,True,40,1.0
+1980-06-22,Madagascar,Tanzania,False,0,True,False,20,0.5
+1980-06-22,Poland,Iraq,False,3,False,True,20,1.0
+1980-06-22,Senegal,Morocco,False,1,False,False,40,0.0
+1980-06-24,Brazil,Chile,False,1,False,True,20,1.0
+1980-06-24,Congo,Guinea,False,0,True,False,20,0.5
+1980-06-24,Costa Rica,Cuba,False,3,False,True,20,1.0
+1980-06-25,Congo DR,Congo,False,1,False,False,20,0.0
+1980-06-25,Iceland,Finland,False,0,True,False,20,0.5
+1980-06-27,Congo DR,Gabon,False,0,True,False,20,0.5
+1980-06-29,Brazil,Poland,False,0,True,False,20,0.5
+1980-06-29,Cameroon,Malawi,False,3,False,True,40,1.0
+1980-06-29,Tunisia,Nigeria,False,2,False,True,40,1.0
+1980-06-29,Zambia,Kenya,False,5,False,True,20,1.0
+1980-06-30,Iceland,Faroe Islands,False,1,False,True,20,1.0
+1980-07-02,Bolivia,Poland,False,1,False,False,20,0.0
+1980-07-02,Faroe Islands,Greenland,True,6,False,True,20,1.0
+1980-07-02,Mauritania,Senegal,False,2,False,False,20,0.0
+1980-07-02,Panama,Guatemala,False,2,False,False,40,0.0
+1980-07-03,Iceland,Greenland,False,3,False,True,20,1.0
+1980-07-05,Kenya,Tanzania,False,2,False,True,40,1.0
+1980-07-06,Gambia,Libya,False,0,True,False,40,0.5
+1980-07-06,Lesotho,Guinea,False,0,True,False,40,0.5
+1980-07-06,Malawi,Zimbabwe,False,1,False,False,20,0.0
+1980-07-06,Morocco,Senegal,False,0,True,False,40,0.5
+1980-07-08,Malawi,Zimbabwe,False,0,True,False,20,0.5
+1980-07-09,Colombia,Poland,False,3,False,False,20,0.0
+1980-07-10,Fiji,Tahiti,False,0,True,False,20,0.5
+1980-07-12,Nigeria,Tunisia,False,2,False,True,40,1.0
+1980-07-12,Russia,Denmark,False,2,False,True,20,1.0
+1980-07-13,Congo DR,Mozambique,False,3,False,True,40,1.0
+1980-07-14,Norway,Iceland,False,2,False,True,20,1.0
+1980-07-16,Guatemala,Honduras,False,0,True,False,20,0.5
+1980-07-16,Niger,Somalia,False,0,True,False,40,0.5
+1980-07-17,Sweden,Iceland,False,0,True,False,20,0.5
+1980-07-18,Uruguay,Peru,False,0,True,False,20,0.5
+1980-07-19,Tanzania,Kenya,False,5,False,True,40,1.0
+1980-07-20,Malawi,Cameroon,False,0,True,False,40,0.5
+1980-07-27,Mozambique,Congo DR,False,1,False,False,40,0.0
+1980-07-27,Somalia,Niger,False,0,True,False,40,0.5
+1980-07-30,Panama,Honduras,False,2,False,False,40,0.0
+1980-08-01,Haiti,Trinidad and Tobago,False,2,False,True,40,1.0
+1980-08-05,United Arab Emirates,Iran,False,2,False,False,20,0.0
+1980-08-07,United Arab Emirates,Iran,False,3,False,False,20,0.0
+1980-08-10,Mozambique,Lesotho,False,5,False,True,40,1.0
+1980-08-10,Panama,Costa Rica,False,0,True,False,40,0.5
+1980-08-17,Cuba,Suriname,False,3,False,True,40,1.0
+1980-08-17,Guatemala,El Salvador,False,0,True,False,20,0.5
+1980-08-17,Trinidad and Tobago,Haiti,False,1,False,True,40,1.0
+1980-08-20,Hungary,Sweden,False,2,False,True,20,1.0
+1980-08-20,New Zealand,Mexico,False,4,False,True,20,1.0
+1980-08-21,Norway,Finland,False,5,False,True,30,1.0
+1980-08-21,Uruguay,Chile,False,0,True,False,20,0.5
+1980-08-23,Indonesia,Thailand,True,1,False,True,30,1.0
+1980-08-23,Korea Republic,Malaysia,False,2,False,True,30,1.0
+1980-08-24,Australia,Mexico,False,0,True,False,20,0.5
+1980-08-24,Lesotho,Mozambique,False,1,False,True,40,1.0
+1980-08-24,Panama,El Salvador,False,2,False,False,40,0.0
+1980-08-25,Bahrain,Malaysia,True,0,True,False,30,0.5
+1980-08-25,Korea Republic,Indonesia,False,3,False,True,30,1.0
+1980-08-26,Australia,Mexico,False,0,True,False,20,0.5
+1980-08-26,Bolivia,Paraguay,False,0,True,False,30,0.5
+1980-08-27,Bahrain,Indonesia,True,1,False,False,30,0.0
+1980-08-27,Brazil,Uruguay,False,1,False,True,20,1.0
+1980-08-27,Hungary,Russia,False,3,False,False,20,0.0
+1980-08-27,Korea Republic,Thailand,False,4,False,True,30,1.0
+1980-08-27,Romania,Yugoslavia,False,3,False,True,30,1.0
+1980-08-27,Switzerland,Denmark,False,0,True,False,20,0.5
+1980-08-28,Bolivia,Paraguay,False,2,False,False,20,0.0
+1980-08-29,Korea Republic,Bahrain,False,5,False,True,30,1.0
+1980-08-29,Malaysia,Thailand,True,3,False,False,30,0.0
+1980-08-30,Fiji,Mexico,False,2,False,False,20,0.0
+1980-08-30,Zimbabwe,Zambia,False,0,True,False,20,0.5
+1980-08-31,Bahrain,Thailand,True,1,False,False,30,0.0
+1980-08-31,Indonesia,Malaysia,True,0,True,False,30,0.5
+1980-08-31,Zimbabwe,Zambia,False,1,False,False,20,0.0
+1980-09-02,Korea Republic,Indonesia,False,2,False,True,30,1.0
+1980-09-02,Tahiti,Mexico,False,1,False,False,20,0.0
+1980-09-03,Albania,Finland,False,2,False,True,40,1.0
+1980-09-03,Iceland,Russia,False,1,False,False,40,0.0
+1980-09-07,Suriname,Cuba,False,0,True,False,40,0.5
+1980-09-09,Singapore,Korea Republic,False,2,False,False,20,0.0
+1980-09-10,Bulgaria,Romania,False,1,False,False,20,0.0
+1980-09-10,England,Norway,False,4,False,True,40,1.0
+1980-09-10,Ireland,Netherlands,False,1,False,True,40,1.0
+1980-09-10,Luxembourg,Yugoslavia,False,5,False,False,40,0.0
+1980-09-10,Sweden,Scotland,False,1,False,False,40,0.0
+1980-09-10,Switzerland,Germany,False,1,False,False,20,0.0
+1980-09-12,Haiti,Curaçao,False,1,False,True,40,1.0
+1980-09-14,Madagascar,Mauritius,False,0,True,False,40,0.5
+1980-09-15,Canada,New Zealand,False,4,False,True,20,1.0
+1980-09-15,Kuwait,United Arab Emirates,False,0,True,False,50,0.5
+1980-09-16,Korea DPR,Bangladesh,True,1,False,True,50,1.0
+1980-09-16,Malaysia,Korea Republic,True,0,True,False,50,0.5
+1980-09-17,Canada,New Zealand,False,3,False,True,20,1.0
+1980-09-17,Iran,Syria,True,0,True,False,50,0.5
+1980-09-17,Qatar,United Arab Emirates,True,1,False,True,50,1.0
+1980-09-18,Argentina,Chile,False,0,True,False,20,0.5
+1980-09-18,Korea DPR,China,True,1,False,True,50,1.0
+1980-09-18,Kuwait,Malaysia,False,2,False,True,50,1.0
+1980-09-18,Paraguay,Bolivia,False,1,False,True,30,1.0
+1980-09-19,Bangladesh,Syria,True,1,False,False,50,0.0
+1980-09-19,Libya,Syria,False,0,True,False,20,0.5
+1980-09-19,Qatar,Korea Republic,True,2,False,False,50,0.0
+1980-09-20,China,Iran,True,0,True,False,50,0.5
+1980-09-20,United Arab Emirates,Malaysia,True,2,False,False,50,0.0
+1980-09-21,Kuwait,Korea Republic,False,3,False,False,50,0.0
+1980-09-22,Bangladesh,Iran,True,7,False,False,50,0.0
+1980-09-23,Malaysia,Qatar,True,0,True,False,50,0.5
+1980-09-23,Syria,China,True,1,False,True,50,1.0
+1980-09-24,Bulgaria,Sweden,False,1,False,False,20,0.0
+1980-09-24,Finland,Austria,False,2,False,False,40,0.0
+1980-09-24,Hungary,Spain,False,0,True,False,20,0.5
+1980-09-24,Iran,Korea DPR,True,1,False,True,50,1.0
+1980-09-24,Italy,Portugal,False,2,False,True,20,1.0
+1980-09-24,Korea Republic,United Arab Emirates,True,3,False,True,50,1.0
+1980-09-24,Norway,Romania,False,0,True,False,40,0.5
+1980-09-24,Poland,Czechoslovakia,False,0,True,False,20,0.5
+1980-09-24,Turkey,Iceland,False,2,False,False,40,0.0
+1980-09-25,China,Bangladesh,True,6,False,True,50,1.0
+1980-09-25,Kuwait,Qatar,False,4,False,True,50,1.0
+1980-09-25,Paraguay,Brazil,False,1,False,False,20,0.0
+1980-09-26,Syria,Korea DPR,True,1,False,False,50,0.0
+1980-09-27,Yugoslavia,Denmark,False,1,False,True,40,1.0
+1980-09-28,Guyana,Suriname,False,1,False,False,40,0.0
+1980-09-28,Korea Republic,Korea DPR,True,1,False,True,50,1.0
+1980-09-28,Kuwait,Iran,False,1,False,True,50,1.0
+1980-09-28,Mali,Mauritania,False,2,False,True,40,1.0
+1980-09-28,Mauritius,Madagascar,False,0,True,False,40,0.5
+1980-09-28,Turkey,Northern Cyprus,False,5,False,True,20,1.0
+1980-09-29,Iran,Korea DPR,True,3,False,True,50,1.0
+1980-09-30,El Salvador,Guatemala,False,1,False,True,20,1.0
+1980-09-30,Kuwait,Korea Republic,False,3,False,True,50,1.0
+1980-09-30,Northern Cyprus,Saudi Arabia,True,2,False,False,20,0.0
+1980-10-01,Costa Rica,Honduras,False,1,False,False,40,0.0
+1980-10-01,Turkey,Libya,False,1,False,False,20,0.0
+1980-10-03,Turkey,Saudi Arabia,False,3,False,True,20,1.0
+1980-10-04,Libya,Saudi Arabia,True,2,False,True,20,1.0
+1980-10-04,Luxembourg,USA,False,2,False,False,20,0.0
+1980-10-05,El Salvador,Panama,False,3,False,True,40,1.0
+1980-10-07,Portugal,USA,False,0,True,False,20,0.5
+1980-10-08,Austria,Hungary,False,2,False,True,20,1.0
+1980-10-08,Czechoslovakia,German DR,False,1,False,False,20,0.0
+1980-10-09,Argentina,Bulgaria,False,2,False,True,20,1.0
+1980-10-11,Cyprus,France,False,7,False,False,40,0.0
+1980-10-11,Luxembourg,Italy,False,2,False,False,40,0.0
+1980-10-11,Netherlands,Germany,False,0,True,False,20,0.5
+1980-10-12,Argentina,Poland,False,1,False,True,20,1.0
+1980-10-12,Cameroon,Zimbabwe,False,2,False,True,40,1.0
+1980-10-12,Guatemala,Costa Rica,False,0,True,False,40,0.5
+1980-10-12,Mauritania,Mali,False,1,False,True,40,1.0
+1980-10-12,Suriname,Guyana,False,4,False,True,40,1.0
+1980-10-15,Argentina,Czechoslovakia,False,1,False,True,20,1.0
+1980-10-15,Denmark,Greece,False,1,False,False,40,0.0
+1980-10-15,German DR,Spain,False,0,True,False,20,0.5
+1980-10-15,Ireland,Belgium,False,0,True,False,40,0.5
+1980-10-15,Northern Ireland,Sweden,False,3,False,True,40,1.0
+1980-10-15,Romania,England,False,1,False,True,40,1.0
+1980-10-15,Russia,Iceland,True,5,False,True,40,1.0
+1980-10-15,Scotland,Portugal,False,0,True,False,40,0.5
+1980-10-15,Wales,Turkey,False,4,False,True,40,1.0
+1980-10-17,Malaysia,Burma,False,1,False,True,30,1.0
+1980-10-17,Morocco,Thailand,True,1,False,True,30,1.0
+1980-10-18,Canada,Mexico,False,0,True,False,40,0.5
+1980-10-19,Bulgaria,Albania,False,1,False,True,40,1.0
+1980-10-20,Burma,Morocco,True,0,True,False,30,0.5
+1980-10-20,Malaysia,Thailand,False,0,True,False,30,0.5
+1980-10-21,Indonesia,New Zealand,True,0,True,False,30,0.5
+1980-10-22,Burma,Thailand,True,1,False,False,30,0.0
+1980-10-22,Trinidad and Tobago,Guyana,False,0,True,False,20,0.5
+1980-10-24,Burma,New Zealand,True,0,True,False,30,0.5
+1980-10-24,Trinidad and Tobago,Guyana,False,2,False,True,20,1.0
+1980-10-25,Liberia,Mali,False,0,True,False,20,0.5
+1980-10-25,USA,Canada,False,0,True,False,40,0.5
+1980-10-26,Honduras,Guatemala,False,0,True,False,40,0.5
+1980-10-26,Indonesia,Thailand,True,0,True,False,30,0.5
+1980-10-26,Malawi,Zimbabwe,False,1,False,False,40,0.0
+1980-10-26,Morocco,New Zealand,True,3,False,True,30,1.0
+1980-10-28,France,Ireland,False,2,False,True,40,1.0
+1980-10-28,New Zealand,Thailand,True,0,True,False,30,0.5
+1980-10-29,Indonesia,Morocco,True,2,False,False,30,0.0
+1980-10-29,Switzerland,Norway,False,1,False,False,40,0.0
+1980-10-30,Brazil,Paraguay,False,6,False,True,20,1.0
+1980-10-30,Malaysia,New Zealand,False,2,False,True,30,1.0
+1980-10-31,Burma,Indonesia,True,1,False,True,30,1.0
+1980-11-01,Canada,USA,False,1,False,True,40,1.0
+1980-11-01,Italy,Denmark,False,2,False,True,40,1.0
+1980-11-01,Tanzania,Madagascar,False,0,True,False,20,0.5
+1980-11-01,Zambia,Angola,False,0,True,False,20,0.5
+1980-11-02,Malaysia,Morocco,False,1,False,False,30,0.0
+1980-11-02,Zambia,Angola,False,0,True,False,20,0.5
+1980-11-05,Costa Rica,Panama,False,2,False,True,40,1.0
+1980-11-09,Bolivia,Uruguay,False,2,False,False,20,0.0
+1980-11-09,Cuba,Guyana,False,1,False,True,40,1.0
+1980-11-09,Guatemala,El Salvador,False,0,True,False,40,0.5
+1980-11-09,Honduras,Canada,False,2,False,True,20,1.0
+1980-11-09,Liberia,Gambia,False,0,True,False,40,0.5
+1980-11-09,Mexico,USA,False,4,False,True,40,1.0
+1980-11-09,Senegal,Mauritania,False,3,False,True,20,1.0
+1980-11-09,Trinidad and Tobago,Curaçao,False,0,True,False,40,0.5
+1980-11-09,Zimbabwe,Malawi,False,0,True,False,40,0.5
+1980-11-11,Greece,Australia,False,0,True,False,20,0.5
+1980-11-11,Guatemala,Canada,False,1,False,False,20,0.0
+1980-11-12,Ethiopia,Mozambique,False,1,False,True,20,1.0
+1980-11-12,Israel,Sweden,False,0,True,False,40,0.5
+1980-11-12,Peru,Uruguay,False,0,True,False,20,0.5
+1980-11-12,Spain,Poland,False,1,False,False,20,0.0
+1980-11-14,Sudan,Tanzania,False,1,False,False,30,0.0
+1980-11-15,Austria,Albania,False,5,False,True,40,1.0
+1980-11-15,Benin,Niger,False,1,False,True,20,1.0
+1980-11-15,Italy,Yugoslavia,False,2,False,True,40,1.0
+1980-11-16,Brunei,Western Australia,True,2,False,False,30,0.0
+1980-11-16,Guatemala,Panama,False,5,False,True,40,1.0
+1980-11-16,Honduras,Costa Rica,False,0,True,False,40,0.5
+1980-11-16,Madagascar,Congo DR,False,0,True,False,40,0.5
+1980-11-16,Malawi,Zanzibar,True,1,False,True,30,1.0
+1980-11-16,Mexico,Canada,False,0,True,False,40,0.5
+1980-11-16,Morocco,Zambia,False,2,False,True,40,1.0
+1980-11-16,Zimbabwe,Cameroon,False,1,False,True,40,1.0
+1980-11-17,Senegal,Sierra Leone,False,2,False,True,40,1.0
+1980-11-17,Somalia,Tanzania,True,0,True,False,30,0.5
+1980-11-19,Belgium,Netherlands,False,1,False,True,40,1.0
+1980-11-19,Denmark,Luxembourg,False,4,False,True,40,1.0
+1980-11-19,England,Switzerland,False,1,False,True,40,1.0
+1980-11-19,German DR,Hungary,False,2,False,True,20,1.0
+1980-11-19,Germany,France,False,3,False,True,20,1.0
+1980-11-19,Ireland,Cyprus,False,6,False,True,40,1.0
+1980-11-19,Kenya,Malawi,True,1,False,False,30,0.0
+1980-11-19,Poland,Algeria,False,4,False,True,20,1.0
+1980-11-19,Portugal,Northern Ireland,False,1,False,True,40,1.0
+1980-11-19,Wales,Czechoslovakia,False,1,False,True,40,1.0
+1980-11-20,Brunei,Singapore,True,3,False,False,30,0.0
+1980-11-20,Sudan,Somalia,False,2,False,True,30,1.0
+1980-11-22,Kenya,Zanzibar,True,1,False,False,30,0.0
+1980-11-22,Trinidad and Tobago,Cuba,False,0,True,False,20,0.5
+1980-11-23,El Salvador,Honduras,False,1,False,True,40,1.0
+1980-11-23,Gambia,Liberia,False,0,True,False,40,0.5
+1980-11-23,Guinea,Congo DR,False,1,False,True,20,1.0
+1980-11-23,USA,Mexico,False,1,False,True,40,1.0
+1980-11-24,Malawi,Tanzania,True,1,False,False,30,0.0
+1980-11-25,Singapore,Western Australia,True,0,True,False,30,0.5
+1980-11-26,Costa Rica,Guatemala,False,3,False,False,40,0.0
+1980-11-28,Sudan,Tanzania,False,1,False,True,30,1.0
+1980-11-29,Curaçao,Trinidad and Tobago,True,0,True,False,40,0.5
+1980-11-30,Bolivia,Finland,False,3,False,True,20,1.0
+1980-11-30,Congo,Angola,False,0,True,False,40,0.5
+1980-11-30,Guyana,Cuba,False,3,False,False,40,0.0
+1980-11-30,Honduras,El Salvador,False,2,False,True,40,1.0
+1980-11-30,Sierra Leone,Senegal,False,1,False,False,40,0.0
+1980-11-30,Zambia,Morocco,False,2,False,True,40,1.0
+1980-12-02,Israel,Australia,False,1,False,False,20,0.0
+1980-12-03,Bulgaria,Germany,False,2,False,False,40,0.0
+1980-12-03,Czechoslovakia,Turkey,False,2,False,True,40,1.0
+1980-12-04,Argentina,Russia,False,0,True,False,20,0.5
+1980-12-04,Bolivia,Finland,False,0,True,False,20,0.5
+1980-12-05,Hong Kong,Australia,False,1,False,True,20,1.0
+1980-12-06,Albania,Austria,False,1,False,False,40,0.0
+1980-12-06,Greece,Italy,False,2,False,False,40,0.0
+1980-12-06,Nigeria,Tanzania,False,0,True,False,40,0.5
+1980-12-07,Guatemala,Honduras,False,1,False,False,40,0.0
+1980-12-07,Indonesia,Australia,False,0,True,False,20,0.5
+1980-12-07,Kenya,Zambia,False,0,True,False,20,0.5
+1980-12-07,Liberia,Guinea,False,0,True,False,40,0.5
+1980-12-07,Mali,Togo,False,1,False,False,20,0.0
+1980-12-07,Malta,Poland,False,2,False,False,40,0.0
+1980-12-08,Uruguay,Finland,False,6,False,True,20,1.0
+1980-12-09,Mali,Togo,False,4,False,True,20,1.0
+1980-12-10,Costa Rica,El Salvador,False,0,True,False,40,0.5
+1980-12-10,Kenya,Zambia,False,2,False,True,20,1.0
+1980-12-11,Uruguay,Bolivia,False,5,False,True,20,1.0
+1980-12-12,Algeria,Sudan,False,2,False,True,40,1.0
+1980-12-12,Curaçao,Haiti,True,0,True,False,40,0.5
+1980-12-12,Kenya,Zambia,False,1,False,True,20,1.0
+1980-12-12,Saudi Arabia,Indonesia,False,8,False,True,20,1.0
+1980-12-14,Honduras,Panama,False,5,False,True,40,1.0
+1980-12-14,Niger,Togo,False,1,False,False,40,0.0
+1980-12-14,Saudi Arabia,Indonesia,False,3,False,True,20,1.0
+1980-12-16,Argentina,Switzerland,False,5,False,True,20,1.0
+1980-12-17,Portugal,Israel,False,3,False,True,40,1.0
+1980-12-18,Uruguay,Switzerland,False,4,False,True,20,1.0
+1980-12-20,Tanzania,Nigeria,False,2,False,False,40,0.0
+1980-12-21,Brazil,Switzerland,False,2,False,True,20,1.0
+1980-12-21,Congo DR,Madagascar,False,1,False,True,40,1.0
+1980-12-21,Cyprus,Belgium,False,2,False,False,40,0.0
+1980-12-21,El Salvador,Guatemala,False,1,False,True,40,1.0
+1980-12-21,Guinea,Liberia,False,1,False,True,40,1.0
+1980-12-21,Hong Kong,China,False,1,False,False,40,0.0
+1980-12-22,Korea DPR,Macau,True,3,False,True,40,1.0
+1980-12-22,Singapore,Japan,True,1,False,False,40,0.0
+1980-12-24,China,Macau,True,3,False,True,40,1.0
+1980-12-24,Hong Kong,Singapore,False,0,True,False,40,0.5
+1980-12-26,China,Japan,True,1,False,True,40,1.0
+1980-12-26,Singapore,Korea DPR,True,1,False,False,40,0.0
+1980-12-28,Hong Kong,Korea DPR,False,0,True,False,40,0.5
+1980-12-28,Japan,Macau,True,3,False,True,40,1.0
+1980-12-28,Sudan,Algeria,False,0,True,False,40,0.5
+1980-12-28,Togo,Niger,False,1,False,False,40,0.0
+1980-12-30,Korea DPR,Japan,True,1,False,True,40,1.0
+1980-12-30,Uruguay,Netherlands,False,2,False,True,30,1.0
+1980-12-31,Hong Kong,China,False,0,True,False,40,0.5
+1981-01-01,Argentina,Germany,True,1,False,True,30,1.0
+1981-01-03,Uruguay,Italy,False,2,False,True,30,1.0
+1981-01-04,Argentina,Brazil,True,0,True,False,30,0.5
+1981-01-04,Korea DPR,China,True,2,False,False,40,0.0
+1981-01-06,Netherlands,Italy,True,0,True,False,30,0.5
+1981-01-07,Brazil,Germany,True,3,False,True,30,1.0
+1981-01-10,Uruguay,Brazil,False,1,False,True,30,1.0
+1981-01-11,Curaçao,Venezuela,False,2,False,True,20,1.0
+1981-01-11,Tunisia,Qatar,False,4,False,True,20,1.0
+1981-01-18,Venezuela,Curaçao,False,1,False,True,20,1.0
+1981-01-20,Mexico,Bulgaria,False,0,True,False,20,0.5
+1981-01-25,Japan,Poland,False,2,False,False,20,0.0
+1981-01-27,Ecuador,Bulgaria,False,2,False,False,20,0.0
+1981-01-27,Japan,Poland,False,2,False,False,20,0.0
+1981-01-28,Greece,Luxembourg,False,2,False,True,40,1.0
+1981-01-30,Japan,Poland,False,3,False,False,20,0.0
+1981-02-01,Bolivia,Bulgaria,False,2,False,False,20,0.0
+1981-02-01,Colombia,Brazil,False,0,True,False,20,0.5
+1981-02-01,Japan,Poland,False,3,False,False,20,0.0
+1981-02-02,Gambia,Guinea,True,0,True,False,30,0.5
+1981-02-02,Mali,Mauritania,False,2,False,True,30,1.0
+1981-02-03,Cape Verde,Senegal,True,1,False,False,30,0.0
+1981-02-04,Mali,Guinea,False,0,True,False,30,0.5
+1981-02-05,Guinea-Bissau,Senegal,True,1,False,False,30,0.0
+1981-02-06,Guinea,Mauritania,True,1,False,True,30,1.0
+1981-02-06,Jordan,Iraq,False,2,False,False,20,0.0
+1981-02-06,Mali,Gambia,False,3,False,True,30,1.0
+1981-02-07,Cape Verde,Guinea-Bissau,True,3,False,True,30,1.0
+1981-02-08,Jordan,Iraq,False,2,False,False,20,0.0
+1981-02-08,Malaysia,Japan,False,1,False,True,20,1.0
+1981-02-08,Venezuela,Brazil,False,1,False,False,40,0.0
+1981-02-09,Mali,Cape Verde,False,2,False,True,30,1.0
+1981-02-10,Guinea,Senegal,True,1,False,True,30,1.0
+1981-02-10,Malaysia,Japan,False,0,True,False,20,0.5
+1981-02-11,Guinea-Bissau,Mauritania,True,1,False,True,30,1.0
+1981-02-11,Mexico,Korea Republic,False,4,False,True,20,1.0
+1981-02-11,Peru,Bulgaria,False,1,False,False,20,0.0
+1981-02-12,Cape Verde,Senegal,True,4,False,False,30,0.0
+1981-02-13,Mali,Guinea,False,0,True,False,30,0.5
+1981-02-14,Ecuador,Brazil,False,6,False,False,20,0.0
+1981-02-14,Oman,Jordan,False,1,False,False,20,0.0
+1981-02-15,Bolivia,Venezuela,False,3,False,True,40,1.0
+1981-02-15,Morocco,Syria,False,3,False,True,20,1.0
+1981-02-16,Oman,Jordan,False,2,False,False,20,0.0
+1981-02-17,Singapore,Japan,False,1,False,False,20,0.0
+1981-02-18,Belgium,Cyprus,False,1,False,True,40,1.0
+1981-02-18,Spain,France,False,1,False,True,20,1.0
+1981-02-19,Singapore,Japan,False,0,True,False,20,0.5
+1981-02-22,Bolivia,Brazil,False,1,False,False,40,0.0
+1981-02-22,Netherlands,Cyprus,False,3,False,True,40,1.0
+1981-02-24,Indonesia,Japan,False,2,False,True,20,1.0
+1981-02-24,Ireland,Wales,False,2,False,False,20,0.0
+1981-02-25,Israel,Scotland,False,1,False,False,40,0.0
+1981-02-27,Bahrain,Jordan,False,1,False,True,20,1.0
+1981-02-28,Norway,Sweden,True,2,False,False,20,0.0
+1981-03-01,Finland,Sweden,False,1,False,True,20,1.0
+1981-03-02,Tahiti,Fiji,False,1,False,True,20,1.0
+1981-03-05,Bahrain,Tunisia,False,3,False,False,20,0.0
+1981-03-08,Japan,Korea Republic,False,1,False,False,20,0.0
+1981-03-08,Liberia,Togo,False,2,False,True,20,1.0
+1981-03-08,Morocco,Iraq,False,0,True,False,20,0.5
+1981-03-08,Saudi Arabia,Tunisia,False,1,False,False,20,0.0
+1981-03-10,Chile,Colombia,False,1,False,True,20,1.0
+1981-03-10,Tahiti,Fiji,False,1,False,True,20,1.0
+1981-03-11,Luxembourg,Greece,False,2,False,False,40,0.0
+1981-03-11,Saudi Arabia,Jordan,False,1,False,True,20,1.0
+1981-03-14,Brazil,Chile,False,1,False,True,20,1.0
+1981-03-15,Paraguay,Colombia,False,2,False,False,20,0.0
+1981-03-15,Venezuela,Bolivia,False,1,False,True,40,1.0
+1981-03-18,Qatar,Iraq,True,1,False,False,40,0.0
+1981-03-19,Colombia,Chile,False,1,False,False,20,0.0
+1981-03-19,Syria,Bahrain,True,1,False,False,40,0.0
+1981-03-21,Saudi Arabia,Iraq,False,1,False,True,40,1.0
+1981-03-22,Brazil,Bolivia,False,2,False,True,40,1.0
+1981-03-22,Morocco,Liberia,False,2,False,True,40,1.0
+1981-03-22,Qatar,Bahrain,True,3,False,True,40,1.0
+1981-03-24,Czechoslovakia,Switzerland,False,1,False,False,20,0.0
+1981-03-24,Saudi Arabia,Syria,False,2,False,True,40,1.0
+1981-03-25,Belgium,Ireland,False,1,False,True,40,1.0
+1981-03-25,England,Spain,False,1,False,False,20,0.0
+1981-03-25,Iraq,Bahrain,True,2,False,True,40,1.0
+1981-03-25,Netherlands,France,False,1,False,True,40,1.0
+1981-03-25,Romania,Poland,False,2,False,True,20,1.0
+1981-03-25,Scotland,Northern Ireland,False,0,True,False,40,0.5
+1981-03-25,Senegal,Guinea,False,1,False,False,20,0.0
+1981-03-25,Turkey,Wales,False,1,False,False,40,0.0
+1981-03-25,Yugoslavia,Bulgaria,False,1,False,True,20,1.0
+1981-03-27,Qatar,Syria,True,1,False,True,40,1.0
+1981-03-28,Saudi Arabia,Bahrain,False,1,False,True,40,1.0
+1981-03-29,Brazil,Venezuela,False,5,False,True,40,1.0
+1981-03-30,Iraq,Syria,True,1,False,True,40,1.0
+1981-03-31,Saudi Arabia,Qatar,False,1,False,True,40,1.0
+1981-04-01,Albania,Germany,False,2,False,False,40,0.0
+1981-04-01,Cameroon,Niger,False,2,False,True,20,1.0
+1981-04-03,Algeria,Senegal,False,2,False,True,20,1.0
+1981-04-04,Kenya,Egypt,False,2,False,False,40,0.0
+1981-04-04,Liberia,Morocco,False,5,False,False,40,0.0
+1981-04-04,Malta,German DR,False,1,False,False,40,0.0
+1981-04-04,Nigeria,Angola,False,0,True,False,20,0.5
+1981-04-05,Cameroon,Togo,False,4,False,True,40,1.0
+1981-04-05,Congo DR,Mozambique,False,1,False,True,40,1.0
+1981-04-05,Singapore,Malaysia,False,0,True,False,20,0.5
+1981-04-05,Zambia,Congo,False,0,True,False,20,0.5
+1981-04-08,Israel,Romania,False,1,False,True,20,1.0
+1981-04-10,Algeria,Mali,False,4,False,True,40,1.0
+1981-04-11,Ghana,Congo,False,0,True,False,40,0.5
+1981-04-11,Zimbabwe,Zambia,False,1,False,False,40,0.0
+1981-04-12,Congo DR,Cameroon,False,1,False,True,40,1.0
+1981-04-12,Ethiopia,Kenya,False,0,True,False,20,0.5
+1981-04-12,Guinea,Nigeria,False,0,True,False,40,0.5
+1981-04-12,Tunisia,Senegal,False,1,False,True,40,1.0
+1981-04-14,Togo,Congo,False,1,False,True,20,1.0
+1981-04-15,Cyprus,Greece,False,1,False,False,20,0.0
+1981-04-15,Denmark,Romania,False,1,False,True,20,1.0
+1981-04-15,Portugal,Bulgaria,False,0,True,False,20,0.5
+1981-04-15,Spain,Hungary,False,3,False,False,20,0.0
+1981-04-15,Turkey,Czechoslovakia,False,3,False,False,40,0.0
+1981-04-17,Malaysia,Singapore,False,1,False,False,20,0.0
+1981-04-18,Botswana,Malawi,True,3,False,False,20,0.0
+1981-04-18,Egypt,Kenya,False,2,False,True,40,1.0
+1981-04-18,Lesotho,Mozambique,True,2,False,False,20,0.0
+1981-04-18,Swaziland,Zambia,True,5,False,False,20,0.0
+1981-04-19,Chile,Peru,False,3,False,True,20,1.0
+1981-04-19,Ethiopia,Sudan,False,0,True,False,20,0.5
+1981-04-19,Italy,German DR,False,0,True,False,20,0.5
+1981-04-19,Malawi,Zambia,True,1,False,True,20,1.0
+1981-04-19,Mali,Algeria,False,3,False,True,40,1.0
+1981-04-19,Mozambique,Congo DR,False,0,True,False,40,0.5
+1981-04-19,Togo,Cameroon,False,0,True,False,40,0.5
+1981-04-20,Zimbabwe,Malawi,False,4,False,True,20,1.0
+1981-04-21,Ethiopia,Sudan,False,2,False,True,20,1.0
+1981-04-21,Korea Republic,Malaysia,True,1,False,True,40,1.0
+1981-04-22,Kuwait,Thailand,False,6,False,True,40,1.0
+1981-04-24,Korea Republic,Thailand,True,4,False,True,40,1.0
+1981-04-25,Kuwait,Malaysia,False,4,False,True,40,1.0
+1981-04-25,New Zealand,Australia,False,0,True,False,40,0.5
+1981-04-25,Nigeria,Guinea,False,1,False,True,40,1.0
+1981-04-25,Zambia,Zimbabwe,False,2,False,True,40,1.0
+1981-04-26,Cameroon,Congo DR,False,5,False,True,40,1.0
+1981-04-26,Congo,Ghana,False,1,False,False,40,0.0
+1981-04-26,Ethiopia,Rwanda,False,1,False,True,40,1.0
+1981-04-26,Morocco,Egypt,False,1,False,True,40,1.0
+1981-04-26,Senegal,Tunisia,False,0,True,False,40,0.5
+1981-04-27,Malaysia,Thailand,True,0,True,False,40,0.5
+1981-04-28,Scotland,Israel,False,2,False,True,40,1.0
+1981-04-28,Switzerland,Hungary,False,0,True,False,40,0.5
+1981-04-29,Bulgaria,Norway,False,1,False,True,20,1.0
+1981-04-29,Chile,Uruguay,False,1,False,False,30,0.0
+1981-04-29,Cyprus,Netherlands,False,1,False,False,40,0.0
+1981-04-29,England,Romania,False,0,True,False,40,0.5
+1981-04-29,France,Belgium,False,1,False,True,40,1.0
+1981-04-29,Germany,Austria,False,2,False,True,40,1.0
+1981-04-29,Ireland,Czechoslovakia,False,2,False,True,20,1.0
+1981-04-29,Kuwait,Korea Republic,False,2,False,True,40,1.0
+1981-04-29,Northern Ireland,Portugal,False,1,False,True,40,1.0
+1981-04-29,Yugoslavia,Greece,False,4,False,True,40,1.0
+1981-05-01,Algeria,Niger,False,4,False,True,40,1.0
+1981-05-01,Luxembourg,Denmark,False,1,False,False,40,0.0
+1981-05-02,Poland,German DR,False,1,False,True,40,1.0
+1981-05-03,Fiji,New Zealand,False,4,False,False,40,0.0
+1981-05-06,Liberia,Guinea,False,1,False,True,20,1.0
+1981-05-08,Egypt,Morocco,False,0,True,False,40,0.5
+1981-05-10,Rwanda,Ethiopia,False,1,False,True,40,1.0
+1981-05-11,Indonesia,New Zealand,False,2,False,False,40,0.0
+1981-05-12,England,Brazil,False,1,False,False,20,0.0
+1981-05-13,Bulgaria,Finland,False,4,False,True,40,1.0
+1981-05-13,Hungary,Romania,False,1,False,True,40,1.0
+1981-05-14,Sweden,Denmark,False,1,False,False,30,0.0
+1981-05-15,France,Brazil,False,2,False,False,20,0.0
+1981-05-16,Australia,New Zealand,False,2,False,False,40,0.0
+1981-05-16,Wales,Scotland,False,2,False,True,30,1.0
+1981-05-17,Ecuador,Paraguay,False,1,False,True,40,1.0
+1981-05-17,Ethiopia,Yemen DPR,False,0,True,False,20,0.5
+1981-05-19,German DR,Cuba,False,5,False,True,20,1.0
+1981-05-19,Germany,Brazil,False,1,False,False,20,0.0
+1981-05-19,Scotland,Northern Ireland,False,2,False,True,30,1.0
+1981-05-20,Australia,Indonesia,False,2,False,True,40,1.0
+1981-05-20,England,Wales,False,0,True,False,30,0.5
+1981-05-20,Norway,Hungary,False,1,False,False,40,0.0
+1981-05-23,England,Scotland,False,1,False,False,30,0.0
+1981-05-23,New Zealand,Indonesia,False,5,False,True,40,1.0
+1981-05-23,Poland,Ireland,False,3,False,True,20,1.0
+1981-05-24,Ecuador,Chile,False,0,True,False,40,0.5
+1981-05-24,Finland,Germany,False,4,False,False,40,0.0
+1981-05-27,Czechoslovakia,Iceland,False,5,False,True,40,1.0
+1981-05-28,Austria,Bulgaria,False,2,False,True,40,1.0
+1981-05-30,New Zealand,Taiwan,False,2,False,True,40,1.0
+1981-05-30,Switzerland,England,False,1,False,True,40,1.0
+1981-05-30,Wales,Russia,False,0,True,False,40,0.5
+1981-05-31,Fiji,Indonesia,False,0,True,False,40,0.5
+1981-05-31,Niger,Algeria,False,1,False,True,40,1.0
+1981-05-31,Paraguay,Ecuador,False,2,False,True,40,1.0
+1981-06-01,Equatorial Guinea,São Tomé and Príncipe,False,0,True,False,20,0.5
+1981-06-02,Japan,China,False,0,True,False,30,0.5
+1981-06-03,Denmark,Italy,False,2,False,True,40,1.0
+1981-06-03,Romania,Norway,False,1,False,True,40,1.0
+1981-06-03,Sweden,Northern Ireland,False,1,False,True,40,1.0
+1981-06-06,Fiji,Taiwan,False,1,False,True,40,1.0
+1981-06-06,Hungary,England,False,2,False,False,40,0.0
+1981-06-07,Paraguay,Chile,False,1,False,False,40,0.0
+1981-06-07,Suriname,French Guyana,False,2,False,True,30,1.0
+1981-06-10,Australia,Taiwan,False,1,False,True,40,1.0
+1981-06-11,Haiti,El Salvador,False,0,True,False,20,0.5
+1981-06-13,Haiti,El Salvador,False,0,True,False,20,0.5
+1981-06-14,Chile,Ecuador,False,2,False,True,40,1.0
+1981-06-14,Liechtenstein,Malta,True,0,True,False,30,0.5
+1981-06-15,Indonesia,Taiwan,False,1,False,True,40,1.0
+1981-06-16,Liechtenstein,Thailand,True,2,False,False,30,0.0
+1981-06-17,Austria,Finland,False,4,False,True,40,1.0
+1981-06-17,Korea Republic,Malaysia,False,2,False,True,30,1.0
+1981-06-17,Norway,Switzerland,False,0,True,False,40,0.5
+1981-06-18,Indonesia,Malta,True,1,False,False,30,0.0
+1981-06-19,Japan,Malaysia,True,2,False,True,30,1.0
+1981-06-19,Malawi,Tanzania,False,3,False,True,20,1.0
+1981-06-20,Indonesia,Thailand,True,2,False,False,30,0.0
+1981-06-20,Portugal,Spain,False,2,False,True,20,1.0
+1981-06-21,Chile,Paraguay,False,3,False,True,40,1.0
+1981-06-21,French Guyana,Suriname,False,2,False,True,30,1.0
+1981-06-21,Guadeloupe,Dominica,False,5,False,True,30,1.0
+1981-06-21,Korea Republic,Japan,False,2,False,True,30,1.0
+1981-06-21,Malawi,Tanzania,False,2,False,True,20,1.0
+1981-06-22,Indonesia,Liechtenstein,True,1,False,False,30,0.0
+1981-06-22,Malta,Thailand,True,2,False,True,30,1.0
+1981-06-23,Malawi,Tanzania,False,0,True,False,20,0.5
+1981-06-24,Hong Kong,Macau,False,2,False,True,20,1.0
+1981-06-24,Sweden,Portugal,False,3,False,True,40,1.0
+1981-06-25,Mozambique,Angola,False,1,False,False,20,0.0
+1981-06-26,Zambia,Congo DR,False,2,False,True,20,1.0
+1981-06-27,Angola,Zimbabwe,True,0,True,False,20,0.5
+1981-06-27,Liberia,Ghana,False,0,True,False,20,0.5
+1981-06-28,Guinea,Ethiopia,False,0,True,False,40,0.5
+1981-06-28,Venezuela,Spain,False,2,False,False,20,0.0
+1981-06-28,Zambia,Congo DR,False,0,True,False,20,0.5
+1981-07-02,Colombia,Spain,False,0,True,False,20,0.5
+1981-07-02,Finland,Norway,False,2,False,True,30,1.0
+1981-07-05,Barbados,Trinidad and Tobago,False,0,True,False,30,0.5
+1981-07-05,Chile,Spain,False,0,True,False,20,0.5
+1981-07-05,Dominica,Guadeloupe,False,1,False,False,30,0.0
+1981-07-05,St. Vincent and the Grenadines,Martinique,False,1,False,True,30,1.0
+1981-07-06,Malawi,Mozambique,False,2,False,True,20,1.0
+1981-07-08,Brazil,Spain,False,1,False,True,20,1.0
+1981-07-08,Mozambique,Zimbabwe,True,2,False,False,20,0.0
+1981-07-10,Malawi,Zimbabwe,False,2,False,True,20,1.0
+1981-07-12,Kenya,Mauritius,True,1,False,True,20,1.0
+1981-07-12,Réunion,Madagascar,False,1,False,False,20,0.0
+1981-07-13,Réunion,Madagascar,False,3,False,False,20,0.0
+1981-07-14,Madagascar,Mauritius,True,0,True,False,20,0.5
+1981-07-14,Réunion,Kenya,False,2,False,False,20,0.0
+1981-07-15,Uruguay,Chile,False,0,True,False,30,0.5
+1981-07-16,Benin,Congo DR,False,1,False,False,20,0.0
+1981-07-17,Trinidad and Tobago,Barbados,False,0,True,False,30,0.5
+1981-07-18,Nigeria,Burkina Faso,False,1,False,True,20,1.0
+1981-07-19,Benin,Ghana,False,1,False,False,20,0.0
+1981-07-19,Kenya,Madagascar,True,1,False,True,20,1.0
+1981-07-19,Martinique,St. Vincent and the Grenadines,False,1,False,False,30,0.0
+1981-07-19,Réunion,Mauritius,False,1,False,False,20,0.0
+1981-07-19,Suriname,French Guyana,False,1,False,True,30,1.0
+1981-07-22,Ghana,Congo DR,False,0,True,False,40,0.5
+1981-07-26,Colombia,Peru,False,0,True,False,40,0.5
+1981-07-26,El Salvador,Haiti,False,4,False,True,20,1.0
+1981-07-26,Fiji,Australia,False,3,False,False,40,0.0
+1981-07-29,Congo,Congo DR,False,0,True,False,20,0.5
+1981-07-29,Sweden,Finland,False,1,False,True,30,1.0
+1981-08-01,Zimbabwe,Nigeria,False,2,False,True,20,1.0
+1981-08-02,Congo DR,Ghana,False,1,False,False,40,0.0
+1981-08-02,Guadeloupe,St. Vincent and the Grenadines,False,3,False,True,30,1.0
+1981-08-02,Suriname,Trinidad and Tobago,False,0,True,False,30,0.5
+1981-08-03,Kenya,Nigeria,False,2,False,False,20,0.0
+1981-08-05,Peru,Chile,False,1,False,False,20,0.0
+1981-08-06,Uganda,Burundi,False,0,True,False,20,0.5
+1981-08-09,Uruguay,Colombia,False,1,False,True,40,1.0
+1981-08-10,Indonesia,Fiji,False,0,True,False,40,0.5
+1981-08-12,Finland,Denmark,False,1,False,False,30,0.0
+1981-08-12,Norway,Nigeria,False,0,True,False,20,0.5
+1981-08-12,Sweden,Bulgaria,False,1,False,True,20,1.0
+1981-08-14,Australia,Fiji,False,10,False,True,40,1.0
+1981-08-14,Indonesia,Philippines,False,3,False,True,30,1.0
+1981-08-14,Trinidad and Tobago,Suriname,False,1,False,True,30,1.0
+1981-08-16,Cameroon,Madagascar,False,4,False,True,40,1.0
+1981-08-16,Morocco,Zambia,False,1,False,True,40,1.0
+1981-08-16,New Zealand,Fiji,False,13,False,True,40,1.0
+1981-08-16,Peru,Colombia,False,2,False,True,40,1.0
+1981-08-16,St. Vincent and the Grenadines,Guadeloupe,False,2,False,True,30,1.0
+1981-08-20,Indonesia,Korea Republic,False,1,False,False,30,0.0
+1981-08-22,Iceland,Nigeria,False,3,False,True,20,1.0
+1981-08-22,Iraq,Ghana,False,4,False,True,20,1.0
+1981-08-23,Uruguay,Peru,False,1,False,False,40,0.0
+1981-08-24,Iraq,Ghana,False,0,True,False,20,0.5
+1981-08-26,Chile,Brazil,False,0,True,False,20,0.5
+1981-08-26,Denmark,Iceland,False,3,False,True,20,1.0
+1981-08-30,Algeria,Burkina Faso,False,7,False,True,40,1.0
+1981-08-30,Indonesia,Australia,False,1,False,True,40,1.0
+1981-08-30,Madagascar,Cameroon,False,1,False,True,40,1.0
+1981-08-30,Malaysia,Japan,False,2,False,False,30,0.0
+1981-08-30,Zambia,Morocco,False,2,False,True,40,1.0
+1981-09-01,India,New Zealand,True,0,True,False,30,0.5
+1981-09-01,Singapore,Thailand,True,2,False,False,30,0.0
+1981-09-01,Switzerland,Netherlands,False,1,False,True,20,1.0
+1981-09-02,Finland,Albania,False,1,False,True,40,1.0
+1981-09-02,Indonesia,United Arab Emirates,True,3,False,True,30,1.0
+1981-09-02,Poland,Germany,False,2,False,False,20,0.0
+1981-09-03,India,Japan,True,1,False,False,30,0.0
+1981-09-04,Korea Republic,Singapore,True,2,False,True,30,1.0
+1981-09-04,Malawi,Zimbabwe,True,1,False,False,20,0.0
+1981-09-04,Malaysia,New Zealand,False,1,False,False,30,0.0
+1981-09-04,Swaziland,Lesotho,False,0,True,False,20,0.5
+1981-09-05,India,United Arab Emirates,True,2,False,True,30,1.0
+1981-09-05,Lesotho,Malawi,True,3,False,False,20,0.0
+1981-09-05,Swaziland,Zimbabwe,False,2,False,False,20,0.0
+1981-09-06,Lesotho,Zimbabwe,True,3,False,False,20,0.0
+1981-09-06,Niger,Burkina Faso,False,1,False,True,20,1.0
+1981-09-06,Peru,Uruguay,False,0,True,False,40,0.5
+1981-09-06,Swaziland,Malawi,False,0,True,False,20,0.5
+1981-09-07,Indonesia,New Zealand,True,0,True,False,30,0.5
+1981-09-08,Japan,United Arab Emirates,True,1,False,True,30,1.0
+1981-09-09,Belgium,France,False,2,False,True,40,1.0
+1981-09-09,Czechoslovakia,Wales,False,2,False,True,40,1.0
+1981-09-09,Denmark,Yugoslavia,False,1,False,False,40,0.0
+1981-09-09,Iceland,Turkey,False,2,False,True,40,1.0
+1981-09-09,Malaysia,Indonesia,False,2,False,True,30,1.0
+1981-09-09,Netherlands,Ireland,False,0,True,False,40,0.5
+1981-09-09,Norway,England,False,1,False,True,40,1.0
+1981-09-09,Romania,Bulgaria,False,1,False,False,20,0.0
+1981-09-09,Scotland,Sweden,False,2,False,True,40,1.0
+1981-09-10,Iraq,Thailand,True,6,False,True,30,1.0
+1981-09-10,New Zealand,United Arab Emirates,True,1,False,False,30,0.0
+1981-09-11,India,Indonesia,True,1,False,True,30,1.0
+1981-09-12,Japan,New Zealand,True,1,False,False,30,0.0
+1981-09-12,Malaysia,United Arab Emirates,False,1,False,False,30,0.0
+1981-09-13,Colombia,Uruguay,False,0,True,False,40,0.5
+1981-09-13,Iraq,Korea Republic,True,0,True,False,30,0.5
+1981-09-13,St. Vincent and the Grenadines,Suriname,False,1,False,True,30,1.0
+1981-09-14,Indonesia,Japan,True,2,False,False,30,0.0
+1981-09-15,Malaysia,India,False,0,True,False,30,0.5
+1981-09-16,Iraq,Singapore,True,4,False,True,30,1.0
+1981-09-16,Korea Republic,Thailand,True,0,True,False,30,0.5
+1981-09-18,Iraq,Japan,True,2,False,True,30,1.0
+1981-09-20,Burkina Faso,Algeria,False,0,True,False,40,0.5
+1981-09-20,Venezuela,Cuba,False,1,False,True,20,1.0
+1981-09-23,Austria,Spain,False,0,True,False,20,0.5
+1981-09-23,Denmark,Norway,False,1,False,True,30,1.0
+1981-09-23,Germany,Finland,False,6,False,True,40,1.0
+1981-09-23,Greece,Sweden,False,1,False,True,20,1.0
+1981-09-23,Iceland,Czechoslovakia,False,0,True,False,40,0.5
+1981-09-23,Italy,Bulgaria,False,1,False,True,20,1.0
+1981-09-23,Portugal,Poland,False,2,False,True,20,1.0
+1981-09-23,Romania,Hungary,False,0,True,False,40,0.5
+1981-09-23,Russia,Turkey,True,4,False,True,40,1.0
+1981-09-24,China,New Zealand,False,0,True,False,40,0.5
+1981-09-26,Uganda,Nigeria,False,1,False,True,20,1.0
+1981-09-27,Morocco,Tunisia,False,0,True,False,20,0.5
+1981-09-27,Suriname,St. Vincent and the Grenadines,False,0,True,False,30,0.5
+1981-09-30,Botswana,Zimbabwe,False,1,False,False,20,0.0
+1981-09-30,Trinidad and Tobago,Grenada,False,2,False,True,20,1.0
+1981-10-02,Trinidad and Tobago,Grenada,False,4,False,True,20,1.0
+1981-10-03,New Zealand,China,False,1,False,True,40,1.0
+1981-10-03,Nigeria,Liberia,False,3,False,True,20,1.0
+1981-10-04,Ethiopia,Guinea,False,0,True,False,40,0.5
+1981-10-07,Turkey,Russia,False,3,False,False,40,0.0
+1981-10-10,German DR,Poland,False,1,False,False,40,0.0
+1981-10-10,New Zealand,Kuwait,False,1,False,False,40,0.0
+1981-10-10,Nigeria,Algeria,False,2,False,False,40,0.0
+1981-10-10,Romania,Switzerland,False,1,False,False,40,0.0
+1981-10-12,Trinidad and Tobago,Canada,False,2,False,False,20,0.0
+1981-10-14,Albania,Bulgaria,False,2,False,False,40,0.0
+1981-10-14,Austria,Germany,False,2,False,False,40,0.0
+1981-10-14,Greece,Denmark,False,1,False,False,40,0.0
+1981-10-14,Hungary,Switzerland,False,3,False,True,40,1.0
+1981-10-14,Ireland,France,False,1,False,True,40,1.0
+1981-10-14,Netherlands,Belgium,False,3,False,True,40,1.0
+1981-10-14,Northern Ireland,Scotland,False,0,True,False,40,0.5
+1981-10-14,Portugal,Sweden,False,1,False,False,40,0.0
+1981-10-14,Spain,Luxembourg,False,3,False,True,20,1.0
+1981-10-14,Wales,Iceland,False,0,True,False,40,0.5
+1981-10-17,Saudi Arabia,Korea Republic,False,2,False,True,20,1.0
+1981-10-17,Yugoslavia,Italy,False,0,True,False,40,0.5
+1981-10-18,China,Kuwait,False,3,False,True,40,1.0
+1981-10-19,Puerto Rico,Guadeloupe,False,0,True,False,30,0.5
+1981-10-19,St. Vincent and the Grenadines,Trinidad and Tobago,True,2,False,False,30,0.0
+1981-10-21,Guadeloupe,Trinidad and Tobago,True,2,False,False,30,0.0
+1981-10-21,Puerto Rico,St. Vincent and the Grenadines,False,2,False,False,30,0.0
+1981-10-24,Guadeloupe,St. Vincent and the Grenadines,True,2,False,False,30,0.0
+1981-10-24,Tunisia,Malta,False,1,False,False,20,0.0
+1981-10-26,United Arab Emirates,India,False,2,False,True,20,1.0
+1981-10-28,Argentina,Poland,False,1,False,False,20,0.0
+1981-10-28,Brazil,Bulgaria,False,3,False,True,20,1.0
+1981-10-28,Israel,Portugal,False,3,False,True,40,1.0
+1981-10-28,Russia,Czechoslovakia,True,2,False,True,40,1.0
+1981-10-28,Saudi Arabia,Sweden,False,1,False,False,20,0.0
+1981-10-28,United Arab Emirates,India,False,2,False,True,20,1.0
+1981-10-30,Algeria,Nigeria,False,1,False,True,40,1.0
+1981-10-31,Burundi,Tanzania,False,1,False,False,20,0.0
+1981-10-31,Hungary,Norway,False,3,False,True,40,1.0
+1981-11-01,Mexico,Cuba,True,4,False,True,40,1.0
+1981-11-01,Senegal,Morocco,False,2,False,True,20,1.0
+1981-11-02,Burundi,Tanzania,False,1,False,False,20,0.0
+1981-11-02,Canada,El Salvador,True,1,False,True,40,1.0
+1981-11-03,Honduras,Haiti,False,4,False,True,40,1.0
+1981-11-04,Saudi Arabia,Kuwait,False,1,False,False,40,0.0
+1981-11-04,Trinidad and Tobago,Barbados,False,1,False,True,20,1.0
+1981-11-06,Canada,Haiti,True,0,True,False,40,0.5
+1981-11-06,Mexico,El Salvador,True,1,False,False,40,0.0
+1981-11-06,Trinidad and Tobago,Barbados,False,0,True,False,20,0.5
+1981-11-08,Honduras,Cuba,False,2,False,True,40,1.0
+1981-11-08,Tunisia,Cameroon,False,0,True,False,20,0.5
+1981-11-09,Thailand,Singapore,False,1,False,True,30,1.0
+1981-11-11,Argentina,Czechoslovakia,False,0,True,False,20,0.5
+1981-11-11,Bulgaria,Austria,False,0,True,False,40,0.5
+1981-11-11,Cuba,El Salvador,True,0,True,False,40,0.5
+1981-11-11,German DR,Malta,False,4,False,True,40,1.0
+1981-11-11,Haiti,Mexico,True,0,True,False,40,0.5
+1981-11-11,Malaysia,Singapore,True,1,False,False,30,0.0
+1981-11-11,Switzerland,Romania,False,0,True,False,40,0.5
+1981-11-11,Thailand,Pakistan,False,1,False,True,30,1.0
+1981-11-12,Honduras,Canada,False,1,False,True,40,1.0
+1981-11-12,Saudi Arabia,China,True,2,False,False,40,0.0
+1981-11-13,Malaysia,Pakistan,True,1,False,False,30,0.0
+1981-11-14,Italy,Greece,False,0,True,False,40,0.5
+1981-11-14,Kenya,Malawi,True,1,False,True,30,1.0
+1981-11-15,Haiti,Cuba,True,2,False,False,40,0.0
+1981-11-15,Mexico,Canada,True,0,True,False,40,0.5
+1981-11-15,Morocco,Cameroon,False,2,False,False,40,0.0
+1981-11-15,Poland,Malta,False,6,False,True,40,1.0
+1981-11-15,Sudan,Uganda,True,0,True,False,30,0.5
+1981-11-15,Tanzania,Zanzibar,False,2,False,True,30,1.0
+1981-11-15,Thailand,Malaysia,False,2,False,True,30,1.0
+1981-11-16,Honduras,El Salvador,False,0,True,False,40,0.5
+1981-11-17,Kenya,Zanzibar,True,1,False,True,30,1.0
+1981-11-17,Pakistan,Singapore,True,1,False,True,30,1.0
+1981-11-17,Sudan,Zimbabwe,True,0,True,False,30,0.5
+1981-11-17,Tanzania,Malawi,False,0,True,False,30,0.5
+1981-11-17,Uganda,Zambia,True,2,False,True,30,1.0
+1981-11-18,England,Hungary,False,1,False,True,40,1.0
+1981-11-18,France,Netherlands,False,2,False,True,40,1.0
+1981-11-18,Germany,Albania,False,8,False,True,40,1.0
+1981-11-18,Northern Ireland,Israel,False,1,False,True,40,1.0
+1981-11-18,Poland,Spain,False,1,False,False,20,0.0
+1981-11-18,Portugal,Scotland,False,1,False,True,40,1.0
+1981-11-18,Russia,Wales,True,3,False,True,40,1.0
+1981-11-19,China,Saudi Arabia,True,2,False,True,40,1.0
+1981-11-19,El Salvador,Haiti,True,1,False,True,40,1.0
+1981-11-19,Zambia,Zimbabwe,True,0,True,False,30,0.5
+1981-11-20,Malawi,Zanzibar,True,3,False,True,30,1.0
+1981-11-20,Tanzania,Kenya,False,1,False,True,30,1.0
+1981-11-21,Cuba,Canada,True,0,True,False,40,0.5
+1981-11-21,Sudan,Zambia,True,2,False,False,30,0.0
+1981-11-21,Yugoslavia,Luxembourg,False,5,False,True,40,1.0
+1981-11-22,Germany,Bulgaria,False,4,False,True,40,1.0
+1981-11-22,Honduras,Mexico,False,0,True,False,40,0.5
+1981-11-24,Kenya,Uganda,True,2,False,True,30,1.0
+1981-11-24,Tanzania,Zambia,False,1,False,True,30,1.0
+1981-11-27,Uganda,Zambia,True,1,False,False,30,0.0
+1981-11-28,New Zealand,Saudi Arabia,False,0,True,False,40,0.5
+1981-11-28,Tanzania,Kenya,False,1,False,False,30,0.0
+1981-11-29,Cameroon,Morocco,False,1,False,True,40,1.0
+1981-11-29,Czechoslovakia,Russia,False,0,True,False,40,0.5
+1981-11-29,Greece,Yugoslavia,False,1,False,False,40,0.0
+1981-11-30,Kuwait,China,False,1,False,True,40,1.0
+1981-12-05,France,Cyprus,False,4,False,True,40,1.0
+1981-12-05,Italy,Luxembourg,False,1,False,True,40,1.0
+1981-12-07,Kuwait,Saudi Arabia,False,2,False,True,40,1.0
+1981-12-14,Kuwait,New Zealand,False,0,True,False,40,0.5
+1981-12-16,Bulgaria,Portugal,False,3,False,True,20,1.0
+1981-12-16,Spain,Belgium,False,2,False,True,20,1.0
+1981-12-19,Saudi Arabia,New Zealand,False,5,False,False,40,0.0
+1981-12-29,United Arab Emirates,Tunisia,False,3,False,False,20,0.0
+1982-01-10,China,New Zealand,True,1,False,False,40,0.0
+1982-01-17,Cameroon,Congo,False,1,False,True,20,1.0
+1982-01-17,Ethiopia,Tanzania,False,2,False,False,20,0.0
+1982-01-17,Singapore,Bahrain,False,2,False,True,20,1.0
+1982-01-19,Ethiopia,Tanzania,False,0,True,False,20,0.5
+1982-01-20,Greece,Portugal,False,1,False,False,20,0.0
+1982-01-24,Benin,Mali,False,1,False,False,20,0.0
+1982-01-24,Burkina Faso,Senegal,False,0,True,False,20,0.5
+1982-01-26,Brazil,German DR,False,2,False,True,20,1.0
+1982-01-31,Senegal,Benin,False,1,False,True,20,1.0
+1982-02-05,Libya,Guinea,False,3,False,True,20,1.0
+1982-02-06,Mali,Niger,False,0,True,False,20,0.5
+1982-02-07,Tunisia,Algeria,False,1,False,False,20,0.0
+1982-02-10,Greece,German DR,False,1,False,False,20,0.0
+1982-02-11,Cape Verde,Gambia,False,2,False,True,30,1.0
+1982-02-11,Guinea,Senegal,True,0,True,False,30,0.5
+1982-02-11,Guinea-Bissau,Sierra Leone,True,1,False,False,30,0.0
+1982-02-11,Mali,Mauritania,True,4,False,True,30,1.0
+1982-02-11,New Zealand,Hungary,False,1,False,False,20,0.0
+1982-02-13,Benin,Ghana,False,4,False,False,30,0.0
+1982-02-13,Cape Verde,Mali,False,1,False,True,30,1.0
+1982-02-13,Gambia,Mauritania,True,2,False,True,30,1.0
+1982-02-13,Guinea,Sierra Leone,True,1,False,True,30,1.0
+1982-02-13,Guinea-Bissau,Senegal,True,1,False,False,30,0.0
+1982-02-13,Liberia,Togo,True,1,False,False,30,0.0
+1982-02-14,Ethiopia,Uganda,False,1,False,False,20,0.0
+1982-02-14,New Zealand,Hungary,False,1,False,False,20,0.0
+1982-02-15,Benin,Niger,False,2,False,True,30,1.0
+1982-02-15,Cape Verde,Mauritania,False,1,False,False,30,0.0
+1982-02-15,Gambia,Mali,True,0,True,False,30,0.5
+1982-02-15,Ghana,Ivory Coast,True,0,True,False,30,0.5
+1982-02-15,Guinea-Bissau,Guinea,True,0,True,False,30,0.5
+1982-02-15,Liberia,Burkina Faso,True,1,False,False,30,0.0
+1982-02-15,Senegal,Sierra Leone,True,2,False,True,30,1.0
+1982-02-16,Bangladesh,Nepal,True,0,True,False,20,0.5
+1982-02-16,India,China,False,0,True,False,30,0.5
+1982-02-17,Benin,Ivory Coast,False,0,True,False,30,0.5
+1982-02-17,Cape Verde,Guinea,False,1,False,False,30,0.0
+1982-02-17,Germany,Portugal,False,2,False,True,20,1.0
+1982-02-17,Ghana,Niger,True,0,True,False,30,0.5
+1982-02-17,Mali,Senegal,True,1,False,False,30,0.0
+1982-02-17,Nepal,Oman,True,1,False,False,20,0.0
+1982-02-17,Togo,Burkina Faso,True,1,False,True,30,1.0
+1982-02-18,Ethiopia,Uganda,False,1,False,True,20,1.0
+1982-02-18,India,Korea Republic,False,0,True,False,30,0.5
+1982-02-18,Zambia,Botswana,False,2,False,True,20,1.0
+1982-02-19,Bangladesh,Oman,True,2,False,False,20,0.0
+1982-02-19,Cape Verde,Mali,False,1,False,False,30,0.0
+1982-02-19,Ghana,Burkina Faso,True,1,False,True,30,1.0
+1982-02-19,Guinea,Senegal,True,3,False,True,30,1.0
+1982-02-19,Ivory Coast,Niger,True,0,True,False,30,0.5
+1982-02-19,Libya,Qatar,False,1,False,True,20,1.0
+1982-02-20,Finland,Sweden,False,0,True,False,20,0.5
+1982-02-20,Korea Republic,Uruguay,True,0,True,False,30,0.5
+1982-02-21,Finland,Sweden,False,1,False,True,20,1.0
+1982-02-21,Ivory Coast,Togo,True,0,True,False,30,0.5
+1982-02-22,China,Uruguay,True,0,True,False,30,0.5
+1982-02-22,Ivory Coast,Burkina Faso,True,0,True,False,30,0.5
+1982-02-23,England,Northern Ireland,False,4,False,True,30,1.0
+1982-02-23,France,Italy,False,2,False,True,20,1.0
+1982-02-23,Ghana,Togo,True,1,False,True,30,1.0
+1982-02-24,Spain,Scotland,False,3,False,True,20,1.0
+1982-02-25,India,Uruguay,False,2,False,False,30,0.0
+1982-03-01,China,Korea Republic,True,0,True,False,30,0.5
+1982-03-01,United Arab Emirates,Honduras,False,1,False,False,20,0.0
+1982-03-02,Iraq,German DR,False,0,True,False,20,0.5
+1982-03-03,Brazil,Czechoslovakia,False,0,True,False,20,0.5
+1982-03-03,United Arab Emirates,Honduras,False,0,True,False,20,0.5
+1982-03-04,China,Uruguay,True,2,False,False,30,0.0
+1982-03-05,Cameroon,Tunisia,True,0,True,False,50,0.5
+1982-03-05,Libya,Ghana,False,0,True,False,50,0.5
+1982-03-06,Iran,Korea DPR,False,2,False,True,20,1.0
+1982-03-07,Algeria,Zambia,True,1,False,True,50,1.0
+1982-03-07,Ethiopia,Nigeria,True,3,False,False,50,0.0
+1982-03-07,Iraq,Korea Republic,False,3,False,True,20,1.0
+1982-03-09,Argentina,Czechoslovakia,False,0,True,False,20,0.5
+1982-03-09,Cameroon,Ghana,True,0,True,False,50,0.5
+1982-03-09,Libya,Tunisia,False,2,False,True,50,1.0
+1982-03-09,Liechtenstein,Switzerland,False,1,False,False,20,0.0
+1982-03-10,Algeria,Nigeria,True,1,False,True,50,1.0
+1982-03-10,Ethiopia,Zambia,True,1,False,False,50,0.0
+1982-03-10,Greece,Russia,False,2,False,False,20,0.0
+1982-03-10,Iraq,Korea Republic,False,0,True,False,20,0.5
+1982-03-10,United Arab Emirates,Singapore,False,3,False,True,20,1.0
+1982-03-12,Ghana,Tunisia,True,1,False,True,50,1.0
+1982-03-12,Libya,Cameroon,False,0,True,False,50,0.5
+1982-03-12,United Arab Emirates,Singapore,False,2,False,True,20,1.0
+1982-03-13,Algeria,Ethiopia,True,0,True,False,50,0.5
+1982-03-13,Nigeria,Zambia,True,3,False,False,50,0.0
+1982-03-14,Kuwait,Iceland,False,0,True,False,20,0.5
+1982-03-16,Algeria,Ghana,True,1,False,False,50,0.0
+1982-03-16,Libya,Zambia,False,1,False,True,50,1.0
+1982-03-18,Algeria,Zambia,True,2,False,False,50,0.0
+1982-03-19,Libya,Ghana,False,0,True,False,50,0.5
+1982-03-19,United Arab Emirates,Qatar,False,1,False,True,30,1.0
+1982-03-20,Bahrain,Kuwait,True,2,False,False,30,0.0
+1982-03-20,Iraq,Oman,True,4,False,True,30,1.0
+1982-03-21,Brazil,Germany,False,1,False,True,20,1.0
+1982-03-21,Korea Republic,Japan,False,3,False,True,20,1.0
+1982-03-21,Trinidad and Tobago,USA,False,1,False,False,20,0.0
+1982-03-21,United Arab Emirates,Saudi Arabia,False,1,False,True,30,1.0
+1982-03-22,Oman,Qatar,True,3,False,False,30,0.0
+1982-03-23,Chile,Peru,False,1,False,True,20,1.0
+1982-03-23,Scotland,Netherlands,False,1,False,True,20,1.0
+1982-03-24,Argentina,Germany,False,0,True,False,20,0.5
+1982-03-24,Belgium,Romania,False,3,False,True,20,1.0
+1982-03-24,Czechoslovakia,Greece,False,1,False,True,20,1.0
+1982-03-24,France,Northern Ireland,False,4,False,True,20,1.0
+1982-03-24,Hungary,Austria,False,1,False,False,20,0.0
+1982-03-24,Iraq,Saudi Arabia,True,0,True,False,30,0.5
+1982-03-24,Spain,Wales,False,0,True,False,20,0.5
+1982-03-24,Switzerland,Portugal,False,1,False,True,20,1.0
+1982-03-24,United Arab Emirates,Kuwait,False,2,False,False,30,0.0
+1982-03-25,Bahrain,Oman,True,3,False,True,30,1.0
+1982-03-26,Iraq,Qatar,True,1,False,True,30,1.0
+1982-03-26,Saudi Arabia,Kuwait,True,1,False,False,30,0.0
+1982-03-27,United Arab Emirates,Bahrain,False,1,False,False,30,0.0
+1982-03-29,Kuwait,Oman,True,2,False,True,30,1.0
+1982-03-29,Saudi Arabia,Qatar,True,1,False,True,30,1.0
+1982-03-30,Peru,Chile,False,1,False,True,30,1.0
+1982-03-31,Bahrain,Qatar,True,1,False,True,30,1.0
+1982-03-31,Saudi Arabia,Oman,True,3,False,True,30,1.0
+1982-04-01,Nepal,Bhutan,False,2,False,True,20,1.0
+1982-04-02,Bahrain,Saudi Arabia,True,0,True,False,30,0.5
+1982-04-02,United Arab Emirates,Oman,False,2,False,True,30,1.0
+1982-04-04,Kuwait,Qatar,True,1,False,False,30,0.0
+1982-04-07,India,Thailand,True,0,True,False,20,0.5
+1982-04-14,Argentina,Russia,False,0,True,False,20,0.5
+1982-04-14,Bulgaria,Romania,False,1,False,False,20,0.0
+1982-04-14,German DR,Italy,False,1,False,True,20,1.0
+1982-04-14,Germany,Czechoslovakia,False,1,False,True,20,1.0
+1982-04-14,Netherlands,Greece,False,1,False,True,20,1.0
+1982-04-18,El Salvador,Honduras,False,1,False,True,20,1.0
+1982-04-18,Hungary,Peru,False,1,False,False,20,0.0
+1982-04-19,Nepal,Thailand,False,1,False,True,20,1.0
+1982-04-22,Honduras,El Salvador,False,0,True,False,20,0.5
+1982-04-25,Algeria,Peru,False,0,True,False,20,0.5
+1982-04-27,Wales,England,False,1,False,False,30,0.0
+1982-04-28,Algeria,Ireland,False,2,False,True,20,1.0
+1982-04-28,Austria,Czechoslovakia,False,1,False,True,20,1.0
+1982-04-28,Belgium,Bulgaria,False,1,False,True,20,1.0
+1982-04-28,France,Peru,False,1,False,False,20,0.0
+1982-04-28,Northern Ireland,Scotland,False,0,True,False,30,0.5
+1982-04-28,Norway,Finland,False,0,True,False,30,0.5
+1982-04-28,Spain,Switzerland,False,2,False,True,20,1.0
+1982-05-01,Cameroon,Senegal,False,1,False,True,20,1.0
+1982-05-01,Romania,Cyprus,False,2,False,True,40,1.0
+1982-05-01,Thailand,Singapore,False,0,True,False,30,0.5
+1982-05-02,Cameroon,Guinea,False,0,True,False,20,0.5
+1982-05-04,Ghana,Senegal,True,0,True,False,20,0.5
+1982-05-05,Argentina,Bulgaria,False,1,False,True,20,1.0
+1982-05-05,Brazil,Portugal,False,2,False,True,20,1.0
+1982-05-05,Cameroon,Ghana,False,0,True,False,20,0.5
+1982-05-05,Denmark,Sweden,False,0,True,False,30,0.5
+1982-05-05,Guinea,Senegal,True,0,True,False,20,0.5
+1982-05-05,Korea Republic,Malaysia,True,5,False,True,30,1.0
+1982-05-05,Nepal,Singapore,True,2,False,False,30,0.0
+1982-05-05,Russia,German DR,False,1,False,True,20,1.0
+1982-05-06,Philippines,Singapore,True,1,False,False,30,0.0
+1982-05-07,Ghana,Guinea,True,0,True,False,20,0.5
+1982-05-08,Trinidad and Tobago,Bermuda,False,0,True,False,20,0.5
+1982-05-09,Macau,Hong Kong,False,1,False,True,20,1.0
+1982-05-09,Thailand,Korea Republic,False,3,False,False,30,0.0
+1982-05-12,Argentina,Romania,False,1,False,True,20,1.0
+1982-05-12,Morocco,Senegal,False,1,False,True,20,1.0
+1982-05-12,Norway,Germany,False,2,False,False,20,0.0
+1982-05-12,Trinidad and Tobago,Bermuda,False,2,False,True,20,1.0
+1982-05-13,Thailand,Singapore,False,1,False,True,30,1.0
+1982-05-15,Barbados,Bermuda,False,1,False,True,20,1.0
+1982-05-15,Thailand,Singapore,False,0,True,False,30,0.5
+1982-05-17,Barbados,Bermuda,False,0,True,False,20,0.5
+1982-05-17,Thailand,Korea Republic,False,0,True,False,30,0.5
+1982-05-19,Austria,Denmark,False,1,False,True,20,1.0
+1982-05-19,Brazil,Switzerland,False,0,True,False,20,0.5
+1982-05-19,Sweden,German DR,False,0,True,False,20,0.5
+1982-05-21,Chile,Ireland,False,1,False,True,20,1.0
+1982-05-24,Scotland,Wales,False,1,False,True,30,1.0
+1982-05-25,England,Netherlands,False,2,False,True,20,1.0
+1982-05-27,Brazil,Ireland,False,7,False,True,20,1.0
+1982-05-27,Denmark,Belgium,False,1,False,True,20,1.0
+1982-05-27,Wales,Northern Ireland,False,3,False,True,30,1.0
+1982-05-28,Switzerland,Italy,False,0,True,False,20,0.5
+1982-05-29,Scotland,England,False,1,False,False,30,0.0
+1982-05-30,Trinidad and Tobago,Ireland,False,1,False,True,20,1.0
+1982-06-02,France,Wales,False,1,False,False,20,0.0
+1982-06-02,Iceland,England,False,0,True,False,20,0.5
+1982-06-02,Japan,Singapore,False,2,False,True,30,1.0
+1982-06-03,Finland,England,False,3,False,False,20,0.0
+1982-06-03,Sweden,Russia,False,0,True,False,20,0.5
+1982-06-05,Malta,Iceland,True,1,False,True,40,1.0
+1982-06-06,Liechtenstein,China,False,2,False,True,20,1.0
+1982-06-06,Zimbabwe,Uganda,False,1,False,True,20,1.0
+1982-06-09,Korea Republic,India,False,1,False,True,30,1.0
+1982-06-10,Malaysia,Thailand,True,0,True,False,30,0.5
+1982-06-11,Korea Republic,Bahrain,False,3,False,True,30,1.0

@@ -1,0 +1,73 @@
+date,home,away,neutral,gdf,draw,win,k,result
+2002-05-31,France,Senegal,True,1,False,False,60,0.0
+2002-06-01,Germany,Saudi Arabia,True,8,False,True,60,1.0
+2002-06-01,Ireland,Cameroon,True,0,True,False,60,0.5
+2002-06-01,Uruguay,Denmark,True,1,False,False,60,0.0
+2002-06-02,Argentina,Nigeria,True,1,False,True,60,1.0
+2002-06-02,England,Sweden,True,0,True,False,60,0.5
+2002-06-02,Paraguay,South Africa,True,0,True,False,60,0.5
+2002-06-02,Spain,Slovenia,True,2,False,True,60,1.0
+2002-06-03,Brazil,Turkey,True,1,False,True,60,1.0
+2002-06-03,Croatia,Mexico,True,1,False,False,60,0.0
+2002-06-03,Italy,Ecuador,True,2,False,True,60,1.0
+2002-06-04,China,Costa Rica,True,2,False,False,60,0.0
+2002-06-04,Japan,Belgium,False,0,True,False,60,0.5
+2002-06-04,Korea Republic,Poland,False,2,False,True,60,1.0
+2002-06-05,Germany,Ireland,True,0,True,False,60,0.5
+2002-06-05,Russia,Tunisia,True,2,False,True,60,1.0
+2002-06-05,USA,Portugal,True,1,False,True,60,1.0
+2002-06-06,Cameroon,Saudi Arabia,True,1,False,True,60,1.0
+2002-06-06,Denmark,Senegal,True,0,True,False,60,0.5
+2002-06-06,France,Uruguay,True,0,True,False,60,0.5
+2002-06-06,St. Martin,Anguilla,False,1,False,True,20,1.0
+2002-06-07,Andorra,Armenia,False,2,False,False,20,0.0
+2002-06-07,Argentina,England,True,1,False,False,60,0.0
+2002-06-07,Spain,Paraguay,True,2,False,True,60,1.0
+2002-06-07,Sweden,Nigeria,True,1,False,True,60,1.0
+2002-06-08,Brazil,China,True,4,False,True,60,1.0
+2002-06-08,Italy,Croatia,True,1,False,False,60,0.0
+2002-06-08,Malawi,Botswana,False,2,False,True,20,1.0
+2002-06-08,South Africa,Slovenia,True,1,False,True,60,1.0
+2002-06-09,Costa Rica,Turkey,True,0,True,False,60,0.5
+2002-06-09,Japan,Russia,False,1,False,True,60,1.0
+2002-06-09,Malawi,Botswana,False,1,False,True,20,1.0
+2002-06-09,Mexico,Ecuador,True,1,False,True,60,1.0
+2002-06-10,Korea Republic,USA,False,0,True,False,60,0.5
+2002-06-10,Portugal,Poland,True,4,False,True,60,1.0
+2002-06-10,Tunisia,Belgium,True,0,True,False,60,0.5
+2002-06-11,Cameroon,Germany,True,2,False,False,60,0.0
+2002-06-11,Denmark,France,True,2,False,True,60,1.0
+2002-06-11,Saudi Arabia,Ireland,True,3,False,False,60,0.0
+2002-06-11,Senegal,Uruguay,True,0,True,False,60,0.5
+2002-06-12,Nigeria,England,True,0,True,False,60,0.5
+2002-06-12,Slovenia,Paraguay,True,2,False,False,60,0.0
+2002-06-12,South Africa,Spain,True,1,False,False,60,0.0
+2002-06-12,Sweden,Argentina,True,0,True,False,60,0.5
+2002-06-13,Costa Rica,Brazil,True,3,False,False,60,0.0
+2002-06-13,Ecuador,Croatia,True,1,False,True,60,1.0
+2002-06-13,Mexico,Italy,True,0,True,False,60,0.5
+2002-06-13,Turkey,China,True,3,False,True,60,1.0
+2002-06-14,Belgium,Russia,True,1,False,True,60,1.0
+2002-06-14,Japan,Tunisia,False,2,False,True,60,1.0
+2002-06-14,Korea Republic,Portugal,False,1,False,True,60,1.0
+2002-06-14,Poland,USA,True,2,False,True,60,1.0
+2002-06-15,Denmark,England,True,3,False,False,60,0.0
+2002-06-15,Germany,Paraguay,True,1,False,True,60,1.0
+2002-06-16,Spain,Ireland,True,0,True,False,60,0.5
+2002-06-16,Sweden,Senegal,True,1,False,False,60,0.0
+2002-06-17,Brazil,Belgium,True,2,False,True,60,1.0
+2002-06-17,Mexico,USA,True,2,False,False,60,0.0
+2002-06-18,Japan,Turkey,False,1,False,False,60,0.0
+2002-06-18,Korea Republic,Italy,False,1,False,True,60,1.0
+2002-06-21,England,Brazil,True,1,False,False,60,0.0
+2002-06-21,Germany,USA,True,1,False,True,60,1.0
+2002-06-22,Grenada,British Virgin Islands,False,5,False,True,20,1.0
+2002-06-22,Korea Republic,Spain,False,0,True,False,60,0.5
+2002-06-22,Senegal,Turkey,True,1,False,False,60,0.0
+2002-06-23,St. Martin,Anguilla,False,1,False,True,20,1.0
+2002-06-25,Korea Republic,Germany,False,1,False,False,60,0.0
+2002-06-25,Mozambique,Angola,False,0,True,False,20,0.5
+2002-06-26,Brazil,Turkey,True,1,False,True,60,1.0
+2002-06-29,Korea Republic,Turkey,False,1,False,False,60,0.0
+2002-06-30,Bhutan,Montserrat,False,4,False,True,20,1.0
+2002-06-30,Germany,Brazil,True,2,False,False,60,0.0

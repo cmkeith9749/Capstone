@@ -1,0 +1,63 @@
+date,home,away,neutral,gdf,draw,win,k,result
+2018-06-14,Russia,Saudi Arabia,False,5,False,True,60,1.0
+2018-06-15,Egypt,Uruguay,True,1,False,False,60,0.0
+2018-06-15,Morocco,Iran,True,1,False,False,60,0.0
+2018-06-15,Portugal,Spain,True,0,True,False,60,0.5
+2018-06-16,France,Australia,True,1,False,True,60,1.0
+2018-06-16,Argentina,Iceland,True,0,True,False,60,0.5
+2018-06-16,Peru,Denmark,True,1,False,False,60,0.0
+2018-06-16,Croatia,Nigeria,True,2,False,True,60,1.0
+2018-06-17,Costa Rica,Serbia,True,1,False,False,60,0.0
+2018-06-17,Germany,Mexico,True,1,False,False,60,0.0
+2018-06-17,Brazil,Switzerland,True,0,True,False,60,0.5
+2018-06-18,Sweden,Korea Republic,True,1,False,True,60,1.0
+2018-06-18,Belgium,Panama,True,3,False,True,60,1.0
+2018-06-18,Tunisia,England,True,1,False,False,60,0.0
+2018-06-19,Colombia,Japan,True,1,False,False,60,0.0
+2018-06-19,Poland,Senegal,True,1,False,False,60,0.0
+2018-06-19,Russia,Egypt,False,2,False,True,60,1.0
+2018-06-20,Portugal,Morocco,True,1,False,True,60,1.0
+2018-06-20,Uruguay,Saudi Arabia,True,1,False,True,60,1.0
+2018-06-20,Iran,Spain,True,1,False,False,60,0.0
+2018-06-21,Denmark,Australia,True,0,True,False,60,0.5
+2018-06-21,France,Peru,True,1,False,True,60,1.0
+2018-06-21,Argentina,Croatia,True,3,False,False,60,0.0
+2018-06-22,Brazil,Costa Rica,True,2,False,True,60,1.0
+2018-06-22,Nigeria,Iceland,True,2,False,True,60,1.0
+2018-06-22,Serbia,Switzerland,True,1,False,False,60,0.0
+2018-06-23,Belgium,Tunisia,True,3,False,True,60,1.0
+2018-06-23,Korea Republic,Mexico,True,1,False,False,60,0.0
+2018-06-23,Germany,Sweden,True,1,False,True,60,1.0
+2018-06-24,England,Panama,True,5,False,True,60,1.0
+2018-06-24,Japan,Senegal,True,0,True,False,60,0.5
+2018-06-24,Poland,Colombia,True,3,False,False,60,0.0
+2018-06-25,Russia,Uruguay,False,3,False,False,60,0.0
+2018-06-25,Saudi Arabia,Egypt,True,1,False,True,60,1.0
+2018-06-25,Spain,Morocco,True,0,True,False,60,0.5
+2018-06-25,Iran,Portugal,True,0,True,False,60,0.5
+2018-06-26,Australia,Peru,True,2,False,False,60,0.0
+2018-06-26,Denmark,France,True,0,True,False,60,0.5
+2018-06-26,Nigeria,Argentina,True,1,False,False,60,0.0
+2018-06-26,Iceland,Croatia,True,1,False,False,60,0.0
+2018-06-27,Korea Republic,Germany,True,2,False,True,60,1.0
+2018-06-27,Mexico,Sweden,True,3,False,False,60,0.0
+2018-06-27,Serbia,Brazil,True,2,False,False,60,0.0
+2018-06-27,Switzerland,Costa Rica,True,0,True,False,60,0.5
+2018-06-28,Japan,Poland,True,1,False,False,60,0.0
+2018-06-28,Senegal,Colombia,True,1,False,False,60,0.0
+2018-06-28,Panama,Tunisia,True,1,False,False,60,0.0
+2018-06-28,England,Belgium,True,1,False,False,60,0.0
+2018-06-30,France,Argentina,True,1,False,True,60,1.0
+2018-06-30,Uruguay,Portugal,True,1,False,True,60,1.0
+2018-07-01,Russia,Spain,False,0,True,False,60,0.5
+2018-07-01,Croatia,Denmark,True,0,True,False,60,0.5
+2018-07-02,Brazil,Mexico,True,2,False,True,60,1.0
+2018-07-02,Belgium,Japan,True,1,False,True,60,1.0
+2018-07-03,Sweden,Switzerland,True,1,False,True,60,1.0
+2018-07-03,Colombia,England,True,0,True,False,60,0.5
+2018-07-05,Malaysia,Fiji,False,1,False,True,20,1.0
+2018-07-06,Uruguay,France,True,2,False,False,60,0.0
+2018-07-06,Brazil,Belgium,True,1,False,False,60,0.0
+2018-07-07,Sweden,England,True,2,False,False,60,0.0
+2018-07-07,Russia,Croatia,False,0,True,False,60,0.5
+2018-07-10,France,Belgium,True,1,False,True,60,1.0

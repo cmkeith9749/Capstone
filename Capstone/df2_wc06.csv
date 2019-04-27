@@ -1,0 +1,76 @@
+date,home,away,neutral,gdf,draw,win,k,result
+2006-06-09,Germany,Costa Rica,False,2,False,True,60,1.0
+2006-06-09,Poland,Ecuador,True,2,False,False,60,0.0
+2006-06-10,Argentina,Ivory Coast,True,1,False,True,60,1.0
+2006-06-10,England,Paraguay,True,1,False,True,60,1.0
+2006-06-10,Trinidad and Tobago,Sweden,True,0,True,False,60,0.5
+2006-06-11,Angola,Portugal,True,1,False,False,60,0.0
+2006-06-11,Mexico,Iran,True,2,False,True,60,1.0
+2006-06-11,Serbia,Netherlands,True,1,False,False,60,0.0
+2006-06-12,Australia,Japan,True,2,False,True,60,1.0
+2006-06-12,Italy,Ghana,True,2,False,True,60,1.0
+2006-06-12,USA,Czech Republic,True,3,False,False,60,0.0
+2006-06-13,Brazil,Croatia,True,1,False,True,60,1.0
+2006-06-13,France,Switzerland,True,0,True,False,60,0.5
+2006-06-13,Korea Republic,Togo,True,1,False,True,60,1.0
+2006-06-14,Germany,Poland,False,1,False,True,60,1.0
+2006-06-14,Spain,Ukraine,True,4,False,True,60,1.0
+2006-06-14,Tunisia,Saudi Arabia,True,0,True,False,60,0.5
+2006-06-15,Ecuador,Costa Rica,True,3,False,True,60,1.0
+2006-06-15,England,Trinidad and Tobago,True,2,False,True,60,1.0
+2006-06-15,Sweden,Paraguay,True,1,False,True,60,1.0
+2006-06-16,Argentina,Serbia,True,6,False,True,60,1.0
+2006-06-16,Mexico,Angola,True,0,True,False,60,0.5
+2006-06-16,Netherlands,Ivory Coast,True,1,False,True,60,1.0
+2006-06-17,Czech Republic,Ghana,True,2,False,False,60,0.0
+2006-06-17,Italy,USA,True,0,True,False,60,0.5
+2006-06-17,Portugal,Iran,True,2,False,True,60,1.0
+2006-06-18,Brazil,Australia,True,2,False,True,60,1.0
+2006-06-18,France,Korea Republic,True,0,True,False,60,0.5
+2006-06-18,Japan,Croatia,True,0,True,False,60,0.5
+2006-06-19,Saudi Arabia,Ukraine,True,4,False,False,60,0.0
+2006-06-19,Spain,Tunisia,True,2,False,True,60,1.0
+2006-06-19,Togo,Switzerland,True,2,False,False,60,0.0
+2006-06-20,Costa Rica,Poland,True,1,False,False,60,0.0
+2006-06-20,Germany,Ecuador,False,3,False,True,60,1.0
+2006-06-20,Paraguay,Trinidad and Tobago,True,2,False,True,60,1.0
+2006-06-20,Sweden,England,True,0,True,False,60,0.5
+2006-06-21,Iran,Angola,True,0,True,False,60,0.5
+2006-06-21,Ivory Coast,Serbia,True,1,False,True,60,1.0
+2006-06-21,Netherlands,Argentina,True,0,True,False,60,0.5
+2006-06-21,Portugal,Mexico,True,1,False,True,60,1.0
+2006-06-22,Croatia,Australia,True,0,True,False,60,0.5
+2006-06-22,Czech Republic,Italy,True,2,False,False,60,0.0
+2006-06-22,Ghana,USA,True,1,False,True,60,1.0
+2006-06-22,Japan,Brazil,True,3,False,False,60,0.0
+2006-06-23,Saudi Arabia,Spain,True,1,False,False,60,0.0
+2006-06-23,Switzerland,Korea Republic,True,2,False,True,60,1.0
+2006-06-23,Togo,France,True,2,False,False,60,0.0
+2006-06-23,Ukraine,Tunisia,True,1,False,True,60,1.0
+2006-06-24,Argentina,Mexico,True,1,False,True,60,1.0
+2006-06-24,Germany,Sweden,False,2,False,True,60,1.0
+2006-06-24,Malawi,Zimbabwe,True,0,True,False,20,0.5
+2006-06-24,Mozambique,Swaziland,False,4,False,True,20,1.0
+2006-06-25,England,Ecuador,True,1,False,True,60,1.0
+2006-06-25,Mozambique,Malawi,False,1,False,False,20,0.0
+2006-06-25,Portugal,Netherlands,True,1,False,True,60,1.0
+2006-06-25,Swaziland,Zimbabwe,True,1,False,False,20,0.0
+2006-06-26,Italy,Australia,True,1,False,True,60,1.0
+2006-06-26,Mauritius,Tanzania,True,1,False,False,20,0.0
+2006-06-26,Switzerland,Ukraine,True,0,True,False,60,0.5
+2006-06-27,Brazil,Ghana,True,3,False,True,60,1.0
+2006-06-27,Spain,France,True,2,False,False,60,0.0
+2006-06-28,Seychelles,Mauritius,False,1,False,True,20,1.0
+2006-06-30,Germany,Argentina,False,0,True,False,60,0.5
+2006-06-30,Italy,Ukraine,True,3,False,True,60,1.0
+2006-06-30,Seychelles,Tanzania,False,1,False,True,20,1.0
+2006-07-01,Brazil,France,True,1,False,False,60,0.0
+2006-07-01,England,Portugal,True,0,True,False,60,0.5
+2006-07-02,Kazakhstan,Tajikistan,False,3,False,True,20,1.0
+2006-07-04,Germany,Italy,False,2,False,False,60,0.0
+2006-07-05,Kazakhstan,Kyrgyzstan,False,1,False,True,20,1.0
+2006-07-05,Portugal,France,True,1,False,False,60,0.0
+2006-07-06,Malawi,Botswana,False,1,False,True,20,1.0
+2006-07-08,Germany,Portugal,False,2,False,True,60,1.0
+2006-07-08,Malawi,Botswana,False,0,True,False,20,0.5
+2006-07-09,Italy,France,True,0,True,False,60,0.5

@@ -1,0 +1,40 @@
+date,home,away,neutral,gdf,draw,win,k,result
+1970-05-31,Mexico,Russia,False,0,True,False,60,0.5
+1970-06-02,Bulgaria,Peru,True,1,False,False,60,0.0
+1970-06-02,England,Romania,True,1,False,True,60,1.0
+1970-06-02,Israel,Uruguay,True,2,False,False,60,0.0
+1970-06-03,Belgium,El Salvador,True,3,False,True,60,1.0
+1970-06-03,Brazil,Czechoslovakia,True,3,False,True,60,1.0
+1970-06-03,Finland,Denmark,False,0,True,False,30,0.5
+1970-06-03,Germany,Morocco,True,1,False,True,60,1.0
+1970-06-03,Italy,Sweden,True,1,False,True,60,1.0
+1970-06-06,Belgium,Russia,True,3,False,False,60,0.0
+1970-06-06,Czechoslovakia,Romania,True,1,False,False,60,0.0
+1970-06-06,Italy,Uruguay,True,0,True,False,60,0.5
+1970-06-06,Morocco,Peru,True,3,False,False,60,0.0
+1970-06-06,Uganda,Tanzania,False,0,True,False,20,0.5
+1970-06-07,Brazil,England,True,1,False,True,60,1.0
+1970-06-07,Bulgaria,Germany,True,3,False,False,60,0.0
+1970-06-07,Israel,Sweden,True,0,True,False,60,0.5
+1970-06-07,Mexico,El Salvador,False,4,False,True,60,1.0
+1970-06-10,Brazil,Romania,True,1,False,True,60,1.0
+1970-06-10,El Salvador,Russia,True,2,False,False,60,0.0
+1970-06-10,Germany,Peru,True,2,False,True,60,1.0
+1970-06-10,Sweden,Uruguay,True,1,False,True,60,1.0
+1970-06-11,Bulgaria,Morocco,True,0,True,False,60,0.5
+1970-06-11,Czechoslovakia,England,True,1,False,False,60,0.0
+1970-06-11,Israel,Italy,True,0,True,False,60,0.5
+1970-06-11,Mexico,Belgium,False,1,False,True,60,1.0
+1970-06-13,Honduras,Panama,False,1,False,True,20,1.0
+1970-06-14,Brazil,Peru,True,2,False,True,60,1.0
+1970-06-14,England,Germany,True,1,False,False,60,0.0
+1970-06-14,Mexico,Italy,False,3,False,False,60,0.0
+1970-06-14,Russia,Uruguay,True,1,False,False,60,0.0
+1970-06-17,Brazil,Uruguay,True,2,False,True,60,1.0
+1970-06-17,Germany,Italy,True,1,False,False,60,0.0
+1970-06-17,Norway,Finland,False,2,False,True,30,1.0
+1970-06-20,Germany,Uruguay,True,1,False,True,60,1.0
+1970-06-20,Malaysia,Singapore,True,5,False,True,30,1.0
+1970-06-21,Brazil,Italy,True,3,False,True,60,1.0
+1970-06-21,Indonesia,Hong Kong,False,1,False,True,30,1.0
+1970-06-21,Korea Republic,Singapore,True,8,False,True,30,1.0

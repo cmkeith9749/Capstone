@@ -1,0 +1,81 @@
+date,home,away,neutral,gdf,draw,win,k,result
+1998-06-10,Brazil,Scotland,True,1,False,True,60,1.0
+1998-06-10,Morocco,Norway,True,0,True,False,60,0.5
+1998-06-11,Cameroon,Austria,True,0,True,False,60,0.5
+1998-06-11,Italy,Chile,True,0,True,False,60,0.5
+1998-06-12,France,South Africa,False,3,False,True,60,1.0
+1998-06-12,Paraguay,Bulgaria,True,0,True,False,60,0.5
+1998-06-12,Saudi Arabia,Denmark,True,1,False,False,60,0.0
+1998-06-13,Korea Republic,Mexico,True,2,False,False,60,0.0
+1998-06-13,Netherlands,Belgium,True,0,True,False,60,0.5
+1998-06-13,Seychelles,Kenya,False,1,False,False,20,0.0
+1998-06-13,Spain,Nigeria,True,1,False,False,60,0.0
+1998-06-14,Argentina,Japan,True,1,False,True,60,1.0
+1998-06-14,Jamaica,Croatia,True,2,False,False,60,0.0
+1998-06-14,Serbia,Iran,True,1,False,True,60,1.0
+1998-06-15,England,Tunisia,True,2,False,True,60,1.0
+1998-06-15,Germany,USA,True,2,False,True,60,1.0
+1998-06-15,Romania,Colombia,True,1,False,True,60,1.0
+1998-06-16,Brazil,Morocco,True,3,False,True,60,1.0
+1998-06-16,Scotland,Norway,True,0,True,False,60,0.5
+1998-06-17,Chile,Austria,True,0,True,False,60,0.5
+1998-06-17,Italy,Cameroon,True,3,False,True,60,1.0
+1998-06-18,France,Saudi Arabia,False,4,False,True,60,1.0
+1998-06-18,South Africa,Denmark,True,0,True,False,60,0.5
+1998-06-19,Nigeria,Bulgaria,True,1,False,True,60,1.0
+1998-06-19,Spain,Paraguay,True,0,True,False,60,0.5
+1998-06-20,Belgium,Mexico,True,0,True,False,60,0.5
+1998-06-20,Japan,Croatia,True,1,False,False,60,0.0
+1998-06-20,Netherlands,Korea Republic,True,5,False,True,60,1.0
+1998-06-21,Argentina,Jamaica,True,5,False,True,60,1.0
+1998-06-21,Germany,Serbia,True,0,True,False,60,0.5
+1998-06-21,USA,Iran,True,1,False,False,60,0.0
+1998-06-22,Colombia,Tunisia,True,1,False,True,60,1.0
+1998-06-22,Estonia,Andorra,False,1,False,True,20,1.0
+1998-06-22,Romania,England,True,1,False,True,60,1.0
+1998-06-23,Brazil,Norway,True,1,False,False,60,0.0
+1998-06-23,Chile,Cameroon,True,0,True,False,60,0.5
+1998-06-23,Italy,Austria,True,1,False,True,60,1.0
+1998-06-23,Scotland,Morocco,True,3,False,False,60,0.0
+1998-06-24,Andorra,Azerbaijan,True,0,True,False,20,0.5
+1998-06-24,France,Denmark,False,1,False,True,60,1.0
+1998-06-24,Nigeria,Paraguay,True,2,False,False,60,0.0
+1998-06-24,South Africa,Saudi Arabia,True,0,True,False,60,0.5
+1998-06-24,Spain,Bulgaria,True,5,False,True,60,1.0
+1998-06-25,Belgium,Korea Republic,True,0,True,False,60,0.5
+1998-06-25,Estonia,Latvia,False,2,False,False,30,0.0
+1998-06-25,Germany,Iran,True,2,False,True,60,1.0
+1998-06-25,Netherlands,Mexico,True,0,True,False,60,0.5
+1998-06-25,USA,Serbia,True,1,False,False,60,0.0
+1998-06-26,Argentina,Croatia,True,1,False,True,60,1.0
+1998-06-26,Azerbaijan,Lithuania,True,1,False,True,20,1.0
+1998-06-26,Colombia,England,True,2,False,False,60,0.0
+1998-06-26,Japan,Jamaica,True,1,False,False,60,0.0
+1998-06-26,Latvia,Andorra,True,2,False,True,20,1.0
+1998-06-26,Romania,Tunisia,True,0,True,False,60,0.5
+1998-06-27,Brazil,Chile,True,3,False,True,60,1.0
+1998-06-27,Italy,Norway,True,1,False,True,60,1.0
+1998-06-27,Thailand,China,False,3,False,False,20,0.0
+1998-06-28,Estonia,Lithuania,False,0,True,False,30,0.5
+1998-06-28,France,Paraguay,False,1,False,True,60,1.0
+1998-06-28,Nigeria,Denmark,True,3,False,False,60,0.0
+1998-06-29,Germany,Mexico,True,1,False,True,60,1.0
+1998-06-29,Lithuania,Andorra,True,4,False,True,20,1.0
+1998-06-29,Netherlands,Serbia,True,1,False,True,60,1.0
+1998-06-30,Argentina,England,True,0,True,False,60,0.5
+1998-06-30,Romania,Croatia,True,1,False,False,60,0.0
+1998-07-02,Oman,Syria,False,1,False,False,20,0.0
+1998-07-03,Brazil,Denmark,True,1,False,True,60,1.0
+1998-07-03,France,Italy,False,0,True,False,60,0.5
+1998-07-04,Germany,Croatia,True,3,False,False,60,0.0
+1998-07-04,Netherlands,Argentina,True,1,False,True,60,1.0
+1998-07-05,Rwanda,Tanzania,False,2,False,True,20,1.0
+1998-07-06,Malawi,Mozambique,False,1,False,True,20,1.0
+1998-07-06,Rwanda,Tanzania,False,0,True,False,20,0.5
+1998-07-07,Brazil,Netherlands,True,0,True,False,60,0.5
+1998-07-08,France,Croatia,False,1,False,True,60,1.0
+1998-07-08,Malawi,Mozambique,False,0,True,False,20,0.5
+1998-07-10,Uganda,Tanzania,False,3,False,True,20,1.0
+1998-07-11,Malawi,Mozambique,False,0,True,False,20,0.5
+1998-07-11,Netherlands,Croatia,True,1,False,False,60,0.0
+1998-07-12,France,Brazil,False,3,False,True,60,1.0

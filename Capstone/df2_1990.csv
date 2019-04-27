@@ -1,0 +1,2223 @@
+date,home,away,neutral,gdf,draw,win,k,result
+1990-07-09,Barbados,Grenada,False,0,True,False,20,0.5
+1990-07-09,Malawi,Tanzania,False,0,True,False,20,0.5
+1990-07-10,Barbados,Grenada,False,4,False,True,20,1.0
+1990-07-11,Malawi,Tanzania,False,0,True,False,20,0.5
+1990-07-23,Barbados,Martinique,True,0,True,False,30,0.5
+1990-07-27,China,Korea DPR,False,2,False,True,30,1.0
+1990-07-27,Japan,Korea Republic,True,2,False,False,30,0.0
+1990-07-27,Trinidad and Tobago,Jamaica,False,0,True,False,30,0.5
+1990-07-29,China,Japan,False,1,False,True,30,1.0
+1990-07-29,Korea Republic,Korea DPR,True,1,False,True,30,1.0
+1990-07-29,Togo,Mali,False,0,True,False,20,0.5
+1990-07-31,China,Korea Republic,False,1,False,False,30,0.0
+1990-07-31,Japan,Korea DPR,True,1,False,False,30,0.0
+1990-08-03,China,Korea Republic,False,0,True,False,30,0.5
+1990-08-04,Malawi,Congo DR,False,1,False,True,20,1.0
+1990-08-06,Malawi,Congo DR,False,1,False,True,20,1.0
+1990-08-08,Faroe Islands,Iceland,False,1,False,False,20,0.0
+1990-08-08,Malawi,Congo DR,False,0,True,False,20,0.5
+1990-08-09,Tunisia,Morocco,False,0,True,False,20,0.5
+1990-08-11,Réunion,Congo,False,1,False,True,20,1.0
+1990-08-12,Gabon,Mali,False,0,True,False,20,0.5
+1990-08-12,Swaziland,Mozambique,False,0,True,False,20,0.5
+1990-08-12,Zambia,Congo DR,False,0,True,False,20,0.5
+1990-08-13,Mozambique,Zimbabwe,True,1,False,False,20,0.0
+1990-08-15,France,Poland,False,0,True,False,20,0.5
+1990-08-16,New Zealand,China,False,1,False,True,20,1.0
+1990-08-17,Egypt,Ethiopia,False,2,False,True,40,1.0
+1990-08-18,Indonesia,Singapore,False,6,False,True,20,1.0
+1990-08-18,Malawi,Congo,False,1,False,False,40,0.0
+1990-08-19,Cameroon,Mali,False,0,True,False,40,0.5
+1990-08-19,Congo DR,Tanzania,False,2,False,True,40,1.0
+1990-08-19,Gabon,Uganda,False,1,False,True,40,1.0
+1990-08-19,Ivory Coast,Mauritania,False,2,False,True,40,1.0
+1990-08-19,Morocco,Niger,False,2,False,True,40,1.0
+1990-08-19,Tunisia,Chad,False,1,False,True,40,1.0
+1990-08-19,Zambia,Swaziland,False,5,False,True,40,1.0
+1990-08-21,Austria,Switzerland,False,2,False,False,20,0.0
+1990-08-22,Norway,Sweden,False,1,False,False,20,0.0
+1990-08-24,New Zealand,China,False,1,False,True,20,1.0
+1990-08-25,Botswana,Swaziland,False,1,False,True,20,1.0
+1990-08-25,Indonesia,Australia,False,3,False,False,20,0.0
+1990-08-25,Zambia,Zimbabwe,True,2,False,True,20,1.0
+1990-08-26,Botswana,Zimbabwe,False,7,False,False,20,0.0
+1990-08-27,Mali,Burkina Faso,False,1,False,True,20,1.0
+1990-08-29,Finland,Czechoslovakia,False,0,True,False,20,0.5
+1990-08-29,Portugal,Germany,False,0,True,False,20,0.5
+1990-08-29,Russia,Romania,False,1,False,False,20,0.0
+1990-08-30,Mozambique,Angola,False,2,False,False,20,0.0
+1990-09-01,Sierra Leone,Cameroon,False,0,True,False,40,0.5
+1990-09-01,Uganda,Congo DR,False,1,False,True,40,1.0
+1990-09-02,Congo,Zimbabwe,False,2,False,True,40,1.0
+1990-09-02,Mali,Guinea,False,0,True,False,40,0.5
+1990-09-02,Morocco,Mauritania,False,4,False,True,40,1.0
+1990-09-02,Mozambique,Kenya,False,1,False,True,40,1.0
+1990-09-02,Swaziland,Angola,False,0,True,False,40,0.5
+1990-09-05,Greece,Albania,False,1,False,True,20,1.0
+1990-09-05,Hungary,Turkey,False,3,False,True,20,1.0
+1990-09-05,Iceland,France,False,1,False,False,40,0.0
+1990-09-05,Sweden,Denmark,False,1,False,False,20,0.0
+1990-09-06,Korea Republic,Australia,False,1,False,True,20,1.0
+1990-09-08,Malaysia,Yemen,False,1,False,False,20,0.0
+1990-09-09,Korea Republic,Australia,False,1,False,True,20,1.0
+1990-09-11,Denmark,Wales,False,1,False,True,20,1.0
+1990-09-12,Belgium,German DR,False,2,False,False,20,0.0
+1990-09-12,England,Hungary,False,1,False,True,20,1.0
+1990-09-12,Faroe Islands,Austria,True,1,False,True,40,1.0
+1990-09-12,Finland,Portugal,False,0,True,False,40,0.5
+1990-09-12,Ireland,Morocco,False,1,False,True,20,1.0
+1990-09-12,Northern Ireland,Yugoslavia,False,2,False,False,40,0.0
+1990-09-12,Russia,Norway,False,2,False,True,40,1.0
+1990-09-12,Scotland,Romania,False,1,False,True,40,1.0
+1990-09-12,Spain,Brazil,False,3,False,True,20,1.0
+1990-09-12,Switzerland,Bulgaria,False,2,False,True,40,1.0
+1990-09-13,Singapore,Malaysia,False,3,False,True,20,1.0
+1990-09-15,USA,Trinidad and Tobago,False,3,False,True,20,1.0
+1990-09-26,Czechoslovakia,Iceland,False,1,False,True,40,1.0
+1990-09-26,Italy,Netherlands,False,1,False,True,20,1.0
+1990-09-26,Romania,Poland,False,1,False,True,20,1.0
+1990-09-26,Sweden,Bulgaria,False,2,False,True,20,1.0
+1990-09-30,Aruba,Curaçao,False,2,False,False,20,0.0
+1990-09-30,Benin,Nigeria,False,1,False,False,40,0.0
+1990-09-30,Botswana,Cameroon,False,0,True,False,20,0.5
+1990-09-30,Niger,Ivory Coast,False,1,False,False,40,0.0
+1990-09-30,Togo,Ghana,False,1,False,False,40,0.0
+1990-10-10,Denmark,Faroe Islands,False,3,False,True,40,1.0
+1990-10-10,Greece,Egypt,False,5,False,True,20,1.0
+1990-10-10,Norway,Hungary,False,0,True,False,40,0.5
+1990-10-10,Poland,USA,False,1,False,False,20,0.0
+1990-10-10,Spain,Iceland,False,1,False,True,40,1.0
+1990-10-10,Sweden,Germany,False,2,False,False,20,0.0
+1990-10-11,Korea DPR,Korea Republic,False,1,False,True,20,1.0
+1990-10-13,France,Czechoslovakia,False,1,False,True,40,1.0
+1990-10-14,Benin,Togo,False,0,True,False,40,0.5
+1990-10-17,Croatia,USA,False,1,False,True,20,1.0
+1990-10-17,England,Poland,False,2,False,True,40,1.0
+1990-10-17,Hungary,Italy,False,0,True,False,40,0.5
+1990-10-17,Ireland,Turkey,False,5,False,True,40,1.0
+1990-10-17,Northern Ireland,Denmark,False,0,True,False,40,0.5
+1990-10-17,Portugal,Netherlands,False,1,False,True,40,1.0
+1990-10-17,Romania,Bulgaria,False,3,False,False,40,0.0
+1990-10-17,Scotland,Switzerland,False,1,False,True,40,1.0
+1990-10-17,Wales,Belgium,False,2,False,True,40,1.0
+1990-10-23,Korea Republic,Korea DPR,False,1,False,True,20,1.0
+1990-10-31,Greece,Malta,False,4,False,True,40,1.0
+1990-10-31,Hungary,Cyprus,False,2,False,True,40,1.0
+1990-10-31,Luxembourg,Germany,False,1,False,False,40,0.0
+1990-10-31,Norway,Cameroon,False,5,False,True,20,1.0
+1990-10-31,Yugoslavia,Austria,False,3,False,True,40,1.0
+1990-11-01,Fiji,Solomon Islands,True,0,True,False,20,0.5
+1990-11-01,Vanuatu,New Caledonia,False,1,False,True,20,1.0
+1990-11-03,Italy,Russia,False,0,True,False,40,0.5
+1990-11-03,New Caledonia,Papua New Guinea,True,1,False,True,20,1.0
+1990-11-03,Vanuatu,Solomon Islands,False,0,True,False,20,0.5
+1990-11-05,New Caledonia,Fiji,True,0,True,False,20,0.5
+1990-11-05,Vanuatu,Papua New Guinea,False,1,False,True,20,1.0
+1990-11-06,Solomon Islands,Papua New Guinea,True,1,False,True,20,1.0
+1990-11-06,Vanuatu,Fiji,False,0,True,False,20,0.5
+1990-11-07,Tunisia,Norway,False,2,False,False,20,0.0
+1990-11-08,Brazil,Chile,False,0,True,False,20,0.5
+1990-11-08,Fiji,Papua New Guinea,True,1,False,True,20,1.0
+1990-11-08,New Caledonia,Solomon Islands,True,2,False,True,20,1.0
+1990-11-09,Angola,Mozambique,False,2,False,True,20,1.0
+1990-11-10,Congo,Mozambique,True,1,False,True,20,1.0
+1990-11-11,Angola,Congo,False,1,False,True,20,1.0
+1990-11-11,Tunisia,Finland,False,1,False,False,20,0.0
+1990-11-14,Austria,Northern Ireland,False,0,True,False,40,0.5
+1990-11-14,Bulgaria,Scotland,False,0,True,False,40,0.5
+1990-11-14,Cyprus,Norway,False,3,False,False,40,0.0
+1990-11-14,Czechoslovakia,Spain,False,1,False,True,40,1.0
+1990-11-14,Denmark,Yugoslavia,False,2,False,False,40,0.0
+1990-11-14,Ireland,England,False,0,True,False,40,0.5
+1990-11-14,Luxembourg,Wales,False,1,False,False,40,0.0
+1990-11-14,San Marino,Switzerland,False,4,False,False,40,0.0
+1990-11-14,Turkey,Poland,False,1,False,False,40,0.0
+1990-11-17,Albania,France,False,1,False,False,40,0.0
+1990-11-18,Ethiopia,Tunisia,False,2,False,False,40,0.0
+1990-11-18,Trinidad and Tobago,USA,False,0,True,False,20,0.5
+1990-11-21,USA,Russia,True,0,True,False,20,0.5
+1990-11-24,Trinidad and Tobago,Russia,False,2,False,False,20,0.0
+1990-11-25,Malta,Finland,False,0,True,False,40,0.5
+1990-11-29,Tanzania,Uganda,False,0,True,False,20,0.5
+1990-11-30,Guatemala,Russia,False,3,False,False,20,0.0
+1990-12-05,Romania,San Marino,False,6,False,True,40,1.0
+1990-12-08,Congo,Chad,False,3,False,True,30,1.0
+1990-12-08,Zanzibar,Tanzania,False,0,True,False,30,0.5
+1990-12-09,Cameroon,Gabon,True,1,False,True,30,1.0
+1990-12-09,Kenya,Uganda,True,0,True,False,30,0.5
+1990-12-09,Malawi,Zimbabwe,True,0,True,False,30,0.5
+1990-12-11,Central African Republic,Gabon,True,1,False,False,30,0.0
+1990-12-11,Malawi,Tanzania,True,1,False,True,30,1.0
+1990-12-12,Chad,Equatorial Guinea,True,1,False,True,30,1.0
+1990-12-12,Kenya,Sudan,True,1,False,False,30,0.0
+1990-12-12,Mexico,Brazil,True,0,True,False,20,0.5
+1990-12-12,Zanzibar,Zimbabwe,False,1,False,False,30,0.0
+1990-12-13,Central African Republic,Cameroon,True,3,False,False,30,0.0
+1990-12-13,Congo,Equatorial Guinea,False,6,False,True,30,1.0
+1990-12-14,Sudan,Uganda,True,0,True,False,30,0.5
+1990-12-14,Tanzania,Zimbabwe,True,2,False,True,30,1.0
+1990-12-14,Zanzibar,Malawi,False,1,False,True,30,1.0
+1990-12-15,Chad,Cameroon,True,1,False,False,30,0.0
+1990-12-15,Congo,Gabon,False,1,False,True,30,1.0
+1990-12-17,Central African Republic,Equatorial Guinea,True,0,True,False,30,0.5
+1990-12-17,Chad,Gabon,True,1,False,True,30,1.0
+1990-12-17,Tanzania,Uganda,True,0,True,False,20,0.5
+1990-12-17,Zanzibar,Sudan,False,1,False,False,30,0.0
+1990-12-18,Algeria,Senegal,False,1,False,True,20,1.0
+1990-12-18,Congo,Cameroon,False,1,False,True,30,1.0
+1990-12-19,Germany,Switzerland,False,4,False,True,20,1.0
+1990-12-19,Greece,Poland,False,1,False,False,20,0.0
+1990-12-19,Malta,Netherlands,False,8,False,False,40,0.0
+1990-12-19,Portugal,USA,False,1,False,True,20,1.0
+1990-12-19,Spain,Albania,False,9,False,True,40,1.0
+1990-12-19,Zanzibar,Tanzania,False,1,False,False,30,0.0
+1990-12-20,Sudan,Uganda,True,2,False,False,30,0.0
+1990-12-22,Croatia,Romania,False,2,False,True,20,1.0
+1990-12-22,Cyprus,Italy,False,4,False,False,40,0.0
+1991-01-06,Burkina Faso,Mali,False,2,False,True,20,1.0
+1991-01-09,Burkina Faso,Niger,False,0,True,False,20,0.5
+1991-01-11,Russia,Zambia,True,4,False,True,30,1.0
+1991-01-13,Burkina Faso,Nigeria,False,0,True,False,40,0.5
+1991-01-13,Ghana,Benin,False,4,False,True,40,1.0
+1991-01-13,Morocco,Ivory Coast,False,2,False,True,40,1.0
+1991-01-14,Hungary,Russia,True,0,True,False,30,0.5
+1991-01-16,Spain,Portugal,False,0,True,False,20,0.5
+1991-01-17,India,Hungary,False,1,False,False,30,0.0
+1991-01-20,India,Zambia,False,1,False,True,30,1.0
+1991-01-23,Greece,Portugal,False,1,False,True,40,1.0
+1991-01-23,Hungary,Zambia,True,3,False,True,30,1.0
+1991-01-24,India,Russia,False,2,False,False,30,0.0
+1991-01-27,Benin,Burkina Faso,False,1,False,False,40,0.0
+1991-01-27,Niger,Morocco,False,1,False,True,40,1.0
+1991-01-27,Togo,Nigeria,False,0,True,False,40,0.5
+1991-01-29,Mexico,Colombia,False,0,True,False,20,0.5
+1991-01-30,Australia,Czechoslovakia,False,1,False,False,20,0.0
+1991-02-01,USA,Switzerland,False,1,False,False,20,0.0
+1991-02-03,Colombia,Switzerland,True,1,False,False,20,0.0
+1991-02-05,Northern Ireland,Poland,False,2,False,True,20,1.0
+1991-02-06,Australia,Czechoslovakia,False,2,False,False,20,0.0
+1991-02-06,England,Cameroon,False,2,False,True,20,1.0
+1991-02-06,Guinea-Bissau,Gambia,False,1,False,True,20,1.0
+1991-02-06,Scotland,Russia,False,1,False,False,20,0.0
+1991-02-06,Wales,Ireland,False,3,False,False,20,0.0
+1991-02-07,Guinea-Bissau,Mauritania,False,2,False,True,20,1.0
+1991-02-09,Malta,Portugal,False,1,False,False,40,0.0
+1991-02-13,Italy,Belgium,False,0,True,False,20,0.5
+1991-02-15,Algeria,Cameroon,True,0,True,False,20,0.5
+1991-02-15,Senegal,Ivory Coast,False,0,True,False,20,0.5
+1991-02-17,Gambia,Mauritania,False,0,True,False,20,0.5
+1991-02-17,Ivory Coast,Cameroon,True,1,False,True,20,1.0
+1991-02-17,Senegal,Algeria,False,2,False,False,20,0.0
+1991-02-19,Argentina,Hungary,False,2,False,True,20,1.0
+1991-02-20,France,Spain,False,2,False,True,40,1.0
+1991-02-20,Portugal,Malta,False,5,False,True,40,1.0
+1991-02-21,Bermuda,USA,False,1,False,True,20,1.0
+1991-02-27,Belgium,Luxembourg,False,3,False,True,40,1.0
+1991-02-27,Brazil,Paraguay,False,0,True,False,20,0.5
+1991-02-27,Cyprus,Greece,False,0,True,False,20,0.5
+1991-02-27,Turkey,Yugoslavia,False,0,True,False,20,0.5
+1991-03-02,Suriname,French Guyana,False,3,False,True,20,1.0
+1991-03-05,Algeria,Tunisia,False,1,False,True,20,1.0
+1991-03-09,Uganda,Sudan,False,1,False,False,20,0.0
+1991-03-12,Liechtenstein,Switzerland,False,6,False,False,20,0.0
+1991-03-12,USA,Mexico,False,0,True,False,30,0.5
+1991-03-13,Argentina,Mexico,False,0,True,False,20,0.5
+1991-03-13,Netherlands,Malta,False,1,False,True,40,1.0
+1991-03-13,Poland,Finland,False,0,True,False,20,0.5
+1991-03-14,Canada,Mexico,True,3,False,False,30,0.0
+1991-03-16,USA,Canada,False,2,False,True,30,1.0
+1991-03-27,Argentina,Brazil,False,0,True,False,20,0.5
+1991-03-27,Belgium,Wales,False,0,True,False,40,0.5
+1991-03-27,Czechoslovakia,Poland,False,4,False,True,20,1.0
+1991-03-27,England,Ireland,False,0,True,False,40,0.5
+1991-03-27,Germany,Russia,False,1,False,True,20,1.0
+1991-03-27,Morocco,Greece,False,0,True,False,20,0.5
+1991-03-27,San Marino,Romania,False,2,False,False,40,0.0
+1991-03-27,Scotland,Bulgaria,False,0,True,False,40,0.5
+1991-03-27,Spain,Hungary,False,2,False,False,20,0.0
+1991-03-27,Tunisia,Turkey,False,0,True,False,20,0.5
+1991-03-27,Yugoslavia,Northern Ireland,False,3,False,True,40,1.0
+1991-03-30,France,Albania,False,5,False,True,40,1.0
+1991-04-03,Algeria,Morocco,False,0,True,False,20,0.5
+1991-04-03,Cyprus,Hungary,False,2,False,False,40,0.0
+1991-04-03,Switzerland,Romania,False,0,True,False,40,0.5
+1991-04-07,Mali,Burkina Faso,False,4,False,True,20,1.0
+1991-04-07,Sudan,Uganda,False,0,True,False,20,0.5
+1991-04-07,Tunisia,Algeria,False,0,True,False,20,0.5
+1991-04-09,Denmark,Bulgaria,False,0,True,False,20,0.5
+1991-04-09,Mexico,Chile,False,1,False,True,20,1.0
+1991-04-12,Mauritania,Morocco,False,2,False,False,40,0.0
+1991-04-13,Nigeria,Ghana,False,0,True,False,40,0.5
+1991-04-14,Angola,Zambia,False,1,False,False,40,0.0
+1991-04-14,Congo DR,Gabon,False,1,False,True,40,1.0
+1991-04-14,Guinea,Cameroon,False,0,True,False,40,0.5
+1991-04-14,Mali,Sierra Leone,False,0,True,False,40,0.5
+1991-04-14,Nicaragua,El Salvador,False,1,False,False,30,0.0
+1991-04-14,Sudan,Kenya,False,1,False,True,40,1.0
+1991-04-14,Swaziland,Madagascar,False,1,False,False,40,0.0
+1991-04-14,Tunisia,Egypt,False,0,True,False,40,0.5
+1991-04-14,Uganda,Tanzania,False,1,False,True,40,1.0
+1991-04-14,Zimbabwe,Malawi,False,4,False,True,40,1.0
+1991-04-17,Austria,Norway,False,0,True,False,20,0.5
+1991-04-17,Congo,Benin,False,1,False,False,20,0.0
+1991-04-17,Costa Rica,Mexico,False,0,True,False,20,0.5
+1991-04-17,Greece,Sweden,False,0,True,False,20,0.5
+1991-04-17,Hungary,Russia,False,1,False,False,40,0.0
+1991-04-17,Netherlands,Finland,False,2,False,True,40,1.0
+1991-04-17,Poland,Turkey,False,3,False,True,40,1.0
+1991-04-17,Spain,Romania,False,2,False,False,20,0.0
+1991-04-21,Togo,Burkina Faso,False,1,False,True,40,1.0
+1991-04-27,Nigeria,Benin,False,3,False,True,40,1.0
+1991-04-27,Tanzania,Congo DR,False,1,False,True,40,1.0
+1991-04-28,Chad,Tunisia,False,0,True,False,40,0.5
+1991-04-28,Congo,Malawi,False,1,False,True,40,1.0
+1991-04-28,Mali,Cameroon,False,2,False,False,40,0.0
+1991-04-28,Mozambique,Sudan,False,1,False,True,40,1.0
+1991-04-28,Sierra Leone,Guinea,False,1,False,False,40,0.0
+1991-04-28,Swaziland,Zambia,False,1,False,True,40,1.0
+1991-04-29,Ghana,Togo,False,2,False,True,40,1.0
+1991-04-30,Ivory Coast,Niger,False,1,False,True,40,1.0
+1991-05-01,Albania,Czechoslovakia,False,2,False,False,40,0.0
+1991-05-01,Bulgaria,Switzerland,False,1,False,False,40,0.0
+1991-05-01,Germany,Belgium,False,1,False,True,40,1.0
+1991-05-01,Ireland,Poland,False,0,True,False,40,0.5
+1991-05-01,Italy,Hungary,False,2,False,True,40,1.0
+1991-05-01,Northern Ireland,Faroe Islands,False,0,True,False,40,0.5
+1991-05-01,Norway,Cyprus,False,3,False,True,40,1.0
+1991-05-01,San Marino,Scotland,False,2,False,False,40,0.0
+1991-05-01,Sweden,Austria,False,6,False,True,20,1.0
+1991-05-01,Turkey,England,False,1,False,False,40,0.0
+1991-05-01,Wales,Iceland,False,1,False,True,20,1.0
+1991-05-01,Yugoslavia,Denmark,False,1,False,False,40,0.0
+1991-05-05,Jamaica,Haiti,False,1,False,True,20,1.0
+1991-05-05,Senegal,Ivory Coast,False,0,True,False,20,0.5
+1991-05-05,USA,Uruguay,False,1,False,True,20,1.0
+1991-05-06,Jamaica,Haiti,False,2,False,True,20,1.0
+1991-05-07,Malta,Iceland,False,3,False,False,20,0.0
+1991-05-07,Mexico,Uruguay,True,2,False,False,20,0.0
+1991-05-08,Aruba,Suriname,True,1,False,False,30,0.0
+1991-05-08,Martinique,Congo DR,True,0,True,False,20,0.5
+1991-05-10,Cayman Islands,British Virgin Islands,True,1,False,True,30,1.0
+1991-05-10,Guyana,Aruba,False,3,False,True,30,1.0
+1991-05-10,Puerto Rico,Haiti,False,1,False,False,30,0.0
+1991-05-10,St. Lucia,Montserrat,False,3,False,True,30,1.0
+1991-05-12,Dominican Republic,Haiti,True,0,True,False,30,0.5
+1991-05-12,Guyana,Suriname,False,0,True,False,30,0.5
+1991-05-12,New Zealand,Australia,False,1,False,False,20,0.0
+1991-05-12,Panama,Honduras,False,2,False,True,30,1.0
+1991-05-12,St. Kitts and Nevis,Cayman Islands,False,0,True,False,30,0.5
+1991-05-14,Anguilla,Montserrat,True,0,True,False,30,0.5
+1991-05-14,Hong Kong,Malaysia,False,2,False,True,20,1.0
+1991-05-14,Puerto Rico,Dominican Republic,False,2,False,False,30,0.0
+1991-05-14,St. Kitts and Nevis,British Virgin Islands,False,0,True,False,30,0.5
+1991-05-15,Australia,New Zealand,False,1,False,True,20,1.0
+1991-05-15,Martinique,French Guyana,False,1,False,False,30,0.0
+1991-05-16,Finland,Malta,False,2,False,True,40,1.0
+1991-05-16,St. Lucia,Anguilla,False,6,False,True,30,1.0
+1991-05-16,Yugoslavia,Faroe Islands,False,7,False,True,40,1.0
+1991-05-17,Guadeloupe,French Guyana,True,1,False,True,30,1.0
+1991-05-18,Honduras,Panama,False,3,False,True,30,1.0
+1991-05-19,Martinique,Guadeloupe,False,2,False,True,30,1.0
+1991-05-19,USA,Argentina,False,1,False,False,20,0.0
+1991-05-21,England,Russia,False,2,False,True,20,1.0
+1991-05-21,Guyana,Haiti,False,0,True,False,20,0.5
+1991-05-22,Austria,Faroe Islands,False,3,False,True,40,1.0
+1991-05-22,Ireland,Chile,False,0,True,False,20,0.5
+1991-05-22,San Marino,Bulgaria,False,3,False,False,40,0.0
+1991-05-23,Argentina,Russia,True,0,True,False,20,0.5
+1991-05-23,Dominican Republic,Trinidad and Tobago,True,7,False,False,30,0.0
+1991-05-23,Norway,Romania,False,1,False,True,20,1.0
+1991-05-23,St. Lucia,Martinique,True,0,True,False,30,0.5
+1991-05-24,Jamaica,Guyana,False,6,False,True,30,1.0
+1991-05-25,Dominican Republic,St. Lucia,True,0,True,False,30,0.5
+1991-05-25,England,Argentina,False,0,True,False,20,0.5
+1991-05-25,Martinique,Trinidad and Tobago,True,1,False,False,30,0.0
+1991-05-26,Albania,Iceland,False,1,False,True,40,1.0
+1991-05-26,Costa Rica,Honduras,False,2,False,True,30,1.0
+1991-05-26,Guatemala,El Salvador,True,0,True,False,30,0.5
+1991-05-26,Jamaica,Cayman Islands,False,1,False,True,30,1.0
+1991-05-27,Dominican Republic,Martinique,True,3,False,False,30,0.0
+1991-05-27,St. Lucia,Trinidad and Tobago,True,1,False,True,30,1.0
+1991-05-28,Brazil,Bulgaria,False,3,False,True,20,1.0
+1991-05-28,Cayman Islands,Guyana,True,1,False,False,30,0.0
+1991-05-29,Costa Rica,El Salvador,False,6,False,True,30,1.0
+1991-05-29,Guatemala,Honduras,True,0,True,False,30,0.5
+1991-05-29,Poland,Wales,False,0,True,False,20,0.5
+1991-05-29,Russia,Cyprus,False,4,False,True,40,1.0
+1991-05-30,Chile,Uruguay,False,1,False,True,20,1.0
+1991-05-30,Guyana,Trinidad and Tobago,True,2,False,False,30,0.0
+1991-05-30,Jamaica,St. Lucia,False,2,False,True,30,1.0
+1991-06-01,Australia,England,False,1,False,False,20,0.0
+1991-06-01,USA,Ireland,False,0,True,False,20,0.5
+1991-06-02,Costa Rica,Guatemala,False,1,False,True,30,1.0
+1991-06-02,Guyana,St. Lucia,True,3,False,False,30,0.0
+1991-06-02,Honduras,El Salvador,True,1,False,True,30,1.0
+1991-06-02,Jamaica,Trinidad and Tobago,False,2,False,True,30,1.0
+1991-06-02,Japan,Thailand,False,1,False,True,30,1.0
+1991-06-03,New Zealand,England,False,1,False,False,20,0.0
+1991-06-05,Denmark,Austria,False,1,False,True,40,1.0
+1991-06-05,Finland,Netherlands,False,0,True,False,40,0.5
+1991-06-05,Iceland,Czechoslovakia,False,1,False,False,40,0.0
+1991-06-05,Norway,Italy,False,1,False,True,40,1.0
+1991-06-05,Sweden,Colombia,False,0,True,False,20,0.5
+1991-06-05,Switzerland,San Marino,False,7,False,True,40,1.0
+1991-06-05,Wales,Germany,False,1,False,True,40,1.0
+1991-06-06,Peru,Ecuador,False,1,False,False,20,0.0
+1991-06-07,Indonesia,Malta,True,3,False,False,30,0.0
+1991-06-07,Korea Republic,Egypt,False,0,True,False,30,0.5
+1991-06-08,New Zealand,England,False,2,False,False,20,0.0
+1991-06-09,Egypt,Malta,True,3,False,True,30,1.0
+1991-06-09,Ivory Coast,Senegal,False,2,False,True,20,1.0
+1991-06-09,Korea Republic,Indonesia,False,3,False,True,30,1.0
+1991-06-11,Egypt,Indonesia,True,6,False,True,30,1.0
+1991-06-11,Korea Republic,Malta,False,0,True,False,30,0.5
+1991-06-12,Denmark,Italy,True,2,False,False,20,0.0
+1991-06-12,Malaysia,England,False,2,False,False,20,0.0
+1991-06-12,Peru,Uruguay,False,1,False,True,20,1.0
+1991-06-13,Sweden,Russia,False,1,False,False,20,0.0
+1991-06-14,Bolivia,Paraguay,False,1,False,False,30,0.0
+1991-06-14,Korea Republic,Australia,False,0,True,False,30,0.5
+1991-06-15,Sweden,Denmark,False,4,False,True,20,1.0
+1991-06-16,Italy,Russia,True,0,True,False,20,0.5
+1991-06-16,Korea Republic,Egypt,False,2,False,True,30,1.0
+1991-06-16,Paraguay,Bolivia,False,0,True,False,30,0.5
+1991-06-19,Ecuador,Chile,False,1,False,True,20,1.0
+1991-06-19,Slovenia,Croatia,False,1,False,False,20,0.0
+1991-06-20,Mozambique,Botswana,False,2,False,True,20,1.0
+1991-06-20,Uruguay,Peru,False,0,True,False,20,0.5
+1991-06-22,Mozambique,Swaziland,False,1,False,True,20,1.0
+1991-06-22,Philippines,Brunei,False,1,False,True,20,1.0
+1991-06-24,Faroe Islands,Shetland,True,3,False,True,30,1.0
+1991-06-24,Jersey,Greenland,True,1,False,True,30,1.0
+1991-06-24,Ynys Môn,Guersney,True,1,False,True,30,1.0
+1991-06-24,Åland Islands,Isle of Wight,False,1,False,True,30,1.0
+1991-06-25,Costa Rica,Colombia,False,1,False,False,20,0.0
+1991-06-25,Ecuador,Peru,False,0,True,False,20,0.5
+1991-06-25,Mozambique,Botswana,False,0,True,False,20,0.5
+1991-06-25,Faroe Islands,Greenland,True,1,False,True,30,1.0
+1991-06-25,Jersey,Shetland,True,2,False,True,30,1.0
+1991-06-25,Åland Islands,Guersney,False,2,False,True,30,1.0
+1991-06-25,Ynys Môn,Isle of Wight,True,4,False,True,30,1.0
+1991-06-26,Uruguay,Chile,False,1,False,True,20,1.0
+1991-06-26,Faroe Islands,Jersey,True,2,False,True,30,1.0
+1991-06-26,Shetland,Greenland,True,3,False,True,30,1.0
+1991-06-26,Åland Islands,Ynys Môn,False,1,False,False,30,0.0
+1991-06-26,Isle of Wight,Guersney,True,0,True,False,30,0.5
+1991-06-27,Brazil,Argentina,False,0,True,False,20,0.5
+1991-06-28,Canada,Honduras,True,2,False,False,50,0.0
+1991-06-28,Gambia,Ghana,True,1,False,False,20,0.0
+1991-06-28,Mexico,Jamaica,True,3,False,True,50,1.0
+1991-06-28,Isle of Wight,Greenland,True,2,False,True,30,1.0
+1991-06-28,Shetland,Guersney,True,1,False,True,30,1.0
+1991-06-28,Åland Islands,Jersey,False,2,False,False,30,0.0
+1991-06-29,Costa Rica,Guatemala,True,2,False,True,50,1.0
+1991-06-29,USA,Trinidad and Tobago,False,1,False,True,50,1.0
+1991-06-29,Faroe Islands,Ynys Môn,True,2,False,True,30,1.0
+1991-06-30,Canada,Mexico,True,2,False,False,50,0.0
+1991-06-30,Chile,Ecuador,False,2,False,True,20,1.0
+1991-06-30,Jamaica,Honduras,True,5,False,False,50,0.0
+1991-07-01,Trinidad and Tobago,Costa Rica,True,1,False,True,50,1.0
+1991-07-01,USA,Guatemala,False,3,False,True,50,1.0
+1991-07-02,Moldova,Georgia,False,2,False,False,20,0.0
+1991-07-03,Jamaica,Canada,True,1,False,False,50,0.0
+1991-07-03,Mexico,Honduras,True,0,True,False,50,0.5
+1991-07-03,Trinidad and Tobago,Guatemala,True,1,False,False,50,0.0
+1991-07-03,USA,Costa Rica,False,1,False,True,50,1.0
+1991-07-05,Honduras,Costa Rica,True,2,False,True,50,1.0
+1991-07-05,USA,Mexico,False,2,False,True,50,1.0
+1991-07-06,Chile,Venezuela,False,2,False,True,50,1.0
+1991-07-06,Malawi,Kenya,False,2,False,False,20,0.0
+1991-07-06,Paraguay,Peru,True,1,False,True,50,1.0
+1991-07-07,Bolivia,Uruguay,True,0,True,False,50,0.5
+1991-07-07,Colombia,Ecuador,True,1,False,True,50,1.0
+1991-07-07,Gabon,Ghana,False,1,False,False,20,0.0
+1991-07-07,Mexico,Costa Rica,True,2,False,True,50,1.0
+1991-07-07,USA,Honduras,False,0,True,False,50,0.5
+1991-07-08,Argentina,Venezuela,True,3,False,True,50,1.0
+1991-07-08,Chile,Peru,False,2,False,True,50,1.0
+1991-07-08,Malawi,Kenya,False,0,True,False,20,0.5
+1991-07-09,Bolivia,Brazil,True,1,False,False,50,0.0
+1991-07-09,Congo,Congo DR,False,0,True,False,20,0.5
+1991-07-09,Ecuador,Uruguay,True,0,True,False,50,0.5
+1991-07-10,Chile,Argentina,False,1,False,False,50,0.0
+1991-07-10,Malawi,Kenya,False,0,True,False,20,0.5
+1991-07-10,Paraguay,Venezuela,True,5,False,True,50,1.0
+1991-07-11,Bolivia,Colombia,True,0,True,False,50,0.5
+1991-07-11,Brazil,Uruguay,True,0,True,False,50,0.5
+1991-07-12,Argentina,Paraguay,True,3,False,True,50,1.0
+1991-07-12,Egypt,Chad,False,4,False,True,40,1.0
+1991-07-12,Peru,Venezuela,True,4,False,True,50,1.0
+1991-07-13,Bolivia,Ecuador,True,4,False,False,50,0.0
+1991-07-13,Brazil,Colombia,True,2,False,False,50,0.0
+1991-07-14,Argentina,Peru,True,1,False,True,50,1.0
+1991-07-14,Cameroon,Sierra Leone,False,1,False,True,40,1.0
+1991-07-14,Chile,Paraguay,False,4,False,True,50,1.0
+1991-07-14,Congo DR,Uganda,False,1,False,True,40,1.0
+1991-07-14,Gabon,Tanzania,False,1,False,True,40,1.0
+1991-07-14,Guinea,Mali,False,1,False,True,40,1.0
+1991-07-14,Kenya,Mozambique,False,1,False,True,40,1.0
+1991-07-14,Togo,Benin,False,2,False,True,40,1.0
+1991-07-14,Zambia,Madagascar,False,1,False,True,40,1.0
+1991-07-14,Zimbabwe,Congo,False,0,True,False,40,0.5
+1991-07-15,Brazil,Ecuador,True,2,False,True,50,1.0
+1991-07-15,Colombia,Uruguay,True,1,False,False,50,0.0
+1991-07-15,Faroe Islands,Turkey,False,0,True,False,20,0.5
+1991-07-17,Argentina,Brazil,True,1,False,True,50,1.0
+1991-07-17,Chile,Colombia,False,0,True,False,50,0.5
+1991-07-17,Iceland,Turkey,False,4,False,True,20,1.0
+1991-07-19,Brazil,Colombia,True,2,False,True,50,1.0
+1991-07-19,Chile,Argentina,False,0,True,False,50,0.5
+1991-07-21,Argentina,Colombia,True,1,False,True,50,1.0
+1991-07-21,Chile,Brazil,False,2,False,False,50,0.0
+1991-07-24,Ivory Coast,Guinea,False,0,True,False,20,0.5
+1991-07-26,Egypt,Tunisia,False,0,True,False,40,0.5
+1991-07-26,Mauritania,Niger,False,1,False,False,40,0.0
+1991-07-27,Japan,Korea Republic,False,1,False,False,20,0.0
+1991-07-27,Malawi,Zimbabwe,False,0,True,False,40,0.5
+1991-07-27,Nigeria,Burkina Faso,False,6,False,True,40,1.0
+1991-07-28,Benin,Ghana,False,0,True,False,40,0.5
+1991-07-28,Cameroon,Guinea,False,1,False,True,40,1.0
+1991-07-28,Gabon,Congo DR,False,0,True,False,40,0.5
+1991-07-28,Ivory Coast,Morocco,False,2,False,True,40,1.0
+1991-07-28,Sierra Leone,Mali,False,2,False,True,40,1.0
+1991-08-08,Czechoslovakia,Yugoslavia,True,0,True,False,20,0.5
+1991-08-08,Norway,Sweden,False,1,False,False,20,0.0
+1991-08-11,Benin,Ivory Coast,False,3,False,False,20,0.0
+1991-08-14,Poland,France,False,4,False,False,20,0.0
+1991-08-19,Malawi,Mozambique,False,1,False,True,20,1.0
+1991-08-20,Malawi,Mozambique,False,2,False,True,20,1.0
+1991-08-21,Bulgaria,Turkey,False,0,True,False,20,0.5
+1991-08-21,Czechoslovakia,Switzerland,False,0,True,False,20,0.5
+1991-08-21,Poland,Sweden,False,2,False,True,20,1.0
+1991-08-28,Norway,Russia,False,1,False,False,40,0.0
+1991-08-28,Romania,USA,False,2,False,False,20,0.0
+1991-09-01,Ivory Coast,Benin,False,1,False,True,20,1.0
+1991-09-04,Czechoslovakia,France,False,1,False,False,40,0.0
+1991-09-04,Greece,Albania,False,2,False,False,20,0.0
+1991-09-04,Iceland,Denmark,False,0,True,False,20,0.5
+1991-09-04,Portugal,Austria,False,0,True,False,20,0.5
+1991-09-04,Spain,Uruguay,False,1,False,True,20,1.0
+1991-09-04,Sweden,Yugoslavia,False,1,False,True,20,1.0
+1991-09-04,Turkey,USA,False,0,True,False,20,0.5
+1991-09-08,Mali,Guinea,False,0,True,False,20,0.5
+1991-09-09,Guam,Tahiti,True,14,False,False,30,0.0
+1991-09-09,Papua New Guinea,Solomon Islands,False,0,True,False,30,0.5
+1991-09-10,Fiji,New Caledonia,True,2,False,True,30,1.0
+1991-09-10,Vanuatu,Wallis Islands and Futuna,True,5,False,True,30,1.0
+1991-09-11,England,Germany,False,1,False,False,20,0.0
+1991-09-11,Faroe Islands,Northern Ireland,True,5,False,False,40,0.0
+1991-09-11,Hungary,Ireland,False,1,False,False,20,0.0
+1991-09-11,Luxembourg,Belgium,False,2,False,False,40,0.0
+1991-09-11,Netherlands,Poland,False,0,True,False,20,0.5
+1991-09-11,New Caledonia,Tahiti,True,1,False,True,30,1.0
+1991-09-11,Portugal,Finland,False,1,False,True,40,1.0
+1991-09-11,Solomon Islands,Wallis Islands and Futuna,True,17,False,True,30,1.0
+1991-09-11,Switzerland,Scotland,False,0,True,False,40,0.5
+1991-09-11,Wales,Brazil,False,1,False,True,20,1.0
+1991-09-12,Bermuda,Jamaica,False,0,True,False,20,0.5
+1991-09-12,Fiji,Guam,True,13,False,True,30,1.0
+1991-09-12,Papua New Guinea,Vanuatu,False,1,False,False,30,0.0
+1991-09-14,Fiji,Tahiti,True,3,False,True,30,1.0
+1991-09-14,Solomon Islands,Vanuatu,True,1,False,True,30,1.0
+1991-09-14,USA,Jamaica,False,1,False,True,20,1.0
+1991-09-15,Guam,New Caledonia,True,8,False,False,30,0.0
+1991-09-15,Papua New Guinea,Wallis Islands and Futuna,False,12,False,True,30,1.0
+1991-09-17,Fiji,Vanuatu,True,2,False,True,30,1.0
+1991-09-17,New Caledonia,Solomon Islands,True,3,False,False,30,0.0
+1991-09-20,Fiji,Solomon Islands,True,0,True,False,30,0.5
+1991-09-20,New Caledonia,Vanuatu,True,2,False,True,30,1.0
+1991-09-21,Botswana,Swaziland,False,1,False,True,20,1.0
+1991-09-21,Egypt,Nigeria,False,1,False,False,20,0.0
+1991-09-21,Uganda,Zimbabwe,True,1,False,False,20,0.0
+1991-09-22,Cameroon,Mali,True,1,False,True,20,1.0
+1991-09-22,Mauritius,Tunisia,True,3,False,False,20,0.0
+1991-09-23,Egypt,Zimbabwe,False,1,False,False,20,0.0
+1991-09-23,Nigeria,Uganda,True,7,False,True,20,1.0
+1991-09-24,Cameroon,Tunisia,True,1,False,False,20,0.0
+1991-09-24,Mali,Mauritius,True,5,False,True,20,1.0
+1991-09-25,Bulgaria,Italy,False,1,False,True,20,1.0
+1991-09-25,Egypt,Uganda,False,1,False,True,20,1.0
+1991-09-25,Faroe Islands,Denmark,True,4,False,False,40,0.0
+1991-09-25,Iceland,Spain,False,2,False,True,40,1.0
+1991-09-25,Nigeria,Zimbabwe,True,1,False,True,20,1.0
+1991-09-25,Norway,Czechoslovakia,False,1,False,False,20,0.0
+1991-09-25,Russia,Hungary,False,0,True,False,40,0.5
+1991-09-26,Cameroon,Mauritius,True,1,False,True,20,1.0
+1991-09-26,Mali,Tunisia,True,0,True,False,20,0.5
+1991-09-28,Cameroon,Nigeria,True,1,False,True,20,1.0
+1991-09-28,Egypt,Mali,False,0,True,False,20,0.5
+1991-09-28,Mauritius,Uganda,True,3,False,True,20,1.0
+1991-09-28,Tunisia,Zimbabwe,True,2,False,True,20,1.0
+1991-09-30,Botswana,Ghana,False,0,True,False,20,0.5
+1991-09-30,Cameroon,Tunisia,True,1,False,True,20,1.0
+1991-09-30,Nigeria,Zimbabwe,True,3,False,True,20,1.0
+1991-10-05,Singapore,Indonesia,False,2,False,True,20,1.0
+1991-10-09,Austria,Denmark,False,3,False,False,40,0.0
+1991-10-09,Finland,Greece,False,0,True,False,40,0.5
+1991-10-09,Hungary,Belgium,False,2,False,False,20,0.0
+1991-10-09,Switzerland,Sweden,False,2,False,True,20,1.0
+1991-10-12,Luxembourg,Portugal,False,0,True,False,20,0.5
+1991-10-12,Russia,Italy,False,0,True,False,40,0.5
+1991-10-12,Spain,France,False,1,False,False,40,0.0
+1991-10-13,Algeria,Iran,False,1,False,True,20,1.0
+1991-10-16,Bulgaria,San Marino,False,4,False,True,40,1.0
+1991-10-16,Cyprus,Iceland,False,0,True,False,20,0.5
+1991-10-16,Czechoslovakia,Albania,False,1,False,True,40,1.0
+1991-10-16,England,Turkey,False,1,False,True,40,1.0
+1991-10-16,Faroe Islands,Yugoslavia,True,2,False,False,40,0.0
+1991-10-16,Germany,Wales,False,3,False,True,40,1.0
+1991-10-16,Netherlands,Portugal,False,1,False,True,40,1.0
+1991-10-16,Northern Ireland,Austria,False,1,False,True,40,1.0
+1991-10-16,Poland,Ireland,False,0,True,False,40,0.5
+1991-10-16,Romania,Scotland,False,1,False,True,40,1.0
+1991-10-19,USA,Korea DPR,False,1,False,False,20,0.0
+1991-10-30,Brazil,Yugoslavia,False,2,False,True,20,1.0
+1991-10-30,Greece,Finland,False,2,False,True,40,1.0
+1991-10-30,Hungary,Norway,False,0,True,False,40,0.5
+1991-10-31,Ghana,Senegal,True,1,False,False,20,0.0
+1991-10-31,Ivory Coast,Nigeria,False,2,False,True,20,1.0
+1991-11-02,Ghana,Nigeria,True,1,False,True,20,1.0
+1991-11-02,Ivory Coast,Senegal,False,1,False,True,20,1.0
+1991-11-09,Tanzania,Kenya,False,0,True,False,20,0.5
+1991-11-13,Austria,Yugoslavia,False,2,False,False,40,0.0
+1991-11-13,Cyprus,Russia,False,3,False,False,40,0.0
+1991-11-13,Denmark,Northern Ireland,False,1,False,True,40,1.0
+1991-11-13,Italy,Norway,False,0,True,False,40,0.5
+1991-11-13,Poland,England,False,0,True,False,40,0.5
+1991-11-13,Romania,Switzerland,False,1,False,True,40,1.0
+1991-11-13,Scotland,San Marino,False,4,False,True,40,1.0
+1991-11-13,Spain,Czechoslovakia,False,1,False,True,40,1.0
+1991-11-13,Turkey,Ireland,False,2,False,False,40,0.0
+1991-11-13,Wales,Luxembourg,False,1,False,True,40,1.0
+1991-11-15,Lithuania,Estonia,False,3,False,True,30,1.0
+1991-11-16,Estonia,Latvia,True,2,False,False,30,0.0
+1991-11-16,Tanzania,Kenya,False,1,False,False,20,0.0
+1991-11-17,Lithuania,Latvia,False,0,True,False,30,0.5
+1991-11-20,Belgium,Germany,False,1,False,False,40,0.0
+1991-11-20,Bulgaria,Romania,False,0,True,False,40,0.5
+1991-11-20,France,Iceland,False,2,False,True,40,1.0
+1991-11-20,Mexico,Uruguay,False,0,True,False,20,0.5
+1991-11-20,Portugal,Greece,False,1,False,True,40,1.0
+1991-11-22,Cape Verde,Guinea-Bissau,True,1,False,True,30,1.0
+1991-11-23,Gambia,Mali,True,1,False,True,30,1.0
+1991-11-23,Ivory Coast,Niger,False,3,False,True,20,1.0
+1991-11-23,Kenya,Zambia,True,1,False,False,30,0.0
+1991-11-24,Guinea,Sierra Leone,True,1,False,False,30,0.0
+1991-11-24,Senegal,Guinea-Bissau,False,4,False,True,30,1.0
+1991-11-24,Sudan,Tanzania,True,0,True,False,30,0.5
+1991-11-24,USA,Costa Rica,False,0,True,False,20,0.5
+1991-11-25,Malawi,Zanzibar,True,1,False,True,30,1.0
+1991-11-26,Gambia,Guinea,True,0,True,False,30,0.5
+1991-11-26,Mali,Sierra Leone,True,0,True,False,30,0.5
+1991-11-27,Costa Rica,Mexico,True,0,True,False,20,0.5
+1991-11-27,Malta,Libya,False,2,False,True,20,1.0
+1991-11-27,Senegal,Cape Verde,False,0,True,False,30,0.5
+1991-11-27,Tunisia,Ivory Coast,False,2,False,True,20,1.0
+1991-11-27,Uganda,Sudan,False,2,False,True,30,1.0
+1991-11-27,Zambia,Zanzibar,True,1,False,True,30,1.0
+1991-11-28,Gambia,Sierra Leone,True,0,True,False,30,0.5
+1991-11-28,Guinea,Mali,True,2,False,False,30,0.0
+1991-11-28,Kenya,Malawi,True,1,False,True,30,1.0
+1991-11-30,Cape Verde,Sierra Leone,True,0,True,False,30,0.5
+1991-11-30,Kenya,Zanzibar,True,1,False,True,30,1.0
+1991-11-30,Senegal,Gambia,False,2,False,True,30,1.0
+1991-11-30,Uganda,Tanzania,False,5,False,True,30,1.0
+1991-12-01,Malawi,Zambia,True,0,True,False,30,0.5
+1991-12-02,Senegal,Cape Verde,False,1,False,True,30,1.0
+1991-12-03,Egypt,Poland,False,4,False,True,20,1.0
+1991-12-04,Greece,Netherlands,False,2,False,False,40,0.0
+1991-12-04,Mexico,Hungary,False,3,False,True,20,1.0
+1991-12-04,Morocco,Mali,False,3,False,True,20,1.0
+1991-12-04,Uganda,Kenya,False,2,False,False,30,0.0
+1991-12-05,Egypt,Poland,False,0,True,False,20,0.5
+1991-12-05,Sudan,Zambia,True,1,False,False,30,0.0
+1991-12-07,Kenya,Zambia,True,2,False,False,30,0.0
+1991-12-07,Uganda,Sudan,False,2,False,True,30,1.0
+1991-12-08,El Salvador,Hungary,False,0,True,False,20,0.5
+1991-12-09,Kuwait,Poland,False,2,False,False,20,0.0
+1991-12-16,Algeria,Senegal,False,2,False,True,20,1.0
+1991-12-18,Brazil,Czechoslovakia,False,1,False,True,20,1.0
+1991-12-18,Germany,Luxembourg,False,4,False,True,40,1.0
+1991-12-21,Egypt,Romania,False,2,False,True,20,1.0
+1991-12-21,Italy,Cyprus,False,2,False,True,40,1.0
+1991-12-22,Malta,Greece,False,0,True,False,40,0.5
+1991-12-24,Egypt,Romania,False,0,True,False,20,0.5
+1991-12-25,Tunisia,Cameroon,False,0,True,False,20,0.5
+1991-12-26,Morocco,Algeria,False,0,True,False,20,0.5
+1991-12-30,Malawi,Zambia,False,2,False,False,20,0.0
+1992-01-04,Egypt,Czechoslovakia,False,2,False,True,20,1.0
+1992-01-05,Congo DR,Ivory Coast,False,2,False,True,20,1.0
+1992-01-05,Guyana,Barbados,False,2,False,False,20,0.0
+1992-01-07,Egypt,Norway,False,0,True,False,20,0.5
+1992-01-12,Cameroon,Morocco,True,1,False,True,50,1.0
+1992-01-12,Senegal,Nigeria,False,1,False,False,50,0.0
+1992-01-13,Algeria,Ivory Coast,True,3,False,False,50,0.0
+1992-01-13,Egypt,Zambia,True,1,False,False,50,0.0
+1992-01-14,Morocco,Congo DR,True,0,True,False,50,0.5
+1992-01-14,Nigeria,Kenya,True,1,False,True,50,1.0
+1992-01-15,Ivory Coast,Congo,True,0,True,False,50,0.5
+1992-01-15,Portugal,Spain,False,0,True,False,20,0.5
+1992-01-15,Zambia,Ghana,True,1,False,False,50,0.0
+1992-01-16,Cameroon,Congo DR,True,0,True,False,50,0.5
+1992-01-16,Senegal,Kenya,False,3,False,True,50,1.0
+1992-01-17,Algeria,Congo,True,0,True,False,50,0.5
+1992-01-17,Egypt,Ghana,True,1,False,False,50,0.0
+1992-01-19,Nigeria,Congo DR,True,1,False,True,50,1.0
+1992-01-19,Senegal,Cameroon,False,1,False,False,50,0.0
+1992-01-20,Ghana,Congo,True,1,False,True,50,1.0
+1992-01-20,Ivory Coast,Zambia,True,1,False,True,50,1.0
+1992-01-23,Cameroon,Ivory Coast,True,0,True,False,50,0.5
+1992-01-23,Nigeria,Ghana,True,1,False,False,50,0.0
+1992-01-25,Cameroon,Nigeria,True,1,False,False,50,0.0
+1992-01-25,USA,Russia,False,1,False,False,20,0.0
+1992-01-26,Australia,Sweden,False,0,True,False,20,0.5
+1992-01-26,Ghana,Ivory Coast,True,0,True,False,50,0.5
+1992-01-29,Albania,Greece,False,1,False,True,20,1.0
+1992-01-29,Australia,Sweden,False,1,False,True,20,1.0
+1992-01-29,El Salvador,Russia,False,3,False,False,20,0.0
+1992-02-02,Australia,Sweden,False,1,False,True,20,1.0
+1992-02-02,USA,Russia,False,1,False,True,20,1.0
+1992-02-04,Bermuda,Norway,False,2,False,False,20,0.0
+1992-02-10,Malta,Iceland,False,1,False,True,30,1.0
+1992-02-12,Costa Rica,USA,False,0,True,False,20,0.5
+1992-02-12,Greece,Romania,False,1,False,True,20,1.0
+1992-02-12,Israel,Russia,False,1,False,False,20,0.0
+1992-02-12,Portugal,Netherlands,False,2,False,True,20,1.0
+1992-02-12,Turkey,Finland,False,0,True,False,20,0.5
+1992-02-18,El Salvador,USA,False,2,False,True,20,1.0
+1992-02-19,England,France,False,2,False,True,20,1.0
+1992-02-19,Ireland,Wales,False,1,False,False,20,0.0
+1992-02-19,Italy,San Marino,False,4,False,True,20,1.0
+1992-02-19,Scotland,Northern Ireland,False,1,False,True,20,1.0
+1992-02-19,Spain,Russia,False,0,True,False,20,0.5
+1992-02-22,Tunisia,Nigeria,False,0,True,False,20,0.5
+1992-02-26,Brazil,USA,False,3,False,True,20,1.0
+1992-02-26,Tunisia,Belgium,False,1,False,True,20,1.0
+1992-03-02,United Arab Emirates,Iceland,False,1,False,False,20,0.0
+1992-03-03,Israel,Cyprus,False,1,False,True,20,1.0
+1992-03-04,Costa Rica,El Salvador,False,2,False,True,20,1.0
+1992-03-04,St. Vincent and the Grenadines,Curaçao,True,0,True,False,30,0.5
+1992-03-05,Dominica,Guadeloupe,True,0,True,False,30,0.5
+1992-03-06,Barbados,Curaçao,False,1,False,True,30,1.0
+1992-03-08,Grenada,Curaçao,True,1,False,False,30,0.0
+1992-03-08,Mexico,Russia,False,4,False,True,20,1.0
+1992-03-11,Mexico,Russia,False,0,True,False,20,0.5
+1992-03-11,Spain,USA,False,2,False,True,20,1.0
+1992-03-17,El Salvador,Honduras,True,0,True,False,20,0.5
+1992-03-18,Morocco,USA,False,2,False,True,20,1.0
+1992-03-21,Dominican Republic,Puerto Rico,False,1,False,False,40,0.0
+1992-03-22,St. Lucia,St. Vincent and the Grenadines,False,1,False,True,40,1.0
+1992-03-25,Cyprus,Greece,False,2,False,False,20,0.0
+1992-03-25,Czechoslovakia,England,False,0,True,False,20,0.5
+1992-03-25,France,Belgium,False,0,True,False,20,0.5
+1992-03-25,Hungary,Austria,False,1,False,True,20,1.0
+1992-03-25,Ireland,Switzerland,False,1,False,True,20,1.0
+1992-03-25,Italy,Germany,False,1,False,True,20,1.0
+1992-03-25,Luxembourg,Turkey,False,1,False,False,20,0.0
+1992-03-25,Netherlands,Yugoslavia,False,2,False,True,20,1.0
+1992-03-25,Scotland,Finland,False,0,True,False,20,0.5
+1992-03-28,Puerto Rico,Dominican Republic,False,0,True,False,40,0.5
+1992-03-29,St. Vincent and the Grenadines,St. Lucia,False,2,False,True,40,1.0
+1992-04-01,Cayman Islands,Martinique,True,7,False,False,30,0.0
+1992-04-02,Canada,China,False,3,False,True,20,1.0
+1992-04-03,Sint Maarten,Cayman Islands,False,2,False,True,30,1.0
+1992-04-04,USA,China,False,5,False,True,20,1.0
+1992-04-05,Sint Maarten,Martinique,False,0,True,False,30,0.5
+1992-04-05,Togo,Ghana,False,1,False,True,20,1.0
+1992-04-08,Israel,Iceland,False,0,True,False,20,0.5
+1992-04-08,Romania,Latvia,False,2,False,True,20,1.0
+1992-04-08,Turkey,Denmark,False,1,False,True,20,1.0
+1992-04-12,Jamaica,Bermuda,False,0,True,False,20,0.5
+1992-04-14,Austria,Lithuania,False,4,False,True,20,1.0
+1992-04-15,Antigua and Barbuda,Montserrat,True,5,False,True,30,1.0
+1992-04-15,Brazil,Finland,False,2,False,True,20,1.0
+1992-04-15,St. Kitts and Nevis,British Virgin Islands,False,4,False,True,30,1.0
+1992-04-17,Antigua and Barbuda,British Virgin Islands,True,2,False,True,30,1.0
+1992-04-17,St. Kitts and Nevis,Montserrat,False,10,False,True,30,1.0
+1992-04-19,Barbados,Trinidad and Tobago,False,1,False,False,40,0.0
+1992-04-19,Curaçao,Antigua and Barbuda,True,0,True,False,40,0.5
+1992-04-19,Singapore,Malaysia,False,0,True,False,40,0.5
+1992-04-20,China,Indonesia,True,2,False,True,40,1.0
+1992-04-22,Belgium,Cyprus,False,1,False,True,40,1.0
+1992-04-22,Czechoslovakia,Germany,False,0,True,False,20,0.5
+1992-04-22,Singapore,Indonesia,False,1,False,False,40,0.0
+1992-04-22,Spain,Albania,False,3,False,True,40,1.0
+1992-04-22,Tunisia,Sweden,False,1,False,False,20,0.0
+1992-04-23,China,Malaysia,True,4,False,True,40,1.0
+1992-04-24,Indonesia,Malaysia,True,0,True,False,40,0.5
+1992-04-26,Antigua and Barbuda,Curaçao,False,3,False,True,40,1.0
+1992-04-26,Bermuda,Haiti,False,1,False,True,40,1.0
+1992-04-26,Guyana,Suriname,False,1,False,False,40,0.0
+1992-04-26,Singapore,China,False,1,False,False,40,0.0
+1992-04-28,Northern Ireland,Lithuania,False,0,True,False,40,0.5
+1992-04-28,Switzerland,Bulgaria,False,2,False,False,20,0.0
+1992-04-29,Austria,Wales,False,0,True,False,20,0.5
+1992-04-29,Denmark,Norway,False,1,False,True,20,1.0
+1992-04-29,El Salvador,Costa Rica,False,0,True,False,20,0.5
+1992-04-29,Ireland,USA,False,3,False,True,20,1.0
+1992-04-29,Russia,England,False,0,True,False,20,0.5
+1992-04-29,Ukraine,Hungary,False,2,False,False,20,0.0
+1992-04-30,Uruguay,Brazil,False,1,False,True,20,1.0
+1992-05-02,Anguilla,Cuba,False,3,False,False,30,0.0
+1992-05-06,French Guyana,Guyana,True,0,True,False,30,0.5
+1992-05-06,Romania,Faroe Islands,False,7,False,True,40,1.0
+1992-05-07,Sweden,Poland,False,5,False,True,20,1.0
+1992-05-08,Aruba,French Guyana,True,2,False,False,30,0.0
+1992-05-08,Congo,Haiti,True,3,False,True,20,1.0
+1992-05-09,Congo,Guadeloupe,True,0,True,False,20,0.5
+1992-05-09,Cuba,Anguilla,False,5,False,True,30,1.0
+1992-05-09,Suriname,French Guyana,False,1,False,True,30,1.0
+1992-05-11,Iran,Pakistan,True,7,False,True,40,1.0
+1992-05-12,Hungary,England,False,1,False,False,20,0.0
+1992-05-13,Greece,Iceland,False,1,False,True,40,1.0
+1992-05-13,Norway,Faroe Islands,False,2,False,True,20,1.0
+1992-05-14,Finland,Bulgaria,False,3,False,False,40,0.0
+1992-05-14,Kuwait,Syria,False,0,True,False,20,0.5
+1992-05-14,United Arab Emirates,Qatar,False,1,False,True,20,1.0
+1992-05-15,India,Iran,False,3,False,False,40,0.0
+1992-05-17,England,Brazil,False,0,True,False,20,0.5
+1992-05-17,Qatar,Kuwait,False,0,True,False,20,0.5
+1992-05-17,United Arab Emirates,Syria,False,2,False,True,20,1.0
+1992-05-17,USA,Scotland,False,1,False,False,20,0.0
+1992-05-19,Austria,Poland,False,2,False,False,20,0.0
+1992-05-19,Bahrain,Algeria,False,0,True,False,20,0.5
+1992-05-20,Canada,Scotland,False,2,False,False,20,0.0
+1992-05-20,Moldova,Lithuania,False,0,True,False,20,0.5
+1992-05-20,Romania,Wales,False,4,False,True,40,1.0
+1992-05-20,United Arab Emirates,Syria,False,0,True,False,20,0.5
+1992-05-23,Jamaica,Puerto Rico,False,1,False,True,40,1.0
+1992-05-24,Guatemala,Ecuador,False,0,True,False,20,0.5
+1992-05-24,Haiti,Bermuda,False,1,False,True,40,1.0
+1992-05-24,Suriname,Guyana,False,0,True,False,40,0.5
+1992-05-26,Ethiopia,Sudan,False,4,False,True,20,1.0
+1992-05-26,Ireland,Albania,False,2,False,True,40,1.0
+1992-05-26,Malta,Latvia,False,1,False,True,20,1.0
+1992-05-27,Costa Rica,Ecuador,False,1,False,True,20,1.0
+1992-05-27,Netherlands,Austria,False,1,False,True,20,1.0
+1992-05-27,Poland,Czechoslovakia,False,1,False,True,20,1.0
+1992-05-27,Sweden,Hungary,False,1,False,True,20,1.0
+1992-05-27,Switzerland,France,False,1,False,True,20,1.0
+1992-05-29,Qatar,Syria,False,2,False,True,40,1.0
+1992-05-30,Germany,Turkey,False,1,False,True,20,1.0
+1992-05-30,Netherlands,Wales,False,4,False,True,20,1.0
+1992-05-30,Puerto Rico,Jamaica,False,1,False,False,40,0.0
+1992-05-30,USA,Ireland,False,2,False,True,30,1.0
+1992-05-31,Italy,Portugal,True,0,True,False,30,0.5
+1992-05-31,Qatar,Oman,False,4,False,True,40,1.0
+1992-05-31,Trinidad and Tobago,Barbados,False,3,False,True,40,1.0
+1992-06-01,Kazakhstan,Turkmenistan,False,1,False,True,20,1.0
+1992-06-02,Germany,Northern Ireland,False,0,True,False,20,0.5
+1992-06-03,Albania,Lithuania,False,1,False,True,40,1.0
+1992-06-03,Argentina,Wales,True,1,False,True,30,1.0
+1992-06-03,Denmark,Russia,False,0,True,False,20,0.5
+1992-06-03,Estonia,Slovenia,False,0,True,False,20,0.5
+1992-06-03,Faroe Islands,Belgium,False,3,False,False,40,0.0
+1992-06-03,Finland,England,False,1,False,False,20,0.0
+1992-06-03,Hungary,Iceland,False,1,False,False,40,0.0
+1992-06-03,Korea DPR,Taiwan,False,6,False,True,40,1.0
+1992-06-03,Macau,Hong Kong,True,0,True,False,40,0.5
+1992-06-03,Norway,Scotland,False,0,True,False,20,0.5
+1992-06-03,USA,Portugal,False,1,False,True,30,1.0
+1992-06-04,Ireland,Italy,True,2,False,False,30,0.0
+1992-06-05,France,Netherlands,False,0,True,False,20,0.5
+1992-06-05,Hong Kong,Taiwan,True,0,True,False,40,0.5
+1992-06-05,Korea DPR,Macau,False,2,False,True,40,1.0
+1992-06-06,USA,Italy,False,0,True,False,30,0.5
+1992-06-07,Guatemala,Nicaragua,False,6,False,True,20,1.0
+1992-06-07,Ireland,Portugal,True,2,False,True,30,1.0
+1992-06-07,Japan,Wales,False,1,False,False,30,0.0
+1992-06-07,Korea DPR,Hong Kong,False,0,True,False,40,0.5
+1992-06-07,Macau,Taiwan,True,2,False,True,40,1.0
+1992-06-07,New Zealand,Fiji,False,3,False,True,40,1.0
+1992-06-10,Sweden,France,False,0,True,False,50,0.5
+1992-06-11,Denmark,England,True,0,True,False,50,0.5
+1992-06-12,Netherlands,Scotland,True,1,False,True,50,1.0
+1992-06-12,Russia,Germany,True,0,True,False,50,0.5
+1992-06-13,Canada,Hong Kong,False,2,False,True,20,1.0
+1992-06-13,USA,Australia,False,1,False,False,20,0.0
+1992-06-14,Antigua and Barbuda,Bermuda,False,3,False,False,40,0.0
+1992-06-14,France,England,True,0,True,False,50,0.5
+1992-06-14,Gabon,Togo,False,1,False,True,20,1.0
+1992-06-14,Guinea-Bissau,Cape Verde,False,2,False,True,40,1.0
+1992-06-14,Lesotho,Botswana,False,0,True,False,40,0.5
+1992-06-14,Swaziland,Botswana,False,0,True,False,20,0.5
+1992-06-14,Sweden,Denmark,False,1,False,True,50,1.0
+1992-06-15,Netherlands,Russia,True,0,True,False,50,0.5
+1992-06-15,Scotland,Germany,True,2,False,False,50,0.0
+1992-06-16,Faroe Islands,Cyprus,False,2,False,False,40,0.0
+1992-06-17,France,Denmark,True,1,False,False,50,0.0
+1992-06-17,Sweden,England,False,1,False,True,50,1.0
+1992-06-17,Tajikistan,Uzbekistan,False,0,True,False,20,0.5
+1992-06-18,Argentina,Australia,False,2,False,True,20,1.0
+1992-06-18,Netherlands,Germany,True,2,False,True,50,1.0
+1992-06-18,Scotland,Russia,True,3,False,True,50,1.0
+1992-06-19,Antigua and Barbuda,Suriname,True,0,True,False,30,0.5
+1992-06-19,Korea Republic,Bangladesh,True,6,False,True,40,1.0
+1992-06-20,Guadeloupe,Jamaica,True,1,False,False,30,0.0
+1992-06-20,Mozambique,Swaziland,False,3,False,True,20,1.0
+1992-06-21,Antigua and Barbuda,Martinique,True,3,False,False,30,0.0
+1992-06-21,Gabon,Burundi,False,1,False,False,20,0.0
+1992-06-21,Sweden,Germany,False,1,False,False,50,0.0
+1992-06-21,Thailand,Korea Republic,False,1,False,True,40,1.0
+1992-06-21,Uruguay,Australia,False,2,False,True,20,1.0
+1992-06-22,Cuba,Jamaica,True,0,True,False,30,0.5
+1992-06-22,Netherlands,Denmark,True,0,True,False,50,0.5
+1992-06-23,Thailand,Bangladesh,False,1,False,True,40,1.0
+1992-06-24,Jamaica,Martinique,True,1,False,True,30,1.0
+1992-06-24,Trinidad and Tobago,Cuba,False,1,False,True,30,1.0
+1992-06-26,Denmark,Germany,True,2,False,True,50,1.0
+1992-06-26,Sudan,Eritrea,False,0,True,False,20,0.5
+1992-06-27,Cuba,Martinique,True,0,True,False,30,0.5
+1992-06-27,Trinidad and Tobago,Jamaica,False,2,False,True,30,1.0
+1992-06-27,USA,Ukraine,False,0,True,False,20,0.5
+1992-06-27,Vanuatu,New Zealand,False,3,False,False,40,0.0
+1992-06-28,Botswana,Lesotho,False,4,False,False,40,0.0
+1992-06-28,Cape Verde,Guinea-Bissau,False,1,False,True,40,1.0
+1992-06-28,Chad,Eritrea,True,1,False,False,20,0.0
+1992-06-28,China,Slovakia,False,1,False,False,20,0.0
+1992-06-28,Honduras,Panama,False,4,False,True,20,1.0
+1992-06-28,Swaziland,Botswana,False,4,False,True,20,1.0
+1992-06-28,Uzbekistan,Turkmenistan,False,1,False,True,20,1.0
+1992-06-30,Honduras,Panama,False,4,False,True,20,1.0
+1992-06-30,Sudan,Chad,False,1,False,True,20,1.0
+1992-07-01,New Zealand,Vanuatu,False,8,False,True,40,1.0
+1992-07-03,Kazakhstan,Libya,True,1,False,True,20,1.0
+1992-07-04,Bermuda,Antigua and Barbuda,False,1,False,True,40,1.0
+1992-07-04,Uruguay,Ecuador,False,2,False,True,20,1.0
+1992-07-05,Australia,Croatia,False,1,False,True,20,1.0
+1992-07-05,Guatemala,Poland,False,0,True,False,20,0.5
+1992-07-05,Guinea-Bissau,Cape Verde,False,1,False,True,40,1.0
+1992-07-05,Trinidad and Tobago,Jamaica,False,1,False,False,40,0.0
+1992-07-06,Malawi,Zimbabwe,False,0,True,False,20,0.5
+1992-07-07,South Africa,Cameroon,False,1,False,True,20,1.0
+1992-07-08,Australia,Croatia,False,2,False,True,20,1.0
+1992-07-08,Malawi,Zimbabwe,False,0,True,False,20,0.5
+1992-07-09,South Africa,Cameroon,False,1,False,False,20,0.0
+1992-07-10,Latvia,Estonia,False,1,False,True,30,1.0
+1992-07-11,Estonia,Lithuania,True,0,True,False,30,0.5
+1992-07-11,South Africa,Cameroon,False,0,True,False,20,0.5
+1992-07-11,Turkmenistan,Tajikistan,False,0,True,False,20,0.5
+1992-07-12,Australia,Croatia,False,0,True,False,20,0.5
+1992-07-12,Latvia,Lithuania,False,1,False,False,30,0.0
+1992-07-12,New Caledonia,Tahiti,False,1,False,False,20,0.0
+1992-07-16,Kazakhstan,Uzbekistan,False,1,False,True,20,1.0
+1992-07-17,Solomon Islands,Tahiti,False,0,True,False,40,0.5
+1992-07-19,Guatemala,Honduras,False,0,True,False,40,0.5
+1992-07-19,Nicaragua,El Salvador,False,5,False,False,40,0.0
+1992-07-20,Vanuatu,Tahiti,False,1,False,False,20,0.0
+1992-07-22,Cameroon,Egypt,False,1,False,False,20,0.0
+1992-07-22,New Caledonia,Tahiti,False,1,False,False,20,0.0
+1992-07-23,El Salvador,Nicaragua,False,4,False,True,40,1.0
+1992-07-25,Fiji,Solomon Islands,True,1,False,True,20,1.0
+1992-07-25,Vanuatu,New Caledonia,False,1,False,False,20,0.0
+1992-07-26,El Salvador,Mexico,False,1,False,False,20,0.0
+1992-07-26,Honduras,Guatemala,False,2,False,True,40,1.0
+1992-07-26,Ivory Coast,Egypt,False,2,False,True,20,1.0
+1992-07-27,Vanuatu,Solomon Islands,False,2,False,False,20,0.0
+1992-07-28,Fiji,New Caledonia,True,0,True,False,20,0.5
+1992-07-28,Ivory Coast,Egypt,False,0,True,False,20,0.5
+1992-07-30,New Caledonia,Solomon Islands,True,1,False,True,20,1.0
+1992-07-30,Vanuatu,Fiji,False,2,False,False,20,0.0
+1992-07-31,Brazil,Mexico,True,5,False,True,20,1.0
+1992-07-31,USA,Colombia,False,1,False,False,20,0.0
+1992-08-01,Lesotho,Namibia,False,2,False,True,20,1.0
+1992-08-02,Lesotho,Namibia,False,0,True,False,20,0.5
+1992-08-02,Mexico,Colombia,True,0,True,False,20,0.5
+1992-08-02,Uruguay,Costa Rica,False,1,False,True,20,1.0
+1992-08-02,USA,Brazil,False,1,False,False,20,0.0
+1992-08-05,Faroe Islands,Israel,False,0,True,False,20,0.5
+1992-08-06,Ecuador,Costa Rica,False,0,True,False,20,0.5
+1992-08-08,Indonesia,Malaysia,False,0,True,False,20,0.5
+1992-08-08,Lesotho,Mauritius,False,1,False,True,20,1.0
+1992-08-09,Iceland,Israel,False,2,False,False,20,0.0
+1992-08-09,Lesotho,Mauritius,False,0,True,False,20,0.5
+1992-08-09,Libya,Niger,False,0,True,False,20,0.5
+1992-08-11,Australia,Malaysia,True,1,False,False,20,0.0
+1992-08-12,El Salvador,Honduras,True,3,False,False,20,0.0
+1992-08-12,Latvia,Lithuania,False,1,False,False,40,0.0
+1992-08-12,Libya,Mali,False,1,False,False,20,0.0
+1992-08-14,Algeria,Guinea-Bissau,False,2,False,True,40,1.0
+1992-08-14,Indonesia,Australia,False,3,False,False,20,0.0
+1992-08-14,Mali,Libya,False,1,False,True,20,1.0
+1992-08-15,Tanzania,Ghana,False,0,True,False,40,0.5
+1992-08-15,Uganda,Ethiopia,False,2,False,True,40,1.0
+1992-08-16,Benin,Niger,False,1,False,False,40,0.0
+1992-08-16,Burundi,Congo,False,1,False,True,40,1.0
+1992-08-16,Chad,Guinea,False,3,False,False,40,0.0
+1992-08-16,Congo DR,Mozambique,False,2,False,True,40,1.0
+1992-08-16,Estonia,Switzerland,False,6,False,False,40,0.0
+1992-08-16,Gabon,Cameroon,False,0,True,False,40,0.5
+1992-08-16,Lesotho,Kenya,False,0,True,False,40,0.5
+1992-08-16,Panama,Costa Rica,False,1,False,True,40,1.0
+1992-08-16,Senegal,Togo,False,2,False,True,40,1.0
+1992-08-16,Zimbabwe,South Africa,False,3,False,True,40,1.0
+1992-08-18,Ethiopia,Iraq,True,13,False,False,30,0.0
+1992-08-18,Jordan,Sudan,False,3,False,True,30,1.0
+1992-08-18,Moldova,Pakistan,True,5,False,True,30,1.0
+1992-08-19,Bulgaria,Mexico,False,0,True,False,20,0.5
+1992-08-19,Czechoslovakia,Austria,False,0,True,False,20,0.5
+1992-08-20,Congo,Iraq,True,3,False,False,30,0.0
+1992-08-20,Jordan,Pakistan,False,2,False,True,30,1.0
+1992-08-20,Moldova,Sudan,True,1,False,True,30,1.0
+1992-08-22,China,Korea DPR,False,0,True,False,30,0.5
+1992-08-22,Congo,Ethiopia,True,3,False,True,30,1.0
+1992-08-22,Japan,Korea Republic,True,0,True,False,30,0.5
+1992-08-22,Jordan,Moldova,False,1,False,True,30,1.0
+1992-08-22,Pakistan,Sudan,True,4,False,False,30,0.0
+1992-08-23,Costa Rica,Panama,False,4,False,True,40,1.0
+1992-08-23,Uzbekistan,Kyrgyzstan,False,3,False,True,20,1.0
+1992-08-24,China,Japan,False,2,False,False,30,0.0
+1992-08-24,Korea Republic,Korea DPR,True,0,True,False,30,0.5
+1992-08-26,China,Korea Republic,False,2,False,False,30,0.0
+1992-08-26,Finland,Poland,False,0,True,False,20,0.5
+1992-08-26,France,Brazil,False,2,False,False,20,0.0
+1992-08-26,Hungary,Ukraine,False,1,False,True,20,1.0
+1992-08-26,Iraq,Moldova,True,1,False,True,30,1.0
+1992-08-26,Japan,Korea DPR,True,3,False,True,30,1.0
+1992-08-26,Jordan,Congo,False,1,False,True,30,1.0
+1992-08-26,Latvia,Denmark,False,0,True,False,40,0.5
+1992-08-26,Norway,Sweden,False,0,True,False,20,0.5
+1992-08-26,Romania,Mexico,False,2,False,True,20,1.0
+1992-08-26,Turkey,Bulgaria,False,1,False,True,20,1.0
+1992-08-28,Congo,Moldova,True,2,False,False,30,0.0
+1992-08-28,Jordan,Iraq,False,2,False,True,30,1.0
+1992-08-29,China,Korea DPR,False,0,True,False,30,0.5
+1992-08-29,Japan,Korea Republic,True,0,True,False,30,0.5
+1992-08-29,Kenya,Congo DR,False,2,False,False,40,0.0
+1992-08-29,Malawi,Mali,False,0,True,False,40,0.5
+1992-08-29,Nigeria,Uganda,False,2,False,True,40,1.0
+1992-08-29,Sierra Leone,Algeria,False,1,False,True,40,1.0
+1992-08-30,Cameroon,Benin,False,2,False,True,40,1.0
+1992-08-30,Congo,Chad,False,2,False,True,40,1.0
+1992-08-30,Ethiopia,Sudan,False,3,False,True,40,1.0
+1992-08-30,Ghana,Burkina Faso,False,3,False,True,40,1.0
+1992-08-30,Guinea,Burundi,False,0,True,False,40,0.5
+1992-08-30,Liberia,Tanzania,False,0,True,False,40,0.5
+1992-08-30,Mauritius,Zimbabwe,False,1,False,False,40,0.0
+1992-08-30,Mozambique,Lesotho,False,3,False,True,40,1.0
+1992-08-30,Niger,Gabon,False,2,False,False,40,0.0
+1992-08-30,Senegal,Guinea-Bissau,False,3,False,True,40,1.0
+1992-08-30,South Africa,Zambia,False,1,False,False,40,0.0
+1992-09-02,Austria,Portugal,False,0,True,False,20,0.5
+1992-09-02,Czechoslovakia,Belgium,False,1,False,False,40,0.0
+1992-09-02,Greece,Cyprus,False,1,False,False,20,0.0
+1992-09-02,Lithuania,Georgia,False,1,False,True,20,1.0
+1992-09-03,Canada,USA,False,2,False,False,20,0.0
+1992-09-04,Solomon Islands,Australia,False,1,False,False,40,0.0
+1992-09-09,Bulgaria,France,False,2,False,True,40,1.0
+1992-09-09,Denmark,Germany,False,1,False,False,20,0.0
+1992-09-09,Finland,Sweden,False,1,False,False,40,0.0
+1992-09-09,Ireland,Latvia,False,4,False,True,40,1.0
+1992-09-09,Luxembourg,Hungary,False,3,False,False,40,0.0
+1992-09-09,Netherlands,Italy,False,1,False,False,20,0.0
+1992-09-09,Northern Ireland,Albania,False,3,False,True,40,1.0
+1992-09-09,Norway,San Marino,False,10,False,True,40,1.0
+1992-09-09,Poland,Israel,False,0,True,False,20,0.5
+1992-09-09,Spain,England,False,1,False,True,20,1.0
+1992-09-09,Switzerland,Scotland,False,2,False,True,40,1.0
+1992-09-09,Wales,Faroe Islands,False,6,False,True,40,1.0
+1992-09-11,Tahiti,Australia,True,3,False,False,40,0.0
+1992-09-12,Fiji,Vanuatu,False,3,False,True,40,1.0
+1992-09-13,El Salvador,Honduras,False,2,False,True,20,1.0
+1992-09-14,Turkmenistan,Kazakhstan,False,0,True,False,20,0.5
+1992-09-17,Georgia,Azerbaijan,False,3,False,True,20,1.0
+1992-09-18,Honduras,El Salvador,False,0,True,False,20,0.5
+1992-09-20,Australia,Tahiti,False,2,False,True,40,1.0
+1992-09-22,Honduras,Jamaica,False,4,False,True,20,1.0
+1992-09-23,Brazil,Costa Rica,False,2,False,True,20,1.0
+1992-09-23,Czechoslovakia,Faroe Islands,False,4,False,True,40,1.0
+1992-09-23,Hungary,Israel,False,0,True,False,20,0.5
+1992-09-23,Latvia,Spain,False,0,True,False,40,0.5
+1992-09-23,Lithuania,Denmark,False,0,True,False,40,0.5
+1992-09-23,Norway,Netherlands,False,1,False,True,40,1.0
+1992-09-23,Poland,Turkey,False,1,False,True,40,1.0
+1992-09-23,Uruguay,Argentina,False,0,True,False,30,0.5
+1992-09-24,Honduras,Jamaica,False,7,False,True,20,1.0
+1992-09-26,Australia,Solomon Islands,False,5,False,True,40,1.0
+1992-09-26,Kyrgyzstan,Kazakhstan,False,0,True,False,20,0.5
+1992-09-26,Vanuatu,Fiji,False,3,False,False,40,0.0
+1992-09-27,St. Vincent and the Grenadines,Jamaica,False,1,False,False,20,0.0
+1992-09-30,Botswana,Kenya,False,2,False,False,20,0.0
+1992-10-02,Iran,Cameroon,False,0,True,False,20,0.5
+1992-10-03,Botswana,Kenya,False,1,False,False,20,0.0
+1992-10-03,Kyrgyzstan,Uzbekistan,False,4,False,False,20,0.0
+1992-10-04,Gabon,Chad,False,1,False,True,20,1.0
+1992-10-04,Guinea-Bissau,Sierra Leone,False,3,False,False,40,0.0
+1992-10-04,Iran,Cameroon,False,0,True,False,20,0.5
+1992-10-04,Jamaica,St. Vincent and the Grenadines,False,0,True,False,20,0.5
+1992-10-04,Mali,Morocco,False,1,False,True,40,1.0
+1992-10-04,Togo,Algeria,False,0,True,False,40,0.5
+1992-10-06,Saudi Arabia,Cameroon,False,1,False,True,20,1.0
+1992-10-07,Cyprus,Malta,False,3,False,True,20,1.0
+1992-10-07,El Salvador,Mexico,True,2,False,False,20,0.0
+1992-10-07,Iceland,Greece,False,1,False,False,40,0.0
+1992-10-07,San Marino,Norway,False,2,False,False,40,0.0
+1992-10-07,Sweden,Bulgaria,False,2,False,True,40,1.0
+1992-10-09,Algeria,Burundi,False,2,False,True,40,1.0
+1992-10-09,Tahiti,Solomon Islands,True,2,False,True,40,1.0
+1992-10-09,USA,Canada,False,0,True,False,20,0.5
+1992-10-09,Zimbabwe,Togo,False,1,False,True,40,1.0
+1992-10-10,Nigeria,South Africa,False,4,False,True,40,1.0
+1992-10-11,Congo DR,Liberia,False,2,False,True,40,1.0
+1992-10-11,Egypt,Angola,False,1,False,True,40,1.0
+1992-10-11,Gabon,Mozambique,False,2,False,True,40,1.0
+1992-10-11,Ivory Coast,Botswana,False,6,False,True,40,1.0
+1992-10-11,Madagascar,Namibia,False,3,False,True,40,1.0
+1992-10-11,Morocco,Ethiopia,False,5,False,True,40,1.0
+1992-10-11,Qatar,Hungary,False,3,False,False,20,0.0
+1992-10-11,Tunisia,Benin,False,4,False,True,40,1.0
+1992-10-11,Zambia,Tanzania,False,2,False,True,40,1.0
+1992-10-13,Qatar,Hungary,False,0,True,False,20,0.5
+1992-10-14,Armenia,Moldova,False,0,True,False,20,0.5
+1992-10-14,Belgium,Romania,False,1,False,True,40,1.0
+1992-10-14,Cyprus,Wales,False,1,False,False,40,0.0
+1992-10-14,Denmark,Ireland,False,0,True,False,40,0.5
+1992-10-14,England,Norway,False,0,True,False,40,0.5
+1992-10-14,France,Austria,False,2,False,True,40,1.0
+1992-10-14,Germany,Mexico,False,0,True,False,20,0.5
+1992-10-14,Italy,Switzerland,False,0,True,False,40,0.5
+1992-10-14,Lithuania,Slovakia,False,1,False,False,20,0.0
+1992-10-14,Netherlands,Poland,False,0,True,False,40,0.5
+1992-10-14,Northern Ireland,Spain,False,0,True,False,40,0.5
+1992-10-14,Russia,Iceland,False,1,False,True,40,1.0
+1992-10-14,Scotland,Portugal,False,0,True,False,40,0.5
+1992-10-14,Turkmenistan,Kyrgyzstan,False,4,False,True,20,1.0
+1992-10-14,Uzbekistan,Kazakhstan,False,0,True,False,20,0.5
+1992-10-15,Saudi Arabia,USA,False,3,False,True,30,1.0
+1992-10-16,Argentina,Ivory Coast,True,4,False,True,30,1.0
+1992-10-18,Bermuda,El Salvador,False,1,False,True,40,1.0
+1992-10-18,Cameroon,Swaziland,False,5,False,True,40,1.0
+1992-10-18,Jamaica,Canada,False,0,True,False,40,0.5
+1992-10-18,Kuwait,Iran,False,0,True,False,20,0.5
+1992-10-18,Niger,Mali,False,2,False,False,20,0.0
+1992-10-19,USA,Ivory Coast,True,3,False,True,30,1.0
+1992-10-20,Saudi Arabia,Argentina,False,2,False,False,30,0.0
+1992-10-21,Korea Republic,United Arab Emirates,False,0,True,False,20,0.5
+1992-10-22,Croatia,Mexico,False,3,False,True,20,1.0
+1992-10-22,Kuwait,Oman,False,4,False,True,20,1.0
+1992-10-24,South Africa,Congo,False,1,False,True,40,1.0
+1992-10-25,Benin,Morocco,False,1,False,False,40,0.0
+1992-10-25,Bermuda,Jamaica,False,0,True,False,40,0.5
+1992-10-25,Burundi,Ghana,False,1,False,True,40,1.0
+1992-10-25,El Salvador,Canada,False,0,True,False,40,0.5
+1992-10-25,Ethiopia,Tunisia,False,0,True,False,40,0.5
+1992-10-25,Kazakhstan,Kyrgyzstan,False,2,False,True,20,1.0
+1992-10-25,Malta,Estonia,False,0,True,False,40,0.5
+1992-10-25,Mozambique,Senegal,False,1,False,False,40,0.0
+1992-10-25,Namibia,Zambia,False,4,False,False,40,0.0
+1992-10-25,Niger,Ivory Coast,False,0,True,False,40,0.5
+1992-10-25,Swaziland,Congo DR,False,1,False,True,40,1.0
+1992-10-25,Tanzania,Madagascar,False,0,True,False,40,0.5
+1992-10-25,Togo,Egypt,False,3,False,False,40,0.0
+1992-10-25,Turkmenistan,Uzbekistan,False,1,False,True,20,1.0
+1992-10-28,Austria,Israel,False,3,False,True,40,1.0
+1992-10-28,Belarus,Ukraine,False,0,True,False,20,0.5
+1992-10-28,Lithuania,Latvia,False,0,True,False,40,0.5
+1992-10-28,Russia,Luxembourg,False,2,False,True,40,1.0
+1992-10-28,Turkey,San Marino,False,3,False,True,40,1.0
+1992-10-29,Qatar,Thailand,True,0,True,False,50,0.5
+1992-10-29,Saudi Arabia,China,True,0,True,False,50,0.5
+1992-10-30,Japan,United Arab Emirates,False,0,True,False,50,0.5
+1992-10-30,Korea DPR,Iran,True,2,False,False,50,0.0
+1992-10-31,China,Thailand,True,0,True,False,50,0.5
+1992-10-31,Saudi Arabia,Qatar,True,0,True,False,50,0.5
+1992-11-01,Canada,Jamaica,False,1,False,True,40,1.0
+1992-11-01,El Salvador,Bermuda,False,3,False,True,40,1.0
+1992-11-01,Japan,Korea DPR,False,0,True,False,50,0.5
+1992-11-01,United Arab Emirates,Iran,True,0,True,False,50,0.5
+1992-11-02,China,Qatar,True,1,False,True,50,1.0
+1992-11-02,Egypt,Kuwait,False,0,True,False,20,0.5
+1992-11-02,Saudi Arabia,Thailand,True,4,False,True,50,1.0
+1992-11-03,Japan,Iran,False,1,False,True,50,1.0
+1992-11-03,United Arab Emirates,Korea DPR,True,1,False,True,50,1.0
+1992-11-06,Japan,China,False,1,False,True,50,1.0
+1992-11-06,Saudi Arabia,United Arab Emirates,True,2,False,True,50,1.0
+1992-11-07,Tunisia,Finland,False,0,True,False,20,0.5
+1992-11-07,Zimbabwe,Malawi,False,1,False,False,20,0.0
+1992-11-08,Canada,El Salvador,False,1,False,False,40,0.0
+1992-11-08,China,United Arab Emirates,True,0,True,False,50,0.5
+1992-11-08,Costa Rica,Honduras,False,1,False,False,40,0.0
+1992-11-08,Jamaica,Bermuda,False,1,False,True,40,1.0
+1992-11-08,Japan,Saudi Arabia,False,1,False,True,50,1.0
+1992-11-08,Morocco,Egypt,False,0,True,False,40,0.5
+1992-11-08,Togo,Guinea-Bissau,False,0,True,False,40,0.5
+1992-11-09,Zimbabwe,Malawi,False,3,False,True,20,1.0
+1992-11-11,Albania,Latvia,False,0,True,False,40,0.5
+1992-11-11,Bulgaria,Portugal,True,1,False,False,20,0.0
+1992-11-11,Greece,Hungary,False,0,True,False,40,0.5
+1992-11-11,Israel,Sweden,False,2,False,False,40,0.0
+1992-11-14,France,Finland,False,1,False,True,40,1.0
+1992-11-14,Romania,Czechoslovakia,False,0,True,False,40,0.5
+1992-11-15,Canada,Bermuda,False,2,False,True,40,1.0
+1992-11-15,Ethiopia,Zanzibar,True,3,False,True,30,1.0
+1992-11-15,Kenya,Uganda,True,0,True,False,30,0.5
+1992-11-15,Mexico,Honduras,False,2,False,True,40,1.0
+1992-11-15,Niger,Mali,False,1,False,False,20,0.0
+1992-11-16,Tanzania,Malawi,False,0,True,False,30,0.5
+1992-11-17,Ethiopia,Zambia,True,1,False,False,30,0.0
+1992-11-17,United Arab Emirates,Senegal,False,0,True,False,20,0.5
+1992-11-18,Belgium,Wales,False,2,False,True,40,1.0
+1992-11-18,Cyprus,Slovenia,False,0,True,False,20,0.5
+1992-11-18,England,Turkey,False,4,False,True,40,1.0
+1992-11-18,Germany,Austria,False,0,True,False,20,0.5
+1992-11-18,Kenya,Seychelles,True,1,False,True,30,1.0
+1992-11-18,Northern Ireland,Denmark,False,1,False,False,40,0.0
+1992-11-18,Poland,Latvia,False,1,False,True,20,1.0
+1992-11-18,Scotland,Italy,False,0,True,False,40,0.5
+1992-11-18,Spain,Ireland,False,0,True,False,40,0.5
+1992-11-18,Switzerland,Malta,False,3,False,True,40,1.0
+1992-11-18,Tanzania,Zanzibar,False,1,False,False,30,0.0
+1992-11-19,Malawi,Zambia,True,1,False,True,30,1.0
+1992-11-19,United Arab Emirates,Senegal,False,0,True,False,20,0.5
+1992-11-20,Egypt,Kuwait,False,0,True,False,20,0.5
+1992-11-20,Tanzania,Ethiopia,False,1,False,True,30,1.0
+1992-11-21,Seychelles,Uganda,True,3,False,False,30,0.0
+1992-11-21,Zambia,Zanzibar,True,8,False,True,30,1.0
+1992-11-22,Ethiopia,Malawi,True,1,False,False,30,0.0
+1992-11-22,Jamaica,El Salvador,False,2,False,False,40,0.0
+1992-11-22,Mexico,Costa Rica,False,4,False,True,40,1.0
+1992-11-23,Tanzania,Zambia,False,1,False,False,30,0.0
+1992-11-24,Algeria,United Arab Emirates,True,0,True,False,20,0.5
+1992-11-24,Malawi,Zanzibar,True,2,False,True,30,1.0
+1992-11-25,Brazil,Uruguay,False,1,False,False,20,0.0
+1992-11-25,Uganda,Zambia,True,0,True,False,20,0.5
+1992-11-26,Argentina,Poland,False,2,False,True,20,1.0
+1992-11-27,Qatar,Oman,False,2,False,True,30,1.0
+1992-11-28,Malawi,Zambia,True,4,False,False,30,0.0
+1992-11-28,Saudi Arabia,Bahrain,True,1,False,False,30,0.0
+1992-11-28,United Arab Emirates,Kuwait,True,2,False,False,30,0.0
+1992-11-29,Costa Rica,Mexico,False,2,False,True,40,1.0
+1992-11-29,Cyprus,Romania,False,3,False,False,40,0.0
+1992-11-29,Uruguay,Poland,False,1,False,False,20,0.0
+1992-11-30,Kuwait,Oman,True,1,False,True,30,1.0
+1992-12-01,Saudi Arabia,United Arab Emirates,True,1,False,False,30,0.0
+1992-12-02,China,Norway,False,1,False,True,20,1.0
+1992-12-02,Guatemala,Jamaica,False,1,False,True,20,1.0
+1992-12-02,Israel,Bulgaria,False,2,False,False,40,0.0
+1992-12-03,Qatar,Kuwait,False,4,False,True,30,1.0
+1992-12-04,Bahrain,United Arab Emirates,True,2,False,False,30,0.0
+1992-12-04,Oman,Saudi Arabia,True,2,False,False,30,0.0
+1992-12-05,Honduras,Costa Rica,False,1,False,True,40,1.0
+1992-12-06,Bermuda,Canada,False,0,True,False,40,0.5
+1992-12-06,El Salvador,Jamaica,False,1,False,True,40,1.0
+1992-12-06,Kuwait,Saudi Arabia,True,1,False,False,30,0.0
+1992-12-06,Qatar,United Arab Emirates,False,1,False,True,30,1.0
+1992-12-07,Bahrain,Oman,True,3,False,True,30,1.0
+1992-12-08,Singapore,Malaysia,False,3,False,True,30,1.0
+1992-12-09,Oman,United Arab Emirates,True,1,False,False,30,0.0
+1992-12-10,Kuwait,Bahrain,True,1,False,False,30,0.0
+1992-12-10,Qatar,Saudi Arabia,False,1,False,False,30,0.0
+1992-12-13,Honduras,Mexico,False,0,True,False,40,0.5
+1992-12-13,Niger,Ghana,False,1,False,False,20,0.0
+1992-12-16,Brazil,Germany,False,2,False,True,20,1.0
+1992-12-16,Guinea,Sierra Leone,False,0,True,False,20,0.5
+1992-12-16,Spain,Latvia,False,5,False,True,40,1.0
+1992-12-16,Turkey,Netherlands,False,2,False,False,40,0.0
+1992-12-19,Malta,Italy,False,1,False,False,40,0.0
+1992-12-19,Tanzania,Namibia,False,2,False,True,40,1.0
+1992-12-20,Botswana,Niger,False,1,False,False,40,0.0
+1992-12-20,Congo,Nigeria,False,1,False,False,40,0.0
+1992-12-20,Ethiopia,Benin,False,2,False,True,40,1.0
+1992-12-20,Gabon,Senegal,False,1,False,True,40,1.0
+1992-12-20,Ghana,Algeria,False,2,False,True,40,1.0
+1992-12-20,Guinea,Kenya,False,4,False,True,40,1.0
+1992-12-20,Madagascar,Zambia,False,2,False,True,40,1.0
+1992-12-20,Tunisia,Morocco,False,0,True,False,40,0.5
+1992-12-20,Uruguay,Germany,False,3,False,False,20,0.0
+1992-12-20,Zimbabwe,Egypt,False,1,False,True,40,1.0
+1992-12-22,Cyprus,Georgia,False,1,False,True,20,1.0
+1992-12-26,Burkina Faso,Mali,False,2,False,True,20,1.0
+1993-01-01,Ghana,Mali,True,0,True,False,20,0.5
+1993-01-02,Gabon,Burkina Faso,False,0,True,False,20,0.5
+1993-01-02,Kuwait,Lebanon,False,2,False,True,20,1.0
+1993-01-03,Burkina Faso,Mali,True,1,False,True,20,1.0
+1993-01-03,Gabon,Ghana,False,1,False,False,20,0.0
+1993-01-08,Uganda,Tanzania,False,2,False,True,20,1.0
+1993-01-09,Sierra Leone,Togo,True,0,True,False,40,0.5
+1993-01-10,Angola,Zimbabwe,False,0,True,False,40,0.5
+1993-01-10,Botswana,South Africa,False,2,False,False,20,0.0
+1993-01-10,Congo DR,Cameroon,False,1,False,False,40,0.0
+1993-01-10,Senegal,Algeria,False,1,False,False,40,0.0
+1993-01-10,Tunisia,Bulgaria,False,3,False,True,20,1.0
+1993-01-10,Uganda,Tanzania,False,2,False,True,20,1.0
+1993-01-16,South Africa,Nigeria,False,0,True,False,40,0.5
+1993-01-16,Tanzania,Zambia,False,2,False,False,40,0.0
+1993-01-17,Benin,Tunisia,False,5,False,False,40,0.0
+1993-01-17,Botswana,Ivory Coast,False,0,True,False,40,0.5
+1993-01-17,Burundi,Algeria,False,0,True,False,40,0.5
+1993-01-17,Ethiopia,Morocco,False,1,False,False,40,0.0
+1993-01-17,Mozambique,Gabon,False,0,True,False,40,0.5
+1993-01-17,Namibia,Madagascar,False,1,False,False,40,0.0
+1993-01-17,Swaziland,Cameroon,False,0,True,False,40,0.5
+1993-01-17,Togo,Zimbabwe,False,1,False,False,40,0.0
+1993-01-18,Angola,Egypt,False,0,True,False,40,0.5
+1993-01-19,Korea DPR,Bolivia,True,1,False,True,30,1.0
+1993-01-20,Guinea-Bissau,Guinea,False,1,False,True,20,1.0
+1993-01-20,India,Finland,False,0,True,False,30,0.5
+1993-01-20,Italy,Mexico,False,2,False,True,20,1.0
+1993-01-22,Cameroon,Finland,True,0,True,False,30,0.5
+1993-01-23,Ghana,Niger,False,4,False,True,20,1.0
+1993-01-23,Guinea-Bissau,Algeria,False,3,False,False,40,0.0
+1993-01-23,Venezuela,Peru,False,0,True,False,20,0.5
+1993-01-24,India,Cameroon,False,0,True,False,30,0.5
+1993-01-24,Malta,Portugal,False,1,False,False,40,0.0
+1993-01-24,Togo,Senegal,False,0,True,False,40,0.5
+1993-01-25,Bolivia,Russia,True,1,False,False,30,0.0
+1993-01-26,India,Finland,False,2,False,False,30,0.0
+1993-01-27,Ecuador,Belarus,False,0,True,False,20,0.5
+1993-01-27,Peru,Honduras,False,0,True,False,20,0.5
+1993-01-27,Spain,Mexico,False,0,True,False,20,0.5
+1993-01-28,Cameroon,Finland,True,2,False,True,30,1.0
+1993-01-29,Bolivia,Honduras,False,2,False,True,20,1.0
+1993-01-30,India,Cameroon,False,0,True,False,30,0.5
+1993-01-30,Peru,Belarus,False,0,True,False,20,0.5
+1993-01-30,Senegal,Mozambique,False,5,False,True,40,1.0
+1993-01-30,USA,Denmark,False,0,True,False,20,0.5
+1993-01-30,Zambia,Namibia,False,4,False,True,40,1.0
+1993-01-31,Congo,South Africa,False,1,False,False,40,0.0
+1993-01-31,Ecuador,Romania,False,3,False,True,20,1.0
+1993-01-31,Egypt,Togo,False,3,False,True,40,1.0
+1993-01-31,Ghana,Burundi,False,1,False,True,40,1.0
+1993-01-31,Ivory Coast,Niger,False,1,False,True,40,1.0
+1993-01-31,Korea DPR,Finland,True,1,False,True,30,1.0
+1993-01-31,Morocco,Benin,False,5,False,True,40,1.0
+1993-01-31,Tunisia,Ethiopia,False,3,False,True,40,1.0
+1993-01-31,Zimbabwe,Angola,False,1,False,True,40,1.0
+1993-02-01,Cyprus,Poland,False,0,True,False,20,0.5
+1993-02-03,Israel,Poland,False,0,True,False,20,0.5
+1993-02-03,Peru,Romania,False,2,False,False,20,0.0
+1993-02-05,Malaysia,Singapore,False,1,False,True,30,1.0
+1993-02-06,Ghana,Indonesia,True,2,False,True,30,1.0
+1993-02-06,USA,Romania,False,0,True,False,20,0.5
+1993-02-07,Malaysia,Thailand,False,0,True,False,30,0.5
+1993-02-08,Korea Republic,Indonesia,True,3,False,True,30,1.0
+1993-02-09,Singapore,Thailand,True,0,True,False,30,0.5
+1993-02-10,Ghana,Korea Republic,True,2,False,False,30,0.0
+1993-02-10,Mexico,Romania,False,2,False,False,20,0.0
+1993-02-10,Portugal,Norway,False,0,True,False,20,0.5
+1993-02-10,Thailand,China,False,1,False,True,30,1.0
+1993-02-13,Cyprus,Belgium,False,3,False,False,40,0.0
+1993-02-13,USA,Russia,False,1,False,False,20,0.0
+1993-02-14,Malaysia,Korea Republic,False,2,False,True,30,1.0
+1993-02-16,Costa Rica,Nicaragua,False,6,False,True,30,1.0
+1993-02-16,Thailand,China,False,4,False,False,30,0.0
+1993-02-17,Albania,Northern Ireland,False,1,False,False,40,0.0
+1993-02-17,El Salvador,Russia,True,1,False,False,20,0.0
+1993-02-17,England,San Marino,False,6,False,True,40,1.0
+1993-02-17,Greece,Luxembourg,False,2,False,True,40,1.0
+1993-02-17,Ireland,Wales,False,1,False,True,20,1.0
+1993-02-17,Israel,France,False,4,False,False,40,0.0
+1993-02-17,Scotland,Malta,False,3,False,True,40,1.0
+1993-02-18,Argentina,Brazil,False,0,True,False,20,0.5
+1993-02-18,United Arab Emirates,Bulgaria,False,1,False,True,20,1.0
+1993-02-19,Costa Rica,Nicaragua,False,2,False,True,30,1.0
+1993-02-20,Finland,Estonia,False,0,True,False,20,0.5
+1993-02-20,Latvia,Lithuania,True,1,False,False,20,0.0
+1993-02-20,United Arab Emirates,Bulgaria,False,2,False,False,20,0.0
+1993-02-21,Estonia,Latvia,True,2,False,False,20,0.0
+1993-02-21,Finland,Lithuania,False,3,False,True,20,1.0
+1993-02-21,USA,Russia,False,0,True,False,20,0.5
+1993-02-24,Argentina,Denmark,False,0,True,False,20,0.5
+1993-02-24,Kuwait,China,False,1,False,True,20,1.0
+1993-02-24,Netherlands,Turkey,False,2,False,True,40,1.0
+1993-02-24,Portugal,Italy,False,2,False,False,40,0.0
+1993-02-24,Spain,Lithuania,False,5,False,True,40,1.0
+1993-02-24,Venezuela,Colombia,False,0,True,False,20,0.5
+1993-02-26,Algeria,Ghana,False,1,False,True,40,1.0
+1993-02-27,Kenya,Guinea,False,2,False,True,40,1.0
+1993-02-27,Nigeria,Congo,False,2,False,True,40,1.0
+1993-02-27,Senegal,Gabon,False,1,False,True,40,1.0
+1993-02-28,Benin,Ethiopia,False,1,False,True,40,1.0
+1993-02-28,Morocco,Tunisia,False,0,True,False,40,0.5
+1993-02-28,Niger,Botswana,False,1,False,True,40,1.0
+1993-02-28,Togo,Angola,False,1,False,False,40,0.0
+1993-02-28,Zambia,Madagascar,False,2,False,True,40,1.0
+1993-03-01,Cameroon,Congo DR,False,0,True,False,40,0.5
+1993-03-02,Jordan,Syria,False,0,True,False,20,0.5
+1993-03-03,Martinique,French Guyana,False,1,False,True,30,1.0
+1993-03-03,Paraguay,Bolivia,False,1,False,True,30,1.0
+1993-03-05,El Salvador,Costa Rica,True,1,False,False,30,0.0
+1993-03-05,Honduras,Panama,False,2,False,True,30,1.0
+1993-03-07,El Salvador,Panama,True,0,True,False,30,0.5
+1993-03-07,Honduras,Costa Rica,False,2,False,True,30,1.0
+1993-03-07,Japan,Hungary,False,1,False,False,30,0.0
+1993-03-09,Canada,Korea Republic,False,2,False,False,20,0.0
+1993-03-09,Costa Rica,Panama,True,2,False,True,30,1.0
+1993-03-09,Honduras,El Salvador,False,3,False,True,30,1.0
+1993-03-10,Austria,Greece,False,1,False,True,20,1.0
+1993-03-10,Hungary,USA,True,0,True,False,30,0.5
+1993-03-10,San Marino,Turkey,False,0,True,False,40,0.5
+1993-03-11,Canada,Korea Republic,False,2,False,True,20,1.0
+1993-03-11,Guyana,Cayman Islands,False,1,False,True,30,1.0
+1993-03-11,Puerto Rico,Barbados,True,1,False,True,30,1.0
+1993-03-12,Cayman Islands,Barbados,True,5,False,False,30,0.0
+1993-03-12,El Salvador,Bolivia,False,0,True,False,20,0.5
+1993-03-12,Guyana,Puerto Rico,False,2,False,False,30,0.0
+1993-03-12,Qatar,Jordan,False,1,False,False,20,0.0
+1993-03-14,Guyana,Barbados,False,3,False,False,30,0.0
+1993-03-14,Honduras,Bolivia,False,0,True,False,20,0.5
+1993-03-14,Japan,USA,False,2,False,True,30,1.0
+1993-03-14,Puerto Rico,Cayman Islands,True,4,False,True,30,1.0
+1993-03-16,Honduras,Bolivia,False,0,True,False,20,0.5
+1993-03-16,Kuwait,Syria,False,1,False,True,20,1.0
+1993-03-17,Brazil,Poland,False,0,True,False,20,0.5
+1993-03-17,Tunisia,Switzerland,False,1,False,False,20,0.0
+1993-03-23,El Salvador,USA,False,0,True,False,20,0.5
+1993-03-24,Costa Rica,Canada,False,1,False,False,20,0.0
+1993-03-24,Cyprus,Czech Republic,False,0,True,False,40,0.5
+1993-03-24,French Guyana,Guadeloupe,False,1,False,True,30,1.0
+1993-03-24,Israel,Russia,False,0,True,False,20,0.5
+1993-03-24,Italy,Malta,False,5,False,True,40,1.0
+1993-03-24,Netherlands,San Marino,False,6,False,True,40,1.0
+1993-03-24,Scotland,Germany,False,1,False,False,20,0.0
+1993-03-25,Honduras,USA,False,3,False,True,20,1.0
+1993-03-26,Lebanon,Jordan,False,1,False,True,20,1.0
+1993-03-27,Austria,France,False,1,False,False,40,0.0
+1993-03-27,Malawi,Zambia,False,1,False,True,20,1.0
+1993-03-30,Qatar,Norway,False,5,False,False,20,0.0
+1993-03-30,Slovakia,Lithuania,False,0,True,False,20,0.5
+1993-03-31,Chile,Bolivia,False,1,False,True,20,1.0
+1993-03-31,Colombia,Costa Rica,False,3,False,True,20,1.0
+1993-03-31,Denmark,Spain,False,1,False,True,40,1.0
+1993-03-31,Hungary,Greece,False,1,False,False,40,0.0
+1993-03-31,Ireland,Northern Ireland,False,3,False,True,40,1.0
+1993-03-31,Poland,Lithuania,False,0,True,False,20,0.5
+1993-03-31,Switzerland,Portugal,False,0,True,False,40,0.5
+1993-03-31,Turkey,England,False,2,False,False,40,0.0
+1993-03-31,Wales,Belgium,False,2,False,True,40,1.0
+1993-04-02,Malaysia,United Arab Emirates,False,1,False,False,20,0.0
+1993-04-02,St. Kitts and Nevis,British Virgin Islands,False,4,False,True,30,1.0
+1993-04-03,Niger,Benin,False,0,True,False,20,0.5
+1993-04-04,Anguilla,Antigua and Barbuda,False,4,False,False,30,0.0
+1993-04-04,Dominican Republic,British Virgin Islands,True,2,False,True,30,1.0
+1993-04-04,El Salvador,Mexico,False,1,False,True,40,1.0
+1993-04-04,Honduras,Canada,False,0,True,False,40,0.5
+1993-04-04,Kuwait,Egypt,False,2,False,False,20,0.0
+1993-04-05,Antigua and Barbuda,Sint Maarten,True,2,False,False,30,0.0
+1993-04-06,Anguilla,Sint Maarten,False,1,False,False,30,0.0
+1993-04-06,St. Kitts and Nevis,Dominican Republic,False,0,True,False,30,0.5
+1993-04-07,Slovenia,Estonia,False,2,False,True,20,1.0
+1993-04-08,Japan,Thailand,False,1,False,True,40,1.0
+1993-04-08,Sri Lanka,United Arab Emirates,True,4,False,False,40,0.0
+1993-04-09,Algeria,Sierra Leone,False,0,True,False,40,0.5
+1993-04-09,Egypt,Mali,False,1,False,True,40,1.0
+1993-04-09,Korea DPR,Vietnam,True,3,False,True,40,1.0
+1993-04-09,Oman,Malaysia,False,1,False,True,20,1.0
+1993-04-09,Qatar,Indonesia,False,2,False,True,40,1.0
+1993-04-10,South Africa,Mauritius,False,0,True,False,40,0.5
+1993-04-11,Canada,El Salvador,False,2,False,True,40,1.0
+1993-04-11,Ethiopia,Nigeria,False,1,False,True,40,1.0
+1993-04-11,Gabon,Benin,False,2,False,True,40,1.0
+1993-04-11,Guinea,Congo,False,1,False,True,40,1.0
+1993-04-11,Guinea-Bissau,Senegal,False,3,False,False,40,0.0
+1993-04-11,Japan,Bangladesh,False,8,False,True,40,1.0
+1993-04-11,Korea DPR,Singapore,True,1,False,True,40,1.0
+1993-04-11,Lesotho,Congo DR,False,0,True,False,40,0.5
+1993-04-11,Mexico,Honduras,False,3,False,True,40,1.0
+1993-04-11,Morocco,Malawi,False,1,False,False,40,0.0
+1993-04-11,Mozambique,Kenya,False,0,True,False,40,0.5
+1993-04-11,Niger,Cameroon,False,0,True,False,40,0.5
+1993-04-11,Qatar,Vietnam,False,4,False,True,40,1.0
+1993-04-11,Thailand,Sri Lanka,True,1,False,True,40,1.0
+1993-04-13,Korea DPR,Indonesia,True,4,False,True,40,1.0
+1993-04-13,Poland,Finland,False,1,False,True,20,1.0
+1993-04-13,Sri Lanka,Bangladesh,True,1,False,False,40,0.0
+1993-04-13,United Arab Emirates,Thailand,True,1,False,True,40,1.0
+1993-04-13,Vietnam,Singapore,True,1,False,False,40,0.0
+1993-04-14,Austria,Bulgaria,False,2,False,True,40,1.0
+1993-04-14,Denmark,Latvia,False,2,False,True,40,1.0
+1993-04-14,Germany,Ghana,False,5,False,True,20,1.0
+1993-04-14,Guadeloupe,Martinique,False,3,False,False,30,0.0
+1993-04-14,Italy,Estonia,False,2,False,True,40,1.0
+1993-04-14,Lithuania,Albania,False,2,False,True,40,1.0
+1993-04-14,Luxembourg,Russia,False,4,False,False,40,0.0
+1993-04-14,Romania,Cyprus,False,1,False,True,40,1.0
+1993-04-15,Egypt,Zimbabwe,True,0,True,False,40,0.5
+1993-04-15,Hungary,Sweden,False,2,False,False,20,0.0
+1993-04-15,Japan,Sri Lanka,False,5,False,True,40,1.0
+1993-04-15,United Arab Emirates,Bangladesh,True,1,False,True,40,1.0
+1993-04-16,Algeria,Ivory Coast,False,0,True,False,40,0.5
+1993-04-16,Australia,Kuwait,True,1,False,True,20,1.0
+1993-04-16,Qatar,Singapore,False,3,False,True,40,1.0
+1993-04-16,Vietnam,Indonesia,True,1,False,True,40,1.0
+1993-04-17,Malta,Switzerland,False,2,False,False,40,0.0
+1993-04-17,USA,Iceland,False,0,True,False,20,0.5
+1993-04-18,Cameroon,Guinea,False,2,False,True,40,1.0
+1993-04-18,Canada,Honduras,False,2,False,True,40,1.0
+1993-04-18,Indonesia,Singapore,True,2,False,False,40,0.0
+1993-04-18,Japan,United Arab Emirates,False,2,False,True,40,1.0
+1993-04-18,Mexico,El Salvador,False,2,False,True,40,1.0
+1993-04-18,Morocco,Senegal,False,1,False,True,40,1.0
+1993-04-18,Qatar,Korea DPR,False,1,False,False,40,0.0
+1993-04-18,Saudi Arabia,New Zealand,True,2,False,True,20,1.0
+1993-04-18,Thailand,Bangladesh,True,3,False,True,40,1.0
+1993-04-19,Australia,Kuwait,True,2,False,False,20,0.0
+1993-04-22,Singapore,Saudi Arabia,False,3,False,False,20,0.0
+1993-04-23,Hong Kong,Kuwait,True,0,True,False,20,0.5
+1993-04-24,Indonesia,Qatar,True,3,False,False,40,0.0
+1993-04-24,Kenya,Lesotho,False,3,False,True,40,1.0
+1993-04-24,Saudi Arabia,New Zealand,True,1,False,True,20,1.0
+1993-04-24,Sierra Leone,Guinea-Bissau,False,2,False,True,40,1.0
+1993-04-24,South Africa,Zimbabwe,False,0,True,False,40,0.5
+1993-04-24,Vietnam,Korea DPR,True,1,False,False,40,0.0
+1993-04-25,Cameroon,Gabon,False,0,True,False,40,0.5
+1993-04-25,Congo,Burundi,False,0,True,False,40,0.5
+1993-04-25,Cyprus,Faroe Islands,False,2,False,True,40,1.0
+1993-04-25,Ethiopia,Uganda,False,0,True,False,40,0.5
+1993-04-25,Grenada,Dominica,False,0,True,False,30,0.5
+1993-04-25,Honduras,El Salvador,False,2,False,True,40,1.0
+1993-04-25,Hong Kong,Kuwait,True,1,False,False,20,0.0
+1993-04-25,Korea Republic,Iraq,False,0,True,False,20,0.5
+1993-04-25,Mauritius,Zambia,False,3,False,False,40,0.0
+1993-04-25,Mexico,Canada,False,4,False,True,40,1.0
+1993-04-25,Morocco,Mali,False,1,False,True,40,1.0
+1993-04-25,Mozambique,Congo DR,False,0,True,False,40,0.5
+1993-04-25,Niger,Benin,False,3,False,True,40,1.0
+1993-04-25,St. Vincent and the Grenadines,St. Lucia,True,1,False,False,30,0.0
+1993-04-26,Singapore,Korea DPR,False,2,False,False,40,0.0
+1993-04-26,Vietnam,Qatar,True,4,False,False,40,0.0
+1993-04-27,Dominica,St. Lucia,True,2,False,False,30,0.0
+1993-04-27,Ukraine,Israel,False,0,True,False,20,0.5
+1993-04-28,Bulgaria,Finland,False,2,False,True,40,1.0
+1993-04-28,Czech Republic,Wales,False,0,True,False,40,0.5
+1993-04-28,England,Netherlands,False,0,True,False,40,0.5
+1993-04-28,France,Sweden,False,1,False,True,40,1.0
+1993-04-28,Indonesia,Korea DPR,True,1,False,False,40,0.0
+1993-04-28,Ireland,Denmark,False,0,True,False,40,0.5
+1993-04-28,Korea Republic,Iraq,False,0,True,False,20,0.5
+1993-04-28,Norway,Turkey,False,2,False,True,40,1.0
+1993-04-28,Poland,San Marino,False,1,False,True,40,1.0
+1993-04-28,Portugal,Scotland,False,5,False,True,40,1.0
+1993-04-28,Russia,Hungary,False,3,False,True,40,1.0
+1993-04-28,Singapore,Vietnam,False,1,False,True,40,1.0
+1993-04-28,Spain,Northern Ireland,False,2,False,True,40,1.0
+1993-04-28,Thailand,Japan,True,1,False,False,40,0.0
+1993-04-28,United Arab Emirates,Sri Lanka,False,3,False,True,40,1.0
+1993-04-29,Dominica,St. Vincent and the Grenadines,True,2,False,False,30,0.0
+1993-04-29,Grenada,St. Lucia,False,1,False,False,30,0.0
+1993-04-30,Bangladesh,Japan,True,3,False,False,40,0.0
+1993-04-30,Indonesia,Vietnam,True,1,False,True,40,1.0
+1993-04-30,Singapore,Qatar,False,1,False,True,40,1.0
+1993-04-30,United Arab Emirates,Thailand,False,1,False,True,40,1.0
+1993-05-01,Macau,Saudi Arabia,True,6,False,False,40,0.0
+1993-05-01,Malaysia,Kuwait,False,0,True,False,40,0.5
+1993-05-01,Switzerland,Italy,False,1,False,True,40,1.0
+1993-05-02,El Salvador,Canada,False,1,False,False,40,0.0
+1993-05-02,Guinea,Zimbabwe,False,3,False,True,40,1.0
+1993-05-02,Honduras,Mexico,False,3,False,False,40,0.0
+1993-05-02,Ivory Coast,Nigeria,False,1,False,True,40,1.0
+1993-05-02,Korea DPR,Qatar,True,0,True,False,40,0.5
+1993-05-02,Singapore,Indonesia,False,1,False,True,40,1.0
+1993-05-03,Guernsey,Jersey,False,1,False,False,20,0.0
+1993-05-03,Macau,Kuwait,True,9,False,False,40,0.0
+1993-05-03,Malaysia,Saudi Arabia,False,0,True,False,40,0.5
+1993-05-03,Sri Lanka,Thailand,True,3,False,False,40,0.0
+1993-05-03,United Arab Emirates,Bangladesh,False,7,False,True,40,1.0
+1993-05-05,Bangladesh,Thailand,True,3,False,False,40,0.0
+1993-05-05,Kuwait,Saudi Arabia,True,0,True,False,40,0.5
+1993-05-05,Malaysia,Macau,False,9,False,True,40,1.0
+1993-05-05,Sri Lanka,Japan,True,6,False,False,40,0.0
+1993-05-07,Bangladesh,Sri Lanka,True,3,False,True,40,1.0
+1993-05-07,Hong Kong,Bahrain,True,1,False,True,40,1.0
+1993-05-07,Lebanon,India,False,0,True,False,40,0.5
+1993-05-07,United Arab Emirates,Japan,False,0,True,False,40,0.5
+1993-05-08,USA,Colombia,False,1,False,False,20,0.0
+1993-05-09,Bahrain,Korea Republic,True,0,True,False,40,0.5
+1993-05-09,Canada,Mexico,False,1,False,False,40,0.0
+1993-05-09,El Salvador,Honduras,False,1,False,True,40,1.0
+1993-05-09,Lebanon,Hong Kong,False,0,True,False,40,0.5
+1993-05-11,India,Hong Kong,True,1,False,False,40,0.0
+1993-05-11,Lebanon,Korea Republic,False,1,False,False,40,0.0
+1993-05-12,Bulgaria,Israel,False,0,True,False,40,0.5
+1993-05-12,Estonia,Malta,False,1,False,False,40,0.0
+1993-05-13,Finland,Austria,False,2,False,True,40,1.0
+1993-05-13,India,Korea Republic,True,3,False,False,40,0.0
+1993-05-13,Lebanon,Bahrain,False,0,True,False,40,0.5
+1993-05-14,Kuwait,Malaysia,True,2,False,True,40,1.0
+1993-05-14,Saudi Arabia,Macau,False,8,False,True,40,1.0
+1993-05-15,Bahrain,India,True,1,False,True,40,1.0
+1993-05-15,Hong Kong,Korea Republic,True,3,False,False,40,0.0
+1993-05-15,Latvia,Albania,False,0,True,False,40,0.5
+1993-05-16,Kuwait,Macau,True,8,False,True,40,1.0
+1993-05-16,Saudi Arabia,Malaysia,False,3,False,True,40,1.0
+1993-05-18,Lithuania,Ukraine,False,1,False,False,20,0.0
+1993-05-18,Macau,Malaysia,True,5,False,False,40,0.0
+1993-05-18,Saudi Arabia,Kuwait,False,2,False,True,40,1.0
+1993-05-19,Estonia,Scotland,False,3,False,False,40,0.0
+1993-05-19,San Marino,Poland,False,3,False,False,40,0.0
+1993-05-19,Sweden,Austria,False,1,False,True,40,1.0
+1993-05-20,Guadeloupe,Réunion,True,3,False,False,20,0.0
+1993-05-20,Luxembourg,Iceland,False,0,True,False,40,0.5
+1993-05-20,Zambia,Malawi,False,0,True,False,20,0.5
+1993-05-21,Colombia,Venezuela,False,0,True,False,20,0.5
+1993-05-21,Jamaica,St. Kitts and Nevis,False,3,False,True,30,1.0
+1993-05-21,Martinique,St. Lucia,True,2,False,True,30,1.0
+1993-05-21,Puerto Rico,Sint Maarten,True,3,False,True,30,1.0
+1993-05-22,Belgium,Faroe Islands,False,3,False,True,40,1.0
+1993-05-22,Burkina Faso,Guadeloupe,True,2,False,True,20,1.0
+1993-05-22,Jordan,Yemen,False,0,True,False,40,0.5
+1993-05-22,New Zealand,Fiji,False,2,False,True,20,1.0
+1993-05-22,Pakistan,China,True,5,False,False,40,0.0
+1993-05-22,Zambia,Malawi,False,1,False,False,20,0.0
+1993-05-23,Jamaica,Sint Maarten,False,2,False,True,30,1.0
+1993-05-23,Russia,Greece,False,0,True,False,40,0.5
+1993-05-23,St. Kitts and Nevis,Puerto Rico,True,1,False,True,30,1.0
+1993-05-23,Trinidad and Tobago,St. Lucia,True,0,True,False,30,0.5
+1993-05-23,USA,Bolivia,False,0,True,False,20,0.5
+1993-05-24,Jordan,Iraq,False,0,True,False,40,0.5
+1993-05-24,New Zealand,Fiji,False,5,False,True,20,1.0
+1993-05-24,Yemen,Pakistan,True,4,False,True,40,1.0
+1993-05-24,Zambia,Malawi,False,2,False,True,20,1.0
+1993-05-25,Azerbaijan,Georgia,False,1,False,True,20,1.0
+1993-05-25,Jamaica,Puerto Rico,False,1,False,True,30,1.0
+1993-05-25,Lithuania,Northern Ireland,False,1,False,False,40,0.0
+1993-05-25,Martinique,Trinidad and Tobago,True,1,False,True,30,1.0
+1993-05-25,St. Kitts and Nevis,Sint Maarten,True,0,True,False,30,0.5
+1993-05-25,St. Vincent and the Grenadines,St. Lucia,True,3,False,True,30,1.0
+1993-05-26,Albania,Ireland,False,1,False,False,40,0.0
+1993-05-26,Ethiopia,Sudan,False,0,True,False,20,0.5
+1993-05-26,Jordan,China,False,3,False,False,40,0.0
+1993-05-26,USA,Peru,False,0,True,False,20,0.5
+1993-05-26,Yemen,Iraq,True,5,False,False,40,0.0
+1993-05-27,Bolivia,Paraguay,False,1,False,True,30,1.0
+1993-05-28,Jamaica,Trinidad and Tobago,False,3,False,True,30,1.0
+1993-05-28,Martinique,St. Kitts and Nevis,True,0,True,False,30,0.5
+1993-05-28,Pakistan,Iraq,True,8,False,False,40,0.0
+1993-05-28,Yemen,China,True,1,False,True,40,1.0
+1993-05-29,Ireland,Hungary,False,2,False,False,20,0.0
+1993-05-29,Poland,England,False,0,True,False,40,0.5
+1993-05-30,Chile,Colombia,False,0,True,False,20,0.5
+1993-05-30,Ecuador,Peru,False,1,False,True,20,1.0
+1993-05-30,Iraq,China,True,1,False,True,40,1.0
+1993-05-30,Jamaica,Martinique,False,0,True,False,30,0.5
+1993-05-30,Jordan,Pakistan,False,2,False,True,40,1.0
+1993-05-30,New Zealand,Australia,False,1,False,False,40,0.0
+1993-05-30,Trinidad and Tobago,St. Kitts and Nevis,True,1,False,True,30,1.0
+1993-06-02,Czech Republic,Romania,True,3,False,True,40,1.0
+1993-06-02,Denmark,Albania,False,4,False,True,40,1.0
+1993-06-02,Iceland,Russia,False,0,True,False,40,0.5
+1993-06-02,Latvia,Northern Ireland,False,1,False,False,40,0.0
+1993-06-02,Lithuania,Spain,False,2,False,False,40,0.0
+1993-06-02,Norway,England,False,2,False,True,40,1.0
+1993-06-02,Scotland,Estonia,False,2,False,True,40,1.0
+1993-06-02,Sweden,Israel,False,5,False,True,40,1.0
+1993-06-02,Turkmenistan,Tajikistan,False,6,False,True,20,1.0
+1993-06-05,Bahrain,Lebanon,True,0,True,False,40,0.5
+1993-06-05,Korea Republic,Hong Kong,False,3,False,True,40,1.0
+1993-06-06,Australia,New Zealand,False,3,False,True,40,1.0
+1993-06-06,Azerbaijan,Tajikistan,True,2,False,True,20,1.0
+1993-06-06,Colombia,Chile,False,1,False,True,20,1.0
+1993-06-06,Faroe Islands,Wales,False,3,False,False,40,0.0
+1993-06-06,Iran,Bosnia-Herzegovina,False,2,False,False,20,0.0
+1993-06-06,Iran,Pakistan,False,5,False,True,20,1.0
+1993-06-06,Peru,Bolivia,False,1,False,True,20,1.0
+1993-06-06,USA,Brazil,False,2,False,False,30,0.0
+1993-06-07,Azerbaijan,Kyrgyzstan,True,1,False,True,20,1.0
+1993-06-07,India,Bahrain,True,3,False,False,40,0.0
+1993-06-07,Korea Republic,Lebanon,False,2,False,True,40,1.0
+1993-06-07,Pakistan,Turkmenistan,True,4,False,False,20,0.0
+1993-06-08,Iran,Turkmenistan,False,1,False,True,20,1.0
+1993-06-08,Kyrgyzstan,Tajikistan,True,0,True,False,20,0.5
+1993-06-09,Ecuador,Chile,False,1,False,False,20,0.0
+1993-06-09,Hong Kong,Lebanon,True,1,False,False,40,0.0
+1993-06-09,Korea Republic,India,False,7,False,True,40,1.0
+1993-06-09,Latvia,Ireland,False,2,False,False,40,0.0
+1993-06-09,Netherlands,Norway,False,0,True,False,40,0.5
+1993-06-09,USA,England,False,2,False,True,30,1.0
+1993-06-10,Brazil,Germany,True,0,True,False,30,0.5
+1993-06-10,Mexico,Paraguay,False,2,False,True,20,1.0
+1993-06-11,Bahrain,Hong Kong,True,3,False,True,40,1.0
+1993-06-11,India,Lebanon,True,1,False,False,40,0.0
+1993-06-11,Korea Republic,Romania,False,0,True,False,30,0.5
+1993-06-11,Martinique,Trinidad and Tobago,False,0,True,False,20,0.5
+1993-06-11,Peru,Venezuela,False,2,False,True,20,1.0
+1993-06-12,China,Pakistan,False,3,False,True,40,1.0
+1993-06-12,Yemen,Jordan,True,0,True,False,40,0.5
+1993-06-13,Bolivia,Chile,False,2,False,False,20,0.0
+1993-06-13,Brazil,England,True,0,True,False,30,0.5
+1993-06-13,Hong Kong,India,True,2,False,False,40,0.0
+1993-06-13,Iran,Tajikistan,False,1,False,True,20,1.0
+1993-06-13,Korea Republic,Bahrain,False,3,False,True,40,1.0
+1993-06-13,USA,Germany,False,1,False,False,30,0.0
+1993-06-14,Iran,Turkmenistan,False,1,False,True,20,1.0
+1993-06-14,Iraq,Jordan,True,4,False,True,40,1.0
+1993-06-14,Korea Republic,Czech Republic,False,1,False,False,30,0.0
+1993-06-14,Pakistan,Yemen,True,3,False,False,40,0.0
+1993-06-15,Ecuador,Venezuela,False,5,False,True,50,1.0
+1993-06-16,China,Jordan,False,3,False,True,40,1.0
+1993-06-16,Colombia,Mexico,True,1,False,True,50,1.0
+1993-06-16,Faroe Islands,Czech Republic,False,3,False,False,40,0.0
+1993-06-16,Finland,Israel,False,0,True,False,40,0.5
+1993-06-16,Iceland,Hungary,False,2,False,True,40,1.0
+1993-06-16,Iraq,Yemen,True,3,False,True,40,1.0
+1993-06-16,Lithuania,Ireland,False,1,False,False,40,0.0
+1993-06-16,Uruguay,USA,True,1,False,True,50,1.0
+1993-06-17,Argentina,Bolivia,True,1,False,True,50,1.0
+1993-06-18,Brazil,Peru,True,0,True,False,50,0.5
+1993-06-18,China,Yemen,False,1,False,True,40,1.0
+1993-06-18,Iraq,Pakistan,True,4,False,True,40,1.0
+1993-06-18,Paraguay,Chile,True,1,False,True,50,1.0
+1993-06-19,Ecuador,USA,False,2,False,True,50,1.0
+1993-06-19,England,Germany,True,1,False,False,30,0.0
+1993-06-19,Korea Republic,Egypt,False,1,False,False,30,0.0
+1993-06-19,Portugal,Malta,False,4,False,True,40,1.0
+1993-06-19,Uruguay,Venezuela,True,0,True,False,50,0.5
+1993-06-20,Argentina,Mexico,True,0,True,False,50,0.5
+1993-06-20,China,Iraq,False,1,False,True,40,1.0
+1993-06-20,Colombia,Bolivia,True,0,True,False,50,0.5
+1993-06-20,Mali,Senegal,False,2,False,False,20,0.0
+1993-06-20,Pakistan,Jordan,True,5,False,False,40,0.0
+1993-06-21,Brazil,Chile,True,1,False,False,50,0.0
+1993-06-21,Paraguay,Peru,True,0,True,False,50,0.5
+1993-06-22,Ecuador,Uruguay,False,1,False,True,50,1.0
+1993-06-22,USA,Venezuela,True,0,True,False,50,0.5
+1993-06-23,Argentina,Colombia,True,0,True,False,50,0.5
+1993-06-23,Costa Rica,Panama,False,2,False,True,20,1.0
+1993-06-23,Iran,Oman,False,0,True,False,40,0.5
+1993-06-23,Mexico,Bolivia,True,0,True,False,50,0.5
+1993-06-24,Brazil,Paraguay,True,3,False,True,50,1.0
+1993-06-24,Chile,Peru,True,1,False,False,50,0.0
+1993-06-25,Croatia,Ukraine,False,2,False,True,20,1.0
+1993-06-25,Iran,Taiwan,False,6,False,True,40,1.0
+1993-06-25,Oman,Syria,True,0,True,False,40,0.5
+1993-06-26,Colombia,Uruguay,True,0,True,False,50,0.5
+1993-06-26,Ecuador,Paraguay,False,3,False,True,50,1.0
+1993-06-26,Egypt,Romania,True,1,False,True,30,1.0
+1993-06-26,Korea Republic,Czech Republic,False,1,False,True,30,1.0
+1993-06-27,Brazil,Argentina,True,0,True,False,50,0.5
+1993-06-27,Iran,Syria,False,0,True,False,40,0.5
+1993-06-27,Oman,Taiwan,True,1,False,True,40,1.0
+1993-06-27,Peru,Mexico,True,2,False,False,50,0.0
+1993-06-28,Korea Republic,Egypt,False,1,False,False,30,0.0
+1993-06-29,Costa Rica,Mexico,False,2,False,False,20,0.0
+1993-06-30,Ecuador,Mexico,False,2,False,False,50,0.0
+1993-07-01,Colombia,Argentina,True,0,True,False,50,0.5
+1993-07-02,Estonia,Latvia,False,2,False,False,30,0.0
+1993-07-02,Oman,Iran,True,1,False,False,40,0.0
+1993-07-02,Syria,Taiwan,False,7,False,True,40,1.0
+1993-07-03,Ecuador,Colombia,False,1,False,False,50,0.0
+1993-07-03,Latvia,Lithuania,True,0,True,False,30,0.5
+1993-07-03,Nigeria,Algeria,False,3,False,True,40,1.0
+1993-07-04,Argentina,Mexico,True,1,False,True,50,1.0
+1993-07-04,Estonia,Lithuania,False,1,False,True,30,1.0
+1993-07-04,Gabon,Mali,False,2,False,False,20,0.0
+1993-07-04,Jamaica,Costa Rica,False,0,True,False,20,0.5
+1993-07-04,Syria,Oman,False,1,False,True,40,1.0
+1993-07-04,Zambia,Morocco,False,1,False,True,40,1.0
+1993-07-04,Zimbabwe,Cameroon,False,1,False,True,40,1.0
+1993-07-04,Gibraltar,Jersey,True,1,False,False,30,0.0
+1993-07-04,Ynys Môn,Greenland,True,1,False,False,30,0.0
+1993-07-04,Isle of Wight,Isle of Man,False,1,False,True,30,1.0
+1993-07-04,Åland Islands,Shetland,True,2,False,True,30,1.0
+1993-07-05,Jersey,Greenland,True,2,False,True,30,1.0
+1993-07-05,Ynys Môn,Gibraltar,True,1,False,True,30,1.0
+1993-07-05,Isle of Man,Åland Islands,True,2,False,True,30,1.0
+1993-07-05,Isle of Wight,Shetland,False,2,False,True,30,1.0
+1993-07-06,Malawi,Swaziland,False,2,False,True,20,1.0
+1993-07-06,Syria,Iran,False,0,True,False,40,0.5
+1993-07-06,Greenland,Gibraltar,True,5,False,True,30,1.0
+1993-07-06,Jersey,Ynys Môn,True,0,True,False,30,0.5
+1993-07-06,Shetland,Isle of Man,True,4,False,False,30,0.0
+1993-07-06,Isle of Wight,Åland Islands,False,2,False,False,30,0.0
+1993-07-07,Ivory Coast,Niger,False,1,False,True,20,1.0
+1993-07-08,Malawi,Swaziland,False,0,True,False,20,0.5
+1993-07-08,Shetland,Gibraltar,True,1,False,True,30,1.0
+1993-07-08,Isle of Wight,Ynys Môn,False,0,True,False,30,0.5
+1993-07-09,Greenland,Åland Islands,True,1,False,False,30,0.0
+1993-07-09,Jersey,Isle of Man,True,4,False,True,30,1.0
+1993-07-10,Honduras,Panama,True,4,False,True,50,1.0
+1993-07-10,Malawi,Swaziland,False,1,False,False,20,0.0
+1993-07-10,USA,Jamaica,False,1,False,True,50,1.0
+1993-07-11,Benin,Cameroon,False,3,False,False,40,0.0
+1993-07-11,Burundi,Guinea,False,0,True,False,40,0.5
+1993-07-11,Canada,Costa Rica,True,0,True,False,50,0.5
+1993-07-11,Congo DR,Kenya,False,1,False,False,40,0.0
+1993-07-11,Egypt,Morocco,False,0,True,False,40,0.5
+1993-07-11,Gabon,Niger,False,3,False,True,40,1.0
+1993-07-11,Lesotho,Mozambique,False,0,True,False,40,0.5
+1993-07-11,Mali,Malawi,False,1,False,True,40,1.0
+1993-07-11,Mexico,Martinique,False,9,False,True,50,1.0
+1993-07-11,Senegal,Sierra Leone,False,0,True,False,40,0.5
+1993-07-11,Zambia,South Africa,False,3,False,True,40,1.0
+1993-07-11,Zimbabwe,Mauritius,False,2,False,True,40,1.0
+1993-07-13,Peru,Uruguay,False,1,False,False,20,0.0
+1993-07-14,Brazil,Paraguay,False,2,False,True,20,1.0
+1993-07-14,Honduras,Jamaica,True,2,False,False,50,0.0
+1993-07-14,USA,Panama,False,1,False,True,50,1.0
+1993-07-15,Canada,Martinique,True,0,True,False,50,0.5
+1993-07-15,Mexico,Costa Rica,False,0,True,False,50,0.5
+1993-07-17,Jamaica,Panama,True,0,True,False,50,0.5
+1993-07-17,Senegal,Morocco,False,2,False,False,40,0.0
+1993-07-17,Uganda,Nigeria,False,0,True,False,40,0.5
+1993-07-17,Uruguay,Peru,False,3,False,True,20,1.0
+1993-07-17,USA,Honduras,False,1,False,True,50,1.0
+1993-07-18,Costa Rica,Martinique,True,2,False,True,50,1.0
+1993-07-18,Ecuador,Brazil,False,0,True,False,40,0.5
+1993-07-18,Guinea,Cameroon,False,1,False,False,40,0.0
+1993-07-18,Ivory Coast,Algeria,False,1,False,True,40,1.0
+1993-07-18,Mexico,Canada,False,8,False,True,50,1.0
+1993-07-18,Venezuela,Bolivia,False,6,False,False,40,0.0
+1993-07-21,USA,Costa Rica,False,1,False,True,50,1.0
+1993-07-22,Mexico,Jamaica,False,5,False,True,50,1.0
+1993-07-24,Nigeria,Ethiopia,False,6,False,True,40,1.0
+1993-07-24,Uganda,Sudan,False,1,False,True,40,1.0
+1993-07-25,Algeria,Senegal,False,4,False,True,40,1.0
+1993-07-25,Benin,Gabon,False,1,False,False,40,0.0
+1993-07-25,Bolivia,Brazil,False,2,False,True,40,1.0
+1993-07-25,Cameroon,Niger,False,2,False,True,40,1.0
+1993-07-25,Congo DR,Lesotho,False,7,False,True,40,1.0
+1993-07-25,Jamaica,Costa Rica,True,0,True,False,50,0.5
+1993-07-25,Liberia,Ghana,False,2,False,False,40,0.0
+1993-07-25,Malawi,Morocco,False,2,False,False,40,0.0
+1993-07-25,Mali,Egypt,False,1,False,True,40,1.0
+1993-07-25,Mauritius,South Africa,False,2,False,False,40,0.0
+1993-07-25,Mexico,USA,False,4,False,True,50,1.0
+1993-07-25,Venezuela,Uruguay,False,1,False,False,40,0.0
+1993-07-25,Zimbabwe,Zambia,False,0,True,False,40,0.5
+1993-07-28,France,Russia,False,2,False,True,20,1.0
+1993-07-29,Malawi,Swaziland,False,3,False,True,20,1.0
+1993-07-31,Canada,Australia,False,1,False,True,40,1.0
+1993-08-01,Colombia,Paraguay,False,0,True,False,40,0.5
+1993-08-01,Peru,Argentina,False,1,False,False,40,0.0
+1993-08-01,Uruguay,Ecuador,False,0,True,False,40,0.5
+1993-08-01,Venezuela,Brazil,False,4,False,False,40,0.0
+1993-08-07,Senegal,Zambia,True,0,True,False,40,0.5
+1993-08-08,Bolivia,Uruguay,False,2,False,True,40,1.0
+1993-08-08,Brazil,Mexico,False,0,True,False,20,0.5
+1993-08-08,Ecuador,Venezuela,False,5,False,True,40,1.0
+1993-08-08,Guinea,Sierra Leone,False,1,False,True,20,1.0
+1993-08-08,Paraguay,Argentina,False,2,False,False,40,0.0
+1993-08-08,Peru,Colombia,False,1,False,False,40,0.0
+1993-08-08,Zimbabwe,Swaziland,False,2,False,True,20,1.0
+1993-08-09,Guinea,Sierra Leone,False,4,False,True,20,1.0
+1993-08-11,Faroe Islands,Norway,False,7,False,False,20,0.0
+1993-08-11,Sweden,Switzerland,False,1,False,False,20,0.0
+1993-08-15,Australia,Canada,False,1,False,True,40,1.0
+1993-08-15,Bolivia,Ecuador,False,1,False,True,40,1.0
+1993-08-15,Colombia,Argentina,False,1,False,True,40,1.0
+1993-08-15,Congo,Guinea,False,0,True,False,40,0.5
+1993-08-15,Paraguay,Peru,False,1,False,True,40,1.0
+1993-08-15,Uruguay,Brazil,False,0,True,False,40,0.5
+1993-08-22,Argentina,Peru,False,1,False,True,40,1.0
+1993-08-22,Bolivia,Venezuela,False,7,False,True,40,1.0
+1993-08-22,Brazil,Ecuador,False,2,False,True,40,1.0
+1993-08-22,Paraguay,Colombia,False,0,True,False,40,0.5
+1993-08-22,Sweden,France,False,0,True,False,40,0.5
+1993-08-25,Austria,Finland,False,3,False,True,40,1.0
+1993-08-25,Denmark,Lithuania,False,4,False,True,40,1.0
+1993-08-29,Argentina,Paraguay,False,0,True,False,40,0.5
+1993-08-29,Brazil,Bolivia,False,6,False,True,40,1.0
+1993-08-29,Colombia,Peru,False,4,False,True,40,1.0
+1993-08-29,Uruguay,Venezuela,False,4,False,True,40,1.0
+1993-08-31,Iceland,USA,False,1,False,False,20,0.0
+1993-09-05,Argentina,Colombia,False,5,False,False,40,0.0
+1993-09-05,Brazil,Venezuela,False,4,False,True,40,1.0
+1993-09-05,Ecuador,Uruguay,False,1,False,False,40,0.0
+1993-09-05,Estonia,Portugal,False,2,False,False,40,0.0
+1993-09-05,Peru,Paraguay,False,0,True,False,40,0.5
+1993-09-06,Swaziland,Zimbabwe,False,1,False,False,20,0.0
+1993-09-08,Albania,Denmark,False,1,False,False,40,0.0
+1993-09-08,Bulgaria,Sweden,False,0,True,False,40,0.5
+1993-09-08,England,Poland,False,3,False,True,40,1.0
+1993-09-08,Faroe Islands,Romania,False,4,False,False,40,0.0
+1993-09-08,Finland,France,False,2,False,False,40,0.0
+1993-09-08,Hungary,Russia,False,2,False,False,40,0.0
+1993-09-08,Iceland,Luxembourg,False,1,False,True,40,1.0
+1993-09-08,Ireland,Lithuania,False,2,False,True,40,1.0
+1993-09-08,Northern Ireland,Latvia,False,2,False,True,40,1.0
+1993-09-08,Norway,USA,False,1,False,True,20,1.0
+1993-09-08,Scotland,Switzerland,False,0,True,False,40,0.5
+1993-09-08,Spain,Chile,False,2,False,True,20,1.0
+1993-09-08,Wales,Czech Republic,False,0,True,False,40,0.5
+1993-09-12,Uruguay,Bolivia,False,1,False,True,40,1.0
+1993-09-12,Venezuela,Ecuador,False,1,False,True,40,1.0
+1993-09-15,Morocco,Mali,False,3,False,True,20,1.0
+1993-09-17,Saudi Arabia,Thailand,False,4,False,True,20,1.0
+1993-09-19,Brazil,Uruguay,False,2,False,True,40,1.0
+1993-09-19,Ecuador,Bolivia,False,0,True,False,40,0.5
+1993-09-19,Zimbabwe,Senegal,False,2,False,True,20,1.0
+1993-09-20,Saudi Arabia,Thailand,False,3,False,True,20,1.0
+1993-09-22,Albania,Spain,False,4,False,False,40,0.0
+1993-09-22,Estonia,Italy,False,3,False,False,40,0.0
+1993-09-22,Mexico,Cameroon,True,1,False,True,20,1.0
+1993-09-22,Norway,Poland,False,1,False,True,40,1.0
+1993-09-22,Romania,Israel,False,1,False,True,20,1.0
+1993-09-22,San Marino,Netherlands,True,7,False,False,40,0.0
+1993-09-22,Tunisia,Germany,False,0,True,False,20,0.5
+1993-09-23,Saudi Arabia,Costa Rica,False,1,False,False,20,0.0
+1993-09-24,Korea Republic,Australia,False,0,True,False,20,0.5
+1993-09-25,Nigeria,Ivory Coast,False,3,False,True,40,1.0
+1993-09-26,Korea Republic,Australia,False,1,False,True,20,1.0
+1993-09-26,Zambia,Senegal,False,4,False,True,40,1.0
+1993-09-26,Zimbabwe,Guinea,False,1,False,True,40,1.0
+1993-09-27,Saudi Arabia,Costa Rica,False,1,False,True,20,1.0
+1993-09-29,Mexico,Poland,True,0,True,False,20,0.5
+1993-10-01,Morocco,Gabon,False,1,False,True,20,1.0
+1993-10-04,Japan,Ivory Coast,False,1,False,True,20,1.0
+1993-10-05,Cyprus,Israel,False,0,True,False,20,0.5
+1993-10-06,Belgium,Gabon,False,1,False,True,20,1.0
+1993-10-06,Mexico,South Africa,True,4,False,True,20,1.0
+1993-10-06,Saudi Arabia,Russia,False,2,False,True,20,1.0
+1993-10-08,Algeria,Nigeria,False,0,True,False,40,0.5
+1993-10-10,Cameroon,Zimbabwe,False,2,False,True,40,1.0
+1993-10-10,Morocco,Zambia,False,1,False,True,40,1.0
+1993-10-12,Luxembourg,Greece,False,2,False,False,40,0.0
+1993-10-13,Bulgaria,Austria,False,3,False,True,40,1.0
+1993-10-13,Denmark,Northern Ireland,False,1,False,True,40,1.0
+1993-10-13,France,Israel,False,1,False,False,40,0.0
+1993-10-13,Germany,Uruguay,False,5,False,True,20,1.0
+1993-10-13,Ireland,Spain,False,2,False,False,40,0.0
+1993-10-13,Italy,Scotland,False,2,False,True,40,1.0
+1993-10-13,Netherlands,England,False,2,False,True,40,1.0
+1993-10-13,Poland,Norway,False,3,False,False,40,0.0
+1993-10-13,Portugal,Switzerland,False,1,False,True,40,1.0
+1993-10-13,Romania,Belgium,False,1,False,True,40,1.0
+1993-10-13,Slovenia,Macedonia,False,3,False,False,20,0.0
+1993-10-13,Sweden,Finland,False,1,False,True,40,1.0
+1993-10-13,USA,Mexico,False,0,True,False,20,0.5
+1993-10-13,Wales,Cyprus,False,2,False,True,40,1.0
+1993-10-15,Korea DPR,Iraq,True,1,False,True,40,1.0
+1993-10-15,Saudi Arabia,Japan,True,0,True,False,40,0.5
+1993-10-16,Iran,Korea Republic,True,3,False,False,40,0.0
+1993-10-16,USA,Ukraine,False,1,False,False,20,0.0
+1993-10-17,Tunisia,Iceland,False,2,False,True,20,1.0
+1993-10-18,Japan,Iran,True,1,False,False,40,0.0
+1993-10-18,Korea DPR,Saudi Arabia,True,1,False,False,40,0.0
+1993-10-19,Iraq,Korea Republic,True,0,True,False,40,0.5
+1993-10-20,Mexico,Ukraine,True,1,False,True,20,1.0
+1993-10-21,Korea DPR,Japan,True,3,False,False,40,0.0
+1993-10-22,Iran,Iraq,True,1,False,False,40,0.0
+1993-10-22,Korea Republic,Saudi Arabia,True,0,True,False,40,0.5
+1993-10-23,USA,Ukraine,False,1,False,False,20,0.0
+1993-10-24,Burundi,Guinea,True,0,True,False,40,0.5
+1993-10-24,Iraq,Saudi Arabia,True,0,True,False,40,0.5
+1993-10-25,Iran,Korea DPR,True,1,False,True,40,1.0
+1993-10-25,Japan,Korea Republic,True,1,False,True,40,1.0
+1993-10-26,Liechtenstein,Estonia,False,2,False,False,20,0.0
+1993-10-26,United Arab Emirates,Jordan,False,1,False,True,20,1.0
+1993-10-27,Czech Republic,Cyprus,True,3,False,True,40,1.0
+1993-10-27,Hungary,Luxembourg,False,1,False,True,40,1.0
+1993-10-27,Israel,Austria,False,0,True,False,40,0.5
+1993-10-27,Turkey,Poland,False,1,False,True,40,1.0
+1993-10-28,Iraq,Japan,True,0,True,False,40,0.5
+1993-10-28,Korea Republic,Korea DPR,True,3,False,True,40,1.0
+1993-10-28,Saudi Arabia,Iran,True,1,False,True,40,1.0
+1993-10-28,United Arab Emirates,Jordan,False,2,False,False,20,0.0
+1993-10-31,Australia,Argentina,False,0,True,False,40,0.5
+1993-11-03,Mexico,China,True,3,False,True,20,1.0
+1993-11-05,Egypt,Malta,True,3,False,True,20,1.0
+1993-11-05,Tunisia,Gabon,False,4,False,True,20,1.0
+1993-11-07,Gabon,Malta,True,1,False,False,20,0.0
+1993-11-07,Tunisia,Egypt,False,1,False,True,20,1.0
+1993-11-07,USA,Jamaica,False,1,False,True,20,1.0
+1993-11-10,Austria,Sweden,False,0,True,False,40,0.5
+1993-11-10,Israel,Finland,False,2,False,False,40,0.0
+1993-11-10,Portugal,Estonia,False,3,False,True,40,1.0
+1993-11-10,Turkey,Norway,False,1,False,True,40,1.0
+1993-11-14,Antigua and Barbuda,St. Kitts and Nevis,False,3,False,True,20,1.0
+1993-11-14,USA,Cayman Islands,False,7,False,True,20,1.0
+1993-11-16,Slovakia,Slovenia,False,2,False,True,20,1.0
+1993-11-17,Argentina,Australia,False,1,False,True,40,1.0
+1993-11-17,Belgium,Czech Republic,False,0,True,False,40,0.5
+1993-11-17,France,Bulgaria,False,1,False,False,40,0.0
+1993-11-17,Germany,Brazil,False,1,False,True,20,1.0
+1993-11-17,Greece,Russia,False,1,False,True,40,1.0
+1993-11-17,Italy,Portugal,False,1,False,True,40,1.0
+1993-11-17,Malta,Scotland,False,2,False,False,40,0.0
+1993-11-17,Northern Ireland,Ireland,False,0,True,False,40,0.5
+1993-11-17,Poland,Netherlands,False,2,False,False,40,0.0
+1993-11-17,San Marino,England,True,6,False,False,40,0.0
+1993-11-17,Spain,Denmark,False,1,False,True,40,1.0
+1993-11-17,Switzerland,Estonia,False,4,False,True,40,1.0
+1993-11-17,Wales,Romania,False,1,False,False,40,0.0
+1993-11-22,Gambia,Mauritania,False,2,False,False,20,0.0
+1993-11-26,Gambia,Ghana,True,3,False,True,20,1.0
+1993-11-26,Sierra Leone,Guinea,False,0,True,False,30,0.5
+1993-11-27,Guinea-Bissau,Mauritania,True,1,False,True,30,1.0
+1993-11-27,Senegal,Mali,True,1,False,False,30,0.0
+1993-11-28,Guinea,Gambia,True,1,False,False,30,0.0
+1993-11-28,Sierra Leone,Ghana,False,1,False,False,20,0.0
+1993-11-29,Mali,Guinea-Bissau,True,3,False,True,30,1.0
+1993-11-29,Senegal,Mauritania,True,4,False,True,30,1.0
+1993-11-30,Ghana,Guinea,True,1,False,True,20,1.0
+1993-11-30,Sierra Leone,Gambia,False,0,True,False,30,0.5
+1993-11-30,Tahiti,Fiji,False,3,False,True,20,1.0
+1993-12-01,Kenya,Uganda,False,1,False,True,20,1.0
+1993-12-01,Mali,Mauritania,True,0,True,False,30,0.5
+1993-12-01,Senegal,Guinea-Bissau,True,0,True,False,30,0.5
+1993-12-03,Gambia,Senegal,True,2,False,False,30,0.0
+1993-12-03,Sierra Leone,Mali,False,2,False,True,30,1.0
+1993-12-05,Gambia,Mali,True,2,False,True,30,1.0
+1993-12-05,Sierra Leone,Senegal,False,2,False,True,30,1.0
+1993-12-05,USA,El Salvador,False,7,False,True,20,1.0
+1993-12-06,Tanzania,Uganda,True,1,False,True,20,1.0
+1993-12-10,Bangladesh,Burma,False,2,False,True,20,1.0
+1993-12-10,Kenya,Tanzania,False,1,False,True,20,1.0
+1993-12-15,Argentina,Germany,True,1,False,True,20,1.0
+1993-12-16,Mexico,Brazil,False,1,False,False,20,0.0
+1993-12-18,USA,Germany,False,3,False,False,20,0.0
+1993-12-19,Mali,Ivory Coast,False,1,False,False,20,0.0
+1993-12-22,Mexico,Germany,False,0,True,False,20,0.5
+1993-12-29,Ghana,Egypt,False,0,True,False,20,0.5
+1993-12-31,Ghana,Tunisia,False,0,True,False,20,0.5
+1994-01-02,Barbados,Grenada,False,0,True,False,20,0.5
+1994-01-02,Ghana,Egypt,False,1,False,True,20,1.0
+1994-01-05,Mali,Burkina Faso,False,0,True,False,20,0.5
+1994-01-09,Mauritania,Mali,False,2,False,False,20,0.0
+1994-01-11,Thailand,Nigeria,False,0,True,False,20,0.5
+1994-01-15,USA,Norway,False,1,False,True,20,1.0
+1994-01-18,Guinea,Ivory Coast,False,3,False,True,20,1.0
+1994-01-19,Costa Rica,Norway,True,0,True,False,20,0.5
+1994-01-19,Mexico,Bulgaria,True,0,True,False,20,0.5
+1994-01-19,Spain,Portugal,False,0,True,False,20,0.5
+1994-01-19,Suriname,French Guyana,False,1,False,True,30,1.0
+1994-01-19,Tunisia,Netherlands,False,0,True,False,20,0.5
+1994-01-21,Guyana,French Guyana,True,0,True,False,30,0.5
+1994-01-22,USA,Switzerland,False,0,True,False,20,0.5
+1994-01-23,Barbados,Puerto Rico,False,1,False,False,30,0.0
+1994-01-23,Mali,Senegal,False,1,False,True,20,1.0
+1994-01-23,Saudi Arabia,China,False,1,False,True,20,1.0
+1994-01-23,Suriname,Guyana,False,2,False,True,30,1.0
+1994-01-25,Grenada,Puerto Rico,True,1,False,True,30,1.0
+1994-01-25,Qatar,Finland,False,1,False,True,20,1.0
+1994-01-26,Mexico,Switzerland,True,4,False,False,20,0.0
+1994-01-26,Saudi Arabia,China,False,0,True,False,20,0.5
+1994-01-27,Barbados,Grenada,False,1,False,True,30,1.0
+1994-01-27,Qatar,Finland,False,0,True,False,20,0.5
+1994-01-28,Venezuela,Colombia,False,1,False,False,20,0.0
+1994-01-29,Burkina Faso,Guinea,False,0,True,False,20,0.5
+1994-01-29,Ivory Coast,Niger,True,2,False,True,20,1.0
+1994-01-29,USA,Russia,False,0,True,False,20,0.5
+1994-01-30,Burkina Faso,Ivory Coast,False,1,False,False,20,0.0
+1994-01-30,Guinea,Niger,True,2,False,False,20,0.0
+1994-01-30,Oman,Finland,False,2,False,False,20,0.0
+1994-01-30,Senegal,Mali,False,0,True,False,20,0.5
+1994-02-01,Oman,Finland,False,0,True,False,20,0.5
+1994-02-02,Egypt,Morocco,True,0,True,False,30,0.5
+1994-02-02,Mexico,Russia,True,3,False,False,20,0.0
+1994-02-02,United Arab Emirates,Slovakia,False,1,False,False,30,0.0
+1994-02-04,Egypt,Slovakia,True,1,False,True,30,1.0
+1994-02-04,Oman,Kenya,False,1,False,True,20,1.0
+1994-02-04,United Arab Emirates,Morocco,False,0,True,False,30,0.5
+1994-02-06,Morocco,Slovakia,True,1,False,True,30,1.0
+1994-02-06,Oman,Kenya,False,2,False,True,20,1.0
+1994-02-06,Saudi Arabia,Colombia,False,0,True,False,20,0.5
+1994-02-06,United Arab Emirates,Egypt,False,1,False,False,30,0.0
+1994-02-07,Gambia,Senegal,False,0,True,False,20,0.5
+1994-02-08,Georgia,Slovenia,True,1,False,False,30,0.0
+1994-02-08,Malta,Tunisia,False,0,True,False,30,0.5
+1994-02-09,Spain,Poland,False,0,True,False,20,0.5
+1994-02-10,Malta,Georgia,False,1,False,False,30,0.0
+1994-02-10,Slovenia,Tunisia,True,0,True,False,30,0.5
+1994-02-12,Georgia,Tunisia,True,2,False,True,30,1.0
+1994-02-12,Malawi,Zambia,False,3,False,False,20,0.0
+1994-02-12,Malta,Slovenia,False,1,False,False,30,0.0
+1994-02-13,Malawi,Zambia,False,2,False,False,20,0.0
+1994-02-13,Romania,USA,True,1,False,True,30,1.0
+1994-02-16,Italy,France,False,1,False,False,20,0.0
+1994-02-16,Korea Republic,Romania,False,1,False,False,20,0.0
+1994-02-16,Malta,Belgium,False,1,False,True,20,1.0
+1994-02-18,Colombia,Sweden,True,0,True,False,20,0.5
+1994-02-18,USA,Bolivia,False,0,True,False,20,0.5
+1994-02-20,Bolivia,Colombia,True,2,False,False,20,0.0
+1994-02-20,USA,Sweden,False,2,False,False,20,0.0
+1994-02-23,Dominica,Antigua and Barbuda,True,1,False,True,30,1.0
+1994-02-23,Israel,Georgia,False,2,False,True,20,1.0
+1994-02-23,Mali,Ghana,False,0,True,False,20,0.5
+1994-02-23,Morocco,Finland,False,0,True,False,20,0.5
+1994-02-23,St. Kitts and Nevis,Montserrat,False,8,False,True,30,1.0
+1994-02-23,Turkey,Czech Republic,False,3,False,False,20,0.0
+1994-02-24,Mexico,Sweden,True,1,False,True,20,1.0
+1994-02-25,Antigua and Barbuda,Montserrat,True,8,False,True,30,1.0
+1994-02-25,St. Kitts and Nevis,Dominica,False,1,False,False,30,0.0
+1994-02-26,Colombia,Korea Republic,True,0,True,False,20,0.5
+1994-02-26,Zimbabwe,Zambia,False,0,True,False,20,0.5
+1994-02-27,Gabon,Senegal,False,0,True,False,20,0.5
+1994-03-02,Cayman Islands,British Virgin Islands,False,5,False,True,30,1.0
+1994-03-02,Jamaica,Sint Maarten,True,1,False,True,30,1.0
+1994-03-02,Mexico,Colombia,False,0,True,False,20,0.5
+1994-03-04,Cayman Islands,Sint Maarten,False,5,False,True,30,1.0
+1994-03-04,Guadeloupe,Anguilla,True,9,False,True,30,1.0
+1994-03-04,Jamaica,British Virgin Islands,True,12,False,True,30,1.0
+1994-03-05,USA,Korea Republic,False,1,False,True,20,1.0
+1994-03-06,Cayman Islands,Jamaica,False,1,False,True,30,1.0
+1994-03-06,Sint Maarten,British Virgin Islands,True,3,False,True,30,1.0
+1994-03-06,St. Vincent and the Grenadines,Anguilla,False,2,False,True,30,1.0
+1994-03-09,Cyprus,Estonia,False,2,False,True,20,1.0
+1994-03-09,England,Denmark,False,1,False,True,20,1.0
+1994-03-09,Hungary,Switzerland,False,1,False,False,20,0.0
+1994-03-09,Nigeria,Ghana,False,0,True,False,20,0.5
+1994-03-09,Wales,Norway,False,2,False,False,20,0.0
+1994-03-10,Dominican Republic,Haiti,False,1,False,False,30,0.0
+1994-03-12,Congo,Congo DR,False,1,False,True,20,1.0
+1994-03-12,USA,Korea Republic,False,0,True,False,20,0.5
+1994-03-12,Zambia,Zimbabwe,False,1,False,True,20,1.0
+1994-03-15,Gabon,Congo DR,False,1,False,True,20,1.0
+1994-03-15,Israel,Ukraine,False,1,False,True,20,1.0
+1994-03-16,Egypt,Cameroon,False,0,True,False,20,0.5
+1994-03-17,Tunisia,Niger,False,2,False,True,20,1.0
+1994-03-19,Angola,Gabon,False,1,False,True,20,1.0
+1994-03-22,France,Chile,False,2,False,True,20,1.0
+1994-03-23,Austria,Hungary,False,0,True,False,20,0.5
+1994-03-23,Brazil,Argentina,False,2,False,True,20,1.0
+1994-03-23,Germany,Italy,False,1,False,True,20,1.0
+1994-03-23,Greece,Poland,False,0,True,False,20,0.5
+1994-03-23,Ireland,Russia,False,0,True,False,20,0.5
+1994-03-23,Luxembourg,Morocco,False,1,False,False,20,0.0
+1994-03-23,Macedonia,Slovenia,False,2,False,True,20,1.0
+1994-03-23,Northern Ireland,Romania,False,2,False,True,20,1.0
+1994-03-23,Scotland,Netherlands,False,1,False,False,20,0.0
+1994-03-23,Spain,Croatia,False,2,False,False,20,0.0
+1994-03-26,Nigeria,Gabon,True,3,False,True,50,1.0
+1994-03-26,Saudi Arabia,Chile,False,2,False,False,20,0.0
+1994-03-26,Tunisia,Mali,False,2,False,False,50,0.0
+1994-03-26,USA,Bolivia,False,0,True,False,20,0.5
+1994-03-27,Ghana,Guinea,True,1,False,True,50,1.0
+1994-03-27,Ivory Coast,Sierra Leone,True,4,False,True,50,1.0
+1994-03-28,Egypt,Gabon,True,4,False,True,50,1.0
+1994-03-28,Mali,Congo DR,True,1,False,False,50,0.0
+1994-03-29,Senegal,Guinea,True,1,False,True,50,1.0
+1994-03-29,Zambia,Sierra Leone,True,0,True,False,50,0.5
+1994-03-30,Malta,Slovakia,False,1,False,False,20,0.0
+1994-03-30,Nigeria,Egypt,True,0,True,False,50,0.5
+1994-03-30,Tunisia,Congo DR,False,0,True,False,50,0.5
+1994-03-31,Ghana,Senegal,True,1,False,True,50,1.0
+1994-03-31,Zambia,Ivory Coast,True,1,False,True,50,1.0
+1994-04-02,Congo DR,Nigeria,True,2,False,False,50,0.0
+1994-04-02,Egypt,Mali,True,1,False,False,50,0.0
+1994-04-03,Ghana,Ivory Coast,True,1,False,False,50,0.0
+1994-04-03,Zambia,Senegal,True,1,False,True,50,1.0
+1994-04-06,Hungary,Slovenia,False,1,False,False,20,0.0
+1994-04-06,Nigeria,Ivory Coast,True,0,True,False,50,0.5
+1994-04-06,Zambia,Mali,True,4,False,True,50,1.0
+1994-04-07,Cayman Islands,Haiti,True,1,False,False,30,0.0
+1994-04-07,Colombia,Bolivia,False,1,False,False,20,0.0
+1994-04-07,Martinique,Suriname,True,2,False,True,30,1.0
+1994-04-09,Martinique,Haiti,True,3,False,True,30,1.0
+1994-04-09,Suriname,Cayman Islands,True,2,False,True,30,1.0
+1994-04-10,Ivory Coast,Mali,True,2,False,True,50,1.0
+1994-04-10,Nigeria,Zambia,True,1,False,True,50,1.0
+1994-04-11,Kazakhstan,Tajikistan,True,1,False,True,20,1.0
+1994-04-11,Martinique,Cayman Islands,True,0,True,False,30,0.5
+1994-04-11,Suriname,Haiti,True,0,True,False,30,0.5
+1994-04-11,Uzbekistan,Turkmenistan,False,4,False,True,20,1.0
+1994-04-13,Kyrgyzstan,Turkmenistan,True,4,False,False,20,0.0
+1994-04-13,Poland,Saudi Arabia,True,1,False,True,20,1.0
+1994-04-13,Uzbekistan,Kazakhstan,False,1,False,True,20,1.0
+1994-04-14,Martinique,Guadeloupe,True,2,False,True,30,1.0
+1994-04-14,Trinidad and Tobago,Suriname,False,1,False,True,30,1.0
+1994-04-15,Kazakhstan,Turkmenistan,True,0,True,False,20,0.5
+1994-04-15,Kyrgyzstan,Tajikistan,True,1,False,False,20,0.0
+1994-04-15,Oman,Bulgaria,False,0,True,False,20,0.5
+1994-04-16,USA,Moldova,False,0,True,False,20,0.5
+1994-04-17,Colombia,Nigeria,False,1,False,True,20,1.0
+1994-04-17,Guadeloupe,Suriname,True,2,False,True,30,1.0
+1994-04-17,Kazakhstan,Kyrgyzstan,True,0,True,False,20,0.5
+1994-04-17,Trinidad and Tobago,Martinique,False,5,False,True,30,1.0
+1994-04-17,Uzbekistan,Tajikistan,False,0,True,False,20,0.5
+1994-04-18,Tunisia,Saudi Arabia,False,2,False,True,20,1.0
+1994-04-19,Malta,Azerbaijan,False,5,False,True,20,1.0
+1994-04-19,Tajikistan,Turkmenistan,True,2,False,False,20,0.0
+1994-04-19,Uzbekistan,Kyrgyzstan,False,3,False,True,20,1.0
+1994-04-20,Argentina,Morocco,False,2,False,True,20,1.0
+1994-04-20,Austria,Scotland,False,1,False,False,20,0.0
+1994-04-20,Denmark,Hungary,False,2,False,True,20,1.0
+1994-04-20,Iceland,Saudi Arabia,True,2,False,False,20,0.0
+1994-04-20,Lithuania,Israel,False,0,True,False,20,0.5
+1994-04-20,Netherlands,Ireland,False,1,False,False,20,0.0
+1994-04-20,Northern Ireland,Liechtenstein,False,3,False,True,40,1.0
+1994-04-20,Norway,Portugal,False,0,True,False,20,0.5
+1994-04-20,Romania,Bolivia,False,3,False,True,20,1.0
+1994-04-20,Slovakia,Croatia,False,3,False,True,20,1.0
+1994-04-20,Switzerland,Czech Republic,False,3,False,True,20,1.0
+1994-04-20,Turkey,Russia,False,1,False,False,20,0.0
+1994-04-20,USA,Moldova,False,3,False,True,20,1.0
+1994-04-20,Wales,Sweden,False,2,False,False,20,0.0
+1994-04-22,Swaziland,Mozambique,False,1,False,False,20,0.0
+1994-04-24,South Africa,Zimbabwe,False,1,False,True,20,1.0
+1994-04-24,USA,Iceland,False,1,False,False,20,0.0
+1994-04-27,Greece,Saudi Arabia,False,4,False,True,20,1.0
+1994-04-27,Slovenia,Cyprus,False,3,False,True,20,1.0
+1994-04-27,United Arab Emirates,Germany,False,2,False,False,20,0.0
+1994-04-28,Kuwait,Bulgaria,False,0,True,False,20,0.5
+1994-04-30,USA,Chile,False,2,False,False,20,0.0
+1994-05-01,Korea Republic,Cameroon,False,0,True,False,20,0.5
+1994-05-02,Jersey,Guernsey,False,2,False,True,20,1.0
+1994-05-03,Colombia,Peru,True,1,False,True,20,1.0
+1994-05-03,El Salvador,Honduras,True,2,False,True,20,1.0
+1994-05-03,Korea Republic,Cameroon,False,1,False,True,20,1.0
+1994-05-04,Bolivia,Saudi Arabia,True,1,False,True,20,1.0
+1994-05-04,Brazil,Iceland,False,3,False,True,20,1.0
+1994-05-04,Poland,Hungary,False,1,False,True,20,1.0
+1994-05-05,Colombia,El Salvador,True,3,False,True,20,1.0
+1994-05-05,Honduras,Peru,True,1,False,True,20,1.0
+1994-05-05,Sweden,Nigeria,False,2,False,True,20,1.0
+1994-05-07,USA,Estonia,False,4,False,True,20,1.0
+1994-05-09,Greece,Cameroon,False,3,False,False,20,0.0
+1994-05-11,Bolivia,Cameroon,True,0,True,False,20,0.5
+1994-05-13,Greece,Bolivia,False,0,True,False,20,0.5
+1994-05-14,Macedonia,Albania,False,4,False,True,20,1.0
+1994-05-14,Nigeria,Suriname,True,1,False,True,20,1.0
+1994-05-15,USA,Armenia,False,1,False,True,20,1.0
+1994-05-17,England,Greece,False,5,False,True,20,1.0
+1994-05-17,Poland,Austria,False,1,False,False,20,0.0
+1994-05-18,Chile,Argentina,False,0,True,False,20,0.5
+1994-05-18,Hungary,Croatia,False,0,True,False,20,0.5
+1994-05-19,Iceland,Bolivia,False,1,False,True,20,1.0
+1994-05-22,England,Norway,False,0,True,False,20,0.5
+1994-05-22,Japan,Australia,False,0,True,False,30,0.5
+1994-05-23,Estonia,Wales,False,1,False,False,20,0.0
+1994-05-23,Fiji,Tahiti,False,0,True,False,20,0.5
+1994-05-24,Ireland,Bolivia,False,1,False,True,20,1.0
+1994-05-25,Chile,Peru,False,1,False,True,20,1.0
+1994-05-25,Czech Republic,Lithuania,False,2,False,True,20,1.0
+1994-05-25,Ecuador,Argentina,False,1,False,True,20,1.0
+1994-05-25,Fiji,Tahiti,False,2,False,True,20,1.0
+1994-05-25,Ukraine,Belarus,False,2,False,True,20,1.0
+1994-05-25,USA,Saudi Arabia,False,0,True,False,20,0.5
+1994-05-26,Australia,France,True,1,False,False,30,0.0
+1994-05-26,Denmark,Sweden,False,1,False,True,20,1.0
+1994-05-27,Italy,Finland,False,2,False,True,20,1.0
+1994-05-27,Netherlands,Scotland,False,2,False,True,20,1.0
+1994-05-27,Switzerland,Liechtenstein,False,2,False,True,20,1.0
+1994-05-28,USA,Greece,False,0,True,False,20,0.5
+1994-05-29,Germany,Ireland,False,2,False,False,20,0.0
+1994-05-29,Japan,France,False,3,False,False,30,0.0
+1994-05-29,Russia,Slovakia,False,1,False,True,20,1.0
+1994-05-31,Israel,Argentina,False,3,False,False,20,0.0
+1994-06-01,Canada,Morocco,False,0,True,False,20,0.5
+1994-06-01,Macedonia,Estonia,False,2,False,True,20,1.0
+1994-06-01,Netherlands,Hungary,False,6,False,True,20,1.0
+1994-06-01,Norway,Denmark,False,1,False,True,20,1.0
+1994-06-01,Romania,Slovenia,False,0,True,False,20,0.5
+1994-06-02,Austria,Germany,False,4,False,False,20,0.0
+1994-06-02,Finland,Spain,False,1,False,False,20,0.0
+1994-06-02,Latvia,Malta,False,2,False,True,20,1.0
+1994-06-03,Bulgaria,Ukraine,False,0,True,False,20,0.5
+1994-06-03,Colombia,Northern Ireland,True,2,False,True,20,1.0
+1994-06-03,Italy,Switzerland,False,1,False,True,20,1.0
+1994-06-04,Croatia,Argentina,False,0,True,False,20,0.5
+1994-06-04,Trinidad and Tobago,Saudi Arabia,True,1,False,False,20,0.0
+1994-06-04,USA,Mexico,False,1,False,True,20,1.0
+1994-06-05,Canada,Brazil,False,0,True,False,20,0.5
+1994-06-05,Colombia,Greece,True,2,False,True,20,1.0
+1994-06-05,Ecuador,Korea Republic,True,1,False,True,20,1.0
+1994-06-05,Ireland,Czech Republic,False,2,False,False,20,0.0
+1994-06-05,Ivory Coast,Liberia,False,3,False,True,20,1.0
+1994-06-05,Sweden,Norway,False,2,False,True,20,1.0
+1994-06-08,Australia,South Africa,False,1,False,True,20,1.0
+1994-06-08,Belgium,Hungary,False,2,False,True,20,1.0
+1994-06-08,Bolivia,Peru,False,0,True,False,20,0.5
+1994-06-08,Canada,Germany,False,2,False,False,20,0.0
+1994-06-08,Honduras,Brazil,True,6,False,False,20,0.0
+1994-06-10,Canada,Spain,False,2,False,False,20,0.0
+1994-06-11,Bolivia,Switzerland,True,0,True,False,20,0.5
+1994-06-11,Costa Rica,Italy,True,1,False,False,20,0.0
+1994-06-11,Honduras,Korea Republic,True,3,False,False,20,0.0
+1994-06-11,Mexico,Northern Ireland,True,3,False,True,20,1.0
+1994-06-11,Nigeria,Georgia,False,4,False,True,20,1.0
+1994-06-12,Australia,South Africa,False,1,False,True,20,1.0
+1994-06-12,Canada,Netherlands,False,3,False,False,20,0.0
+1994-06-12,El Salvador,Brazil,True,4,False,False,20,0.0
+1994-06-12,Romania,Sweden,True,0,True,False,20,0.5

@@ -1,0 +1,76 @@
+date,home,away,neutral,gdf,draw,win,k,result
+2010-06-11,South Africa,Mexico,False,0,True,False,60,0.5
+2010-06-11,Uruguay,France,True,0,True,False,60,0.5
+2010-06-12,Argentina,Nigeria,True,1,False,True,60,1.0
+2010-06-12,England,USA,True,0,True,False,60,0.5
+2010-06-12,Korea Republic,Greece,True,2,False,True,60,1.0
+2010-06-13,Algeria,Slovenia,True,1,False,False,60,0.0
+2010-06-13,Germany,Australia,True,4,False,True,60,1.0
+2010-06-13,Serbia,Ghana,True,1,False,False,60,0.0
+2010-06-14,Italy,Paraguay,True,0,True,False,60,0.5
+2010-06-14,Japan,Cameroon,True,1,False,True,60,1.0
+2010-06-14,Netherlands,Denmark,True,2,False,True,60,1.0
+2010-06-15,Brazil,Korea DPR,True,1,False,True,60,1.0
+2010-06-15,Ivory Coast,Portugal,True,0,True,False,60,0.5
+2010-06-15,New Zealand,Slovakia,True,0,True,False,60,0.5
+2010-06-16,Honduras,Chile,True,1,False,False,60,0.0
+2010-06-16,South Africa,Uruguay,False,3,False,False,60,0.0
+2010-06-16,Spain,Switzerland,True,1,False,False,60,0.0
+2010-06-17,Argentina,Korea Republic,True,3,False,True,60,1.0
+2010-06-17,France,Mexico,True,2,False,False,60,0.0
+2010-06-17,Greece,Nigeria,True,1,False,True,60,1.0
+2010-06-18,England,Algeria,True,0,True,False,60,0.5
+2010-06-18,Germany,Serbia,True,1,False,False,60,0.0
+2010-06-18,Lithuania,Latvia,False,0,True,False,30,0.5
+2010-06-18,Slovenia,USA,True,0,True,False,60,0.5
+2010-06-19,Cameroon,Denmark,True,1,False,False,60,0.0
+2010-06-19,Estonia,Latvia,True,0,True,False,30,0.5
+2010-06-19,Ghana,Australia,True,0,True,False,60,0.5
+2010-06-19,Netherlands,Japan,True,1,False,True,60,1.0
+2010-06-19,Niger,Chad,False,0,True,False,20,0.5
+2010-06-19,Northern Mariana Islands,Guam,False,0,True,False,20,0.5
+2010-06-20,Brazil,Ivory Coast,True,2,False,True,60,1.0
+2010-06-20,Italy,New Zealand,True,0,True,False,60,0.5
+2010-06-20,Lithuania,Estonia,False,2,False,True,30,1.0
+2010-06-20,Slovakia,Paraguay,True,2,False,False,60,0.0
+2010-06-20,Sudan,Tunisia,False,4,False,False,20,0.0
+2010-06-21,Chile,Switzerland,True,1,False,True,60,1.0
+2010-06-21,Portugal,Korea DPR,True,7,False,True,60,1.0
+2010-06-21,Spain,Honduras,True,2,False,True,60,1.0
+2010-06-22,Greece,Argentina,True,2,False,False,60,0.0
+2010-06-22,Mexico,Uruguay,True,1,False,False,60,0.0
+2010-06-22,Nigeria,Korea Republic,True,0,True,False,60,0.5
+2010-06-22,South Africa,France,False,1,False,True,60,1.0
+2010-06-23,Australia,Serbia,True,1,False,True,60,1.0
+2010-06-23,Ghana,Germany,True,1,False,False,60,0.0
+2010-06-23,Slovenia,England,True,1,False,False,60,0.0
+2010-06-23,USA,Algeria,True,1,False,True,60,1.0
+2010-06-24,Cameroon,Netherlands,True,1,False,False,60,0.0
+2010-06-24,Denmark,Japan,True,2,False,False,60,0.0
+2010-06-24,Paraguay,New Zealand,True,0,True,False,60,0.5
+2010-06-24,Slovakia,Italy,True,1,False,True,60,1.0
+2010-06-25,Chile,Spain,True,1,False,False,60,0.0
+2010-06-25,Korea DPR,Ivory Coast,True,3,False,False,60,0.0
+2010-06-25,Portugal,Brazil,True,0,True,False,60,0.5
+2010-06-25,Switzerland,Honduras,True,0,True,False,60,0.5
+2010-06-26,China,Tajikistan,False,4,False,True,20,1.0
+2010-06-26,Uruguay,Korea Republic,True,1,False,True,60,1.0
+2010-06-26,USA,Ghana,True,1,False,False,60,0.0
+2010-06-27,Argentina,Mexico,True,2,False,True,60,1.0
+2010-06-27,Germany,England,True,3,False,True,60,1.0
+2010-06-28,Brazil,Chile,True,3,False,True,60,1.0
+2010-06-28,Netherlands,Slovakia,True,1,False,True,60,1.0
+2010-06-29,Paraguay,Japan,True,0,True,False,60,0.5
+2010-06-29,Spain,Portugal,True,1,False,True,60,1.0
+2010-07-01,Chad,Togo,False,0,True,False,40,0.5
+2010-07-01,Tunisia,Botswana,False,1,False,False,40,0.0
+2010-07-02,Netherlands,Brazil,True,1,False,True,60,1.0
+2010-07-02,Uruguay,Ghana,True,0,True,False,60,0.5
+2010-07-03,Argentina,Germany,True,4,False,False,60,0.0
+2010-07-03,Paraguay,Spain,True,1,False,False,60,0.0
+2010-07-06,Uruguay,Netherlands,True,1,False,False,60,0.0
+2010-07-07,Germany,Spain,True,1,False,False,60,0.0
+2010-07-09,Botswana,Chad,False,1,False,True,40,1.0
+2010-07-09,Togo,Malawi,False,0,True,False,40,0.5
+2010-07-10,Uruguay,Germany,True,1,False,False,60,0.0
+2010-07-11,Netherlands,Spain,True,1,False,False,60,0.0

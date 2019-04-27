@@ -1,0 +1,1696 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+1978-06-28,Iceland,Denmark,0,0,Friendly,Reykjavík,Iceland,False
+1978-06-28,Sweden,Finland,2,1,Nordic Championship,Borås,Sweden,False
+1978-07-02,Algeria,Iraq,1,1,Friendly,Algiers,Algeria,False
+1978-07-02,Guadeloupe,Jamaica,1,0,CFU Caribbean Cup qualification,Pointe-à-Pitre,Guadeloupe,False
+1978-07-04,Algeria,Iraq,0,0,Friendly,Algiers,Algeria,False
+1978-07-06,Malawi,Sierra Leone,5,0,Friendly,Lilongwe,Malawi,False
+1978-07-09,Guyana,Suriname,0,2,CFU Caribbean Cup qualification,Linden,Guyana,False
+1978-07-09,Malawi,Sierra Leone,4,2,Friendly,Lilongwe,Malawi,False
+1978-07-12,Malaysia,Korea Republic,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1978-07-13,Indonesia,Syria,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-13,Iraq,Japan,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-14,Korea Republic,Thailand,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-15,Indonesia,Japan,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-15,Iraq,Syria,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-16,Korea Republic,Singapore,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-17,Indonesia,Iraq,0,4,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-17,Japan,Syria,3,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-18,Singapore,Thailand,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-19,Japan,Korea Republic,0,4,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-20,Iraq,Singapore,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-20,Syria,Thailand,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-22,Indonesia,Thailand,0,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-22,Iraq,Korea Republic,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-23,Japan,Singapore,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-24,Iraq,Thailand,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-25,Indonesia,Korea Republic,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-25,Singapore,Syria,4,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-26,Japan,Thailand,4,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-27,Indonesia,Singapore,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-27,Korea Republic,Syria,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-29,Curaçao,Barbados,1,0,CFU Caribbean Cup qualification,Oranjestad,Netherlands Antilles,True
+1978-07-29,Iraq,Korea Republic,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1978-07-30,Grenada,Trinidad and Tobago,1,1,Friendly,St. George's,Grenada,False
+1978-07-30,Jamaica,Guadeloupe,1,2,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1978-07-30,Suriname,Guyana,2,1,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1978-08-07,Vanuatu,Tahiti,2,4,Friendly,Port Vila,New Hebrides,False
+1978-08-09,Finland,Norway,1,1,Nordic Championship,Helsinki,Finland,False
+1978-08-13,New Caledonia,Tahiti,2,0,Friendly,Nouméa,New Caledonia,False
+1978-08-16,Denmark,Sweden,2,1,Nordic Championship,Copenhagen,Denmark,False
+1978-08-16,São Tomé and Príncipe,Angola,3,3,Friendly,São Tomé,São Tomé and Príncipe,False
+1978-08-20,New Caledonia,Tahiti,3,4,Friendly,Nouméa,New Caledonia,False
+1978-08-20,Puerto Rico,Haiti,1,1,CFU Caribbean Cup qualification,San Juan,Puerto Rico,False
+1978-08-20,Trinidad and Tobago,French Guyana,2,4,CFU Caribbean Cup qualification,Port of Spain,Trinidad and Tobago,False
+1978-08-26,Haiti,Puerto Rico,1,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+1978-08-30,Finland,Poland,0,1,Friendly,Helsinki,Finland,False
+1978-08-30,German DR,Bulgaria,2,2,Friendly,Erfurt,German DR,False
+1978-08-30,Norway,Austria,0,2,UEFA Euro qualification,Oslo,Norway,False
+1978-09-01,France,Sweden,2,2,UEFA Euro qualification,Paris,France,False
+1978-09-02,French Guyana,Trinidad and Tobago,1,4,CFU Caribbean Cup qualification,Cayenne,French Guyana,False
+1978-09-03,China,Congo,1,0,Friendly,Beijing,China,False
+1978-09-03,Iceland,USA,0,0,Friendly,Reykjavík,Iceland,False
+1978-09-06,German DR,Czechoslovakia,2,1,Friendly,Leipzig,German DR,False
+1978-09-06,Iceland,Poland,0,2,UEFA Euro qualification,Reykjavík,Iceland,False
+1978-09-06,Iran,Russia,0,1,Friendly,Teheran,Iran,False
+1978-09-06,Swaziland,Zambia,1,6,Friendly,Lobamba,Swaziland,False
+1978-09-06,Switzerland,USA,2,0,Friendly,Lucerne,Switzerland,False
+1978-09-07,Swaziland,Zambia,2,5,Friendly,Lobamba,Swaziland,False
+1978-09-09,Bahrain,Malaysia,1,2,Korea Cup,Seoul,Korea Republic,True
+1978-09-09,French Guyana,Martinique,4,2,Friendly,Cayenne,French Guyana,False
+1978-09-10,Indonesia,Thailand,0,2,Korea Cup,Seoul,Korea Republic,True
+1978-09-10,Lebanon,Mexico,1,7,Korea Cup,Seoul,Korea Republic,True
+1978-09-11,Korea Republic,Malaysia,2,2,Korea Cup,Busan,Korea Republic,False
+1978-09-13,Korea Republic,Bahrain,3,1,Korea Cup,Daegu,Korea Republic,False
+1978-09-16,Haiti,Martinique,0,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+1978-09-17,Seychelles,Réunion,1,0,Friendly,Victoria,Seychelles,False
+1978-09-20,Austria,Scotland,3,2,UEFA Euro qualification,Vienna,Austria,False
+1978-09-20,Belgium,Norway,1,1,UEFA Euro qualification,Lokeren,Belgium,False
+1978-09-20,Denmark,England,3,4,UEFA Euro qualification,Copenhagen,Denmark,False
+1978-09-20,Finland,Hungary,2,1,UEFA Euro qualification,Helsinki,Finland,False
+1978-09-20,Ireland,Northern Ireland,0,0,UEFA Euro qualification,Dublin,Ireland,False
+1978-09-20,Italy,Bulgaria,1,0,Friendly,Turin,Italy,False
+1978-09-20,Libya,Yemen DPR,2,0,Friendly,Tripoli,Libya,False
+1978-09-20,Netherlands,Iceland,3,0,UEFA Euro qualification,Nijmegen,Netherlands,False
+1978-09-20,Portugal,USA,1,0,Friendly,Setúbal,Portugal,False
+1978-09-20,Russia,Greece,2,0,UEFA Euro qualification,Yerevan,Soviet Union,False
+1978-09-23,Italy,Turkey,1,0,Friendly,Florence,Italy,False
+1978-09-23,Réunion,Mauritius,0,2,Friendly,Saint-Denis,Réunion,False
+1978-09-30,Botswana,Mozambique,1,4,Friendly,Gaborone,Botswana,False
+1978-09-30,Curaçao,Suriname,0,2,CFU Caribbean Cup qualification,Oranjestad,Netherlands Antilles,True
+1978-10-01,Botswana,Mozambique,0,2,Friendly,Gaborone,Botswana,False
+1978-10-01,Martinique,Haiti,0,0,CFU Caribbean Cup qualification,Fort-de-France,Martinique,False
+1978-10-01,Singapore,New Zealand,0,2,Friendly,Kallang,Singapore,False
+1978-10-04,German DR,Iceland,3,1,UEFA Euro qualification,Halle,German DR,False
+1978-10-04,Sweden,Czechoslovakia,1,3,UEFA Euro qualification,Solna,Sweden,False
+1978-10-04,Yugoslavia,Spain,1,2,UEFA Euro qualification,Zagreb,Yugoslavia,False
+1978-10-05,Turkey,Russia,0,2,Friendly,Ankara,Turkey,False
+1978-10-07,Luxembourg,France,1,3,UEFA Euro qualification,Luxembourg,Luxembourg,False
+1978-10-11,Czechoslovakia,Germany,3,4,Friendly,Prague,Czechoslovakia,False
+1978-10-11,Denmark,Bulgaria,2,2,UEFA Euro qualification,Copenhagen,Denmark,False
+1978-10-11,Greece,Finland,8,1,UEFA Euro qualification,Athens,Greece,False
+1978-10-11,Hungary,Russia,2,0,UEFA Euro qualification,Budapest,Hungary,False
+1978-10-11,Portugal,Belgium,1,1,UEFA Euro qualification,Lisbon,Portugal,False
+1978-10-11,Romania,Poland,1,0,Friendly,Bucharest,Romania,False
+1978-10-11,Switzerland,Netherlands,1,3,UEFA Euro qualification,Berne,Switzerland,False
+1978-10-13,Suriname,Curaçao,3,0,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1978-10-15,Tanzania,Kenya,1,0,Friendly,Arusha,Tanzania,False
+1978-10-20,Kenya,Tanzania,0,0,Friendly,Nairobi,Kenya,False
+1978-10-22,Haiti,Suriname,0,3,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,True
+1978-10-22,Malawi,Algeria,1,1,Friendly,Blantyre,Malawi,False
+1978-10-23,Trinidad and Tobago,Antigua and Barbuda,3,1,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,False
+1978-10-24,Malawi,Algeria,2,1,Friendly,Lilongwe,Malawi,False
+1978-10-25,Ireland,England,1,1,UEFA Euro qualification,Dublin,Ireland,False
+1978-10-25,Northern Ireland,Denmark,2,1,UEFA Euro qualification,Belfast,Northern Ireland,False
+1978-10-25,Romania,Yugoslavia,3,2,UEFA Euro qualification,Bucharest,Romania,False
+1978-10-25,Scotland,Norway,3,2,UEFA Euro qualification,Glasgow,Scotland,False
+1978-10-25,Trinidad and Tobago,Suriname,0,1,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+1978-10-25,Wales,Malta,7,0,UEFA Euro qualification,Wrexham,Wales,False
+1978-10-26,Antigua and Barbuda,Haiti,0,1,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+1978-10-28,Antigua and Barbuda,Suriname,0,4,CFU Caribbean Cup,San Fernando,Trinidad and Tobago,True
+1978-10-28,Zambia,Algeria,0,3,Friendly,Lusaka,Zambia,False
+1978-10-29,Greece,Hungary,4,1,UEFA Euro qualification,Salonica,Greece,False
+1978-10-29,Trinidad and Tobago,Haiti,2,2,CFU Caribbean Cup,Port of Spain,Trinidad and Tobago,False
+1978-11-01,Malawi,Kenya,1,0,CECAFA Cup,Blantyre,Malawi,False
+1978-11-03,Malawi,Somalia,3,1,CECAFA Cup,Lilongwe,Malawi,False
+1978-11-05,Malawi,Uganda,0,2,CECAFA Cup,Lilongwe,Malawi,False
+1978-11-07,Uganda,Zambia,1,2,CECAFA Cup,Blantyre,Malawi,True
+1978-11-08,Czechoslovakia,Italy,3,0,Friendly,Bratislava,Czechoslovakia,False
+1978-11-08,France,Spain,1,0,Friendly,Paris,France,False
+1978-11-09,Kenya,Uganda,0,1,CECAFA Cup,Blantyre,Malawi,True
+1978-11-09,Somalia,Zambia,0,4,CECAFA Cup,Blantyre,Malawi,True
+1978-11-11,Burkina Faso,Mali,3,1,Friendly,Ouagadougou,Upper Volta,False
+1978-11-11,Kenya,Somalia,1,0,CECAFA Cup,Blantyre,Malawi,True
+1978-11-11,Malawi,Zambia,2,1,CECAFA Cup,Blantyre,Malawi,False
+1978-11-13,Kenya,Zambia,0,9,CECAFA Cup,Blantyre,Malawi,True
+1978-11-13,Somalia,Uganda,2,2,CECAFA Cup,Lilongwe,Malawi,True
+1978-11-15,Austria,Portugal,1,2,UEFA Euro qualification,Vienna,Austria,False
+1978-11-15,Germany,Hungary,0,0,Friendly,Frankfurt am Main,Germany,False
+1978-11-15,Israel,Belgium,1,0,Friendly,Jaffa,Israel,False
+1978-11-15,Netherlands,German DR,3,0,UEFA Euro qualification,Rotterdam,Netherlands,False
+1978-11-15,Poland,Switzerland,2,0,UEFA Euro qualification,Wrocław,Poland,False
+1978-11-15,Spain,Romania,1,0,UEFA Euro qualification,Valencia,Spain,False
+1978-11-15,Yugoslavia,Greece,4,1,Balkan Cup,Skopje,Yugoslavia,False
+1978-11-17,Algeria,Congo,3,0,Friendly,Constantine,Algeria,False
+1978-11-17,Malawi,Kenya,2,0,CECAFA Cup,Blantyre,Malawi,False
+1978-11-17,Uganda,Zambia,0,4,CECAFA Cup,Blantyre,Malawi,True
+1978-11-19,Japan,Russia,1,4,Friendly,Tokyo,Japan,False
+1978-11-19,Kenya,Uganda,2,0,CECAFA Cup,Blantyre,Malawi,True
+1978-11-19,Malawi,Zambia,3,2,CECAFA Cup,Blantyre,Malawi,False
+1978-11-23,Japan,Russia,1,4,Friendly,Tokyo,Japan,False
+1978-11-25,Grenada,Barbados,2,0,Friendly,St. George's,Grenada,False
+1978-11-26,Grenada,Barbados,0,0,Friendly,St. George's,Grenada,False
+1978-11-26,Japan,Russia,0,3,Friendly,Osaka,Japan,False
+1978-11-29,Bulgaria,Northern Ireland,0,2,UEFA Euro qualification,Sofia,Bulgaria,False
+1978-11-29,England,Czechoslovakia,1,0,Friendly,London,England,False
+1978-11-29,Portugal,Scotland,1,0,UEFA Euro qualification,Lisbon,Portugal,False
+1978-11-29,Wales,Turkey,1,0,UEFA Euro qualification,Wrexham,Wales,False
+1978-12-03,Madagascar,Malawi,2,1,African Cup of Nations qualification,Antananarivo,Madagascar,False
+1978-12-03,Mauritius,Lesotho,0,1,African Cup of Nations qualification,Port Louis,Mauritius,False
+1978-12-12,Antigua and Barbuda,Martinique,0,2,Friendly,St. John's,Antigua and Barbuda,False
+1978-12-13,Greece,Romania,2,1,Friendly,Athens,Greece,False
+1978-12-13,Spain,Cyprus,5,0,UEFA Euro qualification,Salamanca,Spain,False
+1978-12-17,Lesotho,Mauritius,1,2,African Cup of Nations qualification,Maseru,Lesotho,False
+1978-12-17,Malawi,Madagascar,5,1,African Cup of Nations qualification,Blantyre,Malawi,False
+1978-12-19,Israel,Romania,1,1,Friendly,Jaffa,Israel,False
+1978-12-19,Syria,Tunisia,2,1,Friendly,Damascus,Syria,False
+1978-12-20,Germany,Netherlands,3,1,Friendly,Düsseldorf,Germany,False
+1978-12-21,Italy,Spain,1,0,Friendly,Rome,Italy,False
+1978-12-25,Korea Republic,Macau,4,1,AFC Asian Cup qualification,Manila,Philippines,True
+1978-12-25,Philippines,China,0,3,AFC Asian Cup qualification,Manila,Philippines,False
+1978-12-27,China,Macau,2,1,AFC Asian Cup qualification,Manila,Philippines,True
+1978-12-27,Philippines,Korea Republic,0,5,AFC Asian Cup qualification,Manila,Philippines,False
+1978-12-29,Korea Republic,China,1,0,AFC Asian Cup qualification,Manila,Philippines,True
+1979-01-07,Guinea-Bissau,Cape Verde,3,0,Amílcar Cabral Cup,Bissau,Guinea-Bissau,False
+1979-01-08,Gambia,Mauritania,3,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1979-01-08,Guinea,Mali,0,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1979-01-09,Cape Verde,Senegal,0,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1979-01-10,Gambia,Mali,0,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1979-01-10,Guinea,Mauritania,4,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1979-01-10,Rwanda,Gabon,2,2,Friendly,Kigali,Rwanda,False
+1979-01-11,Guinea-Bissau,Senegal,0,2,Amílcar Cabral Cup,Bissau,Guinea-Bissau,False
+1979-01-12,Gambia,Guinea,1,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1979-01-12,Mali,Mauritania,4,2,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1979-01-13,Guinea,Senegal,1,3,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1979-01-13,Guinea-Bissau,Mali,1,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,False
+1979-01-14,Guinea-Bissau,Guinea,2,2,Amílcar Cabral Cup,Bissau,Guinea-Bissau,False
+1979-01-14,Mali,Senegal,0,1,Amílcar Cabral Cup,Bissau,Guinea-Bissau,True
+1979-01-16,Cyprus,Bulgaria,0,1,Friendly,Larnaca,Cyprus,False
+1979-01-27,Ivory Coast,Togo,0,1,Friendly,Monrovia,Liberia,True
+1979-01-28,Liberia,Guinea,2,1,Friendly,Monrovia,Liberia,False
+1979-01-29,Gambia,Ivory Coast,2,1,Friendly,Monrovia,Liberia,True
+1979-01-30,Guinea,Senegal,1,1,Friendly,Monrovia,Liberia,True
+1979-01-30,Israel,Austria,0,1,Friendly,Jaffa,Israel,False
+1979-01-31,Gambia,Togo,2,2,Friendly,Monrovia,Liberia,True
+1979-02-01,Liberia,Senegal,1,1,Friendly,Monrovia,Liberia,False
+1979-02-03,Senegal,Togo,0,1,Friendly,Monrovia,Liberia,True
+1979-02-04,Liberia,Gambia,1,0,Friendly,Monrovia,Liberia,False
+1979-02-05,Iraq,Finland,1,0,Friendly,Baghdad,Iraq,False
+1979-02-07,England,Northern Ireland,4,0,UEFA Euro qualification,London,England,False
+1979-02-07,Iraq,Finland,2,0,Friendly,Baghdad,Iraq,False
+1979-02-07,Libya,Greece,2,2,Friendly,Tripoli,Libya,False
+1979-02-09,Bahrain,Finland,0,1,Friendly,Isa Town,Bahrain,False
+1979-02-09,Iraq,German DR,1,1,Friendly,Baghdad,Iraq,False
+1979-02-11,Iraq,German DR,2,1,Friendly,Baghdad,Iraq,False
+1979-02-14,Israel,Greece,4,1,Friendly,Ramat-Gan,Israel,False
+1979-02-16,Libya,Poland,1,0,Friendly,Tripoli,Libya,False
+1979-02-18,Tunisia,Poland,0,2,Friendly,Tunis,Tunisia,False
+1979-02-24,Italy,Netherlands,3,0,Friendly,Milan,Italy,False
+1979-02-25,France,Luxembourg,3,0,UEFA Euro qualification,Paris,France,False
+1979-02-25,Malta,Germany,0,0,UEFA Euro qualification,Gżira,Malta,False
+1979-02-28,Bulgaria,German DR,1,0,Friendly,Burgas,Bulgaria,False
+1979-02-28,Turkey,Algeria,0,1,Friendly,Bursa,Turkey,False
+1979-03-03,Barbados,Trinidad and Tobago,2,2,Friendly,Bridgetown,Barbados,False
+1979-03-04,Japan,Korea Republic,2,1,Friendly,Tokyo,Japan,False
+1979-03-05,Bangladesh,Afghanistan,3,2,AFC Asian Cup qualification,Dhaka,Bangladesh,False
+1979-03-07,Bangladesh,Qatar,1,3,AFC Asian Cup qualification,Dhaka,Bangladesh,False
+1979-03-10,Senegal,Mali,2,1,Friendly,Dakar,Senegal,False
+1979-03-14,Czechoslovakia,Spain,1,0,Friendly,Bratislava,Czechoslovakia,False
+1979-03-16,Martinique,Trinidad and Tobago,0,0,Friendly,Bridgetown,Barbados,True
+1979-03-18,Turkey,Malta,2,1,UEFA Euro qualification,Izmir,Turkey,False
+1979-03-21,Romania,Greece,3,0,Friendly,Bucharest,Romania,False
+1979-03-23,Iraq,Bahrain,4,0,Gulf Cup,Baghdad,Iraq,False
+1979-03-24,Kuwait,Qatar,3,1,Gulf Cup,Baghdad,Iraq,True
+1979-03-24,Saudi Arabia,United Arab Emirates,2,1,Gulf Cup,Baghdad,Iraq,True
+1979-03-25,Mali,Senegal,2,1,Friendly,Bamako,Mali,False
+1979-03-28,Belgium,Austria,1,1,UEFA Euro qualification,Brussels,Belgium,False
+1979-03-28,Hungary,German DR,3,0,Friendly,Budapest,Hungary,False
+1979-03-28,Netherlands,Switzerland,3,0,UEFA Euro qualification,Eindhoven,Netherlands,False
+1979-03-28,Russia,Bulgaria,3,1,Friendly,Simferopol,Soviet Union,False
+1979-04-01,Cyprus,Yugoslavia,0,3,UEFA Euro qualification,Nicosia,Cyprus,False
+1979-04-01,Oman,Qatar,0,1,Gulf Cup,Baghdad,Iraq,True
+1979-04-01,Turkey,Germany,0,0,UEFA Euro qualification,Izmir,Turkey,False
+1979-04-03,Barbados,Martinique,1,2,Friendly,Bridgetown,Barbados,False
+1979-04-04,Czechoslovakia,France,2,0,UEFA Euro qualification,Bratislava,Czechoslovakia,False
+1979-04-04,Poland,Hungary,1,1,Friendly,Chorzów,Poland,False
+1979-04-04,Romania,Spain,2,2,UEFA Euro qualification,Craiova,Romania,False
+1979-04-06,Iraq,Oman,7,0,Gulf Cup,Baghdad,Iraq,False
+1979-04-07,Bahrain,Qatar,1,1,Gulf Cup,Baghdad,Iraq,True
+1979-04-08,Gabon,Ivory Coast,2,1,Friendly,Libreville,Gabon,False
+1979-04-08,Iraq,Saudi Arabia,2,0,Gulf Cup,Baghdad,Iraq,False
+1979-04-09,Bahrain,Kuwait,0,2,Gulf Cup,Baghdad,Iraq,True
+1979-04-09,Oman,United Arab Emirates,0,4,Gulf Cup,Baghdad,Iraq,True
+1979-04-15,Benin,Ivory Coast,1,0,African Cup of Nations qualification,Cotonou,Benin,False
+1979-04-15,Congo,Congo DR,4,2,African Cup of Nations qualification,Brazzaville,Congo,False
+1979-04-15,Guadeloupe,Martinique,0,1,Friendly,Capesterre-Belle-Eau,Guadeloupe,False
+1979-04-15,Malawi,Zambia,0,2,African Cup of Nations qualification,Blantyre,Malawi,False
+1979-04-18,German DR,Poland,2,1,UEFA Euro qualification,Leipzig,German DR,False
+1979-04-19,Russia,Sweden,2,0,Friendly,Tbilisi,Soviet Union,False
+1979-04-25,Argentina,Bulgaria,2,1,Friendly,Buenos Aires,Argentina,False
+1979-04-25,São Tomé and Príncipe,Angola,1,2,Friendly,São Tomé,São Tomé and Príncipe,False
+1979-04-29,Congo DR,Congo,4,1,African Cup of Nations qualification,Kinshasa,Zaïre,False
+1979-04-29,Ivory Coast,Benin,4,1,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1979-04-29,Madagascar,Kenya,4,0,Friendly,Antananarivo,Madagascar,False
+1979-04-29,Zambia,Malawi,2,0,African Cup of Nations qualification,Ndola,Zambia,False
+1979-05-01,Luxembourg,Czechoslovakia,0,3,UEFA Euro qualification,Luxembourg,Luxembourg,False
+1979-05-02,Austria,Belgium,0,0,UEFA Euro qualification,Vienna,Austria,False
+1979-05-02,Hungary,Greece,0,0,UEFA Euro qualification,Budapest,Hungary,False
+1979-05-02,Ireland,Denmark,2,0,UEFA Euro qualification,Dublin,Ireland,False
+1979-05-02,Korea DPR,Hong Kong,3,0,AFC Asian Cup qualification,Bangkok,Thailand,True
+1979-05-02,Northern Ireland,Bulgaria,2,0,UEFA Euro qualification,Belfast,Northern Ireland,False
+1979-05-02,Poland,Netherlands,2,0,UEFA Euro qualification,Chorzów,Poland,False
+1979-05-02,USA,France,0,6,Friendly,East Rutherford,USA,False
+1979-05-02,Wales,Germany,0,2,UEFA Euro qualification,Wrexham,Wales,False
+1979-05-05,Russia,Czechoslovakia,3,0,Friendly,Moscow,Soviet Union,False
+1979-05-05,St. Vincent and the Grenadines,Martinique,2,2,CFU Caribbean Cup qualification,Kingstown,St. Vincent and the Grenadines,False
+1979-05-05,Switzerland,German DR,0,2,UEFA Euro qualification,St. Gallen,Switzerland,False
+1979-05-07,Korea DPR,Indonesia,3,1,AFC Asian Cup qualification,Bangkok,Thailand,True
+1979-05-09,Denmark,Sweden,2,2,Friendly,Copenhagen,Denmark,False
+1979-05-09,Malaysia,Korea DPR,1,1,AFC Asian Cup qualification,Bangkok,Thailand,True
+1979-05-09,Norway,Portugal,0,1,UEFA Euro qualification,Oslo,Norway,False
+1979-05-11,Malaysia,Hong Kong,0,0,AFC Asian Cup qualification,Bangkok,Thailand,True
+1979-05-12,Thailand,Korea DPR,0,1,AFC Asian Cup qualification,Bangkok,Thailand,False
+1979-05-13,Cyprus,Romania,1,1,UEFA Euro qualification,Limassol,Cyprus,False
+1979-05-14,Korea DPR,Malaysia,1,0,AFC Asian Cup qualification,Bangkok,Thailand,True
+1979-05-17,Brazil,Paraguay,6,0,Friendly,Rio de Janeiro,Brazil,False
+1979-05-19,Bulgaria,Ireland,1,0,UEFA Euro qualification,Sofia,Bulgaria,False
+1979-05-19,Mozambique,Zimbabwe,0,6,Friendly,Maputo,Mozambique,False
+1979-05-19,Northern Ireland,England,0,2,British Championship,Belfast,Northern Ireland,False
+1979-05-19,Russia,Hungary,2,2,UEFA Euro qualification,Tbilisi,Soviet Union,False
+1979-05-19,Wales,Scotland,3,0,British Championship,Cardiff,Wales,False
+1979-05-22,Argentina,Netherlands,0,0,Friendly,Berne,Switzerland,True
+1979-05-22,Ireland,Germany,1,3,Friendly,Dublin,Ireland,False
+1979-05-22,Scotland,Northern Ireland,1,0,British Championship,Glasgow,Scotland,False
+1979-05-22,Switzerland,Iceland,2,0,UEFA Euro qualification,Berne,Switzerland,False
+1979-05-23,England,Wales,0,0,British Championship,London,England,False
+1979-05-24,Martinique,Trinidad and Tobago,3,1,Friendly,Fort-de-France,Martinique,False
+1979-05-26,England,Scotland,3,1,British Championship,London,England,False
+1979-05-26,Iceland,Germany,1,3,Friendly,Reykjavík,Iceland,False
+1979-05-26,Italy,Argentina,2,2,Friendly,Rome,Italy,False
+1979-05-26,Northern Ireland,Wales,1,1,British Championship,Belfast,Northern Ireland,False
+1979-05-29,Ireland,Argentina,0,0,Friendly,Dublin,Ireland,False
+1979-05-31,Brazil,Uruguay,5,1,Friendly,Rio de Janeiro,Brazil,False
+1979-05-31,Japan,Indonesia,4,0,Kirin Cup,Tokyo,Japan,False
+1979-06-01,German DR,Romania,1,0,Friendly,Berlin,German DR,False
+1979-06-02,Malta,Wales,0,2,UEFA Euro qualification,Gżira,Malta,False
+1979-06-02,Scotland,Argentina,1,3,Friendly,Glasgow,Scotland,False
+1979-06-03,Benin,Togo,0,1,Friendly,Cotonou,Benin,False
+1979-06-03,Jamaica,St. Kitts and Nevis,2,1,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1979-06-06,Bulgaria,England,0,3,UEFA Euro qualification,Sofia,Bulgaria,False
+1979-06-06,Denmark,Northern Ireland,4,0,UEFA Euro qualification,Copenhagen,Denmark,False
+1979-06-07,Norway,Scotland,0,4,UEFA Euro qualification,Oslo,Norway,False
+1979-06-07,Sweden,Luxembourg,3,0,UEFA Euro qualification,Malmö,Sweden,False
+1979-06-09,Iceland,Switzerland,1,2,UEFA Euro qualification,Reykjavík,Iceland,False
+1979-06-09,Martinique,St. Vincent and the Grenadines,0,1,CFU Caribbean Cup qualification,Fort-de-France,Martinique,False
+1979-06-10,Sweden,England,0,0,Friendly,Solna,Sweden,False
+1979-06-13,Austria,England,4,3,Friendly,Vienna,Austria,False
+1979-06-13,Chile,Ecuador,0,0,Friendly,Santiago,Chile,False
+1979-06-13,New Zealand,Australia,1,0,Friendly,Auckland,New Zealand,False
+1979-06-13,Yugoslavia,Italy,4,1,Friendly,Zagreb,Yugoslavia,False
+1979-06-16,Korea Republic,Japan,4,1,Friendly,Seoul,Korea Republic,False
+1979-06-17,St. Kitts and Nevis,Jamaica,1,2,CFU Caribbean Cup qualification,Basseterre,St. Kitts and Nevis,False
+1979-06-21,Ecuador,Chile,2,1,Friendly,Guayaquil,Ecuador,False
+1979-06-24,Ghana,Liberia,0,0,Friendly,Accra,Ghana,False
+1979-06-24,Malawi,Lesotho,1,0,Friendly,Lilongwe,Malawi,False
+1979-06-24,Zambia,Congo DR,4,1,Friendly,Lusaka,Zambia,False
+1979-06-26,Malawi,Lesotho,1,2,Friendly,Blantyre,Malawi,False
+1979-06-27,Denmark,Russia,1,2,Friendly,Copenhagen,Denmark,False
+1979-06-28,Sweden,Norway,2,0,Nordic Championship,Gothenburg,Sweden,False
+1979-06-29,Fiji,New Zealand,0,6,Friendly,Suva,Fiji,False
+1979-06-29,Japan,Thailand,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1979-06-29,Malaysia,Burma,4,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1979-06-29,Sudan,Ivory Coast,2,0,African Cup of Nations qualification,Khartoum,Sudan,False
+1979-06-30,Congo DR,Zambia,1,2,Friendly,Lubumbashi,Zaïre,False
+1979-06-30,Indonesia,Singapore,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1979-07-01,Burma,Japan,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1979-07-01,Fiji,New Zealand,0,3,Friendly,Lautoka,Fiji,False
+1979-07-03,Burma,Thailand,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1979-07-04,Finland,Russia,1,1,UEFA Euro qualification,Helsinki,Finland,False
+1979-07-05,Singapore,Thailand,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1979-07-06,Ivory Coast,Sudan,4,0,African Cup of Nations qualification,Abidjan,Ivory Coast,False
+1979-07-06,Malawi,Kenya,1,0,Friendly,Blantyre,Malawi,False
+1979-07-08,Congo DR,Togo,4,1,Friendly,Kinshasa,Zaïre,False
+1979-07-08,Indonesia,Thailand,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1979-07-08,Malawi,Kenya,0,0,Friendly,Lilongwe,Malawi,False
+1979-07-10,Bolivia,Paraguay,3,1,Copa Paz del Chaco,La Paz,Bolivia,False
+1979-07-11,Burma,Singapore,4,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1979-07-11,Chile,Uruguay,1,0,Copa Juan Pinto Durán,Santiago,Chile,False
+1979-07-11,Indonesia,Japan,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1979-07-11,Peru,Ecuador,2,1,Friendly,Lima,Peru,False
+1979-07-12,Bolivia,Paraguay,1,1,Friendly,Cochabamba,Bolivia,False
+1979-07-13,Burma,Indonesia,4,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1979-07-13,Japan,Singapore,3,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1979-07-15,Kenya,Congo DR,2,2,Friendly,Nairobi,Kenya,False
+1979-07-15,Malawi,Tanzania,2,0,Friendly,Blantyre,Malawi,False
+1979-07-17,Malawi,Tanzania,2,0,Friendly,Blantyre,Malawi,False
+1979-07-18,Bolivia,Argentina,2,1,Copa América,La Paz,Bolivia,False
+1979-07-18,Peru,Colombia,0,1,Friendly,Lima,Peru,False
+1979-07-18,Uruguay,Chile,2,1,Copa Juan Pinto Durán,Montevideo,Uruguay,False
+1979-07-19,Malawi,Tanzania,0,1,Friendly,Blantyre,Malawi,False
+1979-07-20,Kyrgyzstan,Lithuania,0,0,Friendly,Moscow,Soviet Union,True
+1979-07-21,Belarus,Armenia,3,0,Friendly,Minsk,Soviet Union,False
+1979-07-22,Georgia,Lithuania,5,0,Friendly,Moscow,Soviet Union,True
+1979-07-22,Grenada,Trinidad and Tobago,0,1,CFU Caribbean Cup qualification,St. George's,Grenada,False
+1979-07-23,Belarus,Latvia,2,1,Friendly,Minsk,Soviet Union,False
+1979-07-24,Azerbaijan,Lithuania,0,1,Friendly,Moscow,Soviet Union,True
+1979-07-25,Belarus,Russia,2,3,Friendly,Minsk,Soviet Union,False
+1979-07-25,Benin,Congo DR,0,1,Friendly,Porto-Novo,Benin,False
+1979-07-25,Colombia,Peru,1,2,Friendly,Bogotá,Colombia,False
+1979-07-26,Bolivia,Brazil,2,1,Copa América,La Paz,Bolivia,False
+1979-07-26,Liberia,Ghana,3,1,Friendly,Monrovia,Liberia,False
+1979-07-28,Benin,Congo DR,0,3,Friendly,Cotonou,Benin,False
+1979-07-28,Lithuania,Ukraine,0,2,Friendly,Moscow,Soviet Union,True
+1979-07-28,Russia,Belarus,0,0,Friendly,Moscow,Soviet Union,False
+1979-07-29,Madagascar,Tanzania,2,4,Friendly,Antananarivo,Madagascar,False
+1979-07-30,Belarus,Ukraine,0,0,Friendly,Moscow,Soviet Union,True
+1979-07-30,Russia,Lithuania,2,0,Friendly,Moscow,Soviet Union,False
+1979-08-01,Belarus,Lithuania,0,2,Friendly,Moscow,Soviet Union,True
+1979-08-01,Madagascar,Tanzania,1,0,Friendly,Antananarivo,Madagascar,False
+1979-08-01,Paraguay,Bolivia,2,0,Copa Paz del Chaco,Asunción,Paraguay,False
+1979-08-01,Venezuela,Colombia,0,0,Copa América,San Cristóbal,Venezuela,False
+1979-08-02,Brazil,Argentina,2,1,Copa América,Rio de Janeiro,Brazil,False
+1979-08-04,Belarus,Kazakhstan,0,1,Friendly,Moscow,Soviet Union,True
+1979-08-04,Trinidad and Tobago,Grenada,2,1,CFU Caribbean Cup qualification,San Fernando,Trinidad and Tobago,False
+1979-08-05,Congo DR,Guinea,3,2,African Cup of Nations qualification,Kinshasa,Zaïre,False
+1979-08-05,Russia,Lithuania,2,1,Friendly,Moscow,Soviet Union,False
+1979-08-08,Argentina,Bolivia,3,0,Copa América,Buenos Aires,Argentina,False
+1979-08-08,Ecuador,Peru,2,1,Friendly,Quito,Ecuador,False
+1979-08-08,Venezuela,Chile,1,1,Copa América,San Cristóbal,Venezuela,False
+1979-08-15,Colombia,Chile,1,0,Copa América,Bogotá,Colombia,False
+1979-08-15,Norway,Sweden,2,0,Nordic Championship,Oslo,Norway,False
+1979-08-16,Brazil,Bolivia,2,0,Copa América,São Paulo,Brazil,False
+1979-08-19,Guinea,Congo DR,3,1,African Cup of Nations qualification,Conakry,Guinea,False
+1979-08-19,Poland,Libya,5,0,Friendly,Słupsk,Poland,False
+1979-08-22,Colombia,Venezuela,4,0,Copa América,Bogotá,Colombia,False
+1979-08-23,Argentina,Brazil,2,2,Copa América,Buenos Aires,Argentina,False
+1979-08-23,Korea DPR,Japan,0,0,Friendly,P'yongyang,Korea DPR,False
+1979-08-25,Lesotho,Malawi,0,3,Friendly,Maseru,Lesotho,False
+1979-08-28,Tunisia,Malta,4,0,Friendly,Tunis,Tunisia,False
+1979-08-29,Austria,Norway,4,0,UEFA Euro qualification,Vienna,Austria,False
+1979-08-29,Chile,Venezuela,7,0,Copa América,Santiago,Chile,False
+1979-08-29,Ecuador,Paraguay,1,2,Copa América,Quito,Ecuador,False
+1979-08-29,Finland,Denmark,0,0,Nordic Championship,Mikkeli,Finland,False
+1979-08-29,Guam,Vanuatu,0,4,South Pacific Games,Suva,Fiji,True
+1979-08-29,Poland,Romania,3,0,Friendly,Warsaw,Poland,False
+1979-08-29,Solomon Islands,Wallis Islands and Futuna,6,0,South Pacific Games,Suva,Fiji,True
+1979-08-29,Tahiti,Tonga,8,0,South Pacific Games,Suva,Fiji,True
+1979-08-30,Fiji,Kiribati,24,0,South Pacific Games,Nausori,Fiji,False
+1979-08-30,Guam,New Caledonia,1,10,South Pacific Games,Suva,Fiji,True
+1979-08-30,Peru,Uruguay,2,0,Friendly,Lima,Peru,False
+1979-08-30,Tahiti,Tuvalu,18,0,South Pacific Games,Suva,Fiji,True
+1979-08-31,Kiribati,Papua New Guinea,0,13,South Pacific Games,Suva,Fiji,True
+1979-09-01,Tonga,Tuvalu,3,5,South Pacific Games,Nausori,Fiji,True
+1979-09-01,Wallis Islands and Futuna,Samoa,3,1,South Pacific Games,Nausori,Fiji,True
+1979-09-03,Fiji,Wallis Islands and Futuna,5,0,South Pacific Games,Nausori,Fiji,False
+1979-09-03,Libya,Palestine,0,0,Friendly,Tripoli,Libya,False
+1979-09-03,New Caledonia,Tuvalu,11,0,South Pacific Games,Suva,Fiji,True
+1979-09-03,Papua New Guinea,Solomon Islands,2,3,South Pacific Games,Nausori,Fiji,True
+1979-09-04,New Caledonia,Tahiti,2,3,South Pacific Games,Suva,Fiji,True
+1979-09-05,Chile,Colombia,2,0,Copa América,Santiago,Chile,False
+1979-09-05,Ecuador,Uruguay,2,1,Copa América,Quito,Ecuador,False
+1979-09-05,Guam,Samoa,4,2,South Pacific Games,Nausori,Fiji,True
+1979-09-05,Iceland,Netherlands,0,4,UEFA Euro qualification,Reykjavík,Iceland,False
+1979-09-05,Kiribati,Tuvalu,3,3,South Pacific Games,Nausori,Fiji,True
+1979-09-05,Russia,German DR,1,0,Friendly,Moscow,Soviet Union,False
+1979-09-05,Sweden,France,1,3,UEFA Euro qualification,Solna,Sweden,False
+1979-09-05,Tonga,Wallis Islands and Futuna,1,0,South Pacific Games,Nausori,Fiji,True
+1979-09-05,Vanuatu,Papua New Guinea,2,0,South Pacific Games,Nausori,Fiji,True
+1979-09-06,Guam,Tuvalu,7,2,South Pacific Games,Nausori,Fiji,True
+1979-09-06,Vanuatu,Tonga,7,1,South Pacific Games,Nausori,Fiji,True
+1979-09-07,New Caledonia,Solomon Islands,1,3,South Pacific Games,Suva,Fiji,True
+1979-09-08,Korea Republic,Sudan,8,0,Korea Cup,Seoul,Korea Republic,False
+1979-09-09,Indonesia,Thailand,0,2,Korea Cup,Seoul,Korea Republic,True
+1979-09-10,Bangladesh,Sudan,1,4,Korea Cup,Seoul,Korea Republic,True
+1979-09-11,Wales,Ireland,2,1,Friendly,Swansea,Wales,False
+1979-09-12,England,Denmark,1,0,UEFA Euro qualification,London,England,False
+1979-09-12,Germany,Argentina,2,1,Friendly,Berlin,Germany,False
+1979-09-12,Greece,Russia,1,0,UEFA Euro qualification,Athens,Greece,False
+1979-09-12,Hungary,Czechoslovakia,2,1,Friendly,Nyíregyháza,Hungary,False
+1979-09-12,Iceland,German DR,0,3,UEFA Euro qualification,Reykjavík,Iceland,False
+1979-09-12,Korea Republic,Sri Lanka,6,0,Korea Cup,Daegu,Korea Republic,False
+1979-09-12,Norway,Belgium,1,2,UEFA Euro qualification,Oslo,Norway,False
+1979-09-12,Scotland,Peru,1,1,Friendly,Glasgow,Scotland,False
+1979-09-12,Switzerland,Poland,0,2,UEFA Euro qualification,Lausanne,Switzerland,False
+1979-09-13,Paraguay,Ecuador,2,0,Copa América,Asunción,Paraguay,False
+1979-09-14,Korea Republic,Bahrain,5,1,Korea Cup,Chungju,Korea Republic,False
+1979-09-16,Korea Republic,Bangladesh,9,0,Korea Cup,Incheon,Korea Republic,False
+1979-09-16,Sri Lanka,Sudan,0,1,Korea Cup,Incheon,Korea Republic,True
+1979-09-16,Uruguay,Ecuador,2,1,Copa América,Montevideo,Uruguay,False
+1979-09-16,Yugoslavia,Argentina,4,2,Friendly,Belgrade,Yugoslavia,False
+1979-09-20,Paraguay,Uruguay,0,0,Copa América,Asunción,Paraguay,False
+1979-09-26,Austria,Hungary,3,1,Friendly,Vienna,Austria,False
+1979-09-26,Czechoslovakia,Ireland,4,1,Friendly,Prague,Czechoslovakia,False
+1979-09-26,Denmark,Finland,1,0,Nordic Championship,Copenhagen,Denmark,False
+1979-09-26,Italy,Sweden,1,0,Friendly,Florence,Italy,False
+1979-09-26,Netherlands,Belgium,1,0,Friendly,Rotterdam,Netherlands,False
+1979-09-26,Poland,German DR,1,1,UEFA Euro qualification,Chorzów,Poland,False
+1979-09-26,Spain,Portugal,1,1,Friendly,Vigo,Spain,False
+1979-09-26,Uruguay,Paraguay,2,2,Copa América,Montevideo,Uruguay,False
+1979-09-29,Haiti,Antigua and Barbuda,1,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+1979-09-29,Senegal,Nigeria,0,2,Friendly,Dakar,Senegal,False
+1979-09-29,Sierra Leone,Gambia,2,0,Friendly,Freetown,Sierra Leone,False
+1979-10-03,Bahrain,New Zealand,0,2,Friendly,Isa Town,Bahrain,False
+1979-10-07,Bermuda,USA,1,3,Friendly,Hamilton,Bermuda,False
+1979-10-08,Bahrain,New Zealand,1,2,Friendly,Isa Town,Bahrain,False
+1979-10-10,Czechoslovakia,Sweden,4,1,UEFA Euro qualification,Prague,Czechoslovakia,False
+1979-10-10,France,USA,3,0,Friendly,Paris,France,False
+1979-10-10,Peru,Paraguay,2,3,Friendly,Lima,Peru,False
+1979-10-10,Poland,Iceland,2,0,UEFA Euro qualification,Cracow,Poland,False
+1979-10-10,Spain,Yugoslavia,0,1,UEFA Euro qualification,Valencia,Spain,False
+1979-10-13,German DR,Switzerland,5,2,UEFA Euro qualification,Berlin,German DR,False
+1979-10-14,Benin,Nigeria,1,1,Friendly,Cotonou,Benin,False
+1979-10-14,Russia,Romania,3,1,Friendly,Moscow,Soviet Union,False
+1979-10-15,Antigua and Barbuda,Haiti,1,2,CFU Caribbean Cup qualification,St. John's,Antigua and Barbuda,False
+1979-10-17,Belgium,Portugal,2,0,UEFA Euro qualification,Brussels,Belgium,False
+1979-10-17,Germany,Wales,5,1,UEFA Euro qualification,Cologne,Germany,False
+1979-10-17,Hungary,Finland,3,1,UEFA Euro qualification,Debrecen,Hungary,False
+1979-10-17,Ireland,Bulgaria,3,0,UEFA Euro qualification,Dublin,Ireland,False
+1979-10-17,Netherlands,Poland,1,1,UEFA Euro qualification,Amsterdam,Netherlands,False
+1979-10-17,Northern Ireland,England,1,5,UEFA Euro qualification,Belfast,Northern Ireland,False
+1979-10-17,Peru,Chile,1,2,Copa América,Lima,Peru,False
+1979-10-17,Scotland,Austria,1,1,UEFA Euro qualification,Glasgow,Scotland,False
+1979-10-21,Benin,Burkina Faso,3,2,Friendly,Abidjan,Ivory Coast,True
+1979-10-21,Ivory Coast,Togo,3,0,Friendly,Abidjan,Ivory Coast,False
+1979-10-21,United Arab Emirates,India,0,0,Friendly,Abu Dhabi,United Arab Emirates,False
+1979-10-22,Guadeloupe,St. Vincent and the Grenadines,1,3,CFU Caribbean Cup qualification,Basse-Terre,Guadeloupe,False
+1979-10-22,St. Vincent and the Grenadines,Guadeloupe,0,0,CFU Caribbean Cup qualification,Kingstown,St. Vincent and the Grenadines,False
+1979-10-23,Luxembourg,Sweden,1,1,UEFA Euro qualification,Esch-sur-Alzette,Luxembourg,False
+1979-10-23,Togo,Burkina Faso,5,3,Friendly,Abidjan,Ivory Coast,True
+1979-10-24,Chile,Peru,0,0,Copa América,Santiago,Chile,False
+1979-10-24,Paraguay,Brazil,2,1,Copa América,Asunción,Paraguay,False
+1979-10-25,Liberia,Nigeria,2,2,Friendly,Monrovia,Liberia,False
+1979-10-26,Hungary,USA,0,2,Friendly,Budapest,Hungary,False
+1979-10-26,Ivory Coast,Benin,3,1,Friendly,Abidjan,Ivory Coast,False
+1979-10-26,Niger,Togo,2,2,Friendly,Abidjan,Ivory Coast,True
+1979-10-27,Sierra Leone,Nigeria,0,0,Friendly,Freetown,Sierra Leone,False
+1979-10-28,Benin,Niger,0,1,Friendly,Abidjan,Ivory Coast,True
+1979-10-28,Haiti,Jamaica,3,0,CFU Caribbean Cup qualification,Port-au-Prince,Haiti,False
+1979-10-28,Ivory Coast,Togo,0,1,Friendly,Abidjan,Ivory Coast,False
+1979-10-28,Malta,Turkey,1,2,UEFA Euro qualification,Gżira,Malta,False
+1979-10-29,Ireland,USA,3,2,Friendly,Dublin,Ireland,False
+1979-10-31,Brazil,Paraguay,2,2,Copa América,Rio de Janeiro,Brazil,False
+1979-10-31,Bulgaria,Denmark,3,0,UEFA Euro qualification,Sofia,Bulgaria,False
+1979-10-31,Russia,Finland,2,2,UEFA Euro qualification,Moscow,Soviet Union,False
+1979-10-31,Yugoslavia,Romania,2,1,UEFA Euro qualification,Titova Mitrovica,Yugoslavia,False
+1979-11-01,Mexico,Peru,1,0,Friendly,Monterrey,Mexico,False
+1979-11-01,Portugal,Norway,3,1,UEFA Euro qualification,Oeiras,Portugal,False
+1979-11-02,Jamaica,Haiti,0,4,CFU Caribbean Cup qualification,Kingston,Jamaica,False
+1979-11-03,Kenya,Tanzania,0,0,CECAFA Cup,Nairobi,Kenya,False
+1979-11-03,Sierra Leone,Senegal,1,0,Friendly,Freetown,Sierra Leone,False
+1979-11-04,Malawi,Zanzibar,4,0,CECAFA Cup,Mombasa,Kenya,True
+1979-11-04,Nigeria,Benin,5,0,Friendly,Lagos,Nigeria,False
+1979-11-04,Uganda,Zambia,1,2,CECAFA Cup,Nairobi,Kenya,True
+1979-11-06,Tanzania,Zambia,2,2,CECAFA Cup,Nairobi,Kenya,True
+1979-11-07,Kenya,Uganda,3,1,CECAFA Cup,Nairobi,Kenya,False
+1979-11-07,Malawi,Sudan,4,0,CECAFA Cup,Mombasa,Kenya,True
+1979-11-09,Sudan,Zanzibar,1,1,CECAFA Cup,Nairobi,Kenya,True
+1979-11-09,Tanzania,Uganda,5,3,CECAFA Cup,Nairobi,Kenya,True
+1979-11-10,Kenya,Zambia,3,1,CECAFA Cup,Nairobi,Kenya,False
+1979-11-11,Haiti,Trinidad and Tobago,1,0,CFU Caribbean Cup,Paramaribo,Suriname,True
+1979-11-12,Suriname,St. Vincent and the Grenadines,2,3,CFU Caribbean Cup,Paramaribo,Suriname,False
+1979-11-13,Malawi,Tanzania,1,1,CECAFA Cup,Mombasa,Kenya,True
+1979-11-14,Haiti,St. Vincent and the Grenadines,3,1,CFU Caribbean Cup,Paramaribo,Suriname,True
+1979-11-14,Kenya,Zanzibar,2,0,CECAFA Cup,Nairobi,Kenya,False
+1979-11-14,Malawi,Tanzania,4,0,CECAFA Cup,Nairobi,Kenya,True
+1979-11-14,Malaysia,Sweden,1,3,Friendly,Kuala Lumpur,Malaysia,False
+1979-11-14,Spain,Denmark,1,3,Friendly,Cádiz,Spain,False
+1979-11-14,Yugoslavia,Cyprus,5,0,UEFA Euro qualification,Novi Sad,Yugoslavia,False
+1979-11-15,Suriname,Trinidad and Tobago,3,0,CFU Caribbean Cup,Paramaribo,Suriname,False
+1979-11-16,Tanzania,Zanzibar,2,1,CECAFA Cup,Mombasa,Kenya,True
+1979-11-17,France,Czechoslovakia,2,1,UEFA Euro qualification,Paris,France,False
+1979-11-17,Italy,Switzerland,2,0,Friendly,Udine,Italy,False
+1979-11-17,Kenya,Malawi,2,3,CECAFA Cup,Nairobi,Kenya,False
+1979-11-17,Singapore,Sweden,0,5,Friendly,Kallang,Singapore,False
+1979-11-18,Romania,Cyprus,2,0,UEFA Euro qualification,Bucharest,Romania,False
+1979-11-18,Suriname,Haiti,0,1,CFU Caribbean Cup,Paramaribo,Suriname,False
+1979-11-21,Belgium,Scotland,2,0,UEFA Euro qualification,Brussels,Belgium,False
+1979-11-21,German DR,Netherlands,2,3,UEFA Euro qualification,Leipzig,German DR,False
+1979-11-21,Malaysia,Taiwan,0,3,Friendly,Bangkok,Thailand,True
+1979-11-21,Northern Ireland,Ireland,1,0,UEFA Euro qualification,Belfast,Northern Ireland,False
+1979-11-21,Portugal,Austria,1,2,UEFA Euro qualification,Lisbon,Portugal,False
+1979-11-21,Russia,Germany,1,3,Friendly,Tbilisi,Soviet Union,False
+1979-11-21,Turkey,Wales,1,0,UEFA Euro qualification,Izmir,Turkey,False
+1979-11-22,England,Bulgaria,2,0,UEFA Euro qualification,London,England,False
+1979-11-22,Thailand,Sri Lanka,5,1,King's Cup,Bangkok,Thailand,False
+1979-11-24,Czechoslovakia,Luxembourg,4,0,UEFA Euro qualification,Prague,Czechoslovakia,False
+1979-11-24,Thailand,Indonesia,3,0,King's Cup,Bangkok,Thailand,False
+1979-11-25,Angola,Gabon,1,0,Friendly,Luanda,Angola,False
+1979-11-26,Bermuda,Finland,0,2,Friendly,Hamilton,Bermuda,False
+1979-11-26,Indonesia,Sri Lanka,0,0,King's Cup,Bangkok,Thailand,True
+1979-11-27,Angola,Cameroon,0,1,Friendly,Luanda,Angola,False
+1979-11-28,Cameroon,Congo,1,3,Friendly,Luanda,Angola,True
+1979-11-28,Paraguay,Chile,3,0,Copa América,Asunción,Paraguay,False
+1979-11-29,Angola,Congo,0,1,Friendly,Luanda,Angola,False
+1979-11-29,Cameroon,Gabon,3,1,Friendly,Luanda,Angola,True
+1979-12-04,El Salvador,Mexico,0,2,Friendly,San Salvador,El Salvador,False
+1979-12-05,Chile,Paraguay,1,0,Copa América,Santiago,Chile,False
+1979-12-09,Cyprus,Spain,1,3,UEFA Euro qualification,Limassol,Cyprus,False
+1979-12-11,Chile,Paraguay,0,0,Copa América,Buenos Aires,Argentina,True
+1979-12-18,Mexico,El Salvador,1,1,Friendly,Texcoco,Mexico,False
+1979-12-19,Scotland,Belgium,1,3,UEFA Euro qualification,Glasgow,Scotland,False
+1979-12-22,Germany,Turkey,2,0,UEFA Euro qualification,Gelsenkirchen,Germany,False
+1979-12-26,Tunisia,Senegal,3,1,Friendly,Tunis,Tunisia,False
+1980-01-06,Sierra Leone,Ghana,2,4,Friendly,Freetown,Sierra Leone,False
+1980-01-16,Cyprus,Greece,1,1,Friendly,Nicosia,Cyprus,False
+1980-01-19,Congo,Ivory Coast,2,0,Friendly,Brazzaville,Congo,False
+1980-01-20,Congo,Ivory Coast,0,2,Friendly,Brazzaville,Congo,False
+1980-01-23,Spain,Netherlands,1,0,Friendly,Vigo,Spain,False
+1980-01-26,Nigeria,Liberia,1,0,Friendly,Lagos,Nigeria,False
+1980-01-27,Australia,Czechoslovakia,0,4,Friendly,Canberra,Australia,False
+1980-01-27,Cameroon,Ivory Coast,1,1,Friendly,Douala,Cameroon,False
+1980-01-27,Ghana,Tunisia,4,1,Friendly,Accra,Ghana,False
+1980-01-30,Ivory Coast,Tunisia,1,1,Friendly,Abidjan,Ivory Coast,False
+1980-01-30,Saudi Arabia,Korea Republic,1,3,Friendly,Jeddah,Saudi Arabia,False
+1980-02-01,Congo,Gabon,3,0,Friendly,Brazzaville,Congo,False
+1980-02-01,Saudi Arabia,Korea Republic,0,0,Friendly,Khobar,Saudi Arabia,False
+1980-02-02,Nigeria,Cameroon,0,0,Friendly,Ibadan,Nigeria,False
+1980-02-03,Australia,Czechoslovakia,0,5,Friendly,Sydney,Australia,False
+1980-02-06,England,Ireland,2,0,UEFA Euro qualification,London,England,False
+1980-02-09,Australia,Czechoslovakia,2,2,Friendly,Melbourne,Australia,False
+1980-02-09,Gambia,Guinea-Bissau,2,0,Amílcar Cabral Cup,Banjul,Gambia,False
+1980-02-10,Mali,Senegal,1,0,Amílcar Cabral Cup,Banjul,Gambia,True
+1980-02-11,Guinea-Bissau,Guinea,1,2,Amílcar Cabral Cup,Banjul,Gambia,True
+1980-02-12,Ivory Coast,Morocco,4,4,Friendly,Abidjan,Ivory Coast,False
+1980-02-12,Mali,Mauritania,0,1,Amílcar Cabral Cup,Banjul,Gambia,True
+1980-02-13,Gambia,Guinea,0,0,Amílcar Cabral Cup,Banjul,Gambia,False
+1980-02-13,Spain,German DR,0,1,Friendly,Málaga,Spain,False
+1980-02-14,Mauritania,Senegal,1,2,Amílcar Cabral Cup,Banjul,Gambia,True
+1980-02-16,Gambia,Mauritania,2,2,Amílcar Cabral Cup,Banjul,Gambia,False
+1980-02-16,Guinea,Senegal,1,2,Amílcar Cabral Cup,Banjul,Gambia,True
+1980-02-16,Italy,Romania,2,1,Friendly,Naples,Italy,False
+1980-02-17,Guinea-Bissau,Mali,2,4,Amílcar Cabral Cup,Banjul,Gambia,True
+1980-02-17,Morocco,Poland,1,0,Friendly,Marrakech,Morocco,False
+1980-02-18,Gambia,Senegal,0,1,Amílcar Cabral Cup,Banjul,Gambia,False
+1980-02-19,Fiji,New Zealand,1,1,Friendly,Suva,Fiji,False
+1980-02-21,Fiji,New Zealand,0,2,Friendly,Lautoka,Fiji,False
+1980-02-24,New Caledonia,Australia,0,8,Oceania Nations Cup,Nouméa,New Caledonia,False
+1980-02-24,Vanuatu,Papua New Guinea,3,4,Oceania Nations Cup,Nouméa,New Caledonia,True
+1980-02-25,Fiji,Solomon Islands,3,1,Oceania Nations Cup,Nouméa,New Caledonia,True
+1980-02-25,Morocco,Senegal,3,2,Friendly,Casablanca,Morocco,False
+1980-02-25,New Zealand,Tahiti,1,3,Oceania Nations Cup,Nouméa,New Caledonia,True
+1980-02-26,Australia,Papua New Guinea,11,2,Oceania Nations Cup,Nouméa,New Caledonia,True
+1980-02-26,Mexico,Korea Republic,0,1,Friendly,Los Angeles,USA,True
+1980-02-26,New Caledonia,Vanuatu,4,3,Oceania Nations Cup,Nouméa,New Caledonia,False
+1980-02-27,Belgium,Luxembourg,5,0,Friendly,Brussels,Belgium,False
+1980-02-27,Fiji,New Zealand,4,0,Oceania Nations Cup,Nouméa,New Caledonia,True
+1980-02-27,France,Greece,5,1,Friendly,Paris,France,False
+1980-02-27,Germany,Malta,8,0,UEFA Euro qualification,Bremen,Germany,False
+1980-02-27,Iraq,Poland,1,1,Friendly,Baghdad,Iraq,False
+1980-02-27,Morocco,Tunisia,0,0,Friendly,Meknès,Morocco,False
+1980-02-27,Solomon Islands,Tahiti,1,12,Oceania Nations Cup,Nouméa,New Caledonia,True
+1980-02-28,Australia,Vanuatu,1,0,Oceania Nations Cup,Nouméa,New Caledonia,True
+1980-02-28,New Caledonia,Papua New Guinea,8,0,Oceania Nations Cup,Nouméa,New Caledonia,False
+1980-02-29,Fiji,Tahiti,3,6,Oceania Nations Cup,Nouméa,New Caledonia,True
+1980-02-29,Iraq,Poland,1,0,Friendly,Baghdad,Iraq,False
+1980-02-29,New Zealand,Solomon Islands,6,1,Oceania Nations Cup,Nouméa,New Caledonia,True
+1980-03-01,Australia,Tahiti,4,2,Oceania Nations Cup,Nouméa,New Caledonia,True
+1980-03-01,New Caledonia,Fiji,2,1,Oceania Nations Cup,Nouméa,New Caledonia,False
+1980-03-04,Sierra Leone,Guinea,3,2,Friendly,Freetown,Sierra Leone,False
+1980-03-06,Honduras,Costa Rica,1,1,Friendly,Tegucigalpa,Honduras,False
+1980-03-08,Egypt,Ivory Coast,2,1,African Cup of Nations,Lagos,Nigeria,True
+1980-03-08,Kuwait,Bulgaria,1,1,Friendly,Kuwait City,Kuwait,False
+1980-03-08,Nigeria,Tanzania,3,1,African Cup of Nations,Lagos,Nigeria,False
+1980-03-09,Algeria,Ghana,0,0,African Cup of Nations,Ibadan,Nigeria,True
+1980-03-09,Guinea,Morocco,1,1,African Cup of Nations,Ibadan,Nigeria,True
+1980-03-12,Egypt,Tanzania,2,1,African Cup of Nations,Lagos,Nigeria,True
+1980-03-12,Malaysia,Saudi Arabia,3,0,Friendly,Kuala Lumpur,Malaysia,False
+1980-03-12,Nigeria,Ivory Coast,0,0,African Cup of Nations,Lagos,Nigeria,False
+1980-03-13,Algeria,Morocco,1,0,African Cup of Nations,Ibadan,Nigeria,True
+1980-03-13,Ghana,Guinea,1,0,African Cup of Nations,Ibadan,Nigeria,True
+1980-03-15,Italy,Uruguay,1,0,Friendly,Milan,Italy,False
+1980-03-15,Ivory Coast,Tanzania,1,1,African Cup of Nations,Lagos,Nigeria,True
+1980-03-15,Nigeria,Egypt,1,0,African Cup of Nations,Lagos,Nigeria,False
+1980-03-16,Algeria,Guinea,3,2,African Cup of Nations,Ibadan,Nigeria,True
+1980-03-16,Ghana,Morocco,0,1,African Cup of Nations,Ibadan,Nigeria,True
+1980-03-16,Malaysia,China,3,1,Friendly,Kuala Lumpur,Malaysia,False
+1980-03-18,Belgium,Uruguay,2,0,Friendly,Brussels,Belgium,False
+1980-03-18,Honduras,Mexico,0,1,Friendly,Tegucigalpa,Honduras,False
+1980-03-19,Algeria,Egypt,2,2,African Cup of Nations,Ibadan,Nigeria,True
+1980-03-19,Nigeria,Morocco,1,0,African Cup of Nations,Lagos,Nigeria,False
+1980-03-20,Tahiti,Vanuatu,1,0,Friendly,Papeete,French Polynesia,False
+1980-03-21,Egypt,Morocco,0,2,African Cup of Nations,Lagos,Nigeria,True
+1980-03-22,Nigeria,Algeria,3,0,African Cup of Nations,Lagos,Nigeria,False
+1980-03-22,Yugoslavia,Uruguay,2,1,Friendly,Sarajevo,Yugoslavia,False
+1980-03-26,Bulgaria,Russia,1,3,Friendly,Sofia,Bulgaria,False
+1980-03-26,Cyprus,Ireland,2,3,FIFA World Cup qualification,Nicosia,Cyprus,False
+1980-03-26,France,Netherlands,0,0,Friendly,Paris,France,False
+1980-03-26,Hungary,Poland,2,1,Friendly,Budapest,Hungary,False
+1980-03-26,Israel,Northern Ireland,0,0,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1980-03-26,Luxembourg,Uruguay,0,1,Friendly,Esch-sur-Alzette,Luxembourg,False
+1980-03-26,Scotland,Portugal,4,1,UEFA Euro qualification,Glasgow,Scotland,False
+1980-03-26,Spain,England,0,2,Friendly,Barcelona,Spain,False
+1980-03-26,Switzerland,Czechoslovakia,2,0,Friendly,Basel,Switzerland,False
+1980-03-30,Guyana,Grenada,5,2,FIFA World Cup qualification,Georgetown,Guyana,False
+1980-03-30,Yugoslavia,Romania,2,0,Balkan Cup,Belgrade,Yugoslavia,False
+1980-04-01,Switzerland,Greece,2,0,Friendly,Zürich,Switzerland,False
+1980-04-02,Belgium,Poland,2,1,Friendly,Brussels,Belgium,False
+1980-04-02,Germany,Austria,1,0,Friendly,Munich,Germany,False
+1980-04-02,Romania,German DR,2,2,Friendly,Bucharest,Romania,False
+1980-04-05,Senegal,Tunisia,0,2,Friendly,Dakar,Senegal,False
+1980-04-06,Ivory Coast,Gabon,4,1,Friendly,Abidjan,Ivory Coast,False
+1980-04-08,Mexico,Honduras,5,0,Friendly,Toluca,Mexico,False
+1980-04-13,Grenada,Guyana,2,3,FIFA World Cup qualification,St. George's,Grenada,False
+1980-04-15,Guatemala,Mexico,2,4,Friendly,Guatemala,Guatemala,False
+1980-04-16,Costa Rica,Honduras,1,1,Friendly,San José,Costa Rica,False
+1980-04-16,German DR,Greece,2,0,Friendly,Leipzig,German DR,False
+1980-04-16,Spain,Czechoslovakia,2,2,Friendly,Gijón,Spain,False
+1980-04-19,Italy,Poland,2,2,Friendly,Turin,Italy,False
+1980-04-20,Tanzania,Zambia,0,2,Friendly,Bulawayo,Zimbabwe,True
+1980-04-20,Zimbabwe,Mozambique,6,0,Friendly,Salisbury,Zimbabwe,False
+1980-04-21,Mozambique,Tanzania,0,2,Friendly,Bulawayo,Zimbabwe,True
+1980-04-21,Zimbabwe,Zambia,2,1,Friendly,Salisbury,Zimbabwe,False
+1980-04-26,Yugoslavia,Poland,2,1,Friendly,Borovo,Yugoslavia,False
+1980-04-27,Malta,Libya,0,3,Friendly,Gzira,Malta,False
+1980-04-29,Mexico,Guatemala,2,2,Friendly,Toluca,Mexico,False
+1980-04-29,Sweden,Russia,1,5,Friendly,Malmö,Sweden,False
+1980-04-30,Czechoslovakia,Hungary,1,0,Friendly,Košice,Czechoslovakia,False
+1980-04-30,Ireland,Switzerland,2,0,Friendly,Dublin,Ireland,False
+1980-04-30,Romania,Czechoslovakia,2,0,Friendly,Bucharest,Romania,False
+1980-05-01,Senegal,Guinea,1,0,Friendly,Dakar,Senegal,False
+1980-05-01,Thailand,Luxembourg,0,1,Friendly,Medan,Indonesia,True
+1980-05-04,Zambia,Malawi,1,1,Friendly,Lusaka,Zambia,False
+1980-05-07,Sweden,Denmark,0,1,Nordic Championship,Gothenburg,Sweden,False
+1980-05-08,Libya,Gambia,2,1,FIFA World Cup qualification,Tripoli,Libya,False
+1980-05-09,Korea Republic,Luxembourg,2,3,Friendly,Medan,Indonesia,True
+1980-05-09,Martinique,Guadeloupe,1,0,Friendly,Fort-de-France,Martinique,False
+1980-05-09,Panama,El Salvador,0,0,Friendly,Panama City,Panama,False
+1980-05-11,Japan,Luxembourg,1,0,Friendly,Medan,Indonesia,True
+1980-05-13,Burma,Luxembourg,2,0,Friendly,Medan,Indonesia,True
+1980-05-13,England,Argentina,3,1,Friendly,London,England,False
+1980-05-13,Germany,Poland,3,1,Friendly,Frankfurt am Main,Germany,False
+1980-05-13,Haiti,El Salvador,2,0,Friendly,Port-au-Prince,Haiti,False
+1980-05-14,Greece,Bulgaria,0,0,Friendly,Athens,Greece,False
+1980-05-14,Korea Republic,Luxembourg,3,0,Friendly,Medan,Indonesia,True
+1980-05-16,Ireland,Argentina,0,1,Friendly,Dublin,Ireland,False
+1980-05-16,Northern Ireland,Scotland,1,0,British Championship,Belfast,Northern Ireland,False
+1980-05-17,Wales,England,4,1,British Championship,Wrexham,Wales,False
+1980-05-18,Ethiopia,Zambia,0,0,FIFA World Cup qualification,Addis Abeba,Ethiopia,False
+1980-05-20,England,Northern Ireland,1,1,British Championship,London,England,False
+1980-05-20,Guatemala,Costa Rica,0,0,Friendly,Guatemala,Guatemala,False
+1980-05-21,Austria,Argentina,1,5,Friendly,Vienna,Austria,False
+1980-05-21,Denmark,Spain,2,2,Friendly,Copenhagen,Denmark,False
+1980-05-21,Scotland,Wales,1,0,British Championship,Glasgow,Scotland,False
+1980-05-22,Finland,Sweden,0,2,Nordic Championship,Helsinki,Finland,False
+1980-05-22,Norway,Bulgaria,1,0,Friendly,Oslo,Norway,False
+1980-05-23,Russia,France,1,0,Friendly,Moscow,Soviet Union,False
+1980-05-23,Wales,Northern Ireland,0,1,British Championship,Cardiff,Wales,False
+1980-05-24,Scotland,England,0,2,British Championship,Glasgow,Scotland,False
+1980-05-28,Poland,Scotland,1,0,Friendly,Poznań,Poland,False
+1980-05-29,Costa Rica,Guatemala,2,1,Friendly,San José,Costa Rica,False
+1980-05-31,Australia,England,1,2,Friendly,Sydney,Australia,False
+1980-05-31,Hungary,Scotland,3,1,Friendly,Budapest,Hungary,False
+1980-05-31,Sierra Leone,Algeria,2,2,FIFA World Cup qualification,Freetown,Sierra Leone,False
+1980-06-01,Macau,Hong Kong,0,2,Friendly,Macau,Macau,False
+1980-06-01,Zambia,Ethiopia,4,0,FIFA World Cup qualification,Ndola,Zambia,False
+1980-06-02,Iceland,Wales,0,4,FIFA World Cup qualification,Reykjavík,Iceland,False
+1980-06-04,Denmark,Norway,3,1,Nordic Championship,Copenhagen,Denmark,False
+1980-06-04,El Salvador,Haiti,3,0,Friendly,San Salvador,El Salvador,False
+1980-06-04,Finland,Bulgaria,0,2,FIFA World Cup qualification,Helsinki,Finland,False
+1980-06-04,Hungary,Austria,1,1,Friendly,Budapest,Hungary,False
+1980-06-06,Belgium,Romania,2,1,Friendly,Brussels,Belgium,False
+1980-06-06,Honduras,Haiti,3,1,Friendly,Tegucigalpa,Honduras,False
+1980-06-07,Zambia,Zimbabwe,2,1,Friendly,Ndola,Zambia,False
+1980-06-08,Brazil,Mexico,2,0,Friendly,Rio de Janeiro,Brazil,False
+1980-06-08,Tunisia,Morocco,0,1,Friendly,Tunis,Tunisia,False
+1980-06-08,Zambia,Zimbabwe,1,3,Friendly,Lusaka,Zambia,False
+1980-06-09,Hong Kong,Japan,1,3,Friendly,Guangzhou,China,True
+1980-06-10,Honduras,Haiti,1,0,Friendly,San Pedro Sula,Honduras,False
+1980-06-11,China,Japan,1,0,Friendly,Guangzhou,China,False
+1980-06-11,Czechoslovakia,Germany,0,1,UEFA Euro,Rome,Italy,True
+1980-06-11,Netherlands,Greece,1,0,UEFA Euro,Naples,Italy,True
+1980-06-12,Belgium,England,1,1,UEFA Euro,Turin,Italy,True
+1980-06-12,Guatemala,Haiti,1,2,Friendly,Guatemala,Guatemala,False
+1980-06-12,Italy,Spain,0,0,UEFA Euro,Milan,Italy,False
+1980-06-13,Algeria,Sierra Leone,3,1,FIFA World Cup qualification,Oran,Algeria,False
+1980-06-13,China,Hong Kong,7,0,Friendly,Guangzhou,China,False
+1980-06-13,Honduras,Panama,0,0,Friendly,Tegucigalpa,Honduras,False
+1980-06-13,Togo,Nigeria,0,1,Friendly,Lomé,Togo,False
+1980-06-14,Germany,Netherlands,3,2,UEFA Euro,Naples,Italy,True
+1980-06-14,Greece,Czechoslovakia,1,3,UEFA Euro,Rome,Italy,True
+1980-06-15,Australia,Northern Ireland,1,1,Friendly,Melbourne,Australia,False
+1980-06-15,Belgium,Spain,2,1,UEFA Euro,Milan,Italy,True
+1980-06-15,Brazil,Russia,1,2,Friendly,Rio de Janeiro,Brazil,False
+1980-06-15,Honduras,Panama,2,0,Friendly,Tegucigalpa,Honduras,False
+1980-06-15,Italy,England,1,0,UEFA Euro,Turin,Italy,False
+1980-06-15,Malawi,Zambia,2,0,Friendly,Blantyre,Malawi,False
+1980-06-17,Greece,Germany,0,0,UEFA Euro,Turin,Italy,True
+1980-06-17,Netherlands,Czechoslovakia,1,1,UEFA Euro,Milan,Italy,True
+1980-06-18,Australia,Northern Ireland,1,2,Friendly,Adelaide,Australia,False
+1980-06-18,Hong Kong,Japan,0,2,Friendly,Guangzhou,China,True
+1980-06-18,Italy,Belgium,0,0,UEFA Euro,Rome,Italy,False
+1980-06-18,Spain,England,1,2,UEFA Euro,Naples,Italy,True
+1980-06-18,Sweden,Israel,1,1,FIFA World Cup qualification,Solna,Sweden,False
+1980-06-19,Madagascar,Tanzania,2,1,Friendly,Antananarivo,Madagascar,False
+1980-06-21,Italy,Czechoslovakia,1,1,UEFA Euro,Naples,Italy,False
+1980-06-22,Belgium,Germany,1,2,UEFA Euro,Rome,Italy,True
+1980-06-22,Guinea,Lesotho,3,1,FIFA World Cup qualification,Conakry,Guinea,False
+1980-06-22,Madagascar,Tanzania,1,1,Friendly,Antananarivo,Madagascar,False
+1980-06-22,Poland,Iraq,3,0,Friendly,Warsaw,Poland,False
+1980-06-22,Senegal,Morocco,0,1,FIFA World Cup qualification,Dakar,Senegal,False
+1980-06-24,Brazil,Chile,2,1,Friendly,Belo Horizonte,Brazil,False
+1980-06-24,Congo,Guinea,1,1,Friendly,Brazzaville,Congo,False
+1980-06-24,Costa Rica,Cuba,3,0,Friendly,San José,Costa Rica,False
+1980-06-25,Congo DR,Congo,1,2,Friendly,Kinshasa,Zaïre,False
+1980-06-25,Iceland,Finland,1,1,Friendly,Reykjavík,Iceland,False
+1980-06-27,Congo DR,Gabon,1,1,Friendly,Kinshasa,Zaïre,False
+1980-06-29,Brazil,Poland,1,1,Friendly,São Paulo,Brazil,False
+1980-06-29,Cameroon,Malawi,3,0,FIFA World Cup qualification,Yaoundé,Cameroon,False
+1980-06-29,Tunisia,Nigeria,2,0,FIFA World Cup qualification,Tunis,Tunisia,False
+1980-06-29,Zambia,Kenya,5,0,Friendly,Ndola,Zambia,False
+1980-06-30,Iceland,Faroe Islands,2,1,Friendly,Akureyri,Iceland,False
+1980-07-02,Bolivia,Poland,0,1,Friendly,Santa Cruz,Bolivia,False
+1980-07-02,Faroe Islands,Greenland,6,0,Friendly,Sauðárkrókur,Iceland,True
+1980-07-02,Mauritania,Senegal,1,3,Friendly,Nouakchott,Mauritania,False
+1980-07-02,Panama,Guatemala,0,2,FIFA World Cup qualification,Panama City,Panama,False
+1980-07-03,Iceland,Greenland,4,1,Friendly,Húsavík,Iceland,False
+1980-07-05,Kenya,Tanzania,3,1,FIFA World Cup qualification,Nairobi,Kenya,False
+1980-07-06,Gambia,Libya,0,0,FIFA World Cup qualification,Banjul,Gambia,False
+1980-07-06,Lesotho,Guinea,1,1,FIFA World Cup qualification,Maseru,Lesotho,False
+1980-07-06,Malawi,Zimbabwe,0,1,Friendly,Blantyre,Malawi,False
+1980-07-06,Morocco,Senegal,0,0,FIFA World Cup qualification,Casablanca,Morocco,False
+1980-07-08,Malawi,Zimbabwe,1,1,Friendly,Blantyre,Malawi,False
+1980-07-09,Colombia,Poland,1,4,Friendly,Bogotá,Colombia,False
+1980-07-10,Fiji,Tahiti,1,1,Friendly,Suva,Fiji,False
+1980-07-12,Nigeria,Tunisia,2,0,FIFA World Cup qualification,Lagos,Nigeria,False
+1980-07-12,Russia,Denmark,2,0,Friendly,Moscow,Soviet Union,False
+1980-07-13,Congo DR,Mozambique,5,2,FIFA World Cup qualification,Kinshasa,Zaïre,False
+1980-07-14,Norway,Iceland,3,1,Friendly,Oslo,Norway,False
+1980-07-16,Guatemala,Honduras,1,1,Friendly,Guatemala,Guatemala,False
+1980-07-16,Niger,Somalia,0,0,FIFA World Cup qualification,Niamey,Niger,False
+1980-07-17,Sweden,Iceland,1,1,Friendly,Halmstad,Sweden,False
+1980-07-18,Uruguay,Peru,0,0,Friendly,Montevideo,Uruguay,False
+1980-07-19,Tanzania,Kenya,5,0,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+1980-07-20,Malawi,Cameroon,1,1,FIFA World Cup qualification,Blantyre,Malawi,False
+1980-07-27,Mozambique,Congo DR,1,2,FIFA World Cup qualification,Maputo,Mozambique,False
+1980-07-27,Somalia,Niger,1,1,FIFA World Cup qualification,Mogadishu,Somalia,False
+1980-07-30,Panama,Honduras,0,2,FIFA World Cup qualification,Panama City,Panama,False
+1980-08-01,Haiti,Trinidad and Tobago,2,0,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+1980-08-05,United Arab Emirates,Iran,0,2,Friendly,al-Ain,United Arab Emirates,False
+1980-08-07,United Arab Emirates,Iran,0,3,Friendly,Abu Dhabi,United Arab Emirates,False
+1980-08-10,Mozambique,Lesotho,6,1,African Cup of Nations qualification,Maputo,Mozambique,False
+1980-08-10,Panama,Costa Rica,1,1,FIFA World Cup qualification,Panama City,Panama,False
+1980-08-17,Cuba,Suriname,3,0,FIFA World Cup qualification,Havana,Cuba,False
+1980-08-17,Guatemala,El Salvador,1,1,Friendly,Guatemala,Guatemala,False
+1980-08-17,Trinidad and Tobago,Haiti,1,0,FIFA World Cup qualification,San Fernando,Trinidad and Tobago,False
+1980-08-20,Hungary,Sweden,2,0,Friendly,Budapest,Hungary,False
+1980-08-20,New Zealand,Mexico,4,0,Friendly,Auckland,New Zealand,False
+1980-08-21,Norway,Finland,6,1,Nordic Championship,Oslo,Norway,False
+1980-08-21,Uruguay,Chile,0,0,Friendly,Montevideo,Uruguay,False
+1980-08-23,Indonesia,Thailand,2,1,Korea Cup,Seoul,Korea Republic,True
+1980-08-23,Korea Republic,Malaysia,2,0,Korea Cup,Seoul,Korea Republic,False
+1980-08-24,Australia,Mexico,2,2,Friendly,Sydney,Australia,False
+1980-08-24,Lesotho,Mozambique,2,1,African Cup of Nations qualification,Maseru,Lesotho,False
+1980-08-24,Panama,El Salvador,1,3,FIFA World Cup qualification,Panama City,Panama,False
+1980-08-25,Bahrain,Malaysia,1,1,Korea Cup,Seoul,Korea Republic,True
+1980-08-25,Korea Republic,Indonesia,3,0,Korea Cup,Chuncheon,Korea Republic,False
+1980-08-26,Australia,Mexico,1,1,Friendly,Melbourne,Australia,False
+1980-08-26,Bolivia,Paraguay,1,1,Copa Paz del Chaco,La Paz,Bolivia,False
+1980-08-27,Bahrain,Indonesia,2,3,Korea Cup,Seoul,Korea Republic,True
+1980-08-27,Brazil,Uruguay,1,0,Friendly,Fortaleza,Brazil,False
+1980-08-27,Hungary,Russia,1,4,Friendly,Budapest,Hungary,False
+1980-08-27,Korea Republic,Thailand,4,0,Korea Cup,Daejeon,Korea Republic,False
+1980-08-27,Romania,Yugoslavia,4,1,Balkan Cup,Bucharest,Romania,False
+1980-08-27,Switzerland,Denmark,1,1,Friendly,Lausanne,Switzerland,False
+1980-08-28,Bolivia,Paraguay,1,3,Friendly,Santa Cruz,Bolivia,False
+1980-08-29,Korea Republic,Bahrain,5,0,Korea Cup,Gwangju,Korea Republic,False
+1980-08-29,Malaysia,Thailand,1,4,Korea Cup,Seoul,Korea Republic,True
+1980-08-30,Fiji,Mexico,0,2,Friendly,Suva,Fiji,False
+1980-08-30,Zimbabwe,Zambia,1,1,Friendly,Bulawayo,Zimbabwe,False
+1980-08-31,Bahrain,Thailand,0,1,Korea Cup,Seoul,Korea Republic,True
+1980-08-31,Indonesia,Malaysia,1,1,Korea Cup,Seoul,Korea Republic,True
+1980-08-31,Zimbabwe,Zambia,1,2,Friendly,Salisbury,Zimbabwe,False
+1980-09-02,Korea Republic,Indonesia,2,0,Korea Cup,Seoul,Korea Republic,False
+1980-09-02,Tahiti,Mexico,0,1,Friendly,Pirae,French Polynesia,False
+1980-09-03,Albania,Finland,2,0,FIFA World Cup qualification,Tirana,Albania,False
+1980-09-03,Iceland,Russia,1,2,FIFA World Cup qualification,Reykjavík,Iceland,False
+1980-09-07,Suriname,Cuba,0,0,FIFA World Cup qualification,Paramaribo,Suriname,False
+1980-09-09,Singapore,Korea Republic,0,2,Friendly,Kallang,Singapore,False
+1980-09-10,Bulgaria,Romania,1,2,Friendly,Varna,Bulgaria,False
+1980-09-10,England,Norway,4,0,FIFA World Cup qualification,London,England,False
+1980-09-10,Ireland,Netherlands,2,1,FIFA World Cup qualification,Dublin,Ireland,False
+1980-09-10,Luxembourg,Yugoslavia,0,5,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1980-09-10,Sweden,Scotland,0,1,FIFA World Cup qualification,Solna,Sweden,False
+1980-09-10,Switzerland,Germany,2,3,Friendly,Berne,Switzerland,False
+1980-09-12,Haiti,Curaçao,1,0,FIFA World Cup qualification,Port-au-Prince,Haiti,False
+1980-09-14,Madagascar,Mauritius,0,0,African Cup of Nations qualification,Antananarivo,Madagascar,False
+1980-09-15,Canada,New Zealand,4,0,Friendly,Vancouver,Canada,False
+1980-09-15,Kuwait,United Arab Emirates,1,1,AFC Asian Cup,Kuwait City,Kuwait,False
+1980-09-16,Korea DPR,Bangladesh,3,2,AFC Asian Cup,Kuwait City,Kuwait,True
+1980-09-16,Malaysia,Korea Republic,1,1,AFC Asian Cup,Kuwait City,Kuwait,True
+1980-09-17,Canada,New Zealand,3,0,Friendly,Edmonton,Canada,False
+1980-09-17,Iran,Syria,0,0,AFC Asian Cup,Kuwait City,Kuwait,True
+1980-09-17,Qatar,United Arab Emirates,2,1,AFC Asian Cup,Kuwait City,Kuwait,True
+1980-09-18,Argentina,Chile,2,2,Friendly,Mendoza,Argentina,False
+1980-09-18,Korea DPR,China,2,1,AFC Asian Cup,Kuwait City,Kuwait,True
+1980-09-18,Kuwait,Malaysia,3,1,AFC Asian Cup,Kuwait City,Kuwait,False
+1980-09-18,Paraguay,Bolivia,2,1,Copa Paz del Chaco,Asunción,Paraguay,False
+1980-09-19,Bangladesh,Syria,0,1,AFC Asian Cup,Kuwait City,Kuwait,True
+1980-09-19,Libya,Syria,1,1,Friendly,Tripoli,Libya,False
+1980-09-19,Qatar,Korea Republic,0,2,AFC Asian Cup,Kuwait City,Kuwait,True
+1980-09-20,China,Iran,2,2,AFC Asian Cup,Kuwait City,Kuwait,True
+1980-09-20,United Arab Emirates,Malaysia,0,2,AFC Asian Cup,Kuwait City,Kuwait,True
+1980-09-21,Kuwait,Korea Republic,0,3,AFC Asian Cup,Kuwait City,Kuwait,False
+1980-09-22,Bangladesh,Iran,0,7,AFC Asian Cup,Kuwait City,Kuwait,True
+1980-09-23,Malaysia,Qatar,1,1,AFC Asian Cup,Kuwait City,Kuwait,True
+1980-09-23,Syria,China,1,0,AFC Asian Cup,Kuwait City,Kuwait,True
+1980-09-24,Bulgaria,Sweden,2,3,Friendly,Burgas,Bulgaria,False
+1980-09-24,Finland,Austria,0,2,FIFA World Cup qualification,Helsinki,Finland,False
+1980-09-24,Hungary,Spain,2,2,Friendly,Budapest,Hungary,False
+1980-09-24,Iran,Korea DPR,3,2,AFC Asian Cup,Kuwait City,Kuwait,True
+1980-09-24,Italy,Portugal,3,1,Friendly,Genoa,Italy,False
+1980-09-24,Korea Republic,United Arab Emirates,4,1,AFC Asian Cup,Kuwait City,Kuwait,True
+1980-09-24,Norway,Romania,1,1,FIFA World Cup qualification,Oslo,Norway,False
+1980-09-24,Poland,Czechoslovakia,1,1,Friendly,Chorzów,Poland,False
+1980-09-24,Turkey,Iceland,1,3,FIFA World Cup qualification,Izmir,Turkey,False
+1980-09-25,China,Bangladesh,6,0,AFC Asian Cup,Kuwait City,Kuwait,True
+1980-09-25,Kuwait,Qatar,4,0,AFC Asian Cup,Kuwait City,Kuwait,False
+1980-09-25,Paraguay,Brazil,1,2,Friendly,Asunción,Paraguay,False
+1980-09-26,Syria,Korea DPR,1,2,AFC Asian Cup,Kuwait City,Kuwait,True
+1980-09-27,Yugoslavia,Denmark,2,1,FIFA World Cup qualification,Ljubljana,Yugoslavia,False
+1980-09-28,Guyana,Suriname,0,1,FIFA World Cup qualification,Georgetown,Guyana,False
+1980-09-28,Korea Republic,Korea DPR,2,1,AFC Asian Cup,Kuwait City,Kuwait,True
+1980-09-28,Kuwait,Iran,2,1,AFC Asian Cup,Kuwait City,Kuwait,False
+1980-09-28,Mali,Mauritania,2,0,African Cup of Nations qualification,Bamako,Mali,False
+1980-09-28,Mauritius,Madagascar,1,1,African Cup of Nations qualification,Curepipe,Mauritius,False
+1980-09-28,Turkey,Northern Cyprus,5,0,Friendly,Izmir,Turkey,False
+1980-09-29,Iran,Korea DPR,3,0,AFC Asian Cup,Kuwait City,Kuwait,True
+1980-09-30,El Salvador,Guatemala,3,2,Friendly,San Salvador,El Salvador,False
+1980-09-30,Kuwait,Korea Republic,3,0,AFC Asian Cup,Kuwait City,Kuwait,False
+1980-09-30,Northern Cyprus,Saudi Arabia,0,2,Friendly,Izmir,Turkey,True
+1980-10-01,Costa Rica,Honduras,2,3,FIFA World Cup qualification,San José,Costa Rica,False
+1980-10-01,Turkey,Libya,1,2,Friendly,Izmir,Turkey,False
+1980-10-03,Turkey,Saudi Arabia,3,0,Friendly,Izmir,Turkey,False
+1980-10-04,Libya,Saudi Arabia,2,0,Friendly,Izmir,Turkey,True
+1980-10-04,Luxembourg,USA,0,2,Friendly,Luxembourg,Luxembourg,False
+1980-10-05,El Salvador,Panama,4,1,FIFA World Cup qualification,San Salvador,El Salvador,False
+1980-10-07,Portugal,USA,1,1,Friendly,Lisbon,Portugal,False
+1980-10-08,Austria,Hungary,3,1,Friendly,Vienna,Austria,False
+1980-10-08,Czechoslovakia,German DR,0,1,Friendly,Prague,Czechoslovakia,False
+1980-10-09,Argentina,Bulgaria,2,0,Friendly,Buenos Aires,Argentina,False
+1980-10-11,Cyprus,France,0,7,FIFA World Cup qualification,Limassol,Cyprus,False
+1980-10-11,Luxembourg,Italy,0,2,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1980-10-11,Netherlands,Germany,1,1,Friendly,Eindhoven,Netherlands,False
+1980-10-12,Argentina,Poland,2,1,Friendly,Buenos Aires,Argentina,False
+1980-10-12,Cameroon,Zimbabwe,2,0,FIFA World Cup qualification,Douala,Cameroon,False
+1980-10-12,Guatemala,Costa Rica,0,0,FIFA World Cup qualification,Guatemala,Guatemala,False
+1980-10-12,Mauritania,Mali,2,1,African Cup of Nations qualification,Nouakchott,Mauritania,False
+1980-10-12,Suriname,Guyana,4,0,FIFA World Cup qualification,Paramaribo,Suriname,False
+1980-10-15,Argentina,Czechoslovakia,1,0,Friendly,Buenos Aires,Argentina,False
+1980-10-15,Denmark,Greece,0,1,FIFA World Cup qualification,Copenhagen,Denmark,False
+1980-10-15,German DR,Spain,0,0,Friendly,Leipzig,German DR,False
+1980-10-15,Ireland,Belgium,1,1,FIFA World Cup qualification,Dublin,Ireland,False
+1980-10-15,Northern Ireland,Sweden,3,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1980-10-15,Romania,England,2,1,FIFA World Cup qualification,Bucharest,Romania,False
+1980-10-15,Russia,Iceland,5,0,FIFA World Cup qualification,Moscow,Soviet Union,True
+1980-10-15,Scotland,Portugal,0,0,FIFA World Cup qualification,Glasgow,Scotland,False
+1980-10-15,Wales,Turkey,4,0,FIFA World Cup qualification,Cardiff,Wales,False
+1980-10-17,Malaysia,Burma,3,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1980-10-17,Morocco,Thailand,2,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1980-10-18,Canada,Mexico,1,1,FIFA World Cup qualification,Toronto,Canada,False
+1980-10-19,Bulgaria,Albania,2,1,FIFA World Cup qualification,Sofia,Bulgaria,False
+1980-10-20,Burma,Morocco,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1980-10-20,Malaysia,Thailand,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1980-10-21,Indonesia,New Zealand,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1980-10-22,Burma,Thailand,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1980-10-22,Trinidad and Tobago,Guyana,1,1,Friendly,Port of Spain,Trinidad and Tobago,False
+1980-10-24,Burma,New Zealand,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1980-10-24,Trinidad and Tobago,Guyana,2,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1980-10-25,Liberia,Mali,1,1,Friendly,Monrovia,Liberia,False
+1980-10-25,USA,Canada,0,0,FIFA World Cup qualification,Fort Lauderdale,USA,False
+1980-10-26,Honduras,Guatemala,0,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1980-10-26,Indonesia,Thailand,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1980-10-26,Malawi,Zimbabwe,0,1,African Cup of Nations qualification,Blantyre,Malawi,False
+1980-10-26,Morocco,New Zealand,3,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1980-10-28,France,Ireland,2,0,FIFA World Cup qualification,Paris,France,False
+1980-10-28,New Zealand,Thailand,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1980-10-29,Indonesia,Morocco,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1980-10-29,Switzerland,Norway,1,2,FIFA World Cup qualification,Berne,Switzerland,False
+1980-10-30,Brazil,Paraguay,6,0,Friendly,Goiânia,Brazil,False
+1980-10-30,Malaysia,New Zealand,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1980-10-31,Burma,Indonesia,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1980-11-01,Canada,USA,2,1,FIFA World Cup qualification,Vancouver,Canada,False
+1980-11-01,Italy,Denmark,2,0,FIFA World Cup qualification,Rome,Italy,False
+1980-11-01,Tanzania,Madagascar,0,0,Friendly,Dar es Salaam,Tanzania,False
+1980-11-01,Zambia,Angola,0,0,Friendly,Lusaka,Zambia,False
+1980-11-02,Malaysia,Morocco,1,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1980-11-02,Zambia,Angola,1,1,Friendly,Lusaka,Zambia,False
+1980-11-05,Costa Rica,Panama,2,0,FIFA World Cup qualification,San José,Costa Rica,False
+1980-11-09,Bolivia,Uruguay,1,3,Friendly,Cochabamba,Bolivia,False
+1980-11-09,Cuba,Guyana,1,0,FIFA World Cup qualification,Havana,Cuba,False
+1980-11-09,Guatemala,El Salvador,0,0,FIFA World Cup qualification,Guatemala,Guatemala,False
+1980-11-09,Honduras,Canada,2,0,Friendly,Tegucigalpa,Honduras,False
+1980-11-09,Liberia,Gambia,0,0,African Cup of Nations qualification,Monrovia,Liberia,False
+1980-11-09,Mexico,USA,5,1,FIFA World Cup qualification,Mexico City,Mexico,False
+1980-11-09,Senegal,Mauritania,3,0,Friendly,Dakar,Senegal,False
+1980-11-09,Trinidad and Tobago,Curaçao,0,0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+1980-11-09,Zimbabwe,Malawi,1,1,African Cup of Nations qualification,Salisbury,Zimbabwe,False
+1980-11-11,Greece,Australia,3,3,Friendly,Athens,Greece,False
+1980-11-11,Guatemala,Canada,0,1,Friendly,Guatemala,Guatemala,False
+1980-11-12,Ethiopia,Mozambique,3,2,Friendly,Addis Abeba,Ethiopia,False
+1980-11-12,Israel,Sweden,0,0,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1980-11-12,Peru,Uruguay,1,1,Friendly,Lima,Peru,False
+1980-11-12,Spain,Poland,1,2,Friendly,Barcelona,Spain,False
+1980-11-14,Sudan,Tanzania,0,1,CECAFA Cup,Khartoum,Sudan,False
+1980-11-15,Austria,Albania,5,0,FIFA World Cup qualification,Vienna,Austria,False
+1980-11-15,Benin,Niger,1,0,Friendly,Cotonou,Benin,False
+1980-11-15,Italy,Yugoslavia,2,0,FIFA World Cup qualification,Turin,Italy,False
+1980-11-16,Brunei,Western Australia,0,2,King's Cup,Bangkok,Thailand,True
+1980-11-16,Guatemala,Panama,5,0,FIFA World Cup qualification,Guatemala,Guatemala,False
+1980-11-16,Honduras,Costa Rica,1,1,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1980-11-16,Madagascar,Congo DR,1,1,FIFA World Cup qualification,Antananarivo,Madagascar,False
+1980-11-16,Malawi,Zanzibar,1,0,CECAFA Cup,Port Sudan,Sudan,True
+1980-11-16,Mexico,Canada,1,1,FIFA World Cup qualification,Mexico City,Mexico,False
+1980-11-16,Morocco,Zambia,2,0,FIFA World Cup qualification,Fès,Morocco,False
+1980-11-16,Zimbabwe,Cameroon,1,0,FIFA World Cup qualification,Harare,Zimbabwe,False
+1980-11-17,Senegal,Sierra Leone,2,0,African Cup of Nations qualification,Dakar,Senegal,False
+1980-11-17,Somalia,Tanzania,1,1,CECAFA Cup,Khartoum,Sudan,True
+1980-11-19,Belgium,Netherlands,1,0,FIFA World Cup qualification,Brussels,Belgium,False
+1980-11-19,Denmark,Luxembourg,4,0,FIFA World Cup qualification,Copenhagen,Denmark,False
+1980-11-19,England,Switzerland,2,1,FIFA World Cup qualification,London,England,False
+1980-11-19,German DR,Hungary,2,0,Friendly,Halle,German DR,False
+1980-11-19,Germany,France,4,1,Friendly,Hanover,Germany,False
+1980-11-19,Ireland,Cyprus,6,0,FIFA World Cup qualification,Dublin,Ireland,False
+1980-11-19,Kenya,Malawi,0,1,CECAFA Cup,Port Sudan,Sudan,True
+1980-11-19,Poland,Algeria,5,1,Friendly,Cracow,Poland,False
+1980-11-19,Portugal,Northern Ireland,1,0,FIFA World Cup qualification,Lisbon,Portugal,False
+1980-11-19,Wales,Czechoslovakia,1,0,FIFA World Cup qualification,Cardiff,Wales,False
+1980-11-20,Brunei,Singapore,0,3,King's Cup,Bangkok,Thailand,True
+1980-11-20,Sudan,Somalia,2,0,CECAFA Cup,Khartoum,Sudan,False
+1980-11-22,Kenya,Zanzibar,1,2,CECAFA Cup,Port Sudan,Sudan,True
+1980-11-22,Trinidad and Tobago,Cuba,2,2,Friendly,San Fernando,Trinidad and Tobago,False
+1980-11-23,El Salvador,Honduras,2,1,FIFA World Cup qualification,San Salvador,El Salvador,False
+1980-11-23,Gambia,Liberia,1,1,African Cup of Nations qualification,Banjul,Gambia,False
+1980-11-23,Guinea,Congo DR,2,1,Friendly,Conakry,Guinea,False
+1980-11-23,USA,Mexico,2,1,FIFA World Cup qualification,Fort Lauderdale,USA,False
+1980-11-24,Malawi,Tanzania,0,1,CECAFA Cup,Khartoum,Sudan,True
+1980-11-25,Singapore,Western Australia,1,1,King's Cup,Bangkok,Thailand,True
+1980-11-26,Costa Rica,Guatemala,0,3,FIFA World Cup qualification,San José,Costa Rica,False
+1980-11-28,Sudan,Tanzania,1,0,CECAFA Cup,Khartoum,Sudan,False
+1980-11-29,Curaçao,Trinidad and Tobago,0,0,FIFA World Cup qualification,Willemstad,Netherlands Antilles,True
+1980-11-30,Bolivia,Finland,3,0,Friendly,La Paz,Bolivia,False
+1980-11-30,Congo,Angola,0,0,African Cup of Nations qualification,Brazzaville,Congo,False
+1980-11-30,Guyana,Cuba,0,3,FIFA World Cup qualification,Linden,Guyana,False
+1980-11-30,Honduras,El Salvador,2,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1980-11-30,Sierra Leone,Senegal,1,2,African Cup of Nations qualification,Freetown,Sierra Leone,False
+1980-11-30,Zambia,Morocco,2,0,FIFA World Cup qualification,Lusaka,Zambia,False
+1980-12-02,Israel,Australia,0,1,Friendly,Beersheba,Israel,False
+1980-12-03,Bulgaria,Germany,1,3,FIFA World Cup qualification,Sofia,Bulgaria,False
+1980-12-03,Czechoslovakia,Turkey,2,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1980-12-04,Argentina,Russia,1,1,Friendly,Mar del Plata,Argentina,False
+1980-12-04,Bolivia,Finland,2,2,Friendly,Santa Cruz,Bolivia,False
+1980-12-05,Hong Kong,Australia,1,0,Friendly,So Kon Po,Hong Kong,False
+1980-12-06,Albania,Austria,0,1,FIFA World Cup qualification,Tirana,Albania,False
+1980-12-06,Greece,Italy,0,2,FIFA World Cup qualification,Athens,Greece,False
+1980-12-06,Nigeria,Tanzania,1,1,FIFA World Cup qualification,Lagos,Nigeria,False
+1980-12-07,Guatemala,Honduras,0,1,FIFA World Cup qualification,Guatemala,Guatemala,False
+1980-12-07,Indonesia,Australia,1,1,Friendly,Jakarta,Indonesia,False
+1980-12-07,Kenya,Zambia,1,1,Friendly,Kisumu,Kenya,False
+1980-12-07,Liberia,Guinea,0,0,FIFA World Cup qualification,Monrovia,Liberia,False
+1980-12-07,Mali,Togo,1,2,Friendly,Bamako,Mali,False
+1980-12-07,Malta,Poland,0,2,FIFA World Cup qualification,Gżira,Malta,False
+1980-12-08,Uruguay,Finland,6,0,Friendly,Montevideo,Uruguay,False
+1980-12-09,Mali,Togo,4,0,Friendly,Bamako,Mali,False
+1980-12-10,Costa Rica,El Salvador,0,0,FIFA World Cup qualification,San José,Costa Rica,False
+1980-12-10,Kenya,Zambia,2,0,Friendly,Nakuru,Kenya,False
+1980-12-11,Uruguay,Bolivia,5,0,Friendly,Maldonado,Uruguay,False
+1980-12-12,Algeria,Sudan,2,0,FIFA World Cup qualification,Constantine,Algeria,False
+1980-12-12,Curaçao,Haiti,1,1,FIFA World Cup qualification,Willemstad,Netherlands Antilles,True
+1980-12-12,Kenya,Zambia,2,1,Friendly,Nairobi,Kenya,False
+1980-12-12,Saudi Arabia,Indonesia,8,0,Friendly,Riyadh,Saudi Arabia,False
+1980-12-14,Honduras,Panama,5,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1980-12-14,Niger,Togo,0,1,FIFA World Cup qualification,Niamey,Niger,False
+1980-12-14,Saudi Arabia,Indonesia,3,0,Friendly,Jeddah,Saudi Arabia,False
+1980-12-16,Argentina,Switzerland,5,0,Friendly,Córdoba,Argentina,False
+1980-12-17,Portugal,Israel,3,0,FIFA World Cup qualification,Lisbon,Portugal,False
+1980-12-18,Uruguay,Switzerland,4,0,Friendly,Montevideo,Uruguay,False
+1980-12-20,Tanzania,Nigeria,0,2,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+1980-12-21,Brazil,Switzerland,2,0,Friendly,Cuiabá,Brazil,False
+1980-12-21,Congo DR,Madagascar,3,2,FIFA World Cup qualification,Kinshasa,Zaïre,False
+1980-12-21,Cyprus,Belgium,0,2,FIFA World Cup qualification,Nicosia,Cyprus,False
+1980-12-21,El Salvador,Guatemala,1,0,FIFA World Cup qualification,San Salvador,El Salvador,False
+1980-12-21,Guinea,Liberia,1,0,FIFA World Cup qualification,Conakry,Guinea,False
+1980-12-21,Hong Kong,China,0,1,FIFA World Cup qualification,So Kon Po,Hong Kong,False
+1980-12-22,Korea DPR,Macau,3,0,FIFA World Cup qualification,So Kon Po,Hong Kong,True
+1980-12-22,Singapore,Japan,0,1,FIFA World Cup qualification,So Kon Po,Hong Kong,True
+1980-12-24,China,Macau,3,0,FIFA World Cup qualification,So Kon Po,Hong Kong,True
+1980-12-24,Hong Kong,Singapore,1,1,FIFA World Cup qualification,So Kon Po,Hong Kong,False
+1980-12-26,China,Japan,1,0,FIFA World Cup qualification,So Kon Po,Hong Kong,True
+1980-12-26,Singapore,Korea DPR,0,1,FIFA World Cup qualification,So Kon Po,Hong Kong,True
+1980-12-28,Hong Kong,Korea DPR,2,2,FIFA World Cup qualification,So Kon Po,Hong Kong,False
+1980-12-28,Japan,Macau,3,0,FIFA World Cup qualification,So Kon Po,Hong Kong,True
+1980-12-28,Sudan,Algeria,1,1,FIFA World Cup qualification,Khartoum,Sudan,False
+1980-12-28,Togo,Niger,1,2,FIFA World Cup qualification,Lomé,Togo,False
+1980-12-30,Korea DPR,Japan,1,0,FIFA World Cup qualification,So Kon Po,Hong Kong,True
+1980-12-30,Uruguay,Netherlands,2,0,Mundialito,Montevideo,Uruguay,False
+1980-12-31,Hong Kong,China,0,0,FIFA World Cup qualification,So Kon Po,Hong Kong,False
+1981-01-01,Argentina,Germany,2,1,Mundialito,Montevideo,Uruguay,True
+1981-01-03,Uruguay,Italy,2,0,Mundialito,Montevideo,Uruguay,False
+1981-01-04,Argentina,Brazil,1,1,Mundialito,Montevideo,Uruguay,True
+1981-01-04,Korea DPR,China,2,4,FIFA World Cup qualification,So Kon Po,Hong Kong,True
+1981-01-06,Netherlands,Italy,1,1,Mundialito,Montevideo,Uruguay,True
+1981-01-07,Brazil,Germany,4,1,Mundialito,Montevideo,Uruguay,True
+1981-01-10,Uruguay,Brazil,2,1,Mundialito,Montevideo,Uruguay,False
+1981-01-11,Curaçao,Venezuela,3,1,Friendly,Willemstad,Netherlands Antilles,False
+1981-01-11,Tunisia,Qatar,4,0,Friendly,Tunis,Tunisia,False
+1981-01-18,Venezuela,Curaçao,1,0,Friendly,Valencia,Venezuela,False
+1981-01-20,Mexico,Bulgaria,1,1,Friendly,Mexico City,Mexico,False
+1981-01-25,Japan,Poland,0,2,Friendly,Tokyo,Japan,False
+1981-01-27,Ecuador,Bulgaria,1,3,Friendly,Quito,Ecuador,False
+1981-01-27,Japan,Poland,2,4,Friendly,Naruto,Japan,False
+1981-01-28,Greece,Luxembourg,2,0,FIFA World Cup qualification,Salonica,Greece,False
+1981-01-30,Japan,Poland,1,4,Friendly,Nagoya,Japan,False
+1981-02-01,Bolivia,Bulgaria,1,3,Friendly,La Paz,Bolivia,False
+1981-02-01,Colombia,Brazil,1,1,Friendly,Bogotá,Colombia,False
+1981-02-01,Japan,Poland,0,3,Friendly,Tokyo,Japan,False
+1981-02-02,Gambia,Guinea,1,1,Amílcar Cabral Cup,Bamako,Mali,True
+1981-02-02,Mali,Mauritania,2,0,Amílcar Cabral Cup,Bamako,Mali,False
+1981-02-03,Cape Verde,Senegal,0,1,Amílcar Cabral Cup,Bamako,Mali,True
+1981-02-04,Mali,Guinea,1,1,Amílcar Cabral Cup,Bamako,Mali,False
+1981-02-05,Guinea-Bissau,Senegal,0,1,Amílcar Cabral Cup,Bamako,Mali,True
+1981-02-06,Guinea,Mauritania,2,1,Amílcar Cabral Cup,Bamako,Mali,True
+1981-02-06,Jordan,Iraq,0,2,Friendly,Amman,Jordan,False
+1981-02-06,Mali,Gambia,4,1,Amílcar Cabral Cup,Bamako,Mali,False
+1981-02-07,Cape Verde,Guinea-Bissau,3,0,Amílcar Cabral Cup,Bamako,Mali,True
+1981-02-08,Jordan,Iraq,0,2,Friendly,Amman,Jordan,False
+1981-02-08,Malaysia,Japan,1,0,Friendly,Kuantan,Malaysia,False
+1981-02-08,Venezuela,Brazil,0,1,FIFA World Cup qualification,Caracas,Venezuela,False
+1981-02-09,Mali,Cape Verde,2,0,Amílcar Cabral Cup,Bamako,Mali,False
+1981-02-10,Guinea,Senegal,1,0,Amílcar Cabral Cup,Bamako,Mali,True
+1981-02-10,Malaysia,Japan,1,1,Friendly,Kuala Lumpur,Malaysia,False
+1981-02-11,Guinea-Bissau,Mauritania,4,3,Amílcar Cabral Cup,Bamako,Mali,True
+1981-02-11,Mexico,Korea Republic,4,0,Friendly,Mexico City,Mexico,False
+1981-02-11,Peru,Bulgaria,1,2,Friendly,Lima,Peru,False
+1981-02-12,Cape Verde,Senegal,1,5,Amílcar Cabral Cup,Bamako,Mali,True
+1981-02-13,Mali,Guinea,0,0,Amílcar Cabral Cup,Bamako,Mali,False
+1981-02-14,Ecuador,Brazil,0,6,Friendly,Quito,Ecuador,False
+1981-02-14,Oman,Jordan,0,1,Friendly,Muscat,Oman,False
+1981-02-15,Bolivia,Venezuela,3,0,FIFA World Cup qualification,La Paz,Bolivia,False
+1981-02-15,Morocco,Syria,3,0,Friendly,Fès,Morocco,False
+1981-02-16,Oman,Jordan,0,2,Friendly,Muscat,Oman,False
+1981-02-17,Singapore,Japan,0,1,Friendly,Kallang,Singapore,False
+1981-02-18,Belgium,Cyprus,3,2,FIFA World Cup qualification,Brussels,Belgium,False
+1981-02-18,Spain,France,1,0,Friendly,Madrid,Spain,False
+1981-02-19,Singapore,Japan,0,0,Friendly,Kallang,Singapore,False
+1981-02-22,Bolivia,Brazil,1,2,FIFA World Cup qualification,La Paz,Bolivia,False
+1981-02-22,Netherlands,Cyprus,3,0,FIFA World Cup qualification,Groningen,Netherlands,False
+1981-02-24,Indonesia,Japan,2,0,Friendly,Jakarta,Indonesia,False
+1981-02-24,Ireland,Wales,1,3,Friendly,Dublin,Ireland,False
+1981-02-25,Israel,Scotland,0,1,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1981-02-27,Bahrain,Jordan,1,0,Friendly,Manama,Bahrain,False
+1981-02-28,Norway,Sweden,2,4,Friendly,Lahti,Finland,True
+1981-03-01,Finland,Sweden,2,1,Friendly,Lahti,Finland,False
+1981-03-02,Tahiti,Fiji,1,0,Friendly,Papeete,French Polynesia,False
+1981-03-05,Bahrain,Tunisia,0,3,Friendly,Manama,Bahrain,False
+1981-03-08,Japan,Korea Republic,0,1,Friendly,Tokyo,Japan,False
+1981-03-08,Liberia,Togo,2,0,Friendly,Monrovia,Liberia,False
+1981-03-08,Morocco,Iraq,1,1,Friendly,Rabat,Morocco,False
+1981-03-08,Saudi Arabia,Tunisia,1,2,Friendly,Riyadh,Saudi Arabia,False
+1981-03-10,Chile,Colombia,1,0,Friendly,Santiago,Chile,False
+1981-03-10,Tahiti,Fiji,2,1,Friendly,Papeete,French Polynesia,False
+1981-03-11,Luxembourg,Greece,0,2,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1981-03-11,Saudi Arabia,Jordan,2,1,Friendly,Riyadh,Saudi Arabia,False
+1981-03-14,Brazil,Chile,2,1,Friendly,Ribeirão Preto,Brazil,False
+1981-03-15,Paraguay,Colombia,0,2,Friendly,Asunción,Paraguay,False
+1981-03-15,Venezuela,Bolivia,1,0,FIFA World Cup qualification,Caracas,Venezuela,False
+1981-03-18,Qatar,Iraq,0,1,FIFA World Cup qualification,Riyadh,Saudi Arabia,True
+1981-03-19,Colombia,Chile,1,2,Friendly,Bogotá,Colombia,False
+1981-03-19,Syria,Bahrain,0,1,FIFA World Cup qualification,Riyadh,Saudi Arabia,True
+1981-03-21,Saudi Arabia,Iraq,1,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+1981-03-22,Brazil,Bolivia,3,1,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+1981-03-22,Morocco,Liberia,3,1,African Cup of Nations qualification,Rabat,Morocco,False
+1981-03-22,Qatar,Bahrain,3,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,True
+1981-03-24,Czechoslovakia,Switzerland,0,1,Friendly,Bratislava,Czechoslovakia,False
+1981-03-24,Saudi Arabia,Syria,2,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+1981-03-25,Belgium,Ireland,1,0,FIFA World Cup qualification,Brussels,Belgium,False
+1981-03-25,England,Spain,1,2,Friendly,London,England,False
+1981-03-25,Iraq,Bahrain,2,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,True
+1981-03-25,Netherlands,France,1,0,FIFA World Cup qualification,Rotterdam,Netherlands,False
+1981-03-25,Romania,Poland,2,0,Friendly,Bucharest,Romania,False
+1981-03-25,Scotland,Northern Ireland,1,1,FIFA World Cup qualification,Glasgow,Scotland,False
+1981-03-25,Senegal,Guinea,0,1,Friendly,Dakar,Senegal,False
+1981-03-25,Turkey,Wales,0,1,FIFA World Cup qualification,Ankara,Turkey,False
+1981-03-25,Yugoslavia,Bulgaria,2,1,Friendly,Subotica,Yugoslavia,False
+1981-03-27,Qatar,Syria,2,1,FIFA World Cup qualification,Riyadh,Saudi Arabia,True
+1981-03-28,Saudi Arabia,Bahrain,1,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+1981-03-29,Brazil,Venezuela,5,0,FIFA World Cup qualification,Goiânia,Brazil,False
+1981-03-30,Iraq,Syria,2,1,FIFA World Cup qualification,Riyadh,Saudi Arabia,True
+1981-03-31,Saudi Arabia,Qatar,1,0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+1981-04-01,Albania,Germany,0,2,FIFA World Cup qualification,Tirana,Albania,False
+1981-04-01,Cameroon,Niger,2,0,Friendly,Yaoundé,Cameroon,False
+1981-04-03,Algeria,Senegal,2,0,Friendly,Oran,Algeria,False
+1981-04-04,Kenya,Egypt,3,5,African Cup of Nations qualification,Nairobi,Kenya,False
+1981-04-04,Liberia,Morocco,0,5,African Cup of Nations qualification,Monrovia,Liberia,False
+1981-04-04,Malta,German DR,1,2,FIFA World Cup qualification,Gżira,Malta,False
+1981-04-04,Nigeria,Angola,0,0,Friendly,Lagos,Nigeria,False
+1981-04-05,Cameroon,Togo,4,0,African Cup of Nations qualification,Douala,Cameroon,False
+1981-04-05,Congo DR,Mozambique,2,1,African Cup of Nations qualification,Kinshasa,Zaïre,False
+1981-04-05,Singapore,Malaysia,1,1,Friendly,Kallang,Singapore,False
+1981-04-05,Zambia,Congo,1,1,Friendly,Lusaka,Zambia,False
+1981-04-08,Israel,Romania,2,1,Friendly,Jaffa,Israel,False
+1981-04-10,Algeria,Mali,5,1,African Cup of Nations qualification,Oran,Algeria,False
+1981-04-11,Ghana,Congo,1,1,African Cup of Nations qualification,Accra,Ghana,False
+1981-04-11,Zimbabwe,Zambia,0,1,African Cup of Nations qualification,Salisbury,Zimbabwe,False
+1981-04-12,Congo DR,Cameroon,1,0,FIFA World Cup qualification,Kinshasa,Zaïre,False
+1981-04-12,Ethiopia,Kenya,0,0,Friendly,Addis Abeba,Ethiopia,False
+1981-04-12,Guinea,Nigeria,1,1,FIFA World Cup qualification,Conakry,Guinea,False
+1981-04-12,Tunisia,Senegal,1,0,African Cup of Nations qualification,Tunis,Tunisia,False
+1981-04-14,Togo,Congo,2,1,Friendly,Lomé,Togo,False
+1981-04-15,Cyprus,Greece,0,1,Friendly,Nicosia,Cyprus,False
+1981-04-15,Denmark,Romania,2,1,Friendly,Copenhagen,Denmark,False
+1981-04-15,Portugal,Bulgaria,1,1,Friendly,Porto,Portugal,False
+1981-04-15,Spain,Hungary,0,3,Friendly,Valencia,Spain,False
+1981-04-15,Turkey,Czechoslovakia,0,3,FIFA World Cup qualification,Istanbul,Turkey,False
+1981-04-17,Malaysia,Singapore,1,2,Friendly,Kuala Lumpur,Malaysia,False
+1981-04-18,Botswana,Malawi,2,5,Friendly,Gwelo,Zimbabwe,True
+1981-04-18,Egypt,Kenya,2,0,African Cup of Nations qualification,Cairo,Egypt,False
+1981-04-18,Lesotho,Mozambique,0,2,Friendly,Umtali,Zimbabwe,True
+1981-04-18,Swaziland,Zambia,1,6,Friendly,Bulawayo,Zimbabwe,True
+1981-04-19,Chile,Peru,3,0,Friendly,Santiago,Chile,False
+1981-04-19,Ethiopia,Sudan,1,1,Friendly,Addis Abeba,Ethiopia,False
+1981-04-19,Italy,German DR,0,0,Friendly,Udine,Italy,False
+1981-04-19,Malawi,Zambia,2,1,Friendly,Salisbury,Zimbabwe,True
+1981-04-19,Mali,Algeria,3,0,African Cup of Nations qualification,Bamako,Mali,False
+1981-04-19,Mozambique,Congo DR,3,3,African Cup of Nations qualification,Maputo,Mozambique,False
+1981-04-19,Togo,Cameroon,2,2,African Cup of Nations qualification,Lomé,Togo,False
+1981-04-20,Zimbabwe,Malawi,4,0,Friendly,Bulawayo,Zimbabwe,False
+1981-04-21,Ethiopia,Sudan,2,0,Friendly,Addis Abeba,Ethiopia,False
+1981-04-21,Korea Republic,Malaysia,2,1,FIFA World Cup qualification,Kuwait City,Kuwait,True
+1981-04-22,Kuwait,Thailand,6,0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+1981-04-24,Korea Republic,Thailand,5,1,FIFA World Cup qualification,Kuwait City,Kuwait,True
+1981-04-25,Kuwait,Malaysia,4,0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+1981-04-25,New Zealand,Australia,3,3,FIFA World Cup qualification,Auckland,New Zealand,False
+1981-04-25,Nigeria,Guinea,1,0,FIFA World Cup qualification,Lagos,Nigeria,False
+1981-04-25,Zambia,Zimbabwe,2,0,African Cup of Nations qualification,Lusaka,Zambia,False
+1981-04-26,Cameroon,Congo DR,6,1,FIFA World Cup qualification,Douala,Cameroon,False
+1981-04-26,Congo,Ghana,0,1,African Cup of Nations qualification,Brazzaville,Congo,False
+1981-04-26,Ethiopia,Rwanda,1,0,African Cup of Nations qualification,Addis Abeba,Ethiopia,False
+1981-04-26,Morocco,Egypt,1,0,FIFA World Cup qualification,Casablanca,Morocco,False
+1981-04-26,Senegal,Tunisia,0,0,African Cup of Nations qualification,Dakar,Senegal,False
+1981-04-27,Malaysia,Thailand,2,2,FIFA World Cup qualification,Kuwait City,Kuwait,True
+1981-04-28,Scotland,Israel,3,1,FIFA World Cup qualification,Glasgow,Scotland,False
+1981-04-28,Switzerland,Hungary,2,2,FIFA World Cup qualification,Lucerne,Switzerland,False
+1981-04-29,Bulgaria,Norway,1,0,Friendly,Pleven,Bulgaria,False
+1981-04-29,Chile,Uruguay,1,2,Copa Juan Pinto Durán,Santiago,Chile,False
+1981-04-29,Cyprus,Netherlands,0,1,FIFA World Cup qualification,Nicosia,Cyprus,False
+1981-04-29,England,Romania,0,0,FIFA World Cup qualification,London,England,False
+1981-04-29,France,Belgium,3,2,FIFA World Cup qualification,Paris,France,False
+1981-04-29,Germany,Austria,2,0,FIFA World Cup qualification,Hamburg,Germany,False
+1981-04-29,Ireland,Czechoslovakia,3,1,Friendly,Dublin,Ireland,False
+1981-04-29,Kuwait,Korea Republic,2,0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+1981-04-29,Northern Ireland,Portugal,1,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1981-04-29,Yugoslavia,Greece,5,1,FIFA World Cup qualification,Split,Yugoslavia,False
+1981-05-01,Algeria,Niger,4,0,FIFA World Cup qualification,Constantine,Algeria,False
+1981-05-01,Luxembourg,Denmark,1,2,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+1981-05-02,Poland,German DR,1,0,FIFA World Cup qualification,Chorzów,Poland,False
+1981-05-03,Fiji,New Zealand,0,4,FIFA World Cup qualification,Suva,Fiji,False
+1981-05-06,Liberia,Guinea,2,1,Friendly,Monrovia,Liberia,False
+1981-05-08,Egypt,Morocco,0,0,FIFA World Cup qualification,Cairo,Egypt,False
+1981-05-10,Rwanda,Ethiopia,1,0,African Cup of Nations qualification,Kigali,Rwanda,False
+1981-05-11,Indonesia,New Zealand,0,2,FIFA World Cup qualification,Jakarta,Indonesia,False
+1981-05-12,England,Brazil,0,1,Friendly,London,England,False
+1981-05-13,Bulgaria,Finland,4,0,FIFA World Cup qualification,Sofia,Bulgaria,False
+1981-05-13,Hungary,Romania,1,0,FIFA World Cup qualification,Budapest,Hungary,False
+1981-05-14,Sweden,Denmark,1,2,Nordic Championship,Malmö,Sweden,False
+1981-05-15,France,Brazil,1,3,Friendly,Paris,France,False
+1981-05-16,Australia,New Zealand,0,2,FIFA World Cup qualification,Sydney,Australia,False
+1981-05-16,Wales,Scotland,2,0,British Championship,Swansea,Wales,False
+1981-05-17,Ecuador,Paraguay,1,0,FIFA World Cup qualification,Guayaquil,Ecuador,False
+1981-05-17,Ethiopia,Yemen DPR,1,1,Friendly,Addis Abeba,Ethiopia,False
+1981-05-19,German DR,Cuba,5,0,Friendly,Senftenberg,German DR,False
+1981-05-19,Germany,Brazil,1,2,Friendly,Stuttgart,Germany,False
+1981-05-19,Scotland,Northern Ireland,2,0,British Championship,Glasgow,Scotland,False
+1981-05-20,Australia,Indonesia,2,0,FIFA World Cup qualification,Melbourne,Australia,False
+1981-05-20,England,Wales,0,0,British Championship,London,England,False
+1981-05-20,Norway,Hungary,1,2,FIFA World Cup qualification,Oslo,Norway,False
+1981-05-23,England,Scotland,0,1,British Championship,London,England,False
+1981-05-23,New Zealand,Indonesia,5,0,FIFA World Cup qualification,Auckland,New Zealand,False
+1981-05-23,Poland,Ireland,3,0,Friendly,Bydgoszcz,Poland,False
+1981-05-24,Ecuador,Chile,0,0,FIFA World Cup qualification,Guayaquil,Ecuador,False
+1981-05-24,Finland,Germany,0,4,FIFA World Cup qualification,Lahti,Finland,False
+1981-05-27,Czechoslovakia,Iceland,6,1,FIFA World Cup qualification,Bratislava,Czechoslovakia,False
+1981-05-28,Austria,Bulgaria,2,0,FIFA World Cup qualification,Vienna,Austria,False
+1981-05-30,New Zealand,Taiwan,2,0,FIFA World Cup qualification,Auckland,New Zealand,False
+1981-05-30,Switzerland,England,2,1,FIFA World Cup qualification,Basel,Switzerland,False
+1981-05-30,Wales,Russia,0,0,FIFA World Cup qualification,Wrexham,Wales,False
+1981-05-31,Fiji,Indonesia,0,0,FIFA World Cup qualification,Suva,Fiji,False
+1981-05-31,Niger,Algeria,1,0,FIFA World Cup qualification,Niamey,Niger,False
+1981-05-31,Paraguay,Ecuador,3,1,FIFA World Cup qualification,Asunción,Paraguay,False
+1981-06-01,Equatorial Guinea,São Tomé and Príncipe,1,1,Friendly,Malabo,Equatorial Guinea,False
+1981-06-02,Japan,China,0,0,Kirin Cup,Saitama,Japan,False
+1981-06-03,Denmark,Italy,3,1,FIFA World Cup qualification,Copenhagen,Denmark,False
+1981-06-03,Romania,Norway,1,0,FIFA World Cup qualification,Bucharest,Romania,False
+1981-06-03,Sweden,Northern Ireland,1,0,FIFA World Cup qualification,Solna,Sweden,False
+1981-06-06,Fiji,Taiwan,2,1,FIFA World Cup qualification,Suva,Fiji,False
+1981-06-06,Hungary,England,1,3,FIFA World Cup qualification,Budapest,Hungary,False
+1981-06-07,Paraguay,Chile,0,1,FIFA World Cup qualification,Asunción,Paraguay,False
+1981-06-07,Suriname,French Guyana,3,1,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1981-06-10,Australia,Taiwan,3,2,FIFA World Cup qualification,Adelaide,Australia,False
+1981-06-11,Haiti,El Salvador,0,0,Friendly,Port-au-Prince,Haiti,False
+1981-06-13,Haiti,El Salvador,0,0,Friendly,Port-au-Prince,Haiti,False
+1981-06-14,Chile,Ecuador,2,0,FIFA World Cup qualification,Santiago,Chile,False
+1981-06-14,Liechtenstein,Malta,1,1,Korea Cup,Daejeon,Korea Republic,True
+1981-06-15,Indonesia,Taiwan,1,0,FIFA World Cup qualification,Jakarta,Indonesia,False
+1981-06-16,Liechtenstein,Thailand,0,2,Korea Cup,Jeonju,Korea Republic,True
+1981-06-17,Austria,Finland,5,1,FIFA World Cup qualification,Linz,Austria,False
+1981-06-17,Korea Republic,Malaysia,2,0,Korea Cup,Jeonju,Korea Republic,False
+1981-06-17,Norway,Switzerland,1,1,FIFA World Cup qualification,Oslo,Norway,False
+1981-06-18,Indonesia,Malta,0,1,Korea Cup,Daegu,Korea Republic,True
+1981-06-19,Japan,Malaysia,2,0,Korea Cup,Daegu,Korea Republic,True
+1981-06-19,Malawi,Tanzania,4,1,Friendly,Blantyre,Malawi,False
+1981-06-20,Indonesia,Thailand,1,3,Korea Cup,Seoul,Korea Republic,True
+1981-06-20,Portugal,Spain,2,0,Friendly,Porto,Portugal,False
+1981-06-21,Chile,Paraguay,3,0,FIFA World Cup qualification,Santiago,Chile,False
+1981-06-21,French Guyana,Suriname,3,1,CFU Caribbean Cup qualification,Cayenne,French Guyana,False
+1981-06-21,Guadeloupe,Dominica,5,0,CFU Caribbean Cup qualification,Basse-Terre,Guadeloupe,False
+1981-06-21,Korea Republic,Japan,2,0,Korea Cup,Busan,Korea Republic,False
+1981-06-21,Malawi,Tanzania,3,1,Friendly,Lilongwe,Malawi,False
+1981-06-22,Indonesia,Liechtenstein,2,3,Korea Cup,Seoul,Korea Republic,True
+1981-06-22,Malta,Thailand,2,0,Korea Cup,Seoul,Korea Republic,True
+1981-06-23,Malawi,Tanzania,0,0,Friendly,Nchalo,Malawi,False
+1981-06-24,Hong Kong,Macau,3,1,Friendly,So Kon Po,Hong Kong,False
+1981-06-24,Sweden,Portugal,3,0,FIFA World Cup qualification,Solna,Sweden,False
+1981-06-25,Mozambique,Angola,0,1,Friendly,Maputo,Mozambique,False
+1981-06-26,Zambia,Congo DR,3,1,Friendly,Lusaka,Zambia,False
+1981-06-27,Angola,Zimbabwe,1,1,Friendly,Maputo,Mozambique,True
+1981-06-27,Liberia,Ghana,0,0,Friendly,Monrovia,Liberia,False
+1981-06-28,Guinea,Ethiopia,2,2,African Cup of Nations qualification,Conakry,Guinea,False
+1981-06-28,Venezuela,Spain,0,2,Friendly,Caracas,Venezuela,False
+1981-06-28,Zambia,Congo DR,2,2,Friendly,Lusaka,Zambia,False
+1981-07-02,Colombia,Spain,1,1,Friendly,Bogotá,Colombia,False
+1981-07-02,Finland,Norway,3,1,Nordic Championship,Helsinki,Finland,False
+1981-07-05,Barbados,Trinidad and Tobago,1,1,CFU Caribbean Cup qualification,Bridgetown,Barbados,False
+1981-07-05,Chile,Spain,1,1,Friendly,Santiago,Chile,False
+1981-07-05,Dominica,Guadeloupe,2,3,CFU Caribbean Cup qualification,Roseau,Dominica,False
+1981-07-05,St. Vincent and the Grenadines,Martinique,2,1,CFU Caribbean Cup qualification,Kingstown,St. Vincent and the Grenadines,False
+1981-07-06,Malawi,Mozambique,3,1,Friendly,Blantyre,Malawi,False
+1981-07-08,Brazil,Spain,1,0,Friendly,Salvador,Brazil,False
+1981-07-08,Mozambique,Zimbabwe,2,4,Friendly,Lilongwe,Malawi,True
+1981-07-10,Malawi,Zimbabwe,2,0,Friendly,Blantyre,Malawi,False
+1981-07-12,Kenya,Mauritius,2,1,Friendly,Saint-Paul,Réunion,True
+1981-07-12,Réunion,Madagascar,2,3,Friendly,Saint-Pierre,Réunion,False
+1981-07-13,Réunion,Madagascar,0,3,Friendly,Saint-Pierre,Réunion,False
+1981-07-14,Madagascar,Mauritius,0,0,Friendly,Saint-Pierre,Réunion,True
+1981-07-14,Réunion,Kenya,1,3,Friendly,Saint-Paul,Réunion,False
+1981-07-15,Uruguay,Chile,0,0,Copa Juan Pinto Durán,Montevideo,Uruguay,False
+1981-07-16,Benin,Congo DR,1,2,Friendly,Cotonou,Benin,False
+1981-07-17,Trinidad and Tobago,Barbados,1,1,CFU Caribbean Cup qualification,Port of Spain,Trinidad and Tobago,False
+1981-07-18,Nigeria,Burkina Faso,1,0,Friendly,Lagos,Nigeria,False
+1981-07-19,Benin,Ghana,1,2,Friendly,Cotonou,Benin,False
+1981-07-19,Kenya,Madagascar,1,0,Friendly,Saint-Paul,Réunion,True
+1981-07-19,Martinique,St. Vincent and the Grenadines,1,2,CFU Caribbean Cup qualification,Fort-de-France,Martinique,False
+1981-07-19,Réunion,Mauritius,1,2,Friendly,Saint-Pierre,Réunion,False
+1981-07-19,Suriname,French Guyana,1,0,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1981-07-22,Ghana,Congo DR,2,2,African Cup of Nations qualification,Accra,Ghana,False
+1981-07-26,Colombia,Peru,1,1,FIFA World Cup qualification,Bogotá,Colombia,False
+1981-07-26,El Salvador,Haiti,4,0,Friendly,San Salvador,El Salvador,False
+1981-07-26,Fiji,Australia,1,4,FIFA World Cup qualification,Suva,Fiji,False
+1981-07-29,Congo,Congo DR,2,2,Friendly,Brazzaville,Congo,False
+1981-07-29,Sweden,Finland,1,0,Nordic Championship,Halmstad,Sweden,False
+1981-08-01,Zimbabwe,Nigeria,2,0,Friendly,Salisbury,Zimbabwe,False
+1981-08-02,Congo DR,Ghana,1,2,African Cup of Nations qualification,Kinshasa,Zaïre,False
+1981-08-02,Guadeloupe,St. Vincent and the Grenadines,3,0,CFU Caribbean Cup qualification,Basse-Terre,Guadeloupe,False
+1981-08-02,Suriname,Trinidad and Tobago,1,1,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1981-08-03,Kenya,Nigeria,1,3,Friendly,Nairobi,Kenya,False
+1981-08-05,Peru,Chile,1,2,Friendly,Lima,Peru,False
+1981-08-06,Uganda,Burundi,2,2,Friendly,Kampala,Uganda,False
+1981-08-09,Uruguay,Colombia,3,2,FIFA World Cup qualification,Montevideo,Uruguay,False
+1981-08-10,Indonesia,Fiji,3,3,FIFA World Cup qualification,Jakarta,Indonesia,False
+1981-08-12,Finland,Denmark,1,2,Nordic Championship,Tampere,Finland,False
+1981-08-12,Norway,Nigeria,2,2,Friendly,Oslo,Norway,False
+1981-08-12,Sweden,Bulgaria,1,0,Friendly,Uddevalla,Sweden,False
+1981-08-14,Australia,Fiji,10,0,FIFA World Cup qualification,Melbourne,Australia,False
+1981-08-14,Indonesia,Philippines,3,0,Indonesia Tournament,Jakarta,Indonesia,False
+1981-08-14,Trinidad and Tobago,Suriname,3,2,CFU Caribbean Cup qualification,San Fernando,Trinidad and Tobago,False
+1981-08-16,Cameroon,Madagascar,5,1,African Cup of Nations qualification,Yaoundé,Cameroon,False
+1981-08-16,Morocco,Zambia,2,1,African Cup of Nations qualification,Rabat,Morocco,False
+1981-08-16,New Zealand,Fiji,13,0,FIFA World Cup qualification,Auckland,New Zealand,False
+1981-08-16,Peru,Colombia,2,0,FIFA World Cup qualification,Lima,Peru,False
+1981-08-16,St. Vincent and the Grenadines,Guadeloupe,3,1,CFU Caribbean Cup qualification,Kingstown,St. Vincent and the Grenadines,False
+1981-08-20,Indonesia,Korea Republic,0,1,Indonesia Tournament,Jakarta,Indonesia,False
+1981-08-22,Iceland,Nigeria,3,0,Friendly,Reykjavík,Iceland,False
+1981-08-22,Iraq,Ghana,4,0,Friendly,Baghdad,Iraq,False
+1981-08-23,Uruguay,Peru,1,2,FIFA World Cup qualification,Montevideo,Uruguay,False
+1981-08-24,Iraq,Ghana,2,2,Friendly,Baghdad,Iraq,False
+1981-08-26,Chile,Brazil,0,0,Friendly,Santiago,Chile,False
+1981-08-26,Denmark,Iceland,3,0,Friendly,Copenhagen,Denmark,False
+1981-08-30,Algeria,Burkina Faso,7,0,African Cup of Nations qualification,Oran,Algeria,False
+1981-08-30,Indonesia,Australia,1,0,FIFA World Cup qualification,Surabaya,Indonesia,False
+1981-08-30,Madagascar,Cameroon,2,1,African Cup of Nations qualification,Antananarivo,Madagascar,False
+1981-08-30,Malaysia,Japan,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1981-08-30,Zambia,Morocco,2,0,African Cup of Nations qualification,Lusaka,Zambia,False
+1981-09-01,India,New Zealand,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1981-09-01,Singapore,Thailand,1,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1981-09-01,Switzerland,Netherlands,2,1,Friendly,Zürich,Switzerland,False
+1981-09-02,Finland,Albania,2,1,FIFA World Cup qualification,Kotka,Finland,False
+1981-09-02,Indonesia,United Arab Emirates,5,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1981-09-02,Poland,Germany,0,2,Friendly,Chorzów,Poland,False
+1981-09-03,India,Japan,2,3,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1981-09-04,Korea Republic,Singapore,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1981-09-04,Malawi,Zimbabwe,1,2,Friendly,Mbabane,Swaziland,True
+1981-09-04,Malaysia,New Zealand,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1981-09-04,Swaziland,Lesotho,1,1,Friendly,Mbabane,Swaziland,False
+1981-09-05,India,United Arab Emirates,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1981-09-05,Lesotho,Malawi,1,4,Friendly,Mbabane,Swaziland,True
+1981-09-05,Swaziland,Zimbabwe,0,2,Friendly,Mbabane,Swaziland,False
+1981-09-06,Lesotho,Zimbabwe,2,5,Friendly,Mbabane,Swaziland,True
+1981-09-06,Niger,Burkina Faso,2,1,Friendly,Niamey,Niger,False
+1981-09-06,Peru,Uruguay,0,0,FIFA World Cup qualification,Lima,Peru,False
+1981-09-06,Swaziland,Malawi,0,0,Friendly,Mbabane,Swaziland,False
+1981-09-07,Indonesia,New Zealand,0,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1981-09-08,Japan,United Arab Emirates,3,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1981-09-09,Belgium,France,2,0,FIFA World Cup qualification,Brussels,Belgium,False
+1981-09-09,Czechoslovakia,Wales,2,0,FIFA World Cup qualification,Prague,Czechoslovakia,False
+1981-09-09,Denmark,Yugoslavia,1,2,FIFA World Cup qualification,Copenhagen,Denmark,False
+1981-09-09,Iceland,Turkey,2,0,FIFA World Cup qualification,Reykjavík,Iceland,False
+1981-09-09,Malaysia,Indonesia,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1981-09-09,Netherlands,Ireland,2,2,FIFA World Cup qualification,Rotterdam,Netherlands,False
+1981-09-09,Norway,England,2,1,FIFA World Cup qualification,Oslo,Norway,False
+1981-09-09,Romania,Bulgaria,1,2,Friendly,Bucharest,Romania,False
+1981-09-09,Scotland,Sweden,2,0,FIFA World Cup qualification,Glasgow,Scotland,False
+1981-09-10,Iraq,Thailand,7,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1981-09-10,New Zealand,United Arab Emirates,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1981-09-11,India,Indonesia,1,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1981-09-12,Japan,New Zealand,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1981-09-12,Malaysia,United Arab Emirates,0,1,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1981-09-13,Colombia,Uruguay,1,1,FIFA World Cup qualification,Bogotá,Colombia,False
+1981-09-13,Iraq,Korea Republic,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1981-09-13,St. Vincent and the Grenadines,Suriname,2,1,CFU Caribbean Cup qualification,Kingstown,St. Vincent and the Grenadines,False
+1981-09-14,Indonesia,Japan,0,2,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1981-09-15,Malaysia,India,2,2,Merdeka Tournament,Kuala Lumpur,Malaysia,False
+1981-09-16,Iraq,Singapore,4,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1981-09-16,Korea Republic,Thailand,1,1,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1981-09-18,Iraq,Japan,2,0,Merdeka Tournament,Kuala Lumpur,Malaysia,True
+1981-09-20,Burkina Faso,Algeria,1,1,African Cup of Nations qualification,Ouagadougou,Upper Volta,False
+1981-09-20,Venezuela,Cuba,1,0,Friendly,Barquisimeto,Venezuela,False
+1981-09-23,Austria,Spain,0,0,Friendly,Vienna,Austria,False
+1981-09-23,Denmark,Norway,2,1,Nordic Championship,Copenhagen,Denmark,False
+1981-09-23,Germany,Finland,7,1,FIFA World Cup qualification,Bochum,Germany,False
+1981-09-23,Greece,Sweden,2,1,Friendly,Salonica,Greece,False
+1981-09-23,Iceland,Czechoslovakia,1,1,FIFA World Cup qualification,Reykjavík,Iceland,False
+1981-09-23,Italy,Bulgaria,3,2,Friendly,Bologna,Italy,False
+1981-09-23,Portugal,Poland,2,0,Friendly,Lisbon,Portugal,False
+1981-09-23,Romania,Hungary,0,0,FIFA World Cup qualification,Bucharest,Romania,False
+1981-09-23,Russia,Turkey,4,0,FIFA World Cup qualification,Moscow,Soviet Union,True
+1981-09-24,China,New Zealand,0,0,FIFA World Cup qualification,Beijing,China,False
+1981-09-26,Uganda,Nigeria,1,0,Friendly,Kampala,Uganda,False
+1981-09-27,Morocco,Tunisia,2,2,Friendly,Kénitra,Morocco,False
+1981-09-27,Suriname,St. Vincent and the Grenadines,3,3,CFU Caribbean Cup qualification,Paramaribo,Suriname,False
+1981-09-30,Botswana,Zimbabwe,0,1,Friendly,Gaborone,Botswana,False
+1981-09-30,Trinidad and Tobago,Grenada,3,1,Friendly,Arima,Trinidad and Tobago,False
+1981-10-02,Trinidad and Tobago,Grenada,5,1,Friendly,San Fernando,Trinidad and Tobago,False
+1981-10-03,New Zealand,China,1,0,FIFA World Cup qualification,Auckland,New Zealand,False
+1981-10-03,Nigeria,Liberia,3,0,Friendly,Calabar,Nigeria,False
+1981-10-04,Ethiopia,Guinea,1,1,African Cup of Nations qualification,Addis Abeba,Ethiopia,False
+1981-10-07,Turkey,Russia,0,3,FIFA World Cup qualification,Izmir,Turkey,False
+1981-10-10,German DR,Poland,2,3,FIFA World Cup qualification,Leipzig,German DR,False
+1981-10-10,New Zealand,Kuwait,1,2,FIFA World Cup qualification,Auckland,New Zealand,False
+1981-10-10,Nigeria,Algeria,0,2,FIFA World Cup qualification,Lagos,Nigeria,False
+1981-10-10,Romania,Switzerland,1,2,FIFA World Cup qualification,Bucharest,Romania,False
+1981-10-12,Trinidad and Tobago,Canada,2,4,Friendly,San Fernando,Trinidad and Tobago,False
+1981-10-14,Albania,Bulgaria,0,2,FIFA World Cup qualification,Tirana,Albania,False
+1981-10-14,Austria,Germany,1,3,FIFA World Cup qualification,Vienna,Austria,False
+1981-10-14,Greece,Denmark,2,3,FIFA World Cup qualification,Salonica,Greece,False
+1981-10-14,Hungary,Switzerland,3,0,FIFA World Cup qualification,Budapest,Hungary,False
+1981-10-14,Ireland,France,3,2,FIFA World Cup qualification,Dublin,Ireland,False
+1981-10-14,Netherlands,Belgium,3,0,FIFA World Cup qualification,Rotterdam,Netherlands,False
+1981-10-14,Northern Ireland,Scotland,0,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1981-10-14,Portugal,Sweden,1,2,FIFA World Cup qualification,Lisbon,Portugal,False
+1981-10-14,Spain,Luxembourg,3,0,Friendly,Valencia,Spain,False
+1981-10-14,Wales,Iceland,2,2,FIFA World Cup qualification,Swansea,Wales,False
+1981-10-17,Saudi Arabia,Korea Republic,2,0,Friendly,Riyadh,Saudi Arabia,False
+1981-10-17,Yugoslavia,Italy,1,1,FIFA World Cup qualification,Belgrade,Yugoslavia,False
+1981-10-18,China,Kuwait,3,0,FIFA World Cup qualification,Beijing,China,False
+1981-10-19,Puerto Rico,Guadeloupe,1,1,CFU Caribbean Cup,San Juan,Puerto Rico,False
+1981-10-19,St. Vincent and the Grenadines,Trinidad and Tobago,0,2,CFU Caribbean Cup,San Juan,Puerto Rico,True
+1981-10-21,Guadeloupe,Trinidad and Tobago,0,2,CFU Caribbean Cup,San Juan,Puerto Rico,True
+1981-10-21,Puerto Rico,St. Vincent and the Grenadines,0,2,CFU Caribbean Cup,San Juan,Puerto Rico,False
+1981-10-24,Guadeloupe,St. Vincent and the Grenadines,1,3,CFU Caribbean Cup,San Juan,Puerto Rico,True
+1981-10-24,Tunisia,Malta,0,1,Friendly,Tunis,Tunisia,False
+1981-10-26,United Arab Emirates,India,2,0,Friendly,Abu Dhabi,United Arab Emirates,False
+1981-10-28,Argentina,Poland,1,2,Friendly,Buenos Aires,Argentina,False
+1981-10-28,Brazil,Bulgaria,3,0,Friendly,Porto Alegre,Brazil,False
+1981-10-28,Israel,Portugal,4,1,FIFA World Cup qualification,Ramat-Gan,Israel,False
+1981-10-28,Russia,Czechoslovakia,2,0,FIFA World Cup qualification,Tbilisi,Soviet Union,True
+1981-10-28,Saudi Arabia,Sweden,1,2,Friendly,Riyadh,Saudi Arabia,False
+1981-10-28,United Arab Emirates,India,3,1,Friendly,Sharjah,United Arab Emirates,False
+1981-10-30,Algeria,Nigeria,2,1,FIFA World Cup qualification,Constantine,Algeria,False
+1981-10-31,Burundi,Tanzania,1,2,Friendly,Bujumbura,Burundi,False
+1981-10-31,Hungary,Norway,4,1,FIFA World Cup qualification,Budapest,Hungary,False
+1981-11-01,Mexico,Cuba,4,0,FIFA World Cup qualification,Tegucigalpa,Honduras,True
+1981-11-01,Senegal,Morocco,2,0,Friendly,Dakar,Senegal,False
+1981-11-02,Burundi,Tanzania,0,1,Friendly,Bujumbura,Burundi,False
+1981-11-02,Canada,El Salvador,1,0,FIFA World Cup qualification,Tegucigalpa,Honduras,True
+1981-11-03,Honduras,Haiti,4,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1981-11-04,Saudi Arabia,Kuwait,0,1,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+1981-11-04,Trinidad and Tobago,Barbados,2,1,Friendly,Arima,Trinidad and Tobago,False
+1981-11-06,Canada,Haiti,1,1,FIFA World Cup qualification,Tegucigalpa,Honduras,True
+1981-11-06,Mexico,El Salvador,0,1,FIFA World Cup qualification,Tegucigalpa,Honduras,True
+1981-11-06,Trinidad and Tobago,Barbados,0,0,Friendly,Port of Spain,Trinidad and Tobago,False
+1981-11-08,Honduras,Cuba,2,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1981-11-08,Tunisia,Cameroon,1,1,Friendly,Tunis,Tunisia,False
+1981-11-09,Thailand,Singapore,2,1,King's Cup,Bangkok,Thailand,False
+1981-11-11,Argentina,Czechoslovakia,1,1,Friendly,Buenos Aires,Argentina,False
+1981-11-11,Bulgaria,Austria,0,0,FIFA World Cup qualification,Sofia,Bulgaria,False
+1981-11-11,Cuba,El Salvador,0,0,FIFA World Cup qualification,Tegucigalpa,Honduras,True
+1981-11-11,German DR,Malta,5,1,FIFA World Cup qualification,Jena,German DR,False
+1981-11-11,Haiti,Mexico,1,1,FIFA World Cup qualification,Tegucigalpa,Honduras,True
+1981-11-11,Malaysia,Singapore,0,1,King's Cup,Chonburi,Thailand,True
+1981-11-11,Switzerland,Romania,0,0,FIFA World Cup qualification,Berne,Switzerland,False
+1981-11-11,Thailand,Pakistan,1,0,King's Cup,Bangkok,Thailand,False
+1981-11-12,Honduras,Canada,2,1,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1981-11-12,Saudi Arabia,China,2,4,FIFA World Cup qualification,Kuala Lumpur,Malaysia,True
+1981-11-13,Malaysia,Pakistan,2,3,King's Cup,Bangkok,Thailand,True
+1981-11-14,Italy,Greece,1,1,FIFA World Cup qualification,Turin,Italy,False
+1981-11-14,Kenya,Malawi,1,0,CECAFA Cup,Dar es Salaam,Tanzania,True
+1981-11-15,Haiti,Cuba,0,2,FIFA World Cup qualification,Tegucigalpa,Honduras,True
+1981-11-15,Mexico,Canada,1,1,FIFA World Cup qualification,Tegucigalpa,Honduras,True
+1981-11-15,Morocco,Cameroon,0,2,FIFA World Cup qualification,Kenitra,Morocco,False
+1981-11-15,Poland,Malta,6,0,FIFA World Cup qualification,Wrocław,Poland,False
+1981-11-15,Sudan,Uganda,2,2,CECAFA Cup,Dodoma,Tanzania,True
+1981-11-15,Tanzania,Zanzibar,3,1,CECAFA Cup,Dodoma,Tanzania,False
+1981-11-15,Thailand,Malaysia,2,0,King's Cup,Bangkok,Thailand,False
+1981-11-16,Honduras,El Salvador,0,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1981-11-17,Kenya,Zanzibar,2,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+1981-11-17,Pakistan,Singapore,1,0,King's Cup,Bangkok,Thailand,True
+1981-11-17,Sudan,Zimbabwe,0,0,CECAFA Cup,Dodoma,Tanzania,True
+1981-11-17,Tanzania,Malawi,2,2,CECAFA Cup,Dar es Salaam,Tanzania,False
+1981-11-17,Uganda,Zambia,3,1,CECAFA Cup,Dodoma,Tanzania,True
+1981-11-18,England,Hungary,1,0,FIFA World Cup qualification,London,England,False
+1981-11-18,France,Netherlands,2,0,FIFA World Cup qualification,Paris,France,False
+1981-11-18,Germany,Albania,8,0,FIFA World Cup qualification,Dortmund,Germany,False
+1981-11-18,Northern Ireland,Israel,1,0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+1981-11-18,Poland,Spain,2,3,Friendly,Łódź,Poland,False
+1981-11-18,Portugal,Scotland,2,1,FIFA World Cup qualification,Lisbon,Portugal,False
+1981-11-18,Russia,Wales,3,0,FIFA World Cup qualification,Tbilisi,Soviet Union,True
+1981-11-19,China,Saudi Arabia,2,0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,True
+1981-11-19,El Salvador,Haiti,1,0,FIFA World Cup qualification,Tegucigalpa,Honduras,True
+1981-11-19,Zambia,Zimbabwe,1,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+1981-11-20,Malawi,Zanzibar,4,1,CECAFA Cup,Dodoma,Tanzania,True
+1981-11-20,Tanzania,Kenya,1,0,CECAFA Cup,Dodoma,Tanzania,False
+1981-11-21,Cuba,Canada,2,2,FIFA World Cup qualification,Tegucigalpa,Honduras,True
+1981-11-21,Sudan,Zambia,0,2,CECAFA Cup,Dar es Salaam,Tanzania,True
+1981-11-21,Yugoslavia,Luxembourg,5,0,FIFA World Cup qualification,Novi Sad,Yugoslavia,False
+1981-11-22,Germany,Bulgaria,4,0,FIFA World Cup qualification,Düsseldorf,Germany,False
+1981-11-22,Honduras,Mexico,0,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+1981-11-24,Kenya,Uganda,3,1,CECAFA Cup,Dar es Salaam,Tanzania,True
+1981-11-24,Tanzania,Zambia,2,1,CECAFA Cup,Dodoma,Tanzania,False
+1981-11-27,Uganda,Zambia,0,1,CECAFA Cup,Dodoma,Tanzania,True
+1981-11-28,New Zealand,Saudi Arabia,2,2,FIFA World Cup qualification,Auckland,New Zealand,False
+1981-11-28,Tanzania,Kenya,0,1,CECAFA Cup,Dar es Salaam,Tanzania,False
+1981-11-29,Cameroon,Morocco,2,1,FIFA World Cup qualification,Yaoundé,Cameroon,False
+1981-11-29,Czechoslovakia,Russia,1,1,FIFA World Cup qualification,Bratislava,Czechoslovakia,False
+1981-11-29,Greece,Yugoslavia,1,2,FIFA World Cup qualification,Piraeus,Greece,False
+1981-11-30,Kuwait,China,1,0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+1981-12-05,France,Cyprus,4,0,FIFA World Cup qualification,Paris,France,False
+1981-12-05,Italy,Luxembourg,1,0,FIFA World Cup qualification,Naples,Italy,False
+1981-12-07,Kuwait,Saudi Arabia,2,0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+1981-12-14,Kuwait,New Zealand,2,2,FIFA World Cup qualification,Kuwait City,Kuwait,False
+1981-12-16,Bulgaria,Portugal,5,2,Friendly,Haskovo,Bulgaria,False
+1981-12-16,Spain,Belgium,2,0,Friendly,Valencia,Spain,False
+1981-12-19,Saudi Arabia,New Zealand,0,5,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+1981-12-29,United Arab Emirates,Tunisia,1,4,Friendly,al-Ain,United Arab Emirates,False
+1982-01-10,China,New Zealand,1,2,FIFA World Cup qualification,Kallang,Singapore,True
+1982-01-17,Cameroon,Congo,2,1,Friendly,Yaoundé,Cameroon,False
+1982-01-17,Ethiopia,Tanzania,0,2,Friendly,Addis Abeba,Ethiopia,False
+1982-01-17,Singapore,Bahrain,2,0,Friendly,Kallang,Singapore,False
+1982-01-19,Ethiopia,Tanzania,0,0,Friendly,Addis Abeba,Ethiopia,False
+1982-01-20,Greece,Portugal,1,2,Friendly,Athens,Greece,False
+1982-01-24,Benin,Mali,2,3,Friendly,Cotonou,Benin,False
+1982-01-24,Burkina Faso,Senegal,0,0,Friendly,Bobo Dioulasso,Upper Volta,False
+1982-01-26,Brazil,German DR,3,1,Friendly,Natal,Brazil,False
+1982-01-31,Senegal,Benin,1,0,Friendly,Dakar,Senegal,False
+1982-02-05,Libya,Guinea,3,0,Friendly,Tripoli,Libya,False
+1982-02-06,Mali,Niger,2,2,Friendly,Bamako,Mali,False
+1982-02-07,Tunisia,Algeria,0,1,Friendly,Tunis,Tunisia,False
+1982-02-10,Greece,German DR,0,1,Friendly,Athens,Greece,False
+1982-02-11,Cape Verde,Gambia,2,0,Amílcar Cabral Cup,Praia,Cape Verde,False
+1982-02-11,Guinea,Senegal,1,1,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-02-11,Guinea-Bissau,Sierra Leone,1,2,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-02-11,Mali,Mauritania,4,0,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-02-11,New Zealand,Hungary,1,2,Friendly,Auckland,New Zealand,False
+1982-02-13,Benin,Ghana,0,4,West African Cup,Cotonou,Benin,False
+1982-02-13,Cape Verde,Mali,1,0,Amílcar Cabral Cup,Praia,Cape Verde,False
+1982-02-13,Gambia,Mauritania,3,1,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-02-13,Guinea,Sierra Leone,1,0,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-02-13,Guinea-Bissau,Senegal,0,1,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-02-13,Liberia,Togo,0,1,West African Cup,Cotonou,Benin,True
+1982-02-14,Ethiopia,Uganda,1,2,Friendly,Addis Abeba,Ethiopia,False
+1982-02-14,New Zealand,Hungary,1,2,Friendly,Christchurch,New Zealand,False
+1982-02-15,Benin,Niger,2,0,West African Cup,Cotonou,Benin,False
+1982-02-15,Cape Verde,Mauritania,1,2,Amílcar Cabral Cup,Praia,Cape Verde,False
+1982-02-15,Gambia,Mali,1,1,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-02-15,Ghana,Ivory Coast,5,5,West African Cup,Cotonou,Benin,True
+1982-02-15,Guinea-Bissau,Guinea,0,0,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-02-15,Liberia,Burkina Faso,1,2,West African Cup,Cotonou,Benin,True
+1982-02-15,Senegal,Sierra Leone,2,0,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-02-16,Bangladesh,Nepal,1,1,Friendly,Karachi,Pakistan,True
+1982-02-16,India,China,1,1,Nehru Cup,Calcutta,India,False
+1982-02-17,Benin,Ivory Coast,3,3,West African Cup,Cotonou,Benin,False
+1982-02-17,Cape Verde,Guinea,0,1,Amílcar Cabral Cup,Praia,Cape Verde,False
+1982-02-17,Germany,Portugal,3,1,Friendly,Hanover,Germany,False
+1982-02-17,Ghana,Niger,2,2,West African Cup,Cotonou,Benin,True
+1982-02-17,Mali,Senegal,0,1,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-02-17,Nepal,Oman,0,1,Friendly,Karachi,Pakistan,True
+1982-02-17,Togo,Burkina Faso,2,1,West African Cup,Cotonou,Benin,True
+1982-02-18,Ethiopia,Uganda,1,0,Friendly,Asmara,Ethiopia,False
+1982-02-18,India,Korea Republic,2,2,Nehru Cup,Calcutta,India,False
+1982-02-18,Zambia,Botswana,2,0,Friendly,Lusaka,Zambia,False
+1982-02-19,Bangladesh,Oman,1,3,Friendly,Karachi,Pakistan,True
+1982-02-19,Cape Verde,Mali,1,2,Amílcar Cabral Cup,Praia,Cape Verde,False
+1982-02-19,Ghana,Burkina Faso,1,0,West African Cup,Cotonou,Benin,True
+1982-02-19,Guinea,Senegal,3,0,Amílcar Cabral Cup,Praia,Cape Verde,True
+1982-02-19,Ivory Coast,Niger,1,1,West African Cup,Cotonou,Benin,True
+1982-02-19,Libya,Qatar,2,1,Friendly,Tripoli,Libya,False
+1982-02-20,Finland,Sweden,2,2,Friendly,Lahti,Finland,False
+1982-02-20,Korea Republic,Uruguay,2,2,Nehru Cup,Calcutta,India,True
+1982-02-21,Finland,Sweden,2,1,Friendly,Lahti,Finland,False
+1982-02-21,Ivory Coast,Togo,1,1,West African Cup,Cotonou,Benin,True
+1982-02-22,China,Uruguay,0,0,Nehru Cup,Calcutta,India,True
+1982-02-22,Ivory Coast,Burkina Faso,1,1,West African Cup,Cotonou,Benin,True
+1982-02-23,England,Northern Ireland,4,0,British Championship,London,England,False
+1982-02-23,France,Italy,2,0,Friendly,Paris,France,False
+1982-02-23,Ghana,Togo,2,1,West African Cup,Cotonou,Benin,True
+1982-02-24,Spain,Scotland,3,0,Friendly,Valencia,Spain,False
+1982-02-25,India,Uruguay,1,3,Nehru Cup,Calcutta,India,False
+1982-03-01,China,Korea Republic,1,1,Nehru Cup,Calcutta,India,True
+1982-03-01,United Arab Emirates,Honduras,0,1,Friendly,Abu Dhabi,United Arab Emirates,False
+1982-03-02,Iraq,German DR,0,0,Friendly,Baghdad,Iraq,False
+1982-03-03,Brazil,Czechoslovakia,1,1,Friendly,São Paulo,Brazil,False
+1982-03-03,United Arab Emirates,Honduras,0,0,Friendly,Abu Dhabi,United Arab Emirates,False
+1982-03-04,China,Uruguay,0,2,Nehru Cup,Calcutta,India,True
+1982-03-05,Cameroon,Tunisia,1,1,African Cup of Nations,Tripoli,Libya,True
+1982-03-05,Libya,Ghana,2,2,African Cup of Nations,Tripoli,Libya,False
+1982-03-06,Iran,Korea DPR,2,0,Friendly,Teheran,Iran,False
+1982-03-07,Algeria,Zambia,1,0,African Cup of Nations,Benghazi,Libya,True
+1982-03-07,Ethiopia,Nigeria,0,3,African Cup of Nations,Benghazi,Libya,True
+1982-03-07,Iraq,Korea Republic,3,0,Friendly,Baghdad,Iraq,False
+1982-03-09,Argentina,Czechoslovakia,0,0,Friendly,Mar del Plata,Argentina,False
+1982-03-09,Cameroon,Ghana,0,0,African Cup of Nations,Tripoli,Libya,True
+1982-03-09,Libya,Tunisia,2,0,African Cup of Nations,Tripoli,Libya,False
+1982-03-09,Liechtenstein,Switzerland,0,1,Friendly,Balzers,Liechtenstein,False
+1982-03-10,Algeria,Nigeria,2,1,African Cup of Nations,Benghazi,Libya,True
+1982-03-10,Ethiopia,Zambia,0,1,African Cup of Nations,Benghazi,Libya,True
+1982-03-10,Greece,Russia,0,2,Friendly,Athens,Greece,False
+1982-03-10,Iraq,Korea Republic,1,1,Friendly,Baghdad,Iraq,False
+1982-03-10,United Arab Emirates,Singapore,3,0,Friendly,Abu Dhabi,United Arab Emirates,False
+1982-03-12,Ghana,Tunisia,1,0,African Cup of Nations,Tripoli,Libya,True
+1982-03-12,Libya,Cameroon,0,0,African Cup of Nations,Tripoli,Libya,False
+1982-03-12,United Arab Emirates,Singapore,5,3,Friendly,Abu Dhabi,United Arab Emirates,False
+1982-03-13,Algeria,Ethiopia,0,0,African Cup of Nations,Benghazi,Libya,True
+1982-03-13,Nigeria,Zambia,0,3,African Cup of Nations,Benghazi,Libya,True
+1982-03-14,Kuwait,Iceland,0,0,Friendly,Kuwait City,Kuwait,False
+1982-03-16,Algeria,Ghana,2,3,African Cup of Nations,Benghazi,Libya,True
+1982-03-16,Libya,Zambia,2,1,African Cup of Nations,Tripoli,Libya,False
+1982-03-18,Algeria,Zambia,0,2,African Cup of Nations,Tripoli,Libya,True
+1982-03-19,Libya,Ghana,1,1,African Cup of Nations,Tripoli,Libya,False
+1982-03-19,United Arab Emirates,Qatar,1,0,Gulf Cup,Abu Dhabi,United Arab Emirates,False
+1982-03-20,Bahrain,Kuwait,0,2,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1982-03-20,Iraq,Oman,4,0,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1982-03-21,Brazil,Germany,1,0,Friendly,Rio de Janeiro,Brazil,False
+1982-03-21,Korea Republic,Japan,3,0,Friendly,Seoul,Korea Republic,False
+1982-03-21,Trinidad and Tobago,USA,1,2,Friendly,Port of Spain,Trinidad and Tobago,False
+1982-03-21,United Arab Emirates,Saudi Arabia,1,0,Gulf Cup,Abu Dhabi,United Arab Emirates,False
+1982-03-22,Oman,Qatar,0,3,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1982-03-23,Chile,Peru,2,1,Friendly,Santiago,Chile,False
+1982-03-23,Scotland,Netherlands,2,1,Friendly,Glasgow,Scotland,False
+1982-03-24,Argentina,Germany,1,1,Friendly,Buenos Aires,Argentina,False
+1982-03-24,Belgium,Romania,4,1,Friendly,Brussels,Belgium,False
+1982-03-24,Czechoslovakia,Greece,2,1,Friendly,Prague,Czechoslovakia,False
+1982-03-24,France,Northern Ireland,4,0,Friendly,Paris,France,False
+1982-03-24,Hungary,Austria,2,3,Friendly,Budapest,Hungary,False
+1982-03-24,Iraq,Saudi Arabia,1,1,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1982-03-24,Spain,Wales,1,1,Friendly,Valencia,Spain,False
+1982-03-24,Switzerland,Portugal,2,1,Friendly,Lugano,Switzerland,False
+1982-03-24,United Arab Emirates,Kuwait,0,2,Gulf Cup,Abu Dhabi,United Arab Emirates,False
+1982-03-25,Bahrain,Oman,4,1,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1982-03-26,Iraq,Qatar,2,1,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1982-03-26,Saudi Arabia,Kuwait,0,1,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1982-03-27,United Arab Emirates,Bahrain,2,3,Gulf Cup,Abu Dhabi,United Arab Emirates,False
+1982-03-29,Kuwait,Oman,2,0,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1982-03-29,Saudi Arabia,Qatar,1,0,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1982-03-30,Peru,Chile,1,0,Copa del Pacífico,Lima,Peru,False
+1982-03-31,Bahrain,Qatar,1,0,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1982-03-31,Saudi Arabia,Oman,3,0,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1982-04-01,Nepal,Bhutan,3,1,Friendly,Kathmandu,Nepal,False
+1982-04-02,Bahrain,Saudi Arabia,2,2,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1982-04-02,United Arab Emirates,Oman,3,1,Gulf Cup,Abu Dhabi,United Arab Emirates,False
+1982-04-04,Kuwait,Qatar,1,2,Gulf Cup,Abu Dhabi,United Arab Emirates,True
+1982-04-07,India,Thailand,1,1,Friendly,Kathmandu,Nepal,True
+1982-04-14,Argentina,Russia,1,1,Friendly,Buenos Aires,Argentina,False
+1982-04-14,Bulgaria,Romania,1,2,Friendly,Ruse,Bulgaria,False
+1982-04-14,German DR,Italy,1,0,Friendly,Leipzig,German DR,False
+1982-04-14,Germany,Czechoslovakia,2,1,Friendly,Cologne,Germany,False
+1982-04-14,Netherlands,Greece,1,0,Friendly,Eindhoven,Netherlands,False
+1982-04-18,El Salvador,Honduras,3,2,Friendly,San Salvador,El Salvador,False
+1982-04-18,Hungary,Peru,1,2,Friendly,Budapest,Hungary,False
+1982-04-19,Nepal,Thailand,1,0,Friendly,Kathmandu,Nepal,False
+1982-04-22,Honduras,El Salvador,1,1,Friendly,San Pedro Sula,Honduras,False
+1982-04-25,Algeria,Peru,1,1,Friendly,Algiers,Algeria,False
+1982-04-27,Wales,England,0,1,British Championship,Cardiff,Wales,False
+1982-04-28,Algeria,Ireland,2,0,Friendly,Algiers,Algeria,False
+1982-04-28,Austria,Czechoslovakia,2,1,Friendly,Vienna,Austria,False
+1982-04-28,Belgium,Bulgaria,2,1,Friendly,Brussels,Belgium,False
+1982-04-28,France,Peru,0,1,Friendly,Paris,France,False
+1982-04-28,Northern Ireland,Scotland,1,1,British Championship,Belfast,Northern Ireland,False
+1982-04-28,Norway,Finland,1,1,Nordic Championship,Stavanger,Norway,False
+1982-04-28,Spain,Switzerland,2,0,Friendly,Valencia,Spain,False
+1982-05-01,Cameroon,Senegal,2,1,Friendly,Douala,Cameroon,False
+1982-05-01,Romania,Cyprus,3,1,UEFA Euro qualification,Hunedoara,Romania,False
+1982-05-01,Thailand,Singapore,1,1,King's Cup,Bangkok,Thailand,False
+1982-05-02,Cameroon,Guinea,1,1,Friendly,Yaoundé,Cameroon,False
+1982-05-04,Ghana,Senegal,0,0,Friendly,Yaoundé,Cameroon,True
+1982-05-05,Argentina,Bulgaria,2,1,Friendly,Buenos Aires,Argentina,False
+1982-05-05,Brazil,Portugal,3,1,Friendly,São Luís,Brazil,False
+1982-05-05,Cameroon,Ghana,0,0,Friendly,Yaoundé,Cameroon,False
+1982-05-05,Denmark,Sweden,1,1,Nordic Championship,Copenhagen,Denmark,False
+1982-05-05,Guinea,Senegal,1,1,Friendly,Yaoundé,Cameroon,True
+1982-05-05,Korea Republic,Malaysia,5,0,King's Cup,Bangkok,Thailand,True
+1982-05-05,Nepal,Singapore,0,2,King's Cup,Bangkok,Thailand,True
+1982-05-05,Russia,German DR,1,0,Friendly,Moscow,Soviet Union,False
+1982-05-06,Philippines,Singapore,0,1,King's Cup,Bangkok,Thailand,True
+1982-05-07,Ghana,Guinea,0,0,Friendly,Yaoundé,Cameroon,True
+1982-05-08,Trinidad and Tobago,Bermuda,2,2,Friendly,Arima,Trinidad and Tobago,False
+1982-05-09,Macau,Hong Kong,1,0,Friendly,Macau,Macau,False
+1982-05-09,Thailand,Korea Republic,0,3,King's Cup,Bangkok,Thailand,False
+1982-05-12,Argentina,Romania,1,0,Friendly,Rosario,Argentina,False
+1982-05-12,Morocco,Senegal,2,1,Friendly,Casablanca,Morocco,False
+1982-05-12,Norway,Germany,2,4,Friendly,Oslo,Norway,False
+1982-05-12,Trinidad and Tobago,Bermuda,4,2,Friendly,Port of Spain,Trinidad and Tobago,False
+1982-05-13,Thailand,Singapore,1,0,King's Cup,Bangkok,Thailand,False
+1982-05-15,Barbados,Bermuda,2,1,Friendly,Bridgetown,Barbados,False
+1982-05-15,Thailand,Singapore,2,2,King's Cup,Bangkok,Thailand,False
+1982-05-17,Barbados,Bermuda,0,0,Friendly,Bridgetown,Barbados,False
+1982-05-17,Thailand,Korea Republic,0,0,King's Cup,Bangkok,Thailand,False
+1982-05-19,Austria,Denmark,1,0,Friendly,Vienna,Austria,False
+1982-05-19,Brazil,Switzerland,1,1,Friendly,Recife,Brazil,False
+1982-05-19,Sweden,German DR,2,2,Friendly,Halmstad,Sweden,False
+1982-05-21,Chile,Ireland,1,0,Friendly,Santiago,Chile,False
+1982-05-24,Scotland,Wales,1,0,British Championship,Glasgow,Scotland,False
+1982-05-25,England,Netherlands,2,0,Friendly,London,England,False
+1982-05-27,Brazil,Ireland,7,0,Friendly,Uberlândia,Brazil,False
+1982-05-27,Denmark,Belgium,1,0,Friendly,Copenhagen,Denmark,False
+1982-05-27,Wales,Northern Ireland,3,0,British Championship,Wrexham,Wales,False
+1982-05-28,Switzerland,Italy,1,1,Friendly,Geneva,Switzerland,False
+1982-05-29,Scotland,England,0,1,British Championship,Glasgow,Scotland,False
+1982-05-30,Trinidad and Tobago,Ireland,2,1,Friendly,Arima,Trinidad and Tobago,False
+1982-06-02,France,Wales,0,1,Friendly,Toulouse,France,False
+1982-06-02,Iceland,England,1,1,Friendly,Reykjavík,Iceland,False
+1982-06-02,Japan,Singapore,2,0,Kirin Cup,Hiroshima,Japan,False
+1982-06-03,Finland,England,1,4,Friendly,Helsinki,Finland,False
+1982-06-03,Sweden,Russia,1,1,Friendly,Solna,Sweden,False
+1982-06-05,Malta,Iceland,2,1,UEFA Euro qualification,Messina,Italy,True
+1982-06-06,Liechtenstein,China,2,0,Friendly,Vaduz,Liechtenstein,False
+1982-06-06,Zimbabwe,Uganda,2,1,Friendly,Bulawayo,Zimbabwe,False
+1982-06-09,Korea Republic,India,1,0,Korea Cup,Busan,Korea Republic,False
+1982-06-10,Malaysia,Thailand,1,1,Korea Cup,Busan,Korea Republic,True
+1982-06-11,Korea Republic,Bahrain,3,0,Korea Cup,Gwangju,Korea Republic,False

@@ -1,0 +1,68 @@
+date,home,away,neutral,gdf,draw,win,k,result
+1994-06-17,Germany,Bolivia,True,1,False,True,60,1.0
+1994-06-17,Spain,Korea Republic,True,0,True,False,60,0.5
+1994-06-18,Colombia,Romania,True,2,False,False,60,0.0
+1994-06-18,Italy,Ireland,True,1,False,False,60,0.0
+1994-06-18,USA,Switzerland,False,0,True,False,60,0.5
+1994-06-19,Belgium,Morocco,True,1,False,True,60,1.0
+1994-06-19,Cameroon,Sweden,True,0,True,False,60,0.5
+1994-06-19,Norway,Mexico,True,1,False,True,60,1.0
+1994-06-20,Brazil,Russia,True,2,False,True,60,1.0
+1994-06-20,Netherlands,Saudi Arabia,True,1,False,True,60,1.0
+1994-06-21,Argentina,Greece,True,4,False,True,60,1.0
+1994-06-21,Germany,Spain,True,0,True,False,60,0.5
+1994-06-21,Nigeria,Bulgaria,True,3,False,True,60,1.0
+1994-06-22,Romania,Switzerland,True,3,False,False,60,0.0
+1994-06-22,USA,Colombia,False,1,False,True,60,1.0
+1994-06-23,Italy,Norway,True,1,False,True,60,1.0
+1994-06-23,Korea Republic,Bolivia,True,0,True,False,60,0.5
+1994-06-24,Brazil,Cameroon,True,3,False,True,60,1.0
+1994-06-24,Mexico,Ireland,True,1,False,True,60,1.0
+1994-06-24,Sweden,Russia,True,2,False,True,60,1.0
+1994-06-25,Argentina,Nigeria,True,1,False,True,60,1.0
+1994-06-25,Belgium,Netherlands,True,1,False,True,60,1.0
+1994-06-25,Saudi Arabia,Morocco,True,1,False,True,60,1.0
+1994-06-26,Bulgaria,Greece,True,4,False,True,60,1.0
+1994-06-26,Latvia,Georgia,False,2,False,False,20,0.0
+1994-06-26,Switzerland,Colombia,True,2,False,False,60,0.0
+1994-06-26,USA,Romania,False,1,False,False,60,0.0
+1994-06-27,Bolivia,Spain,True,2,False,False,60,0.0
+1994-06-27,Germany,Korea Republic,True,1,False,True,60,1.0
+1994-06-28,Brazil,Sweden,True,0,True,False,60,0.5
+1994-06-28,Ireland,Norway,True,0,True,False,60,0.5
+1994-06-28,Italy,Mexico,True,0,True,False,60,0.5
+1994-06-28,Russia,Cameroon,True,5,False,True,60,1.0
+1994-06-29,Belgium,Saudi Arabia,True,1,False,False,60,0.0
+1994-06-29,Morocco,Netherlands,True,1,False,False,60,0.0
+1994-06-30,Argentina,Bulgaria,True,2,False,False,60,0.0
+1994-06-30,Greece,Nigeria,True,2,False,False,60,0.0
+1994-07-01,Botswana,Namibia,False,1,False,False,20,0.0
+1994-07-02,Germany,Belgium,True,1,False,True,60,1.0
+1994-07-02,Spain,Switzerland,True,3,False,True,60,1.0
+1994-07-03,Papua New Guinea,New Caledonia,True,1,False,True,30,1.0
+1994-07-03,Romania,Argentina,True,1,False,True,60,1.0
+1994-07-03,Saudi Arabia,Sweden,True,2,False,False,60,0.0
+1994-07-04,Fiji,New Caledonia,True,2,False,True,30,1.0
+1994-07-04,Netherlands,Ireland,True,2,False,True,60,1.0
+1994-07-04,USA,Brazil,False,1,False,False,60,0.0
+1994-07-05,Mexico,Bulgaria,True,0,True,False,60,0.5
+1994-07-05,Nigeria,Italy,True,1,False,False,60,0.0
+1994-07-05,Solomon Islands,Papua New Guinea,False,2,False,True,30,1.0
+1994-07-05,Vanuatu,New Caledonia,True,1,False,False,30,0.0
+1994-07-06,Papua New Guinea,Fiji,True,1,False,False,30,0.0
+1994-07-06,Solomon Islands,Vanuatu,False,4,False,True,30,1.0
+1994-07-07,Solomon Islands,Fiji,False,1,False,True,30,1.0
+1994-07-07,Vanuatu,Papua New Guinea,True,0,True,False,30,0.5
+1994-07-08,Japan,Ghana,False,1,False,True,20,1.0
+1994-07-08,Solomon Islands,New Caledonia,False,2,False,True,30,1.0
+1994-07-08,Vanuatu,Fiji,True,2,False,False,30,0.0
+1994-07-09,Italy,Spain,True,1,False,True,60,1.0
+1994-07-09,Netherlands,Brazil,True,1,False,False,60,0.0
+1994-07-10,Bulgaria,Germany,True,1,False,True,60,1.0
+1994-07-10,Romania,Sweden,True,0,True,False,60,0.5
+1994-07-13,Bulgaria,Italy,True,1,False,False,60,0.0
+1994-07-13,Sweden,Brazil,True,1,False,False,60,0.0
+1994-07-14,Japan,Ghana,False,1,False,True,20,1.0
+1994-07-16,Armenia,Malta,False,1,False,True,20,1.0
+1994-07-16,Sweden,Bulgaria,True,4,False,True,60,1.0
+1994-07-17,Brazil,Italy,True,0,True,False,60,0.5
